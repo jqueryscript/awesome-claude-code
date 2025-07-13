@@ -40,7 +40,6 @@ A curated list of awesome tools, integrations, extentions, plugins, frameworks, 
 ## Agents and Tools
 
   * [SuperClaude](https://github.com/NomenAK/SuperClaude): A configuration framework that enhances Claude Code with specialized commands, cognitive personas, and development methodologies.
-  * [SuperClaude](https://github.com/NomenAK/SuperClaude): A configuration framework that enhances Claude Code with specialized commands, cognitive personas, and development methodologies.
   * [claude-squad](https://github.com/smtg-ai/claude-squad): Manage multiple AI terminal agents, including Claude Code, Aider, Codex, OpenCode, and Amp.
   * [infinite-agentic-loop](https://github.com/disler/infinite-agentic-loop): An experimental project demonstrating Infinite Agentic Loop in a two-prompt system using Claude Code.
   * [claude-swarm](https://github.com/parruda/claude-swarm): Easily launch a Claude Code session connected to a swarm of Claude Code Agents.
