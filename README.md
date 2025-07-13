@@ -1,3 +1,10 @@
+<p align="center">
+  <br />
+  <img src="./Claude Code Logo.webp" alt="Claude Code">
+  <br />
+  <br />
+</p>
+
 # awesome-claude-code
 
 **Under Construction**
