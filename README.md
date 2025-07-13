@@ -15,14 +15,14 @@ A curated list of awesome tools, integrations, extentions, plugins, frameworks, 
 
 ## Table of Contents
 
-  * [Official Tools]()
-  * [Claude Code Alternatives]()
-  * [Agents and Tools]()
-  * [Extensions and Plugins]()
-  * [Configuration and Usage]()
-  * [Integrations and Proxies]()
-  * [Model Context Protocol (MCP) Servers]()
-  * [Development Kits and Frameworks]()
+  * [Official Tools](#official-tools)
+  * [Claude Code Alternatives](#claude-code-alternatives)
+  * [Agents and Tools](#agents-and-tools)
+  * [Extensions and Plugins](#extensions-and-plugins)
+  * [Configuration and Usage](#configuration-and-usage)
+  * [Integrations and Proxies](#integrations-and-proxies)
+  * [Model Context Protocol (MCP) Servers](#model-context-protocol-mcp-servers)
+  * [Development Kits and Frameworks](#development-kits-and-frameworks)
 
 -----
 
