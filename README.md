@@ -9,8 +9,6 @@
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-**Under Construction**
-
 A curated list of awesome tools, integrations, extentions, plugins, frameworks, and other resources for developers working with Anthropic's Claude Code. 
 
 ## Table of Contents
@@ -106,3 +104,7 @@ A curated list of awesome tools, integrations, extentions, plugins, frameworks, 
   * [claude-on-rails](https://github.com/obie/claude-on-rails): A development framework for Ruby on Rails developers using Claude Code, inspired by SuperClaude.
   * [claude-simone](https://github.com/Helmi/claude-simone): A project management framework for AI-assisted development with Claude Code.
   * [vibekit](https://github.com/superagent-ai/vibekit): A simple SDK for safely running Codex, Gemini CLI, and Claude Code in a secure sandbox.
+
+## Contribution Guidelines
+
+**Under Construction**
