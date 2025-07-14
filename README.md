@@ -45,6 +45,7 @@ A curated list of awesome tools, integrations, extentions, plugins, frameworks, 
   * [claude-swarm](https://github.com/parruda/claude-swarm): Easily launch a Claude Code session connected to a swarm of Claude Code Agents.
   * [async-code](https://github.com/ObservedObserver/async-code): Use Claude Code or CodeX CLI to perform multiple tasks in parallel with a Codex-style UI, functioning as a personal codex or cursor-background agent.
   * [rins_hooks](https://github.com/rinadelph/rins_hooks): Universal Claude Code hooks collection with cross-platform installer.
+  * [claude-code-is-programmable](https://github.com/disler/claude-code-is-programmable): Scale your compute with Claude Code as a programmable agentic coding tool.
 
 ## Extensions and Plugins
 
@@ -58,6 +59,7 @@ A curated list of awesome tools, integrations, extentions, plugins, frameworks, 
   * [claude-code.nvim](https://github.com/greggh/claude-code.nvim): Seamless integration between the Claude Code AI assistant and Neovim.
   * [claude-code.el](https://github.com/stevemolitor/claude-code.el): Claude Code Emacs integration.
   * [agentapi](https://github.com/coder/agentapi): HTTP API for Claude Code, Goose, Aider, and Codex.
+  * [claude-code-webui](https://github.com/sugyan/claude-code-webui): Web-based interface for Claude CLI with streaming chat responses.
 
 ## Configuration and Usage
 
@@ -74,6 +76,8 @@ A curated list of awesome tools, integrations, extentions, plugins, frameworks, 
   * [gemini-for-claude-code](https://github.com/coffeegrind123/gemini-for-claude-code): A Python program allowing the use of Claude Code with Google's Gemini models.
   * [kimi-cc](https://github.com/LLM-Red-Team/kimi-cc): Use Kimi's latest model (kimi-k2-0711-preview) to drive Claude Code.
   * [claude-code-hooks-mastery](https://github.com/disler/claude-code-hooks-mastery): A resource for mastering Claude Code hooks.
+  * [claude_code-gemini-mcp](https://github.com/RaiAnsar/claude_code-gemini-mcp): Connect Claude Code with Google's Gemini AI for powerful AI collaboration.
+  * [claude-deep-research](claude-deep-research): Claude Deep Research config for Claude Code.
 
 ## Integrations and Proxies
 
