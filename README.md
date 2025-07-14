@@ -44,6 +44,7 @@ A curated list of awesome tools, integrations, extentions, plugins, frameworks, 
   * [infinite-agentic-loop](https://github.com/disler/infinite-agentic-loop): An experimental project demonstrating Infinite Agentic Loop in a two-prompt system using Claude Code.
   * [claude-swarm](https://github.com/parruda/claude-swarm): Easily launch a Claude Code session connected to a swarm of Claude Code Agents.
   * [async-code](https://github.com/ObservedObserver/async-code): Use Claude Code or CodeX CLI to perform multiple tasks in parallel with a Codex-style UI, functioning as a personal codex or cursor-background agent.
+  * [rins_hooks](https://github.com/rinadelph/rins_hooks): Universal Claude Code hooks collection with cross-platform installer.
 
 ## Extensions and Plugins
 
@@ -81,7 +82,6 @@ A curated list of awesome tools, integrations, extentions, plugins, frameworks, 
   * [anthropic-proxy](https://github.com/maxnowack/anthropic-proxy): A proxy server that converts Anthropic API requests to OpenAI format and sends them to OpenRouter, used to use Claude Code with OpenRouter.
   * [copilot-api](https://github.com/ericc-ch/copilot-api): Turns GitHub Copilot into an OpenAI/Anthropic API compatible server, usable with Claude Code.
   * [claude-code-proxy](https://github.com/1rgs/claude-code-proxy): Run Claude Code on OpenAI models.
-  * [claude-code-proxy](https://github.com/fuergaosi233/claude-code-proxy): Claude Code to OpenAI API Proxy.
   * [claude-code.nvim](https://github.com/greggh/claude-code.nvim): Seamless integration between Claude Code AI assistant and Neovim.
   * [claudecode.nvim](https://github.com/coder/claudecode.nvim): Claude Code Neovim IDE Extension.
   * [claude-code.el](https://github.com/stevemolitor/claude-code.el): Claude Code Emacs integration.
