@@ -46,6 +46,7 @@ A curated list of awesome tools, integrations, extentions, plugins, frameworks, 
   * [async-code](https://github.com/ObservedObserver/async-code): Use Claude Code or CodeX CLI to perform multiple tasks in parallel with a Codex-style UI, functioning as a personal codex or cursor-background agent.
   * [rins_hooks](https://github.com/rinadelph/rins_hooks): Universal Claude Code hooks collection with cross-platform installer.
   * [claude-code-is-programmable](https://github.com/disler/claude-code-is-programmable): Scale your compute with Claude Code as a programmable agentic coding tool.
+  * [claudia](https://github.com/getAsterisk/claudia): A powerful GUI app and Toolkit for Claude Code - Create custom agents, manage interactive Claude Code sessions, run secure background agents, and more.
 
 ## Extensions and Plugins
 
@@ -60,13 +61,14 @@ A curated list of awesome tools, integrations, extentions, plugins, frameworks, 
   * [claude-code.el](https://github.com/stevemolitor/claude-code.el): Claude Code Emacs integration.
   * [agentapi](https://github.com/coder/agentapi): HTTP API for Claude Code, Goose, Aider, and Codex.
   * [claude-code-webui](https://github.com/sugyan/claude-code-webui): Web-based interface for Claude CLI with streaming chat responses.
+  * [cctrace](https://github.com/jimmc414/cctrace): Export Claude Code chat sessions into markdown and XML.
 
 ## Configuration and Usage
 
   * [awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code): A curated list of awesome commands, files, and workflows for Claude Code.
   * [ccusage](https://github.com/ryoppippi/ccusage): A CLI tool for analyzing Claude Code usage from local JSONL files.
   * [Claude-Code-Usage-Monitor](https://github.com/Maciek-roboblog/Claude-Code-Usage-Monitor): A real-time Claude Code usage monitor with predictions and warnings.
-  * [claude-code-proxy](https://github.com/1rgs/claude-code-proxy): Allows running Claude Code on OpenAI models.
+  * [CCSeva](https://github.com/Iamshankhadeep/ccseva): A beautiful macOS menu bar app for tracking your Claude Code usage in real-time.
   * [claude-code-guide](https://github.com/zebbern/claude-code-guide): A full guide on Claude tips and tricks, optimizing Claude Code, and finding every command possible.
   * [claude-code-templates](https://github.com/davila7/claude-code-templates): A CLI tool for configuring and monitoring Claude Code.
   * [claude-sessions](https://github.com/iannuttall/claude-sessions): Custom slash commands for Claude Code that provide comprehensive development session tracking and documentation.
@@ -87,6 +89,7 @@ A curated list of awesome tools, integrations, extentions, plugins, frameworks, 
   * [copilot-api](https://github.com/ericc-ch/copilot-api): Turns GitHub Copilot into an OpenAI/Anthropic API compatible server, usable with Claude Code.
   * [claude-code-proxy](https://github.com/1rgs/claude-code-proxy): Run Claude Code on OpenAI models.
   * [claude-code.nvim](https://github.com/greggh/claude-code.nvim): Seamless integration between Claude Code AI assistant and Neovim.
+  * [claude-code-proxy](https://github.com/seifghazi/claude-code-proxy): Proxy that captures and visualizes in-flight Claude Code requests and conversations.
   * [claudecode.nvim](https://github.com/coder/claudecode.nvim): Claude Code Neovim IDE Extension.
   * [claude-code.el](https://github.com/stevemolitor/claude-code.el): Claude Code Emacs integration.
   * [minuet-ai.nvim](https://github.com/milanglacier/minuet-ai.nvim): Code completion as-you-type from popular LLMs including OpenAI, Gemini, Claude, Ollama.
