@@ -47,6 +47,9 @@ A curated list of awesome tools, integrations, extentions, plugins, frameworks, 
   * [rins_hooks](https://github.com/rinadelph/rins_hooks): Universal Claude Code hooks collection with cross-platform installer.
   * [claude-code-is-programmable](https://github.com/disler/claude-code-is-programmable): Scale your compute with Claude Code as a programmable agentic coding tool.
   * [claudia](https://github.com/getAsterisk/claudia): A powerful GUI app and Toolkit for Claude Code - Create custom agents, manage interactive Claude Code sessions, run secure background agents, and more.
+  * [claude-code-hooks-multi-agent-observability](https://github.com/disler/claude-code-hooks-multi-agent-observability): Real-time monitoring for Claude Code agents through simple hook event tracking.
+  * [context-forge](https://github.com/webdevtodayjason/context-forge): CLI tool that scaffolds context engineering documentation for Claude Code projects.
+  * [Claudify](https://github.com/neno-is-ooo/claudify): Use Claude Code as an LLM provider with your subscription flat fee instead of pay-per-token API keys.
 
 ## Extensions and Plugins
 
@@ -62,6 +65,7 @@ A curated list of awesome tools, integrations, extentions, plugins, frameworks, 
   * [agentapi](https://github.com/coder/agentapi): HTTP API for Claude Code, Goose, Aider, and Codex.
   * [claude-code-webui](https://github.com/sugyan/claude-code-webui): Web-based interface for Claude CLI with streaming chat responses.
   * [cctrace](https://github.com/jimmc414/cctrace): Export Claude Code chat sessions into markdown and XML.
+  * [Claude-Autopilot](https://github.com/benbasha/Claude-Autopilot): VS Code/Cursor extension for automating Claude Code tasks with intelligent queuing, batch processing, and auto-resume.
 
 ## Configuration and Usage
 
@@ -94,12 +98,19 @@ A curated list of awesome tools, integrations, extentions, plugins, frameworks, 
   * [claude-code.el](https://github.com/stevemolitor/claude-code.el): Claude Code Emacs integration.
   * [minuet-ai.nvim](https://github.com/milanglacier/minuet-ai.nvim): Code completion as-you-type from popular LLMs including OpenAI, Gemini, Claude, Ollama.
   * [getspecstory](https://github.com/specstoryai/getspecstory): Extensions for GH Copilot, Cursor, and Claude Code.
+  * [Claude-Code-Web-GUI](https://github.com/binggg/Claude-Code-Web-GUI): Browse, view and share your Claude Code sessions - runs entirely in browser, no server required!
+  * [y-router](https://github.com/luohy15/y-router): A Simple Proxy enabling Claude Code to work with OpenRouter.
+  * [Claude-code-ChatInWindows](https://github.com/LKbaba/Claude-code-ChatInWindows): A Native UI for Windows That Makes Claude Code Instantly Better!
+  * [Claudiatron](https://github.com/Haleclipse/Claudiatron): A Powerful Claude Code GUI Desktop Application.
+  * [claude-gemini-mcp-slim](https://github.com/cmdaltctr/claude-gemini-mcp-slim): A lightweight integration that brings Google's Gemini AI capabilities to Claude Code through MCP (Model Context Protocol).
+  * [claude-code-kimi-groq](https://github.com/fakerybakery/claude-code-kimi-groq): A basic proxy to use Kimi K2 on Claude Code through Groq.
 
 ## Model Context Protocol (MCP) Servers
 
   * [zen-mcp-server](https://github.com/BeehiveInnovations/zen-mcp-server): The power of Claude Code + Gemini / OpenAI / Grok / OpenRouter / Ollama / Custom Model working as one.
   * [claude-code-mcp](https://github.com/steipete/claude-code-mcp): Claude Code as a one-shot MCP server to have an agent in your agent.
   * [mcp-claude-code](https://github.com/SDGLBL/mcp-claude-code): MCP implementation of Claude Code capabilities and more.
+  * [claude-historian](https://github.com/Vvkmnn/claude-historian): An MCP server for Claude Code conversation history.
 
 ## Development Kits and Frameworks
 
