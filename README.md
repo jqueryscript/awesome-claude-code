@@ -73,6 +73,7 @@ A curated list of awesome tools, integrations, extensions, plugins, frameworks, 
   - [**claude-squad**](https://github.com/smtg-ai/claude-squad): Manage multiple AI terminal agents, including Claude Code, Aider, Codex, OpenCode, and Amp.
   - [**claude-swarm**](https://github.com/parruda/claude-swarm): Easily launch a Claude Code session connected to a swarm of Claude Code Agents.
   - [**infinite-agentic-loop**](https://github.com/disler/infinite-agentic-loop): An experimental project demonstrating Infinite Agentic Loop in a two-prompt system using Claude Code.
+  - [**Claude-Flow**](https://github.com/ruvnet/claude-flow): an enterprise-grade AI orchestration platform that revolutionizes how developers build with AI.
 
 -----
 
