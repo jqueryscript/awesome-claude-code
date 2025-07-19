@@ -58,6 +58,7 @@ A curated list of awesome tools, integrations, extensions, plugins, frameworks, 
   - [**claude-code-webui**](https://github.com/sugyan/claude-code-webui): Web-based interface for Claude CLI with streaming chat responses.
   - [**Claude-code-ChatInWindows**](https://github.com/LKbaba/Claude-code-ChatInWindows): A Native UI for Windows That Makes Claude Code Instantly Better\!
   - [**Claudiatron**](https://github.com/Haleclipse/Claudiatron): A Powerful Claude Code GUI Desktop Application.
+  - [**Sniffly**](https://github.com/chiphuyen/sniffly): Claude Code dashboard with usage stats, error analysis, and sharable feature.
 
 -----
 
@@ -85,7 +86,7 @@ A curated list of awesome tools, integrations, extensions, plugins, frameworks, 
   - [**claude-sessions**](https://github.com/iannuttall/claude-sessions): Custom slash commands for Claude Code that provide comprehensive development session tracking and documentation.
   - [**claude-simone**](https://github.com/Helmi/claude-simone): A project management framework for AI-assisted development with Claude Code.
   - [**SuperClaude**](https://github.com/NomenAK/SuperClaude): A configuration framework that enhances Claude Code with specialized commands, cognitive personas, and development methodologies.
-
+  - [**claude-cmd**](https://github.com/kiliczsh/claude-cmd): Claude Code Commands Manager.
 -----
 
 ## Proxies & Model Integrations
@@ -130,6 +131,8 @@ A curated list of awesome tools, integrations, extensions, plugins, frameworks, 
   - [**claudebox**](https://github.com/RchGrav/claudebox): A Claude Code Docker Development Environment for running Claude AI's coding assistant in a fully containerized, reproducible environment.
   - [**context-forge**](https://github.com/webdevtodayjason/context-forge): CLI tool that scaffolds context engineering documentation for Claude Code projects.
   - [**rins\_hooks**](https://github.com/rinadelph/rins_hooks): Universal Claude Code hooks collection with cross-platform installer.
+  - [**claude-code-spec-workflow**](https://github.com/Pimzino/claude-code-spec-workflow): Automated Kiro-style Spec workflow for Claude Code. Transform feature ideas into complete implementations through Requirements → Design → Tasks → Implementation.
+  - [**cc-monitor-worker**](https://github.com/cometkim/cc-monitor-worker): Claude Code monitoring with Cloudflare Workers & Workers Analytics Engine.
 
 -----
 
