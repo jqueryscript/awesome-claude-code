@@ -56,6 +56,7 @@ A curated list of awesome tools, integrations, extensions, plugins, frameworks, 
   - [**Claude-code-ChatInWindows**](https://github.com/LKbaba/Claude-code-ChatInWindows): A Native UI for Windows That Makes Claude Code Instantly Better\!
   - [**Claudiatron**](https://github.com/Haleclipse/Claudiatron): A Powerful Claude Code GUI Desktop Application.
   - [**Sniffly**](https://github.com/chiphuyen/sniffly): Claude Code dashboard with usage stats, error analysis, and sharable feature.
+  - [**claudecodeui**](https://github.com/siteboon/claudecodeui): A desktop and mobile UI for Claude Code, Anthropic's official CLI for AI-assisted coding. 
 
 -----
 
@@ -102,6 +103,7 @@ A curated list of awesome tools, integrations, extensions, plugins, frameworks, 
   - [**gemini-for-claude-code**](https://github.com/coffeegrind123/gemini-for-claude-code): A Python program allowing the use of Claude Code with Google's Gemini models.
   - [**kimi-cc**](https://github.com/LLM-Red-Team/kimi-cc): Use Kimi's latest model (kimi-k2-0711-preview) to drive Claude Code.
   - [**y-router**](https://github.com/luohy15/y-router): A Simple Proxy enabling Claude Code to work with OpenRouter.
+  - [**agentapi**](HTTP API for Claude Code, Goose, Aider, and Codex): Control Claude Code, Goose, Aider, and Codex with an HTTP API.
 
 -----
 
@@ -111,6 +113,7 @@ A curated list of awesome tools, integrations, extensions, plugins, frameworks, 
   - [**claude-historian**](https://github.com/Vvkmnn/claude-historian): An MCP server for Claude Code conversation history.
   - [**mcp-claude-code**](https://github.com/SDGLBL/mcp-claude-code): MCP implementation of Claude Code capabilities and more.
   - [**zen-mcp-server**](https://github.com/BeehiveInnovations/zen-mcp-server): The power of Claude Code + Gemini / OpenAI / Grok / OpenRouter / Ollama / Custom Model working as one.
+  - [**codemcp**](https://github.com/ezyang/codemcp): Coding assistant MCP for Claude Desktop.
 
 -----
 
@@ -130,6 +133,7 @@ A curated list of awesome tools, integrations, extensions, plugins, frameworks, 
   - [**rins\_hooks**](https://github.com/rinadelph/rins_hooks): Universal Claude Code hooks collection with cross-platform installer.
   - [**claude-code-spec-workflow**](https://github.com/Pimzino/claude-code-spec-workflow): Automated Kiro-style Spec workflow for Claude Code. Transform feature ideas into complete implementations through Requirements → Design → Tasks → Implementation.
   - [**cc-monitor-worker**](https://github.com/cometkim/cc-monitor-worker): Claude Code monitoring with Cloudflare Workers & Workers Analytics Engine.
+  - [**crystal**](https://github.com/stravu/crystal): Run multiple Claude Code AI sessions in parallel git worktrees. 
 
 -----
 
