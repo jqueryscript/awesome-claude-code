@@ -1,9 +1,6 @@
-<p align="center">
-  <br />
-  <img src="./Claude Code Logo.webp" alt="Claude Code">
-  <br />
-  <br />
-</p>
+# Awesome Claude Code
+
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 A curated list of awesome tools, integrations, extensions, plugins, frameworks, and other resources for developers working with Anthropic's Claude Code.
 
