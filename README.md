@@ -133,7 +133,8 @@ A curated list of awesome tools, integrations, extensions, plugins, frameworks, 
   - [**rins\_hooks**](https://github.com/rinadelph/rins_hooks): Universal Claude Code hooks collection with cross-platform installer.
   - [**claude-code-spec-workflow**](https://github.com/Pimzino/claude-code-spec-workflow): Automated Kiro-style Spec workflow for Claude Code. Transform feature ideas into complete implementations through Requirements → Design → Tasks → Implementation.
   - [**cc-monitor-worker**](https://github.com/cometkim/cc-monitor-worker): Claude Code monitoring with Cloudflare Workers & Workers Analytics Engine.
-  - [**crystal**](https://github.com/stravu/crystal): Run multiple Claude Code AI sessions in parallel git worktrees. 
+  - [**crystal**](https://github.com/stravu/crystal): Run multiple Claude Code AI sessions in parallel git worktrees.
+  - [**win-claude-code**](https://github.com/somersby10ml/win-claude-code): Claude Code for Windows: No WSL. No Docker. Just code.
 
 -----
 
