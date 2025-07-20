@@ -34,6 +34,7 @@ A curated list of awesome tools, integrations, extensions, plugins, frameworks, 
   - [**claude-code-requirements-builder**](https://github.com/rizethereum/claude-code-requirements-builder): A tool for building Claude Code requirements.
   - [**dotai**](https://github.com/udecode/dotai): The ultimate AI development stack, including Claude Code, Task Master, and Curso.
   - [**vibekit**](https://github.com/superagent-ai/vibekit): A simple SDK for safely running Codex, Gemini CLI, and Claude Code in a secure sandbox.
+  - [**claude-code-sdk-ts**](https://github.com/instantlyeasy/claude-code-sdk-ts): Configure models, enable tools, stream events, then fetch text, JSON, run details or token stats in one call via .asText() or .allowTools('Read', 'Write').
 
 -----
 
