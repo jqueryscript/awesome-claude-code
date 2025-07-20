@@ -57,7 +57,8 @@ A curated list of awesome tools, integrations, extensions, plugins, frameworks, 
   - [**Claude-code-ChatInWindows**](https://github.com/LKbaba/Claude-code-ChatInWindows): A Native UI for Windows That Makes Claude Code Instantly Better\!
   - [**Claudiatron**](https://github.com/Haleclipse/Claudiatron): A Powerful Claude Code GUI Desktop Application.
   - [**Sniffly**](https://github.com/chiphuyen/sniffly): Claude Code dashboard with usage stats, error analysis, and sharable feature.
-  - [**claudecodeui**](https://github.com/siteboon/claudecodeui): A desktop and mobile UI for Claude Code, Anthropic's official CLI for AI-assisted coding. 
+  - [**claudecodeui**](https://github.com/siteboon/claudecodeui): A desktop and mobile UI for Claude Code, Anthropic's official CLI for AI-assisted coding.
+  - [**vibe-kanban**](https://github.com/BloopAI/vibe-kanban): Get 10X more out of Claude Code, Gemini CLI, Codex, Amp and other coding agents.
 
 -----
 
