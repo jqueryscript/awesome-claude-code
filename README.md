@@ -74,7 +74,9 @@ A curated list of awesome tools, integrations, extensions, plugins, frameworks, 
   - [**claude-squad**](https://github.com/smtg-ai/claude-squad): Manage multiple AI terminal agents, including Claude Code, Aider, Codex, OpenCode, and Amp.
   - [**claude-swarm**](https://github.com/parruda/claude-swarm): Easily launch a Claude Code session connected to a swarm of Claude Code Agents.
   - [**infinite-agentic-loop**](https://github.com/disler/infinite-agentic-loop): An experimental project demonstrating Infinite Agentic Loop in a two-prompt system using Claude Code.
-  - [**Claude-Flow**](https://github.com/ruvnet/claude-flow): an enterprise-grade AI orchestration platform that revolutionizes how developers build with AI.
+  - [**Claude-Flow**](https://github.com/ruvnet/claude-flow): An enterprise-grade AI orchestration platform that revolutionizes how developers build with AI.
+  - [**ClaudeNightsWatch**](https://github.com/aniketkarne/ClaudeNightsWatch): Autonomous task execution system for Claude CLI that monitors your usage windows and executes predefined tasks automatically.
+  - [**claude-code-heavy**](https://github.com/gtrusler/claude-code-heavy): Multi-agent research orchestration using Claude Code. 
 
 -----
 
@@ -87,6 +89,7 @@ A curated list of awesome tools, integrations, extensions, plugins, frameworks, 
   - [**claude-simone**](https://github.com/Helmi/claude-simone): A project management framework for AI-assisted development with Claude Code.
   - [**SuperClaude**](https://github.com/NomenAK/SuperClaude): A configuration framework that enhances Claude Code with specialized commands, cognitive personas, and development methodologies.
   - [**claude-cmd**](https://github.com/kiliczsh/claude-cmd): Claude Code Commands Manager.
+  - [**claude-code-settings**](https://github.com/feiskyer/claude-code-settings): Claude Code settings and commands for vibe coding.
 -----
 
 ## Proxies & Model Integrations
@@ -137,6 +140,7 @@ A curated list of awesome tools, integrations, extensions, plugins, frameworks, 
   - [**cc-monitor-worker**](https://github.com/cometkim/cc-monitor-worker): Claude Code monitoring with Cloudflare Workers & Workers Analytics Engine.
   - [**crystal**](https://github.com/stravu/crystal): Run multiple Claude Code AI sessions in parallel git worktrees.
   - [**win-claude-code**](https://github.com/somersby10ml/win-claude-code): Claude Code for Windows: No WSL. No Docker. Just code.
+  - [**claude-prune**](https://github.com/DannyAziz/claude-prune): A fast CLI tool for pruning Claude Code sessions.
 
 -----
 
