@@ -90,6 +90,7 @@ A curated list of awesome tools, integrations, extensions, plugins, frameworks, 
   - [**SuperClaude**](https://github.com/NomenAK/SuperClaude): A configuration framework that enhances Claude Code with specialized commands, cognitive personas, and development methodologies.
   - [**claude-cmd**](https://github.com/kiliczsh/claude-cmd): Claude Code Commands Manager.
   - [**claude-code-settings**](https://github.com/feiskyer/claude-code-settings): Claude Code settings and commands for vibe coding.
+  - [**SuperClaude_Framework**](https://github.com/SuperClaude-Org/SuperClaude_Framework): A configuration framework that enhances Claude Code with specialized commands, cognitive personas, and development methodologies.
 -----
 
 ## Proxies & Model Integrations
@@ -150,6 +151,7 @@ A curated list of awesome tools, integrations, extensions, plugins, frameworks, 
   - [**claude-code-guide**](https://github.com/zebbern/claude-code-guide): A full guide on Claude tips and tricks, optimizing Claude Code, and finding every command possible.
   - [**claude-code-hooks-mastery**](https://github.com/disler/claude-code-hooks-mastery): A resource for mastering Claude Code hooks.
   - [**claude-code-is-programmable**](https://github.com/disler/claude-code-is-programmable): Scale your compute with Claude Code as a programmable agentic coding tool.
+  - [**agent-rules**](https://github.com/steipete/agent-rules): Rules and Knowledge to work better with agents such as Claude Code or Cursor
 
 -----
 
