@@ -35,6 +35,7 @@ A curated list of awesome tools, integrations, extensions, plugins, frameworks, 
   - [**dotai**](https://github.com/udecode/dotai): The ultimate AI development stack, including Claude Code, Task Master, and Curso.
   - [**vibekit**](https://github.com/superagent-ai/vibekit): A simple SDK for safely running Codex, Gemini CLI, and Claude Code in a secure sandbox.
   - [**claude-code-sdk-ts**](https://github.com/instantlyeasy/claude-code-sdk-ts): Configure models, enable tools, stream events, then fetch text, JSON, run details or token stats in one call via .asText() or .allowTools('Read', 'Write').
+  - [Claude Code SDK for PHP](https://github.com/HelgeSverre/claude-code-sdk-php):  Claude Code SDK for PHP: PHP wrapper for Claude Code with streaming responses, token tracking, event interceptors, and Laravel integration. Features strongly-typed messages, MCP server configuration, and comprehensive error handling.
 
 -----
 
