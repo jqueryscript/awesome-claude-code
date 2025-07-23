@@ -161,6 +161,8 @@ A curated list of awesome tools, integrations, extensions, plugins, frameworks, 
   - [**openCode**](https://github.com/opencode-ai/opencode): A powerful AI coding agent built for the terminal.
   - [**OpenAI Codex CLI**](https://github.com/openai/codex): Lightweight coding agent that runs in your terminal.
   - [**opencoder**](https://github.com/ducan-ne/opencoder): An alternative to Claude Code.
+  - [**grok-cli**](https://github.com/superagent-ai/grok-cli): An open-source AI agent that brings the power of Grok directly into your terminal.
+  - [**qwen-code**](https://github.com/QwenLM/qwen-code): A command-line AI workflow tool adapted from Gemini CLI, optimized for Qwen3-Coder models with enhanced parser support & tool support.
 
 -----
 
