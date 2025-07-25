@@ -148,6 +148,7 @@ A curated list of awesome tools, integrations, extensions, plugins, frameworks, 
   - [**claude-prune**](https://github.com/DannyAziz/claude-prune): A fast CLI tool for pruning Claude Code sessions.
   - [**claude-code-boost**](https://github.com/yifanzz/claude-code-boost): Hook utilities for Claude Code with intelligent auto-approval.
   - [**tdd-guard**](https://github.com/nizos/tdd-guard): Automated TDD enforcement for Claude Code.
+  - [**conductor**](https://conductor.build/): Run a bunch of Claude Codes in parallel.
 
 -----
 
