@@ -36,6 +36,7 @@ A curated list of awesome tools, integrations, extensions, plugins, frameworks, 
   - [**vibekit**](https://github.com/superagent-ai/vibekit): A simple SDK for safely running Codex, Gemini CLI, and Claude Code in a secure sandbox.
   - [**claude-code-sdk-ts**](https://github.com/instantlyeasy/claude-code-sdk-ts): Configure models, enable tools, stream events, then fetch text, JSON, run details or token stats in one call via .asText() or .allowTools('Read', 'Write').
   - [Claude Code SDK for PHP](https://github.com/HelgeSverre/claude-code-sdk-php): PHP wrapper for Claude Code with streaming responses, token tracking, event interceptors, and Laravel integration. Features strongly-typed messages, MCP server configuration, and comprehensive error handling.
+  - [**claude-code-typescript-hooks**](https://github.com/bartolli/claude-code-typescript-hooks): Fast, intelligent quality checks for different project types.
 
 -----
 
@@ -47,6 +48,8 @@ A curated list of awesome tools, integrations, extensions, plugins, frameworks, 
   - [**claudecode.nvim**](https://github.com/coder/claudecode.nvim): A Claude Code Neovim IDE Extension.
   - [**getspecstory**](https://github.com/specstoryai/getspecstory): Extensions for GH Copilot, Cursor, and Claude Code.
   - [**minuet-ai.nvim**](https://github.com/milanglacier/minuet-ai.nvim): Code completion as-you-type from popular LLMs including OpenAI, Gemini, Claude, Ollama.
+  - [**n8n-nodes-claudecode**](https://github.com/holt-web-ai/n8n-nodes-claudecode): Bring the power of Claude Code directly into your n8n automation workflows!
+  - [**claude-code-chat**](https://github.com/andrepimenta/claude-code-chat): Beautiful Claude Code Chat Interface for VS Code.
 
 -----
 
@@ -92,6 +95,7 @@ A curated list of awesome tools, integrations, extensions, plugins, frameworks, 
   - [**claude-cmd**](https://github.com/kiliczsh/claude-cmd): Claude Code Commands Manager.
   - [**claude-code-settings**](https://github.com/feiskyer/claude-code-settings): Claude Code settings and commands for vibe coding.
   - [**SuperClaude_Framework**](https://github.com/SuperClaude-Org/SuperClaude_Framework): A configuration framework that enhances Claude Code with specialized commands, cognitive personas, and development methodologies.
+  - [**claude-commands**](https://github.com/badlogic/claude-commands): Global Claude Code commands and workflows.
 -----
 
 ## Proxies & Model Integrations
@@ -143,6 +147,9 @@ A curated list of awesome tools, integrations, extensions, plugins, frameworks, 
   - [**crystal**](https://github.com/stravu/crystal): Run multiple Claude Code AI sessions in parallel git worktrees.
   - [**win-claude-code**](https://github.com/somersby10ml/win-claude-code): Claude Code for Windows: No WSL. No Docker. Just code.
   - [**claude-prune**](https://github.com/DannyAziz/claude-prune): A fast CLI tool for pruning Claude Code sessions.
+  - [**claude-code-boost**](https://github.com/yifanzz/claude-code-boost): Hook utilities for Claude Code with intelligent auto-approval.
+  - [**tdd-guard**](https://github.com/nizos/tdd-guard): Automated TDD enforcement for Claude Code.
+  - [**conductor**](https://conductor.build/): Run a bunch of Claude Codes in parallel.
 
 -----
 
@@ -162,6 +169,8 @@ A curated list of awesome tools, integrations, extensions, plugins, frameworks, 
   - [**openCode**](https://github.com/opencode-ai/opencode): A powerful AI coding agent built for the terminal.
   - [**OpenAI Codex CLI**](https://github.com/openai/codex): Lightweight coding agent that runs in your terminal.
   - [**opencoder**](https://github.com/ducan-ne/opencoder): An alternative to Claude Code.
+  - [**grok-cli**](https://github.com/superagent-ai/grok-cli): An open-source AI agent that brings the power of Grok directly into your terminal.
+  - [**qwen-code**](https://github.com/QwenLM/qwen-code): A command-line AI workflow tool adapted from Gemini CLI, optimized for Qwen3-Coder models with enhanced parser support & tool support.
 
 -----
 
