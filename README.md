@@ -96,6 +96,7 @@ A curated list of awesome tools, integrations, extensions, plugins, frameworks, 
 
   - [**agentapi**](https://github.com/coder/agentapi): An HTTP API for Claude Code, Goose, Aider, and Codex.
   - [**anthropic-proxy**](https://github.com/maxnowack/anthropic-proxy): A proxy server that converts Anthropic API requests to OpenAI format and sends them to OpenRouter, used to use Claude Code with OpenRouter.
+  - [**CCProxy**](https://github.com/orchestre-dev/ccproxy): Use any AI model with Claude Code - OpenAI, Gemini, Groq, OpenRouter and local models via Ollama. Universal API translation proxy with intelligent routing and streaming support. by [praneybehl](https://github.com/praneybehl)
   - [**Claudify**](https://github.com/neno-is-ooo/claudify): Use Claude Code as an LLM provider with your subscription flat fee instead of pay-per-token API keys.
   - [**claude-gemini-mcp-slim**](https://github.com/cmdaltctr/claude-gemini-mcp-slim): A lightweight integration that brings Google's Gemini AI capabilities to Claude Code through MCP (Model Context Protocol).
   - [**claude\_code-gemini-mcp**](https://github.com/RaiAnsar/claude_code-gemini-mcp): Connect Claude Code with Google's Gemini AI for powerful AI collaboration.
