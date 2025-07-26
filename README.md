@@ -122,6 +122,7 @@ A curated list of awesome tools, integrations, extensions, plugins, frameworks, 
   - [**claude-code-sdk-ts**](https://github.com/instantlyeasy/claude-code-sdk-ts): Configure models, enable tools, stream events, then fetch text, JSON, run details or token stats in one call via .asText() or .allowTools('Read', 'Write').
   - [**claude-code-typescript-hooks**](https://github.com/bartolli/claude-code-typescript-hooks): Fast, intelligent quality checks for different project types.
   - [**claude-code-api-rs**](https://github.com/ZhangHanDong/claude-code-api-rs): A high-performance Rust implementation of an OpenAI-compatible API gateway for Claude Code CLI.
+  - [**claude-code-api-rs**](https://github.com/ZhangHanDong/claude-code-api-rs): A high-performance Rust implementation of an OpenAI-compatible API gateway for Claude Code CLI.
 
 -----
 
@@ -153,7 +154,8 @@ A curated list of awesome tools, integrations, extensions, plugins, frameworks, 
   - [**Claude-Flow**](https://github.com/ruvnet/claude-flow): An enterprise-grade AI orchestration platform that revolutionizes how developers build with AI.
   - [**ClaudeNightsWatch**](https://github.com/aniketkarne/ClaudeNightsWatch): Autonomous task execution system for Claude CLI that monitors your usage windows and executes predefined tasks automatically.
   - [**claude-code-heavy**](https://github.com/gtrusler/claude-code-heavy): Multi-agent research orchestration using Claude Code.
-  - [**claude-user-memory**](https://github.com/irenicj/claude-user-memory): A comprehensive Claude user memory system that enables intelligent, automatic orchestration of 12 specialized AI agents for Claude Code CLI. 
+  - [**claude-user-memory**](https://github.com/irenicj/claude-user-memory): A comprehensive Claude user memory system that enables intelligent, automatic orchestration of 12 specialized AI agents for Claude Code CLI.
+  - [**claude_code_agent_farm**](https://github.com/Dicklesworthstone/claude_code_agent_farm): A powerful orchestration framework that runs multiple Claude Code (cc) sessions in parallel to systematically improve your codebase.
 
 -----
 
