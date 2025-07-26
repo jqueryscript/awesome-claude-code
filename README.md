@@ -113,7 +113,7 @@ A curated list of awesome tools, integrations, extensions, plugins, frameworks, 
   - [**gemini-for-claude-code**](https://github.com/coffeegrind123/gemini-for-claude-code): A Python program allowing the use of Claude Code with Google's Gemini models.
   - [**kimi-cc**](https://github.com/LLM-Red-Team/kimi-cc): Use Kimi's latest model (kimi-k2-0711-preview) to drive Claude Code.
   - [**y-router**](https://github.com/luohy15/y-router): A Simple Proxy enabling Claude Code to work with OpenRouter.
-  - [**agentapi**](HTTP API for Claude Code, Goose, Aider, and Codex): Control Claude Code, Goose, Aider, and Codex with an HTTP API.
+  - [**agentapi**](https://github.com/coder/agentapi): Control Claude Code, Goose, Aider, and Codex with an HTTP API.
 
 -----
 
