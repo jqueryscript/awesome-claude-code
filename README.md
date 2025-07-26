@@ -7,15 +7,16 @@ A curated list of awesome tools, integrations, extensions, plugins, frameworks, 
 ## Table of Contents
 
   - [Official Resources](#official-resources)
-  - [SDKs & Development Kits](#sdks--development-kits)
+  - [Sub Agents](#sub-agents)
+  - [Tools & Utilities](#tools--utilities)
   - [IDE & Editor Integrations](#ide--editor-integrations)
+  - [Custom Commands & Frameworks](#custom-commands--frameworks)
+  - [Proxies & Model Integrations](#proxies--model-integrations)
+  - [SDKs & Development Kits](#sdks--development-kits)
   - [GUIs & Web UIs](#guis--web-uis)
   - [GitHub Actions](#github-actions)
   - [Agents & Agent Managers](#agents--agent-managers)
-  - [Custom Commands & Frameworks](#custom-commands--frameworks)
-  - [Proxies & Model Integrations](#proxies--model-integrations)
   - [Model Context Protocol (MCP) Servers](#model-context-protocol-mcp-servers)
-  - [Tools & Utilities](#tools--utilities)
   - [Guides & Learning Resources](#guides--learning-resources)
   - [Alternatives to Claude Code](#alternatives-to-claude-code)
 
@@ -28,14 +29,40 @@ A curated list of awesome tools, integrations, extensions, plugins, frameworks, 
 
 -----
 
-## SDKs & Development Kits
+## Sub Agents
 
-  - [**Claude-Code-Development-Kit**](https://github.com/peterkrueck/Claude-Code-Development-Kit): A personal Claude Code Development Kit.
-  - [**claude-code-requirements-builder**](https://github.com/rizethereum/claude-code-requirements-builder): A tool for building Claude Code requirements.
-  - [**dotai**](https://github.com/udecode/dotai): The ultimate AI development stack, including Claude Code, Task Master, and Curso.
-  - [**vibekit**](https://github.com/superagent-ai/vibekit): A simple SDK for safely running Codex, Gemini CLI, and Claude Code in a secure sandbox.
-  - [**claude-code-sdk-ts**](https://github.com/instantlyeasy/claude-code-sdk-ts): Configure models, enable tools, stream events, then fetch text, JSON, run details or token stats in one call via .asText() or .allowTools('Read', 'Write').
-  - [**claude-code-typescript-hooks**](https://github.com/bartolli/claude-code-typescript-hooks): Fast, intelligent quality checks for different project types.
+  - [**claude-agents**](https://github.com/iannuttall/claude-agents): Custom subagents to use with Claude Code.
+  - [**agents**](https://github.com/wshobson/agents): A collection of production-ready subagents for Claude Code.
+  - [**sub-agents**](https://github.com/webdevtodayjason/sub-agents): A simple Manager for adding Claude Code Sub Agents with hooks and custom slash commands.
+
+-----
+
+## Tools & Utilities
+
+  - [**async-code**](https://github.com/ObservedObserver/async-code): Use Claude Code or CodeX CLI to perform multiple tasks in parallel with a Codex-style UI, functioning as a personal codex or cursor-background agent.
+  - [**ccmanager**](https://github.com/kbwo/ccmanager): Claude Code / Gemini CLI / Codex CLI Session Manager.
+  - [**cctrace**](https://github.com/jimmc414/cctrace): Export Claude Code chat sessions into markdown and XML.
+  - [**ccundo**](https://github.com/RonitSachdev/ccundo): Integrates seamlessly with Claude Code to provide granular undo functionality by reading directly from Claude Code's session files.
+  - [**ccusage**](https://github.com/ryoppippi/ccusage): A CLI tool for analyzing Claude Code usage from local JSONL files.
+  - [**CCSeva**](https://github.com/Iamshankhadeep/ccseva): A beautiful macOS menu bar app for tracking your Claude Code usage in real-time.
+  - [**claude-code-hooks-multi-agent-observability**](https://github.com/disler/claude-code-hooks-multi-agent-observability): Real-time monitoring for Claude Code agents through simple hook event tracking.
+  - [**Claude-Code-Usage-Monitor**](https://github.com/Maciek-roboblog/Claude-Code-Usage-Monitor): A real-time Claude Code usage monitor with predictions and warnings.
+  - [**claude-code-templates**](https://github.com/davila7/claude-code-templates): A CLI tool for configuring and monitoring Claude Code.
+  - [**claudebox**](https://github.com/RchGrav/claudebox): A Claude Code Docker Development Environment for running Claude AI's coding assistant in a fully containerized, reproducible environment.
+  - [**context-forge**](https://github.com/webdevtodayjason/context-forge): CLI tool that scaffolds context engineering documentation for Claude Code projects.
+  - [**rins\_hooks**](https://github.com/rinadelph/rins_hooks): Universal Claude Code hooks collection with cross-platform installer.
+  - [**claude-code-spec-workflow**](https://github.com/Pimzino/claude-code-spec-workflow): Automated Kiro-style Spec workflow for Claude Code. Transform feature ideas into complete implementations through Requirements → Design → Tasks → Implementation.
+  - [**cc-monitor-worker**](https://github.com/cometkim/cc-monitor-worker): Claude Code monitoring with Cloudflare Workers & Workers Analytics Engine.
+  - [**crystal**](https://github.com/stravu/crystal): Run multiple Claude Code AI sessions in parallel git worktrees.
+  - [**win-claude-code**](https://github.com/somersby10ml/win-claude-code): Claude Code for Windows: No WSL. No Docker. Just code.
+  - [**claude-prune**](https://github.com/DannyAziz/claude-prune): A fast CLI tool for pruning Claude Code sessions.
+  - [**claude-code-boost**](https://github.com/yifanzz/claude-code-boost): Hook utilities for Claude Code with intelligent auto-approval.
+  - [**tdd-guard**](https://github.com/nizos/tdd-guard): Automated TDD enforcement for Claude Code.
+  - [**conductor**](https://conductor.build/): Run a bunch of Claude Codes in parallel.
+  - [**tweakcc**](https://github.com/Piebald-AI/tweakcc): Command-line tool to customize your Claude Code styling.
+  - [**ccguard**](https://github.com/pomterre/ccguard): Automated enforcement of net-negative LOC, complexity constraints, and quality standards for Claude code.
+  - [**claude-code-specs-generator**](https://github.com/kellemar/claude-code-specs-generator): A documentation and context management system for AI-assisted development, inspired by Amazon's Kiro IDE.
+  - [**cc-monitor-rs**](https://github.com/ZhangHanDong/cc-monitor-rs): Real-time Claude Code usage monitor with native UI built using Rust and Makepad.
 
 -----
 
@@ -49,37 +76,6 @@ A curated list of awesome tools, integrations, extensions, plugins, frameworks, 
   - [**minuet-ai.nvim**](https://github.com/milanglacier/minuet-ai.nvim): Code completion as-you-type from popular LLMs including OpenAI, Gemini, Claude, Ollama.
   - [**n8n-nodes-claudecode**](https://github.com/holt-web-ai/n8n-nodes-claudecode): Bring the power of Claude Code directly into your n8n automation workflows!
   - [**claude-code-chat**](https://github.com/andrepimenta/claude-code-chat): Beautiful Claude Code Chat Interface for VS Code.
-
------
-
-## GUIs & Web UIs
-
-  - [**claudia**](https://github.com/getAsterisk/claudia): A powerful GUI app and Toolkit for Claude Code - Create custom agents, manage interactive Claude Code sessions, run secure background agents, and more.
-  - [**Claude-Code-Web-GUI**](https://github.com/binggg/Claude-Code-Web-GUI): Browse, view and share your Claude Code sessions - runs entirely in browser, no server required\!
-  - [**claude-code-webui**](https://github.com/sugyan/claude-code-webui): Web-based interface for Claude CLI with streaming chat responses.
-  - [**Claude-code-ChatInWindows**](https://github.com/LKbaba/Claude-code-ChatInWindows): A Native UI for Windows That Makes Claude Code Instantly Better\!
-  - [**Claudiatron**](https://github.com/Haleclipse/Claudiatron): A Powerful Claude Code GUI Desktop Application.
-  - [**Sniffly**](https://github.com/chiphuyen/sniffly): Claude Code dashboard with usage stats, error analysis, and sharable feature.
-  - [**claudecodeui**](https://github.com/siteboon/claudecodeui): A desktop and mobile UI for Claude Code, Anthropic's official CLI for AI-assisted coding.
-  - [**vibe-kanban**](https://github.com/BloopAI/vibe-kanban): Get 10X more out of Claude Code, Gemini CLI, Codex, Amp and other coding agents.
-
------
-
-## GitHub Actions
-
-  - [**claude-code-action**](https://github.com/anthropics/claude-code-action): A general-purpose Claude Code action for GitHub PRs and issues that can answer questions and implement code changes.
-  - [**claude-code-base-action**](https://github.com/anthropics/claude-code-base-action): A Claude Code base action.
-
------
-
-## Agents & Agent Managers
-
-  - [**claude-squad**](https://github.com/smtg-ai/claude-squad): Manage multiple AI terminal agents, including Claude Code, Aider, Codex, OpenCode, and Amp.
-  - [**claude-swarm**](https://github.com/parruda/claude-swarm): Easily launch a Claude Code session connected to a swarm of Claude Code Agents.
-  - [**infinite-agentic-loop**](https://github.com/disler/infinite-agentic-loop): An experimental project demonstrating Infinite Agentic Loop in a two-prompt system using Claude Code.
-  - [**Claude-Flow**](https://github.com/ruvnet/claude-flow): An enterprise-grade AI orchestration platform that revolutionizes how developers build with AI.
-  - [**ClaudeNightsWatch**](https://github.com/aniketkarne/ClaudeNightsWatch): Autonomous task execution system for Claude CLI that monitors your usage windows and executes predefined tasks automatically.
-  - [**claude-code-heavy**](https://github.com/gtrusler/claude-code-heavy): Multi-agent research orchestration using Claude Code. 
 
 -----
 
@@ -113,7 +109,54 @@ A curated list of awesome tools, integrations, extensions, plugins, frameworks, 
   - [**gemini-for-claude-code**](https://github.com/coffeegrind123/gemini-for-claude-code): A Python program allowing the use of Claude Code with Google's Gemini models.
   - [**kimi-cc**](https://github.com/LLM-Red-Team/kimi-cc): Use Kimi's latest model (kimi-k2-0711-preview) to drive Claude Code.
   - [**y-router**](https://github.com/luohy15/y-router): A Simple Proxy enabling Claude Code to work with OpenRouter.
-  - [**agentapi**](HTTP API for Claude Code, Goose, Aider, and Codex): Control Claude Code, Goose, Aider, and Codex with an HTTP API.
+  - [**agentapi**](https://github.com/coder/agentapi): Control Claude Code, Goose, Aider, and Codex with an HTTP API.
+  - [**claude-code-open**](https://github.com/Davincible/claude-code-open): Claude Code with any LLM provider (OpenRouter, Gemini, Kimi K2).
+
+-----
+
+## SDKs & Development Kits
+
+  - [**Claude-Code-Development-Kit**](https://github.com/peterkrueck/Claude-Code-Development-Kit): A personal Claude Code Development Kit.
+  - [**claude-code-requirements-builder**](https://github.com/rizethereum/claude-code-requirements-builder): A tool for building Claude Code requirements.
+  - [**dotai**](https://github.com/udecode/dotai): The ultimate AI development stack, including Claude Code, Task Master, and Curso.
+  - [**vibekit**](https://github.com/superagent-ai/vibekit): A simple SDK for safely running Codex, Gemini CLI, and Claude Code in a secure sandbox.
+  - [**claude-code-sdk-ts**](https://github.com/instantlyeasy/claude-code-sdk-ts): Configure models, enable tools, stream events, then fetch text, JSON, run details or token stats in one call via .asText() or .allowTools('Read', 'Write').
+  - [**claude-code-typescript-hooks**](https://github.com/bartolli/claude-code-typescript-hooks): Fast, intelligent quality checks for different project types.
+  - [**claude-code-api-rs**](https://github.com/ZhangHanDong/claude-code-api-rs): A high-performance Rust implementation of an OpenAI-compatible API gateway for Claude Code CLI.
+  - [**claude-code-api-rs**](https://github.com/ZhangHanDong/claude-code-api-rs): A high-performance Rust implementation of an OpenAI-compatible API gateway for Claude Code CLI.
+
+-----
+
+## GUIs & Web UIs
+
+  - [**claudia**](https://github.com/getAsterisk/claudia): A powerful GUI app and Toolkit for Claude Code - Create custom agents, manage interactive Claude Code sessions, run secure background agents, and more.
+  - [**Claude-Code-Web-GUI**](https://github.com/binggg/Claude-Code-Web-GUI): Browse, view and share your Claude Code sessions - runs entirely in browser, no server required\!
+  - [**claude-code-webui**](https://github.com/sugyan/claude-code-webui): Web-based interface for Claude CLI with streaming chat responses.
+  - [**Claude-code-ChatInWindows**](https://github.com/LKbaba/Claude-code-ChatInWindows): A Native UI for Windows That Makes Claude Code Instantly Better\!
+  - [**Claudiatron**](https://github.com/Haleclipse/Claudiatron): A Powerful Claude Code GUI Desktop Application.
+  - [**Sniffly**](https://github.com/chiphuyen/sniffly): Claude Code dashboard with usage stats, error analysis, and sharable feature.
+  - [**claudecodeui**](https://github.com/siteboon/claudecodeui): A desktop and mobile UI for Claude Code, Anthropic's official CLI for AI-assisted coding.
+  - [**vibe-kanban**](https://github.com/BloopAI/vibe-kanban): Get 10X more out of Claude Code, Gemini CLI, Codex, Amp and other coding agents.
+
+-----
+
+## GitHub Actions
+
+  - [**claude-code-action**](https://github.com/anthropics/claude-code-action): A general-purpose Claude Code action for GitHub PRs and issues that can answer questions and implement code changes.
+  - [**claude-code-base-action**](https://github.com/anthropics/claude-code-base-action): A Claude Code base action.
+
+-----
+
+## Agents & Agent Managers
+
+  - [**claude-squad**](https://github.com/smtg-ai/claude-squad): Manage multiple AI terminal agents, including Claude Code, Aider, Codex, OpenCode, and Amp.
+  - [**claude-swarm**](https://github.com/parruda/claude-swarm): Easily launch a Claude Code session connected to a swarm of Claude Code Agents.
+  - [**infinite-agentic-loop**](https://github.com/disler/infinite-agentic-loop): An experimental project demonstrating Infinite Agentic Loop in a two-prompt system using Claude Code.
+  - [**Claude-Flow**](https://github.com/ruvnet/claude-flow): An enterprise-grade AI orchestration platform that revolutionizes how developers build with AI.
+  - [**ClaudeNightsWatch**](https://github.com/aniketkarne/ClaudeNightsWatch): Autonomous task execution system for Claude CLI that monitors your usage windows and executes predefined tasks automatically.
+  - [**claude-code-heavy**](https://github.com/gtrusler/claude-code-heavy): Multi-agent research orchestration using Claude Code.
+  - [**claude-user-memory**](https://github.com/irenicj/claude-user-memory): A comprehensive Claude user memory system that enables intelligent, automatic orchestration of 12 specialized AI agents for Claude Code CLI.
+  - [**claude_code_agent_farm**](https://github.com/Dicklesworthstone/claude_code_agent_farm): A powerful orchestration framework that runs multiple Claude Code (cc) sessions in parallel to systematically improve your codebase.
 
 -----
 
@@ -127,32 +170,6 @@ A curated list of awesome tools, integrations, extensions, plugins, frameworks, 
 
 -----
 
-## Tools & Utilities
-
-  - [**async-code**](https://github.com/ObservedObserver/async-code): Use Claude Code or CodeX CLI to perform multiple tasks in parallel with a Codex-style UI, functioning as a personal codex or cursor-background agent.
-  - [**ccmanager**](https://github.com/kbwo/ccmanager): Claude Code / Gemini CLI / Codex CLI Session Manager.
-  - [**cctrace**](https://github.com/jimmc414/cctrace): Export Claude Code chat sessions into markdown and XML.
-  - [**ccundo**](https://github.com/RonitSachdev/ccundo): Integrates seamlessly with Claude Code to provide granular undo functionality by reading directly from Claude Code's session files.
-  - [**ccusage**](https://github.com/ryoppippi/ccusage): A CLI tool for analyzing Claude Code usage from local JSONL files.
-  - [**CCSeva**](https://github.com/Iamshankhadeep/ccseva): A beautiful macOS menu bar app for tracking your Claude Code usage in real-time.
-  - [**claude-code-hooks-multi-agent-observability**](https://github.com/disler/claude-code-hooks-multi-agent-observability): Real-time monitoring for Claude Code agents through simple hook event tracking.
-  - [**Claude-Code-Usage-Monitor**](https://github.com/Maciek-roboblog/Claude-Code-Usage-Monitor): A real-time Claude Code usage monitor with predictions and warnings.
-  - [**claude-code-templates**](https://github.com/davila7/claude-code-templates): A CLI tool for configuring and monitoring Claude Code.
-  - [**claudebox**](https://github.com/RchGrav/claudebox): A Claude Code Docker Development Environment for running Claude AI's coding assistant in a fully containerized, reproducible environment.
-  - [**context-forge**](https://github.com/webdevtodayjason/context-forge): CLI tool that scaffolds context engineering documentation for Claude Code projects.
-  - [**rins\_hooks**](https://github.com/rinadelph/rins_hooks): Universal Claude Code hooks collection with cross-platform installer.
-  - [**claude-code-spec-workflow**](https://github.com/Pimzino/claude-code-spec-workflow): Automated Kiro-style Spec workflow for Claude Code. Transform feature ideas into complete implementations through Requirements → Design → Tasks → Implementation.
-  - [**cc-monitor-worker**](https://github.com/cometkim/cc-monitor-worker): Claude Code monitoring with Cloudflare Workers & Workers Analytics Engine.
-  - [**crystal**](https://github.com/stravu/crystal): Run multiple Claude Code AI sessions in parallel git worktrees.
-  - [**win-claude-code**](https://github.com/somersby10ml/win-claude-code): Claude Code for Windows: No WSL. No Docker. Just code.
-  - [**claude-prune**](https://github.com/DannyAziz/claude-prune): A fast CLI tool for pruning Claude Code sessions.
-  - [**claude-code-boost**](https://github.com/yifanzz/claude-code-boost): Hook utilities for Claude Code with intelligent auto-approval.
-  - [**tdd-guard**](https://github.com/nizos/tdd-guard): Automated TDD enforcement for Claude Code.
-  - [**conductor**](https://conductor.build/): Run a bunch of Claude Codes in parallel.
-  - [**tweakcc**](https://github.com/Piebald-AI/tweakcc): Command-line tool to customize your Claude Code styling.
-
------
-
 ## Guides & Learning Resources
 
   - [**agent-rules**](https://github.com/steipete/agent-rules): Rules and knowledge to work better with agents such as Claude Code or Cursor.
@@ -162,6 +179,7 @@ A curated list of awesome tools, integrations, extensions, plugins, frameworks, 
   - [**agent-rules**](https://github.com/steipete/agent-rules): Rules and Knowledge to work better with agents such as Claude Code or Cursor
 
 -----
+
 
 ## Alternatives to Claude Code
 
