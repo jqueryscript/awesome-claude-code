@@ -59,6 +59,7 @@ A curated list of awesome tools, integrations, extensions, plugins, frameworks, 
   - [**claude-code-boost**](https://github.com/yifanzz/claude-code-boost): Hook utilities for Claude Code with intelligent auto-approval.
   - [**tdd-guard**](https://github.com/nizos/tdd-guard): Automated TDD enforcement for Claude Code.
   - [**conductor**](https://conductor.build/): Run a bunch of Claude Codes in parallel.
+  - [**tweakcc**](https://github.com/Piebald-AI/tweakcc): Command-line tool to customize your Claude Code styling.
   - [**ccguard**](https://github.com/pomterre/ccguard): Automated enforcement of net-negative LOC, complexity constraints, and quality standards for Claude code.
   - [**claude-code-specs-generator**](https://github.com/kellemar/claude-code-specs-generator): A documentation and context management system for AI-assisted development, inspired by Amazon's Kiro IDE.
   - [**cc-monitor-rs**](https://github.com/ZhangHanDong/cc-monitor-rs): Real-time Claude Code usage monitor with native UI built using Rust and Makepad.
