@@ -145,6 +145,7 @@ A curated list of awesome tools, integrations, extensions, plugins, frameworks, 
 - [**claude-code-sdk-ts**](https://github.com/instantlyeasy/claude-code-sdk-ts): Configure models, enable tools, stream events, then fetch text, JSON, run details or token stats in one call via .asText() or .allowTools('Read', 'Write').
 - [**claude-code-typescript-hooks**](https://github.com/bartolli/claude-code-typescript-hooks): Fast, intelligent quality checks for different project types.
 - [**claude-code-api-rs**](https://github.com/ZhangHanDong/claude-code-api-rs): A high-performance Rust implementation of an OpenAI-compatible API gateway for Claude Code CLI.
+- [**claude-code-typescript-hooks**](https://github.com/bartolli/claude-code-typescript-hooks): Fast, intelligent quality checks for different project types.
 
 ---
 
