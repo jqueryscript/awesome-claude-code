@@ -54,6 +54,7 @@ A curated list of awesome tools, integrations, extensions, plugins, frameworks, 
 - [**claude-code-specs-generator**](https://github.com/kellemar/claude-code-specs-generator): A documentation and context management system for AI-assisted development, inspired by Amazon's Kiro IDE.
 - [**cc-monitor-rs**](https://github.com/ZhangHanDong/cc-monitor-rs): Real-time Claude Code usage monitor with native UI built using Rust and Makepad.
 - [**claude-self-reflect**](https://github.com/ramakay/claude-self-reflect): Claude forgets everything. This fixes that.
+- [**tweakcc**](https://github.com/Piebald-AI/tweakcc): Command-line tool to customize your Claude Code styling.
 
 ---
 
