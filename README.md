@@ -55,6 +55,7 @@ A curated list of awesome tools, integrations, extensions, plugins, frameworks, 
 - [**cc-monitor-rs**](https://github.com/ZhangHanDong/cc-monitor-rs): Real-time Claude Code usage monitor with native UI built using Rust and Makepad.
 - [**claude-self-reflect**](https://github.com/ramakay/claude-self-reflect): Claude forgets everything. This fixes that.
 - [**tweakcc**](https://github.com/Piebald-AI/tweakcc): Command-line tool to customize your Claude Code styling.
+- [**Claude-Code-Remote**](https://github.com/JessyTsui/Claude-Code-Remote): Control Claude Code remotely via email. Start tasks locally, receive notifications when Claude completes them, and send new commands by simply replying to emails.
 
 ---
 
