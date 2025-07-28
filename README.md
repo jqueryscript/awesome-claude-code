@@ -56,6 +56,8 @@ A curated list of awesome tools, integrations, extensions, plugins, frameworks, 
 - [**claude-self-reflect**](https://github.com/ramakay/claude-self-reflect): Claude forgets everything. This fixes that.
 - [**tweakcc**](https://github.com/Piebald-AI/tweakcc): Command-line tool to customize your Claude Code styling.
 - [**Claude-Code-Remote**](https://github.com/JessyTsui/Claude-Code-Remote): Control Claude Code remotely via email. Start tasks locally, receive notifications when Claude completes them, and send new commands by simply replying to emails.
+- [**CCPlugins**](https://github.com/brennercruvinel/CCPlugins): Claude Code Plugins that actually save time. Built by a dev tired of typing please act like a senior engineer in every conversation.
+- [**cipher**](https://github.com/campfirein/cipher): An opensource memory layer specifically designed for coding agents.
 
 ---
 
