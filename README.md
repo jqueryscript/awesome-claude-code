@@ -58,6 +58,10 @@ A curated list of awesome tools, integrations, extensions, plugins, frameworks, 
 - [**Claude-Code-Remote**](https://github.com/JessyTsui/Claude-Code-Remote): Control Claude Code remotely via email. Start tasks locally, receive notifications when Claude completes them, and send new commands by simply replying to emails.
 - [**CCPlugins**](https://github.com/brennercruvinel/CCPlugins): Claude Code Plugins that actually save time. Built by a dev tired of typing please act like a senior engineer in every conversation.
 - [**cipher**](https://github.com/campfirein/cipher): An opensource memory layer specifically designed for coding agents.
+- [**claude-hub**](https://github.com/claude-did-this/claude-hub): Deploy Claude Code as a fully autonomous GitHub bot.
+- [**laravel-claude-code-setup**](https://github.com/laraben/laravel-claude-code-setup): One-command setup for AI-powered Laravel development with Claude Code and MCP servers.
+- [**claude-code-containers**](https://github.com/ghostwriternr/claude-code-containers): Use Claude Code on Cloudflare to solve GitHub issues.
+- [**claude-code-log**](https://github.com/daaain/claude-code-log): A Python CLI tool that converts Claude Code transcript JSONL files into readable HTML format.
 
 ---
 
@@ -80,6 +84,7 @@ A curated list of awesome tools, integrations, extensions, plugins, frameworks, 
 - [**minuet-ai.nvim**](https://github.com/milanglacier/minuet-ai.nvim): Code completion as-you-type from popular LLMs including OpenAI, Gemini, Claude, Ollama.
 - [**n8n-nodes-claudecode**](https://github.com/holt-web-ai/n8n-nodes-claudecode): Bring the power of Claude Code directly into your n8n automation workflows!
 - [**claude-code-chat**](https://github.com/andrepimenta/claude-code-chat): Beautiful Claude Code Chat Interface for VS Code.
+- [**claude-code-ide.el**](https://github.com/manzaltu/claude-code-ide.el): Claude Code IDE for Emacs provides native integration with Claude Code CLI through the Model Context Protocol (MCP).
 
 ---
 
@@ -111,6 +116,7 @@ A curated list of awesome tools, integrations, extensions, plugins, frameworks, 
 - [**claude_code_agent_farm**](https://github.com/Dicklesworthstone/claude_code_agent_farm): A powerful orchestration framework that runs multiple Claude Code (cc) sessions in parallel to systematically improve your codebase.
 - [**Specialized AI Agents**](https://github.com/Dimillian/Claude): This directory contains specialized AI agent definitions used by Claude Code to handle complex, domain-specific tasks.
 - [**awesome-claude-agents**](https://github.com/vijaythecoder/awesome-claude-agents): Supercharge Claude Code with a team of specialized AI agents that work together to build complete features, debug complex issues, and handle any technology stack with expert-level knowledge.
+- [**OpenAgents**](https://github.com/OpenAgentsInc/openagents): Seamlessly integrate Claude Code's AI development capabilities across desktop and mobile with real-time synchronization.
 
 ---
 
@@ -137,6 +143,7 @@ A curated list of awesome tools, integrations, extensions, plugins, frameworks, 
 - [**zen-mcp-server**](https://github.com/BeehiveInnovations/zen-mcp-server): The power of Claude Code + Gemini / OpenAI / Grok / OpenRouter / Ollama / Custom Model working as one.
 - [**codemcp**](https://github.com/ezyang/codemcp): Coding assistant MCP for Claude Desktop.
 - [**claude-balancer**](https://github.com/snipeship/claude-balancer): A load balancer proxy for multiple Claude OAuth accounts with automatic failover, request tracking, and web dashboard.
+- [**claude-gemini-bridge**](https://github.com/tkaufmann/claude-gemini-bridge): Intelligent integration between Claude Code and Google Gemini for large-scale code analysis.
 
 ---
 
@@ -163,6 +170,7 @@ A curated list of awesome tools, integrations, extensions, plugins, frameworks, 
 - [**Sniffly**](https://github.com/chiphuyen/sniffly): Claude Code dashboard with usage stats, error analysis, and sharable feature.
 - [**claudecodeui**](https://github.com/siteboon/claudecodeui): A desktop and mobile UI for Claude Code, Anthropic's official CLI for AI-assisted coding.
 - [**vibe-kanban**](https://github.com/BloopAI/vibe-kanban): Get 10X more out of Claude Code, Gemini CLI, Codex, Amp and other coding agents.
+- [**claude-code-costs**](https://github.com/philipp-spiess/claude-code-costs): Analyze your Claude Code conversation costs with interactive visualizations.
 
 ---
 
