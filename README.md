@@ -62,6 +62,8 @@ A curated list of awesome tools, integrations, extensions, plugins, frameworks, 
 - [**laravel-claude-code-setup**](https://github.com/laraben/laravel-claude-code-setup): One-command setup for AI-powered Laravel development with Claude Code and MCP servers.
 - [**claude-code-containers**](https://github.com/ghostwriternr/claude-code-containers): Use Claude Code on Cloudflare to solve GitHub issues.
 - [**claude-code-log**](https://github.com/daaain/claude-code-log): A Python CLI tool that converts Claude Code transcript JSONL files into readable HTML format.
+- [**claude-setup**](https://github.com/AizenvoltPrime/claude-setup): A comprehensive configuration setup for Claude Code with Model Context Protocol (MCP) servers, custom commands, and automated workflows.
+- [**claude-code-leaderboard**](https://github.com/grp06/claude-code-leaderboard): This CLI automatically monitors your token usage and posts your stats to the leaderboard after each Claude Code session.
 
 ---
 
@@ -144,6 +146,7 @@ A curated list of awesome tools, integrations, extensions, plugins, frameworks, 
 - [**codemcp**](https://github.com/ezyang/codemcp): Coding assistant MCP for Claude Desktop.
 - [**claude-balancer**](https://github.com/snipeship/claude-balancer): A load balancer proxy for multiple Claude OAuth accounts with automatic failover, request tracking, and web dashboard.
 - [**claude-gemini-bridge**](https://github.com/tkaufmann/claude-gemini-bridge): Intelligent integration between Claude Code and Google Gemini for large-scale code analysis.
+- [**ccflare**](https://github.com/snipeship/ccflare): The ultimate Claude API proxy with intelligent load balancing across multiple accounts.
 
 ---
 
