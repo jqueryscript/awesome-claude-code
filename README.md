@@ -73,6 +73,9 @@ A curated list of awesome tools, integrations, extensions, plugins, frameworks, 
   - [**agents**](https://github.com/wshobson/agents): A collection of production-ready subagents for Claude Code.
   - [**sub-agents**](https://github.com/webdevtodayjason/sub-agents): A simple Manager for adding Claude Code Sub Agents with hooks and custom slash commands.
   - [**claude-code-subagents-collection**](https://github.com/davepoon/claude-code-subagents-collection): A comprehensive collection of specialized AI subagents for Claude Code, designed to enhance development workflows with domain-specific expertise.
+  - [**claude-code-sub-agents**](https://github.com/lst97/claude-code-sub-agents): Collection of specialized AI subagents for Claude Code for personal use.
+  - [**awesome-claude-code-agents**](https://github.com/hesreallyhim/awesome-claude-code-agents): A curated list of awesome Claude Code Sub-Agents.
+  - [**claude-sub-agent**](https://github.com/zhsama/claude-sub-agent): AI-driven development workflow system built on Claude Code Sub-Agents.
 
 ---
 
@@ -103,6 +106,7 @@ A curated list of awesome tools, integrations, extensions, plugins, frameworks, 
 - [**SuperClaude_Framework**](https://github.com/SuperClaude-Org/SuperClaude_Framework): A configuration framework that enhances Claude Code with specialized commands, cognitive personas, and development methodologies.
 - [**claude-commands**](https://github.com/badlogic/claude-commands): Global Claude Code commands and workflows.
 - [**spec-based-claude-code**](https://github.com/papaoloba/spec-based-claude-code): Implementation of a Spec-Driven Development workflow in Claude Code using custom slash commands.
+- [**claude-modular**](https://github.com/oxygen-fragment/claude-modular): Production-ready modular Claude Code framework with 30+ commands, token optimization, and MCP server integration.
 
 ---
 
@@ -174,6 +178,7 @@ A curated list of awesome tools, integrations, extensions, plugins, frameworks, 
 - [**claudecodeui**](https://github.com/siteboon/claudecodeui): A desktop and mobile UI for Claude Code, Anthropic's official CLI for AI-assisted coding.
 - [**vibe-kanban**](https://github.com/BloopAI/vibe-kanban): Get 10X more out of Claude Code, Gemini CLI, Codex, Amp and other coding agents.
 - [**claude-code-costs**](https://github.com/philipp-spiess/claude-code-costs): Analyze your Claude Code conversation costs with interactive visualizations.
+- [**cui**](https://github.com/BMPixel/cui): A web UI for Claude Code agents.
 
 ---
 
@@ -190,6 +195,7 @@ A curated list of awesome tools, integrations, extensions, plugins, frameworks, 
 - [**claude-code-guide**](https://github.com/zebbern/claude-code-guide): A full guide on Claude tips and tricks, optimizing Claude Code, and finding every command possible.
 - [**claude-code-hooks-mastery**](https://github.com/disler/claude-code-hooks-mastery): A resource for mastering Claude Code hooks.
 - [**claude-code-is-programmable**](https://github.com/disler/claude-code-is-programmable): Scale your compute with Claude Code as a programmable agentic coding tool.
+- [**claude-code-mcpinstall**](https://github.com/undeadpickle/claude-code-mcpinstall): Easy guide to installing Claude Code MCPs globally on your machine.
 
 ---
 
