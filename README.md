@@ -64,6 +64,7 @@ A curated list of awesome tools, integrations, extensions, plugins, frameworks, 
 - [**claude-code-log**](https://github.com/daaain/claude-code-log): A Python CLI tool that converts Claude Code transcript JSONL files into readable HTML format.
 - [**claude-setup**](https://github.com/AizenvoltPrime/claude-setup): A comprehensive configuration setup for Claude Code with Model Context Protocol (MCP) servers, custom commands, and automated workflows.
 - [**claude-code-leaderboard**](https://github.com/grp06/claude-code-leaderboard): This CLI automatically monitors your token usage and posts your stats to the leaderboard after each Claude Code session.
+- [**claude-code-sandbox**](https://github.com/textcortex/claude-code-sandbox): Run Claude Code safely in local Docker containers without having to approve every permission.
 
 ---
 
@@ -76,6 +77,7 @@ A curated list of awesome tools, integrations, extensions, plugins, frameworks, 
   - [**claude-code-sub-agents**](https://github.com/lst97/claude-code-sub-agents): Collection of specialized AI subagents for Claude Code for personal use.
   - [**awesome-claude-code-agents**](https://github.com/hesreallyhim/awesome-claude-code-agents): A curated list of awesome Claude Code Sub-Agents.
   - [**claude-sub-agent**](https://github.com/zhsama/claude-sub-agent): AI-driven development workflow system built on Claude Code Sub-Agents.
+  - [**claude-code-subagents**](https://github.com/NicholasSpisak/claude-code-subagents): A collection of specialized AI agent personas designed to work seamlessly with Claude Code's Task tool, providing expert-level assistance across the full spectrum of software development challenges.
 
 ---
 
@@ -107,6 +109,7 @@ A curated list of awesome tools, integrations, extensions, plugins, frameworks, 
 - [**claude-commands**](https://github.com/badlogic/claude-commands): Global Claude Code commands and workflows.
 - [**spec-based-claude-code**](https://github.com/papaoloba/spec-based-claude-code): Implementation of a Spec-Driven Development workflow in Claude Code using custom slash commands.
 - [**claude-modular**](https://github.com/oxygen-fragment/claude-modular): Production-ready modular Claude Code framework with 30+ commands, token optimization, and MCP server integration.
+- [**commands**](https://github.com/wshobson/commands): A collection of production-ready slash commands for Claude Code.
 
 ---
 
@@ -182,10 +185,11 @@ A curated list of awesome tools, integrations, extensions, plugins, frameworks, 
 
 ---
 
-## GitHub Actions
+## GitHub Integration
 
 - [**claude-code-action**](https://github.com/anthropics/claude-code-action): A general-purpose Claude Code action for GitHub PRs and issues that can answer questions and implement code changes.
 - [**claude-code-base-action**](https://github.com/anthropics/claude-code-base-action): A Claude Code base action.
+- [**SuperClaude**](https://github.com/gwendall/superclaude): Supercharge your GitHub workflow with Claude AI.
 
 ---
 
