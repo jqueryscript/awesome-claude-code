@@ -78,6 +78,7 @@ A curated list of awesome tools, integrations, extensions, plugins, frameworks, 
   - [**awesome-claude-code-agents**](https://github.com/hesreallyhim/awesome-claude-code-agents): A curated list of awesome Claude Code Sub-Agents.
   - [**claude-sub-agent**](https://github.com/zhsama/claude-sub-agent): AI-driven development workflow system built on Claude Code Sub-Agents.
   - [**claude-code-subagents**](https://github.com/NicholasSpisak/claude-code-subagents): A collection of specialized AI agent personas designed to work seamlessly with Claude Code's Task tool, providing expert-level assistance across the full spectrum of software development challenges.
+  - [**claude-code-subagents**](https://github.com/0xfurai/claude-code-subagents): A comprehensive collection of 100+ production-ready development subagents for Claude Code.
 
 ---
 
@@ -126,6 +127,7 @@ A curated list of awesome tools, integrations, extensions, plugins, frameworks, 
 - [**Specialized AI Agents**](https://github.com/Dimillian/Claude): This directory contains specialized AI agent definitions used by Claude Code to handle complex, domain-specific tasks.
 - [**awesome-claude-agents**](https://github.com/vijaythecoder/awesome-claude-agents): Supercharge Claude Code with a team of specialized AI agents that work together to build complete features, debug complex issues, and handle any technology stack with expert-level knowledge.
 - [**OpenAgents**](https://github.com/OpenAgentsInc/openagents): Seamlessly integrate Claude Code's AI development capabilities across desktop and mobile with real-time synchronization.
+- [**ClaudeCodeAgents**](https://github.com/darcyegb/ClaudeCodeAgents): A set of useful QA agents for Claude Code.
 
 ---
 
@@ -200,6 +202,7 @@ A curated list of awesome tools, integrations, extensions, plugins, frameworks, 
 - [**claude-code-hooks-mastery**](https://github.com/disler/claude-code-hooks-mastery): A resource for mastering Claude Code hooks.
 - [**claude-code-is-programmable**](https://github.com/disler/claude-code-is-programmable): Scale your compute with Claude Code as a programmable agentic coding tool.
 - [**claude-code-mcpinstall**](https://github.com/undeadpickle/claude-code-mcpinstall): Easy guide to installing Claude Code MCPs globally on your machine.
+- [**claude-code-system-prompt**](https://github.com/matthew-lim-matthew-lim/claude-code-system-prompt): Claude Code's system prompt.
 
 ---
 
