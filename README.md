@@ -128,6 +128,7 @@ A curated list of awesome tools, integrations, extensions, plugins, frameworks, 
 - [**awesome-claude-agents**](https://github.com/vijaythecoder/awesome-claude-agents): Supercharge Claude Code with a team of specialized AI agents that work together to build complete features, debug complex issues, and handle any technology stack with expert-level knowledge.
 - [**OpenAgents**](https://github.com/OpenAgentsInc/openagents): Seamlessly integrate Claude Code's AI development capabilities across desktop and mobile with real-time synchronization.
 - [**ClaudeCodeAgents**](https://github.com/darcyegb/ClaudeCodeAgents): A set of useful QA agents for Claude Code.
+- [**multi-agent-squad**](https://github.com/bijutharakan/multi-agent-squad): Production-ready multi-agent orchestration framework for Claude Code.
 
 ---
 
