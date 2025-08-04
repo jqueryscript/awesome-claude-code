@@ -79,6 +79,7 @@ A curated list of awesome tools, integrations, extensions, plugins, frameworks, 
   - [**claude-sub-agent**](https://github.com/zhsama/claude-sub-agent): AI-driven development workflow system built on Claude Code Sub-Agents.
   - [**claude-code-subagents**](https://github.com/NicholasSpisak/claude-code-subagents): A collection of specialized AI agent personas designed to work seamlessly with Claude Code's Task tool, providing expert-level assistance across the full spectrum of software development challenges.
   - [**claude-code-subagents**](https://github.com/0xfurai/claude-code-subagents): A comprehensive collection of 100+ production-ready development subagents for Claude Code.
+  - [**claude-code-unified-agents**](https://github.com/stretchcloud/claude-code-unified-agents): A comprehensive collection of specialized Claude Code sub-agents combining the best features from multiple community repositories. 
 
 ---
 
