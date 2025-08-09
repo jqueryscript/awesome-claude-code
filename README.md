@@ -65,6 +65,7 @@ A curated list of awesome tools, integrations, extensions, plugins, frameworks, 
 - [**claude-setup**](https://github.com/AizenvoltPrime/claude-setup): A comprehensive configuration setup for Claude Code with Model Context Protocol (MCP) servers, custom commands, and automated workflows.
 - [**claude-code-leaderboard**](https://github.com/grp06/claude-code-leaderboard): This CLI automatically monitors your token usage and posts your stats to the leaderboard after each Claude Code session.
 - [**claude-code-sandbox**](https://github.com/textcortex/claude-code-sandbox): Run Claude Code safely in local Docker containers without having to approve every permission.
+- [**ccstatusline**](https://github.com/sirmalloc/ccstatusline): A customizable status line formatter for Claude Code CLI that displays model info, git branch, token usage, and other metrics in your terminal.
 
 ---
 
