@@ -25,6 +25,7 @@ A curated list of awesome tools, integrations, extensions, plugins, frameworks, 
 
 - [**claude-code**](https://github.com/anthropics/claude-code): Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routines.
 - [**claude-code-sdk-python**](https://github.com/anthropics/claude-code-sdk-python): The official Python SDK for Claude Code.
+- [**claude-code-security-review**](https://github.com/anthropics/claude-code-security-review): An AI-powered security review GitHub Action using Claude to analyze code changes for security vulnerabilities.
 
 ---
 
@@ -131,6 +132,7 @@ A curated list of awesome tools, integrations, extensions, plugins, frameworks, 
 - [**OpenAgents**](https://github.com/OpenAgentsInc/openagents): Seamlessly integrate Claude Code's AI development capabilities across desktop and mobile with real-time synchronization.
 - [**ClaudeCodeAgents**](https://github.com/darcyegb/ClaudeCodeAgents): A set of useful QA agents for Claude Code.
 - [**multi-agent-squad**](https://github.com/bijutharakan/multi-agent-squad): Production-ready multi-agent orchestration framework for Claude Code.
+- [**dotclaude**](https://github.com/FradSer/dotclaude): A comprehensive development environment with specialized AI agents for code review, security analysis, and technical leadership.
 
 ---
 
