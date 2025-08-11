@@ -219,6 +219,7 @@ A curated list of awesome tools, integrations, extensions, plugins, frameworks, 
 - [**opencoder**](https://github.com/ducan-ne/opencoder): An alternative to Claude Code.
 - [**grok-cli**](https://github.com/superagent-ai/grok-cli): An open-source AI agent that brings the power of Grok directly into your terminal.
 - [**qwen-code**](https://github.com/QwenLM/qwen-code): A command-line AI workflow tool adapted from Gemini CLI, optimized for Qwen3-Coder models with enhanced parser support & tool support.
+- [**octofriend**](https://github.com/synthetic-lab/octofriend): An open-source coding helper. Very friendly!
 
 ---
 
