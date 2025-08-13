@@ -67,6 +67,9 @@ A curated list of awesome tools, integrations, extensions, plugins, frameworks, 
 - [**claude-code-leaderboard**](https://github.com/grp06/claude-code-leaderboard): This CLI automatically monitors your token usage and posts your stats to the leaderboard after each Claude Code session.
 - [**claude-code-sandbox**](https://github.com/textcortex/claude-code-sandbox): Run Claude Code safely in local Docker containers without having to approve every permission.
 - [**ccstatusline**](https://github.com/sirmalloc/ccstatusline): A customizable status line formatter for Claude Code CLI that displays model info, git branch, token usage, and other metrics in your terminal.
+- [**claude-code-studio**](https://github.com/arnaldo-delisio/claude-code-studio): Transform Claude Code into a complete development studio with 40+ specialized AI agents, MCP integrations, and enterprise-grade workflows.
+- [**claude-powerline**](https://github.com/Owloops/claude-powerline): Beautiful vim-style powerline statusline for Claude Code.
+- [**flashbacker**](https://github.com/agentsea/flashbacker): Claude Code state management with session continuity and AI personas, subagents and agent discussion.
 
 ---
 
