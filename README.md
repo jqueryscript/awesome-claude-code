@@ -70,6 +70,11 @@ A curated list of awesome tools, integrations, extensions, plugins, frameworks, 
 - [**claude-code-studio**](https://github.com/arnaldo-delisio/claude-code-studio): Transform Claude Code into a complete development studio with 40+ specialized AI agents, MCP integrations, and enterprise-grade workflows.
 - [**claude-powerline**](https://github.com/Owloops/claude-powerline): Beautiful vim-style powerline statusline for Claude Code.
 - [**flashbacker**](https://github.com/agentsea/flashbacker): Claude Code state management with session continuity and AI personas, subagents and agent discussion.
+- [**claude-code-configs**](https://github.com/Matt-Dionis/claude-code-configs): A comprehensive collection of production-grade Claude Code configurations, specialized agents, and automation workflows for optimizing AI-assisted development.
+- [**CCometixLine**](https://github.com/Haleclipse/CCometixLine): A high-performance Claude Code statusline tool written in Rust with Git integration and real-time usage tracking.
+- [**pyccsl**](https://github.com/wolfdenpublishing/pyccsl): Python Claude Code Status Line (PyCCSL, pronounced "pixel").
+- [**cc-statusline**](https://github.com/chongdashu/cc-statusline): Transform your Claude Code experience with a beautiful, informative statusline.
+- [**run-claude-docker**](https://github.com/icanhasjonas/run-claude-docker): Run claude code in somewhat safe and isolated yolo mode.
 
 ---
 
