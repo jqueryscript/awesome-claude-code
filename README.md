@@ -75,6 +75,8 @@ A curated list of awesome tools, integrations, extensions, plugins, frameworks, 
 - [**pyccsl**](https://github.com/wolfdenpublishing/pyccsl): Python Claude Code Status Line (PyCCSL, pronounced "pixel").
 - [**cc-statusline**](https://github.com/chongdashu/cc-statusline): Transform your Claude Code experience with a beautiful, informative statusline.
 - [**run-claude-docker**](https://github.com/icanhasjonas/run-claude-docker): Run claude code in somewhat safe and isolated yolo mode.
+- [**Claude Code Tamagotchi**](https://github.com/Ido-Levi/claude-code-tamagotchi): A digital friend that lives in your Claude Code statusline and keeps you company while you build cool stuff.
+- [**claude-code-test-runner**](https://github.com/firstloophq/claude-code-test-runner): An automated E2E natural language test runner built on Claude Code.
 
 ---
 
@@ -169,6 +171,7 @@ A curated list of awesome tools, integrations, extensions, plugins, frameworks, 
 - [**claude-balancer**](https://github.com/snipeship/claude-balancer): A load balancer proxy for multiple Claude OAuth accounts with automatic failover, request tracking, and web dashboard.
 - [**claude-gemini-bridge**](https://github.com/tkaufmann/claude-gemini-bridge): Intelligent integration between Claude Code and Google Gemini for large-scale code analysis.
 - [**ccflare**](https://github.com/snipeship/ccflare): The ultimate Claude API proxy with intelligent load balancing across multiple accounts.
+- [**claude-code-nexus**](https://github.com/KroMiose/claude-code-nexus): Seamlessly forward Claude Code requests to any OpenAI-compatible API service with smart model mapping, streaming support, deployed on Cloudflare Worker.
 
 ---
 
@@ -197,6 +200,7 @@ A curated list of awesome tools, integrations, extensions, plugins, frameworks, 
 - [**vibe-kanban**](https://github.com/BloopAI/vibe-kanban): Get 10X more out of Claude Code, Gemini CLI, Codex, Amp and other coding agents.
 - [**claude-code-costs**](https://github.com/philipp-spiess/claude-code-costs): Analyze your Claude Code conversation costs with interactive visualizations.
 - [**cui**](https://github.com/BMPixel/cui): A web UI for Claude Code agents.
+- [**Claude in a Box**](https://github.com/juancgarza/claude-in-a-box): A ChatGPT Canvas-style interface for Claude Code running in E2B sandboxes. 
 
 ---
 
