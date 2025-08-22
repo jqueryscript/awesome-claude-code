@@ -78,6 +78,7 @@ A curated list of awesome tools, integrations, extensions, plugins, frameworks, 
 - [**Claude Code Tamagotchi**](https://github.com/Ido-Levi/claude-code-tamagotchi): A digital friend that lives in your Claude Code statusline and keeps you company while you build cool stuff.
 - [**claude-code-test-runner**](https://github.com/firstloophq/claude-code-test-runner): An automated E2E natural language test runner built on Claude Code.
 - [**ccpm**](https://github.com/automazeio/ccpm): Project management system for Claude Code using GitHub Issues and Git worktrees for parallel agent execution.
+- [**claude-flow**](https://github.com/ruvnet/claude-flow): An enterprise-grade AI orchestration platform that reimagines how developers build with AI.
 
 ---
 
