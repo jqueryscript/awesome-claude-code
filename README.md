@@ -8,6 +8,7 @@ A curated list of awesome tools, integrations, extensions, plugins, frameworks, 
 
 - [Official Resources](#official-resources)
 - [Tools & Utilities](#tools--utilities)
+- [Usage Tracker](#usage-Tracker)
 - [Sub Agents](#sub-agents)
 - [IDE & Editor Integrations](#ide--editor-integrations)
 - [Custom Commands & Frameworks](#custom-commands--frameworks)
@@ -35,10 +36,7 @@ A curated list of awesome tools, integrations, extensions, plugins, frameworks, 
 - [**ccmanager**](https://github.com/kbwo/ccmanager): Claude Code / Gemini CLI / Codex CLI Session Manager.
 - [**cctrace**](https://github.com/jimmc414/cctrace): Export Claude Code chat sessions into markdown and XML.
 - [**ccundo**](https://github.com/RonitSachdev/ccundo): Integrates seamlessly with Claude Code to provide granular undo functionality by reading directly from Claude Code's session files.
-- [**ccusage**](https://github.com/ryoppippi/ccusage): A CLI tool for analyzing Claude Code usage from local JSONL files.
-- [**CCSeva**](https://github.com/Iamshankhadeep/ccseva): A beautiful macOS menu bar app for tracking your Claude Code usage in real-time.
 - [**claude-code-hooks-multi-agent-observability**](https://github.com/disler/claude-code-hooks-multi-agent-observability): Real-time monitoring for Claude Code agents through simple hook event tracking.
-- [**Claude-Code-Usage-Monitor**](https://github.com/Maciek-roboblog/Claude-Code-Usage-Monitor): A real-time Claude Code usage monitor with predictions and warnings.
 - [**claude-code-templates**](https://github.com/davila7/claude-code-templates): A CLI tool for configuring and monitoring Claude Code.
 - [**claudebox**](https://github.com/RchGrav/claudebox): A Claude Code Docker Development Environment for running Claude AI's coding assistant in a fully containerized, reproducible environment.
 - [**context-forge**](https://github.com/webdevtodayjason/context-forge): CLI tool that scaffolds context engineering documentation for Claude Code projects.
@@ -64,21 +62,34 @@ A curated list of awesome tools, integrations, extensions, plugins, frameworks, 
 - [**claude-code-containers**](https://github.com/ghostwriternr/claude-code-containers): Use Claude Code on Cloudflare to solve GitHub issues.
 - [**claude-code-log**](https://github.com/daaain/claude-code-log): A Python CLI tool that converts Claude Code transcript JSONL files into readable HTML format.
 - [**claude-setup**](https://github.com/AizenvoltPrime/claude-setup): A comprehensive configuration setup for Claude Code with Model Context Protocol (MCP) servers, custom commands, and automated workflows.
-- [**claude-code-leaderboard**](https://github.com/grp06/claude-code-leaderboard): This CLI automatically monitors your token usage and posts your stats to the leaderboard after each Claude Code session.
 - [**claude-code-sandbox**](https://github.com/textcortex/claude-code-sandbox): Run Claude Code safely in local Docker containers without having to approve every permission.
-- [**ccstatusline**](https://github.com/sirmalloc/ccstatusline): A customizable status line formatter for Claude Code CLI that displays model info, git branch, token usage, and other metrics in your terminal.
 - [**claude-code-studio**](https://github.com/arnaldo-delisio/claude-code-studio): Transform Claude Code into a complete development studio with 40+ specialized AI agents, MCP integrations, and enterprise-grade workflows.
 - [**claude-powerline**](https://github.com/Owloops/claude-powerline): Beautiful vim-style powerline statusline for Claude Code.
 - [**flashbacker**](https://github.com/agentsea/flashbacker): Claude Code state management with session continuity and AI personas, subagents and agent discussion.
 - [**claude-code-configs**](https://github.com/Matt-Dionis/claude-code-configs): A comprehensive collection of production-grade Claude Code configurations, specialized agents, and automation workflows for optimizing AI-assisted development.
-- [**CCometixLine**](https://github.com/Haleclipse/CCometixLine): A high-performance Claude Code statusline tool written in Rust with Git integration and real-time usage tracking.
-- [**pyccsl**](https://github.com/wolfdenpublishing/pyccsl): Python Claude Code Status Line (PyCCSL, pronounced "pixel").
-- [**cc-statusline**](https://github.com/chongdashu/cc-statusline): Transform your Claude Code experience with a beautiful, informative statusline.
 - [**run-claude-docker**](https://github.com/icanhasjonas/run-claude-docker): Run claude code in somewhat safe and isolated yolo mode.
 - [**Claude Code Tamagotchi**](https://github.com/Ido-Levi/claude-code-tamagotchi): A digital friend that lives in your Claude Code statusline and keeps you company while you build cool stuff.
 - [**claude-code-test-runner**](https://github.com/firstloophq/claude-code-test-runner): An automated E2E natural language test runner built on Claude Code.
 - [**ccpm**](https://github.com/automazeio/ccpm): Project management system for Claude Code using GitHub Issues and Git worktrees for parallel agent execution.
 - [**claude-flow**](https://github.com/ruvnet/claude-flow): An enterprise-grade AI orchestration platform that reimagines how developers build with AI.
+- [**ccpm**](https://github.com/automazeio/ccpm): Project management system for Claude Code using GitHub Issues and Git worktrees for parallel agent execution.
+- [**claude-code-container**](https://github.com/tintinweb/claude-code-container): A Docker container for running Claude Code in "dangerously skip permissions" mode.
+- [**claude-code-voice**](https://github.com/mckaywrigley/claude-code-voice): Hands-free voice control for Claude Code on macOS.
+
+---
+
+## Usage Tracker
+
+- [**ccusage**](https://github.com/ryoppippi/ccusage): A CLI tool for analyzing Claude Code usage from local JSONL files.
+- [**CCSeva**](https://github.com/Iamshankhadeep/ccseva): A beautiful macOS menu bar app for tracking your Claude Code usage in real-time.
+- [**Claude-Code-Usage-Monitor**](https://github.com/Maciek-roboblog/Claude-Code-Usage-Monitor): A real-time Claude Code usage monitor with predictions and warnings.
+- [**claude-code-leaderboard**](https://github.com/grp06/claude-code-leaderboard): This CLI automatically monitors your token usage and posts your stats to the leaderboard after each Claude Code session.
+- [**ccstatusline**](https://github.com/sirmalloc/ccstatusline): A customizable status line formatter for Claude Code CLI that displays model info, git branch, token usage, and other metrics in your terminal.
+- [**CCometixLine**](https://github.com/Haleclipse/CCometixLine): A high-performance Claude Code statusline tool written in Rust with Git integration and real-time usage tracking.
+- [**pyccsl**](https://github.com/wolfdenpublishing/pyccsl): Python Claude Code Status Line (PyCCSL, pronounced "pixel").
+- [**cc-statusline**](https://github.com/chongdashu/cc-statusline): Transform your Claude Code experience with a beautiful, informative statusline.
+- [**claude-code-usage-bar**](https://github.com/leeguooooo/claude-code-usage-bar): Real‑time statusline for Claude Code: token usage, remaining budget, burn rate, and depletion time.
+- [**cccost**](https://github.com/badlogic/cccost): Instrument Claude Code to track actual token usage and cost.
 
 ---
 
