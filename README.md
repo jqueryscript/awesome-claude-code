@@ -213,7 +213,8 @@ A curated list of awesome tools, integrations, extensions, plugins, frameworks, 
 - [**vibe-kanban**](https://github.com/BloopAI/vibe-kanban): Get 10X more out of Claude Code, Gemini CLI, Codex, Amp and other coding agents.
 - [**claude-code-costs**](https://github.com/philipp-spiess/claude-code-costs): Analyze your Claude Code conversation costs with interactive visualizations.
 - [**cui**](https://github.com/BMPixel/cui): A web UI for Claude Code agents.
-- [**Claude in a Box**](https://github.com/juancgarza/claude-in-a-box): A ChatGPT Canvas-style interface for Claude Code running in E2B sandboxes. 
+- [**Claude in a Box**](https://github.com/juancgarza/claude-in-a-box): A ChatGPT Canvas-style interface for Claude Code running in E2B sandboxes.
+- [**happy**](https://github.com/slopus/happy): Mobile and Web client for Claude Code, with realtime voice, encryption and fully featured.
 
 ---
 
