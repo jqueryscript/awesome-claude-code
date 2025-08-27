@@ -75,6 +75,8 @@ A curated list of awesome tools, integrations, extensions, plugins, frameworks, 
 - [**ccpm**](https://github.com/automazeio/ccpm): Project management system for Claude Code using GitHub Issues and Git worktrees for parallel agent execution.
 - [**claude-code-container**](https://github.com/tintinweb/claude-code-container): A Docker container for running Claude Code in "dangerously skip permissions" mode.
 - [**claude-code-voice**](https://github.com/mckaywrigley/claude-code-voice): Hands-free voice control for Claude Code on macOS.
+- [**ccheckpoints**](https://github.com/p32929/ccheckpoints): A checkpoint system for Claude Code CLI that automatically tracks your coding sessions.
+- [**claude-code-voice**](https://github.com/mckaywrigley/claude-code-voice): Hands-free voice control for Claude Code on macOS.
 
 ---
 
