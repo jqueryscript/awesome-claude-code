@@ -77,6 +77,7 @@ A curated list of awesome tools, integrations, extensions, plugins, frameworks, 
 - [**claude-code-voice**](https://github.com/mckaywrigley/claude-code-voice): Hands-free voice control for Claude Code on macOS.
 - [**ccheckpoints**](https://github.com/p32929/ccheckpoints): A checkpoint system for Claude Code CLI that automatically tracks your coding sessions.
 - [**claude-code-voice**](https://github.com/mckaywrigley/claude-code-voice): Hands-free voice control for Claude Code on macOS.
+- [**cc-sessions**](https://github.com/GWUDCAP/cc-sessions): An opinionated extension set for Claude Code (hooks, subagents, commands, task/git management infrastructure)
 
 ---
 
@@ -158,6 +159,10 @@ A curated list of awesome tools, integrations, extensions, plugins, frameworks, 
 - [**ClaudeCodeAgents**](https://github.com/darcyegb/ClaudeCodeAgents): A set of useful QA agents for Claude Code.
 - [**multi-agent-squad**](https://github.com/bijutharakan/multi-agent-squad): Production-ready multi-agent orchestration framework for Claude Code.
 - [**dotclaude**](https://github.com/FradSer/dotclaude): A comprehensive development environment with specialized AI agents for code review, security analysis, and technical leadership.
+- [**AgentCheck**](https://github.com/devlyai/AgentCheck): Local AI-powered code review agents for Claude Code.
+- [**claude-agents**](https://github.com/tddworks/claude-agents): A collection of specialized AI agents for Claude Code that enhance software development workflows with focused expertise in specific domains.
+- [**claude-code-agents**](https://github.com/vizra-ai/claude-code-agents): Meet 59 specialized AI agents that supercharge your development workflow.
+- [**agents**](https://github.com/contains-studio/agents): A comprehensive collection of specialized AI agents designed to accelerate and enhance every aspect of rapid development. 
 
 ---
 
@@ -236,6 +241,7 @@ A curated list of awesome tools, integrations, extensions, plugins, frameworks, 
 - [**claude-code-is-programmable**](https://github.com/disler/claude-code-is-programmable): Scale your compute with Claude Code as a programmable agentic coding tool.
 - [**claude-code-mcpinstall**](https://github.com/undeadpickle/claude-code-mcpinstall): Easy guide to installing Claude Code MCPs globally on your machine.
 - [**claude-code-system-prompt**](https://github.com/matthew-lim-matthew-lim/claude-code-system-prompt): Claude Code's system prompt.
+- [**claudecode-best-practices**](https://github.com/rosmur/claudecode-best-practices): A collection of best practices and procedures for using Claude Code.
 
 ---
 
