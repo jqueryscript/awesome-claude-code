@@ -78,6 +78,7 @@ A curated list of awesome tools, integrations, extensions, plugins, frameworks, 
 - [**ccheckpoints**](https://github.com/p32929/ccheckpoints): A checkpoint system for Claude Code CLI that automatically tracks your coding sessions.
 - [**claude-code-voice**](https://github.com/mckaywrigley/claude-code-voice): Hands-free voice control for Claude Code on macOS.
 - [**cc-sessions**](https://github.com/GWUDCAP/cc-sessions): An opinionated extension set for Claude Code (hooks, subagents, commands, task/git management infrastructure)
+- [**claude-code-personal-assistant**](https://github.com/c0dezli/claude-code-personal-assistant): AI personal assistant setup for Claude Code.
 
 ---
 
