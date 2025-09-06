@@ -79,6 +79,7 @@ A curated list of awesome tools, integrations, extensions, plugins, frameworks, 
 - [**claude-code-voice**](https://github.com/mckaywrigley/claude-code-voice): Hands-free voice control for Claude Code on macOS.
 - [**cc-sessions**](https://github.com/GWUDCAP/cc-sessions): An opinionated extension set for Claude Code (hooks, subagents, commands, task/git management infrastructure)
 - [**claude-code-personal-assistant**](https://github.com/c0dezli/claude-code-personal-assistant): AI personal assistant setup for Claude Code.
+- [**shotgun-alpha**](https://github.com/shotgun-sh/shotgun-alpha): Codebase-aware spec engine for Cursor, Claude Code & Lovable.
 
 ---
 
@@ -223,6 +224,7 @@ A curated list of awesome tools, integrations, extensions, plugins, frameworks, 
 - [**cui**](https://github.com/BMPixel/cui): A web UI for Claude Code agents.
 - [**Claude in a Box**](https://github.com/juancgarza/claude-in-a-box): A ChatGPT Canvas-style interface for Claude Code running in E2B sandboxes.
 - [**happy**](https://github.com/slopus/happy): Mobile and Web client for Claude Code, with realtime voice, encryption and fully featured.
+- [**claude-code-viewer**](https://github.com/d-kimuson/claude-code-viewer): A full-featured web-based Claude Code client that provides complete interactive functionality for managing Claude Code projects.
 
 ---
 
