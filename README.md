@@ -27,6 +27,7 @@ A curated list of awesome tools, integrations, extensions, plugins, frameworks, 
 - [**claude-code**](https://github.com/anthropics/claude-code): Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routines.
 - [**claude-code-sdk-python**](https://github.com/anthropics/claude-code-sdk-python): The official Python SDK for Claude Code.
 - [**claude-code-security-review**](https://github.com/anthropics/claude-code-security-review): An AI-powered security review GitHub Action using Claude to analyze code changes for security vulnerabilities.
+- [**Claude Code with plugins**](https://www.anthropic.com/news/claude-code-plugins): Claude Code now supports plugins: custom collections of slash commands, agents, MCP servers, and hooks that install with a single command.
 
 ---
 
@@ -80,6 +81,9 @@ A curated list of awesome tools, integrations, extensions, plugins, frameworks, 
 - [**cc-sessions**](https://github.com/GWUDCAP/cc-sessions): An opinionated extension set for Claude Code (hooks, subagents, commands, task/git management infrastructure)
 - [**claude-code-personal-assistant**](https://github.com/c0dezli/claude-code-personal-assistant): AI personal assistant setup for Claude Code.
 - [**shotgun-alpha**](https://github.com/shotgun-sh/shotgun-alpha): Codebase-aware spec engine for Cursor, Claude Code & Lovable.
+- [**Superpowers**](https://github.com/obra/superpowers): Give Claude Code superpowers with a comprehensive skills library of proven techniques, patterns, and tools.
+- [**claude-code-thinking-patch**](https://github.com/aleks-apostle/claude-code-thinking-patch): Make Claude Code's thinking blocks visible by default without pressing ctrl+o.
+- [**claude-context-local**](https://github.com/FarhanAliRaza/claude-context-local): Code search MCP for Claude Code. Make entire codebase the context for any coding agent. Embeddings are created and stored locally. No API cost.
 
 ---
 
@@ -164,7 +168,8 @@ A curated list of awesome tools, integrations, extensions, plugins, frameworks, 
 - [**AgentCheck**](https://github.com/devlyai/AgentCheck): Local AI-powered code review agents for Claude Code.
 - [**claude-agents**](https://github.com/tddworks/claude-agents): A collection of specialized AI agents for Claude Code that enhance software development workflows with focused expertise in specific domains.
 - [**claude-code-agents**](https://github.com/vizra-ai/claude-code-agents): Meet 59 specialized AI agents that supercharge your development workflow.
-- [**agents**](https://github.com/contains-studio/agents): A comprehensive collection of specialized AI agents designed to accelerate and enhance every aspect of rapid development. 
+- [**agents**](https://github.com/contains-studio/agents): A comprehensive collection of specialized AI agents designed to accelerate and enhance every aspect of rapid development.
+- [**Agent-Fusion**](https://github.com/krokozyab/Agent-Fusion): A multi-agent orchestration system that enables Claude Code, Codex CLI, Amazon Q Developer, and Gemini Code Assist to collaborate bidirectionally through intelligent task routing and consensus-based decision making.
 
 ---
 
@@ -225,6 +230,7 @@ A curated list of awesome tools, integrations, extensions, plugins, frameworks, 
 - [**Claude in a Box**](https://github.com/juancgarza/claude-in-a-box): A ChatGPT Canvas-style interface for Claude Code running in E2B sandboxes.
 - [**happy**](https://github.com/slopus/happy): Mobile and Web client for Claude Code, with realtime voice, encryption and fully featured.
 - [**claude-code-viewer**](https://github.com/d-kimuson/claude-code-viewer): A full-featured web-based Claude Code client that provides complete interactive functionality for managing Claude Code projects.
+- [**ccmate-release**](https://github.com/djyde/ccmate-release): A GUI for Claude Code.
 
 ---
 
