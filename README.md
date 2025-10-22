@@ -34,6 +34,7 @@ A curated list of awesome tools, integrations, extensions, plugins, frameworks, 
 ## Tools & Utilities
 
 - [**async-code**](https://github.com/ObservedObserver/async-code): Use Claude Code or CodeX CLI to perform multiple tasks in parallel with a Codex-style UI, functioning as a personal codex or cursor-background agent.
+- [**cc-caffeine**](https://github.com/samber/cc-caffeine): ☕️ Prevents your computer from sleeping while Claude Code works hard.
 - [**ccmanager**](https://github.com/kbwo/ccmanager): Claude Code / Gemini CLI / Codex CLI Session Manager.
 - [**cctrace**](https://github.com/jimmc414/cctrace): Export Claude Code chat sessions into markdown and XML.
 - [**ccundo**](https://github.com/RonitSachdev/ccundo): Integrates seamlessly with Claude Code to provide granular undo functionality by reading directly from Claude Code's session files.
