@@ -84,6 +84,7 @@ A curated list of awesome tools, integrations, extensions, plugins, frameworks, 
 - [**Superpowers**](https://github.com/obra/superpowers): Give Claude Code superpowers with a comprehensive skills library of proven techniques, patterns, and tools.
 - [**claude-code-thinking-patch**](https://github.com/aleks-apostle/claude-code-thinking-patch): Make Claude Code's thinking blocks visible by default without pressing ctrl+o.
 - [**claude-context-local**](https://github.com/FarhanAliRaza/claude-context-local): Code search MCP for Claude Code. Make entire codebase the context for any coding agent. Embeddings are created and stored locally. No API cost.
+- [**claude-code-prompt-improver**](https://github.com/severity1/claude-code-prompt-improver): Intelligent prompt improver hook for Claude Code. Type vibes, ship precision.
 
 ---
 
