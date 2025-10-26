@@ -200,6 +200,7 @@ A curated list of awesome tools, integrations, extensions, plugins, frameworks, 
 - [**claude-gemini-bridge**](https://github.com/tkaufmann/claude-gemini-bridge): Intelligent integration between Claude Code and Google Gemini for large-scale code analysis.
 - [**ccflare**](https://github.com/snipeship/ccflare): The ultimate Claude API proxy with intelligent load balancing across multiple accounts.
 - [**claude-code-nexus**](https://github.com/KroMiose/claude-code-nexus): Seamlessly forward Claude Code requests to any OpenAI-compatible API service with smart model mapping, streaming support, deployed on Cloudflare Worker.
+- [**ccNexus**](https://github.com/lich0821/ccNexus): A smart API endpoint rotation proxy for Claude Code.
 
 ---
 
