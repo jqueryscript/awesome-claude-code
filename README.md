@@ -134,6 +134,7 @@ A curated list of awesome tools, integrations, extensions, plugins, frameworks, 
 
 ## Custom Commands & Frameworks
 
+- [**PAI - Personal AI Infrastructure**](https://github.com/danielmiessler/PAIPlugin): Transform Claude Code into your Personal AI Infrastructure with 40+ skills, specialized agents, and automation workflows for research, development, security testing, and more. Features multi-source parallel research, spec-driven development with TDD, and 10+ specialized agents. Installation: `/plugin install https://github.com/danielmiessler/PAIPlugin`
 - [**Claude-Command-Suite**](https://github.com/qdhenry/Claude-Command-Suite): Professional slash commands for Claude Code that provide structured workflows for software development tasks, including code review and feature implementation.
 - [**claude-deep-research**](https://www.google.com/search?q=https://github.com/disler/claude-deep-research): Claude Deep Research config for Claude Code.
 - [**claude-on-rails**](https://github.com/obie/claude-on-rails): A development framework for Ruby on Rails developers using Claude Code, inspired by SuperClaude.
