@@ -85,6 +85,7 @@ A curated list of awesome tools, integrations, extensions, plugins, frameworks, 
 - [**claude-code-thinking-patch**](https://github.com/aleks-apostle/claude-code-thinking-patch): Make Claude Code's thinking blocks visible by default without pressing ctrl+o.
 - [**claude-context-local**](https://github.com/FarhanAliRaza/claude-context-local): Code search MCP for Claude Code. Make entire codebase the context for any coding agent. Embeddings are created and stored locally. No API cost.
 - [**claude-code-prompt-improver**](https://github.com/severity1/claude-code-prompt-improver): Intelligent prompt improver hook for Claude Code. Type vibes, ship precision.
+- [**claude-config-editor**](https://github.com/gagarinyury/claude-config-editor): A lightweight web tool that helps you clean and optimize your Claude Code/Desktop config files (.claude.json). 
 
 ---
 
