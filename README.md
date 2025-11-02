@@ -172,6 +172,8 @@ A curated list of awesome tools, integrations, extensions, plugins, frameworks, 
 - [**claude-code-agents**](https://github.com/vizra-ai/claude-code-agents): Meet 59 specialized AI agents that supercharge your development workflow.
 - [**agents**](https://github.com/contains-studio/agents): A comprehensive collection of specialized AI agents designed to accelerate and enhance every aspect of rapid development.
 - [**Agent-Fusion**](https://github.com/krokozyab/Agent-Fusion): A multi-agent orchestration system that enables Claude Code, Codex CLI, Amazon Q Developer, and Gemini Code Assist to collaborate bidirectionally through intelligent task routing and consensus-based decision making.
+- [**visual-claude**](https://github.com/thetronjohnson/visual-claude): A browser coding agent interface for selecting elements and sending instructions directly to Claude Code.
+- [**seomachine**](https://github.com/TheCraigHewitt/seomachine): A specialized Claude Code workspace for creating long-form, SEO-optimized blog content for any business.
 
 ---
 
