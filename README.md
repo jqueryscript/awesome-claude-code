@@ -4,10 +4,15 @@
 
 A curated list of awesome tools, integrations, extensions, plugins, frameworks, and other resources for developers working with Anthropic's Claude Code.
 
+> **Read my article:** Discover the top open-source command-line AI coding agents in the wider AI ecosystem.
+>
+> **👉 [7 Best CLI AI Coding Agents (Open Source)](https://www.scriptbyai.com/best-cli-ai-coding-agents/)**
+
 ## Table of Contents
 
 - [Official Resources](#official-resources)
 - [Tools & Utilities](#tools--utilities)
+- [Claude Skills](#claude-skills)
 - [Usage Tracker](#usage-Tracker)
 - [Sub Agents](#sub-agents)
 - [IDE & Editor Integrations](#ide--editor-integrations)
@@ -85,9 +90,15 @@ A curated list of awesome tools, integrations, extensions, plugins, frameworks, 
 - [**claude-code-thinking-patch**](https://github.com/aleks-apostle/claude-code-thinking-patch): Make Claude Code's thinking blocks visible by default without pressing ctrl+o.
 - [**claude-context-local**](https://github.com/FarhanAliRaza/claude-context-local): Code search MCP for Claude Code. Make entire codebase the context for any coding agent. Embeddings are created and stored locally. No API cost.
 - [**claude-code-prompt-improver**](https://github.com/severity1/claude-code-prompt-improver): Intelligent prompt improver hook for Claude Code. Type vibes, ship precision.
-- [**claude-config-editor**](https://github.com/gagarinyury/claude-config-editor): A lightweight web tool that helps you clean and optimize your Claude Code/Desktop config files (.claude.json). 
+- [**claude-config-editor**](https://github.com/gagarinyury/claude-config-editor): A lightweight web tool that helps you clean and optimize your Claude Code/Desktop config files (.claude.json).
+- [**claudecode-macmenu**](https://github.com/PiXeL16/claudecode-macmenu): A Mac Menu for Claude Code that notifies when Claude is done and shows insights.
 
 ---
+
+## Claude Skills
+
+- [**awesome-claude-skills**](https://github.com/ComposioHQ/awesome-claude-skills): A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows.
+- [**claude-skills-supercharged**](https://github.com/jefflester/claude-skills-supercharged): A "supercharged" implementation of Claude Code Skills – using Haiku prompt analysis/critical skill scoring and skill auto-injection for friction-free, context-driven workflows.
 
 ## Usage Tracker
 
