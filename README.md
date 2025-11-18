@@ -93,6 +93,7 @@ A curated list of awesome tools, integrations, extensions, plugins, frameworks, 
 - [**claude-config-editor**](https://github.com/gagarinyury/claude-config-editor): A lightweight web tool that helps you clean and optimize your Claude Code/Desktop config files (.claude.json).
 - [**claudecode-macmenu**](https://github.com/PiXeL16/claudecode-macmenu): A Mac Menu for Claude Code that notifies when Claude is done and shows insights.
 - [**ccmate**](https://github.com/djyde/ccmate): Configure your Claude Code without pain.
+- [**Continuous Claude**](https://github.com/AnandChowdhary/continuous-claude): Run Claude Code in a continuous loop, autonomously creating PRs, waiting for checks, and merging.
 
 ---
 
