@@ -94,6 +94,8 @@ A curated list of awesome tools, integrations, extensions, plugins, frameworks, 
 - [**claudecode-macmenu**](https://github.com/PiXeL16/claudecode-macmenu): A Mac Menu for Claude Code that notifies when Claude is done and shows insights.
 - [**ccmate**](https://github.com/djyde/ccmate): Configure your Claude Code without pain.
 - [**Continuous Claude**](https://github.com/AnandChowdhary/continuous-claude): Run Claude Code in a continuous loop, autonomously creating PRs, waiting for checks, and merging.
+- [**meridian**](https://github.com/markmdev/meridian): Zero-config Claude Code setup with enforced task scaffolding, structured memory, persistent context after compaction, plug-in code standards, optional TDD mode, and zero behavior changes for developers.
+- [**ClaudeForge**](https://github.com/alirezarezvani/ClaudeForge): A CLAUDE.md Generator and Maintenance tool for for Claude Code to create high-quality CLAUDE.md instruction files — aligned with Anthropic’s best practices for Claude Code.
 
 ---
 
@@ -217,6 +219,7 @@ A curated list of awesome tools, integrations, extensions, plugins, frameworks, 
 - [**ccflare**](https://github.com/snipeship/ccflare): The ultimate Claude API proxy with intelligent load balancing across multiple accounts.
 - [**claude-code-nexus**](https://github.com/KroMiose/claude-code-nexus): Seamlessly forward Claude Code requests to any OpenAI-compatible API service with smart model mapping, streaming support, deployed on Cloudflare Worker.
 - [**ccNexus**](https://github.com/lich0821/ccNexus): A smart API endpoint rotation proxy for Claude Code.
+- [**castari-proxy**](https://github.com/castar-ventures/castari-proxy): Use Claude Agent SDK and Claude Code with other providers/models.
 
 ---
 
