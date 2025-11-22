@@ -96,6 +96,7 @@ A curated list of awesome tools, integrations, extensions, plugins, frameworks, 
 - [**Continuous Claude**](https://github.com/AnandChowdhary/continuous-claude): Run Claude Code in a continuous loop, autonomously creating PRs, waiting for checks, and merging.
 - [**meridian**](https://github.com/markmdev/meridian): Zero-config Claude Code setup with enforced task scaffolding, structured memory, persistent context after compaction, plug-in code standards, optional TDD mode, and zero behavior changes for developers.
 - [**ClaudeForge**](https://github.com/alirezarezvani/ClaudeForge): A CLAUDE.md Generator and Maintenance tool for for Claude Code to create high-quality CLAUDE.md instruction files — aligned with Anthropic’s best practices for Claude Code.
+- [**claude-agent-server**](https://github.com/dzhng/claude-agent-server): Run Claude Agent (Claude Code) in a sandbox, control it via websocket.
 
 ---
 
