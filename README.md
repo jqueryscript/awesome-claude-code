@@ -96,7 +96,7 @@ A curated list of awesome tools, integrations, extensions, plugins, frameworks, 
 - [**Continuous Claude**](https://github.com/AnandChowdhary/continuous-claude): Run Claude Code in a continuous loop, autonomously creating PRs, waiting for checks, and merging.
 - [**meridian**](https://github.com/markmdev/meridian): Zero-config Claude Code setup with enforced task scaffolding, structured memory, persistent context after compaction, plug-in code standards, optional TDD mode, and zero behavior changes for developers.
 - [**ClaudeForge**](https://github.com/alirezarezvani/ClaudeForge): A CLAUDE.md Generator and Maintenance tool for for Claude Code to create high-quality CLAUDE.md instruction files — aligned with Anthropic’s best practices for Claude Code.
-- [**claude-agent-server**](https://github.com/dzhng/claude-agent-server): Run Claude Agent (Claude Code) in a sandbox, control it via websocket.
+- [**claude-agent-server**](https://github.com/forayconsulting/gemini_cli_skill): A Claude Code skill enabling Claude to use Gemini 3 Pro via Gemini CLI.
 
 ---
 
@@ -104,6 +104,7 @@ A curated list of awesome tools, integrations, extensions, plugins, frameworks, 
 
 - [**awesome-claude-skills**](https://github.com/ComposioHQ/awesome-claude-skills): A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows.
 - [**claude-skills-supercharged**](https://github.com/jefflester/claude-skills-supercharged): A "supercharged" implementation of Claude Code Skills – using Haiku prompt analysis/critical skill scoring and skill auto-injection for friction-free, context-driven workflows.
+- [**gemini_cli_skill**](https://github.com/jefflester/claude-skills-supercharged): A "supercharged" implementation of Claude Code Skills – using Haiku prompt analysis/critical skill scoring and skill auto-injection for friction-free, context-driven workflows.
 
 ## Usage Tracker
 
