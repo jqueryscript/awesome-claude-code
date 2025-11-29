@@ -105,6 +105,7 @@ A curated list of awesome tools, integrations, extensions, plugins, frameworks, 
 - [**awesome-claude-skills**](https://github.com/ComposioHQ/awesome-claude-skills): A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows.
 - [**claude-skills-supercharged**](https://github.com/jefflester/claude-skills-supercharged): A "supercharged" implementation of Claude Code Skills – using Haiku prompt analysis/critical skill scoring and skill auto-injection for friction-free, context-driven workflows.
 - [**gemini_cli_skill**](https://github.com/jefflester/claude-skills-supercharged): A "supercharged" implementation of Claude Code Skills – using Haiku prompt analysis/critical skill scoring and skill auto-injection for friction-free, context-driven workflows.
+- [**claude-skill-homeassistant**](https://github.com/komal-SkyNET/claude-skill-homeassistant): Claude Code skill to supercharge and manage all Home Assistant workflows.
 
 ## Usage Tracker
 
