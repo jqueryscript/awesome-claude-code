@@ -97,6 +97,7 @@ A curated list of awesome tools, integrations, extensions, plugins, frameworks, 
 - [**meridian**](https://github.com/markmdev/meridian): Zero-config Claude Code setup with enforced task scaffolding, structured memory, persistent context after compaction, plug-in code standards, optional TDD mode, and zero behavior changes for developers.
 - [**ClaudeForge**](https://github.com/alirezarezvani/ClaudeForge): A CLAUDE.md Generator and Maintenance tool for for Claude Code to create high-quality CLAUDE.md instruction files — aligned with Anthropic’s best practices for Claude Code.
 - [**claude-agent-server**](https://github.com/forayconsulting/gemini_cli_skill): A Claude Code skill enabling Claude to use Gemini 3 Pro via Gemini CLI.
+- [**recall**](https://github.com/zippoxer/recall): Full-text search and resume for Claude/Codex conversations.
 
 ---
 
