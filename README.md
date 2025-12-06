@@ -98,6 +98,8 @@ A curated list of awesome tools, integrations, extensions, plugins, frameworks, 
 - [**ClaudeForge**](https://github.com/alirezarezvani/ClaudeForge): A CLAUDE.md Generator and Maintenance tool for for Claude Code to create high-quality CLAUDE.md instruction files — aligned with Anthropic’s best practices for Claude Code.
 - [**claude-agent-server**](https://github.com/forayconsulting/gemini_cli_skill): A Claude Code skill enabling Claude to use Gemini 3 Pro via Gemini CLI.
 - [**recall**](https://github.com/zippoxer/recall): Full-text search and resume for Claude/Codex conversations.
+- [**claude-select**](https://github.com/aeitroc/claude-select): A unified launcher for Claude Code that lets you interactively choose which LLM backend to use.
+- [**claude-code-auto-memory**](https://github.com/severity1/claude-code-auto-memory): Claude Code plugin that automatically maintains CLAUDE.md files.
 
 ---
 
@@ -120,6 +122,7 @@ A curated list of awesome tools, integrations, extensions, plugins, frameworks, 
 - [**cc-statusline**](https://github.com/chongdashu/cc-statusline): Transform your Claude Code experience with a beautiful, informative statusline.
 - [**claude-code-usage-bar**](https://github.com/leeguooooo/claude-code-usage-bar): Real‑time statusline for Claude Code: token usage, remaining budget, burn rate, and depletion time.
 - [**cccost**](https://github.com/badlogic/cccost): Instrument Claude Code to track actual token usage and cost.
+- [**Claude-Monitor**](https://github.com/RISCfuture/Claude-Monitor): A menulet that tracks your Claude Code token usage.
 
 ---
 
