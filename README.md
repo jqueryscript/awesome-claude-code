@@ -100,6 +100,10 @@ A curated list of awesome tools, integrations, extensions, plugins, frameworks, 
 - [**recall**](https://github.com/zippoxer/recall): Full-text search and resume for Claude/Codex conversations.
 - [**claude-select**](https://github.com/aeitroc/claude-select): A unified launcher for Claude Code that lets you interactively choose which LLM backend to use.
 - [**claude-code-auto-memory**](https://github.com/severity1/claude-code-auto-memory): Claude Code plugin that automatically maintains CLAUDE.md files.
+- [**claude-island**](https://github.com/farouqaldori/claude-island): Claude Code notifications without the context switch.
+- [**Severance**](https://github.com/blas0/Severance): A semantic memory system designed for Claude Code.
+- [**claude-code-router**](https://github.com/musistudio/claude-code-router): Use Claude Code as the foundation for coding infrastructure, allowing you to decide how to interact with the model while enjoying updates from Anthropic.
+- [**claude-mem**](https://github.com/thedotmack/claude-mem): A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.
 
 ---
 
@@ -196,6 +200,7 @@ A curated list of awesome tools, integrations, extensions, plugins, frameworks, 
 - [**Agent-Fusion**](https://github.com/krokozyab/Agent-Fusion): A multi-agent orchestration system that enables Claude Code, Codex CLI, Amazon Q Developer, and Gemini Code Assist to collaborate bidirectionally through intelligent task routing and consensus-based decision making.
 - [**visual-claude**](https://github.com/thetronjohnson/visual-claude): A browser coding agent interface for selecting elements and sending instructions directly to Claude Code.
 - [**seomachine**](https://github.com/TheCraigHewitt/seomachine): A specialized Claude Code workspace for creating long-form, SEO-optimized blog content for any business.
+- [**Severance**](https://github.com/blas0/Severance): A semantic memory system designed for Claude Code. 
 
 ---
 
