@@ -32,7 +32,7 @@ A curated list of awesome tools, integrations, extensions, plugins, frameworks, 
 - [**claude-code**](https://github.com/anthropics/claude-code): Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routines.
 - [**claude-code-sdk-python**](https://github.com/anthropics/claude-code-sdk-python): The official Python SDK for Claude Code.
 - [**claude-code-security-review**](https://github.com/anthropics/claude-code-security-review): An AI-powered security review GitHub Action using Claude to analyze code changes for security vulnerabilities.
-- [**Claude Code with plugins**](https://www.anthropic.com/news/claude-code-plugins): Claude Code now supports plugins: custom collections of slash commands, agents, MCP servers, and hooks that install with a single command.
+- [**Claude Code with plugins**](https://www.anthropic.com/news/claude-code-plugins): Run /plugins to browse and batch install available plugins from the directory. You can install plugins at user, project, or local scope.
 
 ---
 
