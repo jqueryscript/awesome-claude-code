@@ -116,6 +116,7 @@ A curated list of awesome tools, integrations, extensions, plugins, frameworks, 
 
 ## Usage Tracker
 
+- [**Splitrail**](https://github.com/Piebald-AI/splitrail): Fast, cross-platform, real-time token usage tracker and cost monitor for Piebald / Gemini CLI / Claude Code / Codex CLI / Qwen Code / Cline / Roo Code / Kilo Code / GitHub Copilot / OpenCode / Pi Agent.
 - [**ccusage**](https://github.com/ryoppippi/ccusage): A CLI tool for analyzing Claude Code usage from local JSONL files.
 - [**CCSeva**](https://github.com/Iamshankhadeep/ccseva): A beautiful macOS menu bar app for tracking your Claude Code usage in real-time.
 - [**Claude-Code-Usage-Monitor**](https://github.com/Maciek-roboblog/Claude-Code-Usage-Monitor): A real-time Claude Code usage monitor with predictions and warnings.
@@ -277,6 +278,7 @@ A curated list of awesome tools, integrations, extensions, plugins, frameworks, 
 
 ## Guides & Learning Resources
 
+- [**Claude Code System Prompts**](https://github.com/Piebald-AI/claude-code-system-prompts): All parts of Claude Code's system prompt, 16 builtin tool descriptions, sub agent prompts (Plan/Explore/Task), utility prompts (CLAUDE.md, compact, statusline, magic docs, WebFetch, Bash cmd, security review, agent creation). Updated for each Claude Code version.
 - [**agent-rules**](https://github.com/steipete/agent-rules): Rules and knowledge to work better with agents such as Claude Code or Cursor.
 - [**claude-code-guide**](https://github.com/zebbern/claude-code-guide): A full guide on Claude tips and tricks, optimizing Claude Code, and finding every command possible.
 - [**claude-code-hooks-mastery**](https://github.com/disler/claude-code-hooks-mastery): A resource for mastering Claude Code hooks.
