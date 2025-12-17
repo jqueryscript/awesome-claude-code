@@ -179,6 +179,7 @@ A curated list of awesome tools, integrations, extensions, plugins, frameworks, 
 
 ## Agents & Agent Managers
 
+- [**Agentic Sprint**](https://github.com/damienlaine/agentic-sprint): A spec-driven, self-iterative multi-agent framework that turns Claude Code into an autonomous development team with a Project Architect coordinating specialized agents (Python, Next.js, CI/CD, QA, UI Testing) through convergent sprints.
 - [**claude-squad**](https://github.com/smtg-ai/claude-squad): Manage multiple AI terminal agents, including Claude Code, Aider, Codex, OpenCode, and Amp.
 - [**claude-swarm**](https://github.com/parruda/claude-swarm): Easily launch a Claude Code session connected to a swarm of Claude Code Agents.
 - [**infinite-agentic-loop**](https://github.com/disler/infinite-agentic-loop): An experimental project demonstrating Infinite Agentic Loop in a two-prompt system using Claude Code.
