@@ -104,6 +104,9 @@ A curated list of awesome tools, integrations, extensions, plugins, frameworks, 
 - [**Severance**](https://github.com/blas0/Severance): A semantic memory system designed for Claude Code.
 - [**claude-code-router**](https://github.com/musistudio/claude-code-router): Use Claude Code as the foundation for coding infrastructure, allowing you to decide how to interact with the model while enjoying updates from Anthropic.
 - [**claude-mem**](https://github.com/thedotmack/claude-mem): A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.
+- [**claude-code-transcripts**](https://github.com/simonw/claude-code-transcripts): Tools for publishing transcripts for Claude Code sessions.
+- [**Continuous-Claude-v2**](https://github.com/parcadei/Continuous-Claude-v2): Context management for Claude Code. Hooks maintain state via ledgers and handoffs. MCP execution without context pollution. Agent orchestration with isolated context windows.
+- [**claude-code-transcripts**](https://github.com/simonw/claude-code-transcripts): Tools for publishing transcripts for Claude Code sessions.
 
 ---
 
@@ -113,6 +116,7 @@ A curated list of awesome tools, integrations, extensions, plugins, frameworks, 
 - [**claude-skills-supercharged**](https://github.com/jefflester/claude-skills-supercharged): A "supercharged" implementation of Claude Code Skills – using Haiku prompt analysis/critical skill scoring and skill auto-injection for friction-free, context-driven workflows.
 - [**gemini_cli_skill**](https://github.com/jefflester/claude-skills-supercharged): A "supercharged" implementation of Claude Code Skills – using Haiku prompt analysis/critical skill scoring and skill auto-injection for friction-free, context-driven workflows.
 - [**claude-skill-homeassistant**](https://github.com/komal-SkyNET/claude-skill-homeassistant): Claude Code skill to supercharge and manage all Home Assistant workflows.
+- [**Apple-Hig-Designer**](https://github.com/axiaoge2/Apple-Hig-Designer): A Claude Code Skill for designing professional interfaces following Apple Human Interface Guidelines.
 
 ## Usage Tracker
 
@@ -127,6 +131,7 @@ A curated list of awesome tools, integrations, extensions, plugins, frameworks, 
 - [**claude-code-usage-bar**](https://github.com/leeguooooo/claude-code-usage-bar): Real‑time statusline for Claude Code: token usage, remaining budget, burn rate, and depletion time.
 - [**cccost**](https://github.com/badlogic/cccost): Instrument Claude Code to track actual token usage and cost.
 - [**Claude-Monitor**](https://github.com/RISCfuture/Claude-Monitor): A menulet that tracks your Claude Code token usage.
+- [**claude-code-otel**](https://github.com/ColeMurray/claude-code-otel/): A comprehensive observability solution for monitoring Claude Code usage, performance, and costs.
 
 ---
 
