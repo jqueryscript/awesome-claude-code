@@ -104,6 +104,7 @@ A curated list of awesome tools, integrations, extensions, plugins, frameworks, 
 - [**Severance**](https://github.com/blas0/Severance): A semantic memory system designed for Claude Code.
 - [**claude-code-router**](https://github.com/musistudio/claude-code-router): Use Claude Code as the foundation for coding infrastructure, allowing you to decide how to interact with the model while enjoying updates from Anthropic.
 - [**claude-mem**](https://github.com/thedotmack/claude-mem): A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.
+- [**dx**](https://github.com/ykdojo/claude-code-tips#install-the-dx-plugin): A Claude Code plugin with GitHub Actions failure analysis, conversation handoff documents, and session cloning for branching approaches.
 
 ---
 
