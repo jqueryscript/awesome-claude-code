@@ -107,6 +107,7 @@ A curated list of awesome tools, integrations, extensions, plugins, frameworks, 
 - [**claude-code-transcripts**](https://github.com/simonw/claude-code-transcripts): Tools for publishing transcripts for Claude Code sessions.
 - [**Continuous-Claude-v2**](https://github.com/parcadei/Continuous-Claude-v2): Context management for Claude Code. Hooks maintain state via ledgers and handoffs. MCP execution without context pollution. Agent orchestration with isolated context windows.
 - [**claude-code-transcripts**](https://github.com/simonw/claude-code-transcripts): Tools for publishing transcripts for Claude Code sessions.
+- [**lazyclaude**](https://github.com/NikiforovAll/lazyclaude): A TUI application for visualizing Claude Code customizations (Slash Commands, Subagents, Skills, Memory Files, MCPs, Hooks) with lazygit-style keyboard ergonomics.
 
 ---
 
