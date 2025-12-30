@@ -231,6 +231,7 @@ A curated list of awesome tools, integrations, extensions, plugins, frameworks, 
 - [**mcp-claude-code**](https://github.com/SDGLBL/mcp-claude-code): MCP implementation of Claude Code capabilities and more.
 - [**zen-mcp-server**](https://github.com/BeehiveInnovations/zen-mcp-server): The power of Claude Code + Gemini / OpenAI / Grok / OpenRouter / Ollama / Custom Model working as one.
 - [**codemcp**](https://github.com/ezyang/codemcp): Coding assistant MCP for Claude Desktop.
+- [**trayd-mcp**](https://github.com/trayders/trayd-mcp): Trade Robinhood stocks through natural language in Claude Code.
 - [**claude-balancer**](https://github.com/snipeship/claude-balancer): A load balancer proxy for multiple Claude OAuth accounts with automatic failover, request tracking, and web dashboard.
 - [**claude-gemini-bridge**](https://github.com/tkaufmann/claude-gemini-bridge): Intelligent integration between Claude Code and Google Gemini for large-scale code analysis.
 - [**ccflare**](https://github.com/snipeship/ccflare): The ultimate Claude API proxy with intelligent load balancing across multiple accounts.
