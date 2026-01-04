@@ -2,7 +2,7 @@
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-A curated list of awesome tools, integrations, extensions, plugins, frameworks, and other resources for developers working with Anthropic's Claude Code.
+A curated list of awesome tools, skills, plugins, integrations, extensions, frameworks, and other resources for developers working with Anthropic's Claude Code.
 
 > **Read my article:** Discover the top open-source command-line AI coding agents in the wider AI ecosystem.
 >
@@ -13,6 +13,7 @@ A curated list of awesome tools, integrations, extensions, plugins, frameworks, 
 - [Official Resources](#official-resources)
 - [Tools & Utilities](#tools--utilities)
 - [Claude Skills](#claude-skills)
+- [Claude Plugins](#claude-plugins)
 - [Usage Tracker](#usage-Tracker)
 - [Sub Agents](#sub-agents)
 - [IDE & Editor Integrations](#ide--editor-integrations)
@@ -32,7 +33,8 @@ A curated list of awesome tools, integrations, extensions, plugins, frameworks, 
 - [**claude-code**](https://github.com/anthropics/claude-code): Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routines.
 - [**claude-code-sdk-python**](https://github.com/anthropics/claude-code-sdk-python): The official Python SDK for Claude Code.
 - [**claude-code-security-review**](https://github.com/anthropics/claude-code-security-review): An AI-powered security review GitHub Action using Claude to analyze code changes for security vulnerabilities.
-- [**Claude Code with plugins**](https://www.anthropic.com/news/claude-code-plugins): Run /plugins to browse and batch install available plugins from the directory. You can install plugins at user, project, or local scope.
+- [**claude-plugins-official**](https://github.com/anthropics/claude-plugins-official): Anthropic-managed directory of high quality Claude Code Plugins.
+- [**skills**](https://github.com/anthropics/skills): Public repository for Agent Skills.
 
 ---
 
@@ -107,6 +109,7 @@ A curated list of awesome tools, integrations, extensions, plugins, frameworks, 
 - [**claude-code-transcripts**](https://github.com/simonw/claude-code-transcripts): Tools for publishing transcripts for Claude Code sessions.
 - [**Continuous-Claude-v2**](https://github.com/parcadei/Continuous-Claude-v2): Context management for Claude Code. Hooks maintain state via ledgers and handoffs. MCP execution without context pollution. Agent orchestration with isolated context windows.
 - [**claude-code-transcripts**](https://github.com/simonw/claude-code-transcripts): Tools for publishing transcripts for Claude Code sessions.
+- [**claude-cognitive**](https://github.com/GMaN1911/claude-cognitive): Working memory for Claude Code - persistent context and multi-instance coordination.
 
 ---
 
@@ -117,6 +120,20 @@ A curated list of awesome tools, integrations, extensions, plugins, frameworks, 
 - [**gemini_cli_skill**](https://github.com/jefflester/claude-skills-supercharged): A "supercharged" implementation of Claude Code Skills – using Haiku prompt analysis/critical skill scoring and skill auto-injection for friction-free, context-driven workflows.
 - [**claude-skill-homeassistant**](https://github.com/komal-SkyNET/claude-skill-homeassistant): Claude Code skill to supercharge and manage all Home Assistant workflows.
 - [**Apple-Hig-Designer**](https://github.com/axiaoge2/Apple-Hig-Designer): A Claude Code Skill for designing professional interfaces following Apple Human Interface Guidelines.
+- [**SkillForge**](https://github.com/tripleyak/SkillForge): The ultimate meta-skill for generating best-in-class Claude Code skills.
+- [**planning-with-files**](https://github.com/OthmanAdi/planning-with-files): Claude Code skill implementing Manus-style persistent markdown planning — the workflow pattern behind the $2B acquisition.
+- [**awesome-agent-skills**](https://github.com/heilcheng/awesome-agent-skills): A curated list of skills, tools, tutorials, and capabilities for AI coding agents (Claude, Codex, Copilot, VS Code).
+- [**claude-scientific-skills**](https://github.com/K-Dense-AI/claude-scientific-skills): A set of ready to use scientific skills for Claude.
+- [**happy-claude-skills**](https://github.com/iamzhihuix/happy-claude-skills): A collection of practical skill plugins designed for Claude Code.
+
+---
+
+## Claude Plugins
+
+- [**claude-hud**](https://github.com/jarrodwatts/claude-hud): A Claude Code plugin that shows what's happening - context usage, active tools, running agents, and todo progress.
+- [**claude-workflow-v2**](https://github.com/CloudAI-X/claude-workflow-v2): Universal Claude Code workflow plugin with agents, skills, hooks, and commands.
+- [**claude-code-plugin**](https://github.com/browserbase/claude-code-plugin): Browserbase plugin for Claude Code - Use cloud browsers with Claude Code instead of local Chrome.
+- [**claude-code-safety-net**](https://github.com/kenryu42/claude-code-safety-net): A Claude Code plugin that acts as a safety net, catching destructive git and filesystem commands before they execute.
 
 ## Usage Tracker
 
@@ -132,6 +149,7 @@ A curated list of awesome tools, integrations, extensions, plugins, frameworks, 
 - [**cccost**](https://github.com/badlogic/cccost): Instrument Claude Code to track actual token usage and cost.
 - [**Claude-Monitor**](https://github.com/RISCfuture/Claude-Monitor): A menulet that tracks your Claude Code token usage.
 - [**claude-code-otel**](https://github.com/ColeMurray/claude-code-otel/): A comprehensive observability solution for monitoring Claude Code usage, performance, and costs.
+- [**claude-statusline**](https://github.com/luongnv89/claude-statusline): Customize the status line in Claude Code.
 
 ---
 
@@ -269,6 +287,7 @@ A curated list of awesome tools, integrations, extensions, plugins, frameworks, 
 - [**happy**](https://github.com/slopus/happy): Mobile and Web client for Claude Code, with realtime voice, encryption and fully featured.
 - [**claude-code-viewer**](https://github.com/d-kimuson/claude-code-viewer): A full-featured web-based Claude Code client that provides complete interactive functionality for managing Claude Code projects.
 - [**ccmate-release**](https://github.com/djyde/ccmate-release): A GUI for Claude Code.
+- [**claude-run**](https://github.com/kamranahmedse/claude-run): A beautiful web UI for browsing Claude Code conversation history.
 
 ---
 
