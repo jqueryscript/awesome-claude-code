@@ -256,6 +256,7 @@ A curated list of awesome tools, skills, plugins, integrations, extensions, fram
 - [**claude-code-nexus**](https://github.com/KroMiose/claude-code-nexus): Seamlessly forward Claude Code requests to any OpenAI-compatible API service with smart model mapping, streaming support, deployed on Cloudflare Worker.
 - [**ccNexus**](https://github.com/lich0821/ccNexus): A smart API endpoint rotation proxy for Claude Code.
 - [**castari-proxy**](https://github.com/castar-ventures/castari-proxy): Use Claude Agent SDK and Claude Code with other providers/models.
+- [**multi-mcp**](https://github.com/religa/multi_mcp): Multi-model orchestration MCP server for parallel code review, security audits, and AI consensus with ChatGPT, Claude, and Gemini.
 
 ---
 
