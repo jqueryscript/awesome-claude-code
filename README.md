@@ -100,6 +100,7 @@ A curated list of awesome tools, skills, plugins, integrations, extensions, fram
 - [**ClaudeForge**](https://github.com/alirezarezvani/ClaudeForge): A CLAUDE.md Generator and Maintenance tool for for Claude Code to create high-quality CLAUDE.md instruction files — aligned with Anthropic’s best practices for Claude Code.
 - [**claude-agent-server**](https://github.com/forayconsulting/gemini_cli_skill): A Claude Code skill enabling Claude to use Gemini 3 Pro via Gemini CLI.
 - [**recall**](https://github.com/zippoxer/recall): Full-text search and resume for Claude/Codex conversations.
+- [**roampal-core**](https://github.com/roampal-ai/roampal-core): Persistent memory with outcome-based learning. Tracks what worked vs failed, auto-injects context via hooks.
 - [**claude-select**](https://github.com/aeitroc/claude-select): A unified launcher for Claude Code that lets you interactively choose which LLM backend to use.
 - [**claude-code-auto-memory**](https://github.com/severity1/claude-code-auto-memory): Claude Code plugin that automatically maintains CLAUDE.md files.
 - [**claude-island**](https://github.com/farouqaldori/claude-island): Claude Code notifications without the context switch.
