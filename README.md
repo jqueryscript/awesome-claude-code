@@ -24,6 +24,7 @@ A curated list of awesome tools, skills, plugins, integrations, extensions, fram
 - [🧩 SDKs & Development Kits](#sdks-development-kits)
 - [📚 Guides & Learning](#guides-learning)
 - [Alternatives to Claude Code](#alternatives-to-claude-code)
+- [Contribution Guidelines](#contribution-guidelines)
 
 ---
 
