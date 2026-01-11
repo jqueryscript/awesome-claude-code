@@ -322,9 +322,10 @@ A curated list of awesome tools, skills, plugins, integrations, extensions, fram
 ## Alternatives to Claude Code
 
 - 🔥 [**gemini-cli**](https://github.com/google-gemini/gemini-cli) (90.5k ⭐) - An open-source AI agent that brings the power of Gemini directly into your terminal.
+- 🔥 [**opencode**](https://github.com/anomalyco/opencode) (60.8k ⭐) - The open source AI coding agent.
 - 🔥 [**OpenAI Codex CLI**](https://github.com/openai/codex) (55.8k ⭐) - Lightweight coding agent that runs in your terminal.
+- 🔥 [**crush**](https://github.com/charmbracelet/crush) (17.5k ⭐) - The glamourous AI coding agent for your favourite terminal.
 - 🔥 [**qwen-code**](https://github.com/QwenLM/qwen-code) (17.3k ⭐) - A command-line AI workflow tool adapted from Gemini CLI, optimized for Qwen3-Coder models with enhanced parser support & tool support.
-- 🔥 [**openCode**](https://github.com/opencode-ai/opencode) (10.0k ⭐) - A powerful AI coding agent built for the terminal.
 - 🔥 [**grok-cli**](https://github.com/superagent-ai/grok-cli) (2.2k ⭐) - An open-source AI agent that brings the power of Grok directly into your terminal.
 - 🌟 [**octofriend**](https://github.com/synthetic-lab/octofriend) (819 ⭐) - An open-source coding helper. Very friendly!
 - ✨ [**opencoder**](https://github.com/ducan-ne/opencoder) (361 ⭐) - An alternative to Claude Code.
