@@ -16,7 +16,7 @@ A curated list of awesome tools, skills, plugins, integrations, extensions, fram
 - [🤖 Agents & Orchestration](#-agents--orchestration)
 - [🧠 Claude Skills](#-claude-skills)
 - [🔌 Claude Plugins](#-claude-plugins)
-- [🛠️ Tools & Utilities](#%EF%B8%8F-tools--utilitiess)
+- [🛠️ Tools & Utilities](#%EF%B8%8F-tools--utilities)
 - [💻 IDE & Editor Integrations](#-ide--editor-integrations)
 - [🖥️ Clients & GUIs](#%EF%B8%8F-clients--guis)
 - [🏗️ Infrastructure & Proxies](#%EF%B8%8F-infrastructure--proxies)
