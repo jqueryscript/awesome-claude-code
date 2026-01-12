@@ -81,6 +81,7 @@ A curated list of awesome tools, skills, plugins, integrations, extensions, fram
 
 
 - [**awesome-claude-skills**](https://github.com/ComposioHQ/awesome-claude-skills): A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows.
+- 🔥 [**Superpowers**](https://github.com/obra/superpowers) (16.5k ⭐) - Give Claude Code superpowers with a comprehensive skills library of proven techniques, patterns, and tools.
 - [**claude-skills-supercharged**](https://github.com/jefflester/claude-skills-supercharged): A "supercharged" implementation of Claude Code Skills – using Haiku prompt analysis/critical skill scoring and skill auto-injection for friction-free, context-driven workflows.
 - [**gemini_cli_skill**](https://github.com/jefflester/claude-skills-supercharged): A "supercharged" implementation of Claude Code Skills – using Haiku prompt analysis/critical skill scoring and skill auto-injection for friction-free, context-driven workflows.
 - [**claude-skill-homeassistant**](https://github.com/komal-SkyNET/claude-skill-homeassistant): Claude Code skill to supercharge and manage all Home Assistant workflows.
@@ -97,9 +98,6 @@ A curated list of awesome tools, skills, plugins, integrations, extensions, fram
 - [**n-skills**](https://github.com/numman-ali/n-skills): Curated plugin marketplace for AI agents - works with Claude Code, Codex, and openskills.
 - [**happy-claude-skills**](https://github.com/iamzhihuix/happy-claude-skills): A collection of practical skill plugins designed for Claude Code.
 - [**claude-design-skill**](https://github.com/Dammyjay93/claude-design-skill): A Claude Code skill that enforces precise, crafted design for enterprise software, SaaS dashboards, and admin interfaces.
-
----
-
 
 ---
 
@@ -124,7 +122,6 @@ A curated list of awesome tools, skills, plugins, integrations, extensions, fram
 - 🔥 [**claude-code-router**](https://github.com/musistudio/claude-code-router) (25.3k ⭐) - Use Claude Code as the foundation for coding infrastructure, allowing you to decide how to interact with the model while enjoying updates from Anthropic.
 - 🔥 [**SuperClaude**](https://github.com/NomenAK/SuperClaude) (20.0k ⭐) - A configuration framework that enhances Claude Code with specialized commands, cognitive personas, and development methodologies.
 - 🔥 [**SuperClaude_Framework**](https://github.com/SuperClaude-Org/SuperClaude_Framework) (20.0k ⭐) - A configuration framework that enhances Claude Code with specialized commands, cognitive personas, and development methodologies.
-- 🔥 [**Superpowers**](https://github.com/obra/superpowers) (16.5k ⭐) - Give Claude Code superpowers with a comprehensive skills library of proven techniques, patterns, and tools.
 - 🔥 [**claude-code-templates**](https://github.com/davila7/claude-code-templates) (15.4k ⭐) - A CLI tool for configuring and monitoring Claude Code.
 - 🔥 [**claude-mem**](https://github.com/thedotmack/claude-mem) (13.1k ⭐) - A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.
 - 🔥 [**claude-flow**](https://github.com/ruvnet/claude-flow) (11.4k ⭐) - An enterprise-grade AI orchestration platform that reimagines how developers build with AI.
