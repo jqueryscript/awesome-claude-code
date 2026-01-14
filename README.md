@@ -113,6 +113,7 @@ A curated list of awesome tools, skills, plugins, integrations, extensions, fram
 - [**plugins-for-claude-natives**](https://github.com/team-attention/plugins-for-claude-natives): A collection of Claude Code plugins for power users who want to extend Claude Code's capabilities beyond the defaults.
 - [**claude-dashboard**](https://github.com/uppinote20/claude-dashboard): Comprehensive status line plugin for Claude Code with context usage, API rate limits, and cost tracking
 - [**claude-code**](https://github.com/laravel/claude-code): A collection of Claude Code plugins tailored for PHP / Laravel development.
+- [**marcel-bich-claude-marketplace**](https://github.com/Marcel-Bich/marcel-bich-claude-marketplace): A curated collection of Claude Code plugins featuring dogma (AI cleanup, linting, security enforcement), signal (desktop notifications), and limit (live API usage statusline). Includes comprehensive wiki documentation.
 
 
 ---
