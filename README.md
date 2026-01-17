@@ -284,6 +284,7 @@ A curated list of awesome tools, skills, plugins, integrations, extensions, fram
 - ✨ [**claude-code-otel**](https://github.com/ColeMurray/claude-code-otel/) (228 ⭐) - A comprehensive observability solution for monitoring Claude Code usage, performance, and costs.
 - ✨ [**claude-code-leaderboard**](https://github.com/grp06/claude-code-leaderboard) (180 ⭐) - This CLI automatically monitors your token usage and posts your stats to the leaderboard after each Claude Code session.
 - ✨ [**claude-code-ui**](https://github.com/KyleAMathews/claude-code-ui) (108 ⭐) - A real-time dashboard for monitoring Claude Code sessions across multiple projects.
+- [**Splitrail**](https://github.com/Piebald-AI/splitrail) (84 ⭐) - Fast, cross-platform, real-time token usage tracker and cost monitor for Piebald / Gemini CLI / Claude Code / Codex CLI / Qwen Code / Cline / Roo Code / Kilo Code / GitHub Copilot / OpenCode / Pi Agent.
 - [**pyccsl**](https://github.com/wolfdenpublishing/pyccsl) (81 ⭐) - Python Claude Code Status Line (PyCCSL, pronounced "pixel").
 - [**claude-statusline**](https://github.com/luongnv89/claude-statusline) (41 ⭐) - Customize the status line in Claude Code.
 - [**Claude-Monitor**](https://github.com/RISCfuture/Claude-Monitor) (38 ⭐) - A menulet that tracks your Claude Code token usage.
@@ -307,6 +308,7 @@ A curated list of awesome tools, skills, plugins, integrations, extensions, fram
 ## 📚 Guides & Learning
 
 - 🔥 [**agent-rules**](https://github.com/steipete/agent-rules) (5.5k ⭐) - Rules and knowledge to work better with agents such as Claude Code or Cursor.
+- 🔥 [**Claude Code System Prompts**](https://github.com/Piebald-AI/claude-code-system-prompts) (3.1k ⭐) - All parts of Claude Code's system prompt, 16 builtin tool descriptions, sub agent prompts (Plan/Explore/Task), utility prompts (CLAUDE.md, compact, statusline, magic docs, WebFetch, Bash cmd, security review, agent creation). Updated for each Claude Code version.
 - 🔥 [**claude-code-guide**](https://github.com/zebbern/claude-code-guide) (3.0k ⭐) - A full guide on Claude tips and tricks, optimizing Claude Code, and finding every command possible.
 - 🔥 [**claude-code-hooks-mastery**](https://github.com/disler/claude-code-hooks-mastery) (2.1k ⭐) - A resource for mastering Claude Code hooks.
 - ✨ [**claude-code-is-programmable**](https://github.com/disler/claude-code-is-programmable) (279 ⭐) - Scale your compute with Claude Code as a programmable agentic coding tool.
