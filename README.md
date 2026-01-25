@@ -77,32 +77,38 @@ A curated list of awesome tools, skills, plugins, integrations, extensions, fram
 
 ---
 
-## 🧠 Claude Skills
+## 🧠 Agent Skills
 
 - 🔥 [**Superpowers**](https://github.com/obra/superpowers) (27.9k ⭐) - Give Claude Code superpowers with a comprehensive skills library of proven techniques, patterns, and tools.
-- 🔥 [**awesome-claude-skills**](https://github.com/ComposioHQ/awesome-claude-skills) (21k ⭐): A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows.
 - 🔥 [**ui-ux-pro-max-skill**](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) (16.9k ⭐): An AI SKILL that provide design intelligence for building professional UI/UX multiple platforms.
 - 🔥 [**agent-skills**](https://github.com/vercel-labs/agent-skills) (12k ⭐): A collection of skills for AI coding agents. Skills are packaged instructions and scripts that extend agent capabilities.
 - 🔥 [**planning-with-files**](https://github.com/OthmanAdi/planning-with-files) (9.7k ⭐): Claude Code skill implementing Manus-style persistent markdown planning — the workflow pattern behind the $2B acquisition.
 - 🔥 [**obsidian-skills**](https://github.com/kepano/obsidian-skills) (7k ⭐): Claude Skills for use with Obsidian.
 - 🔥 [**claude-scientific-skills**](https://github.com/K-Dense-AI/claude-scientific-skills) (6.4k ⭐): A set of ready to use scientific skills for Claude.
-- 🔥 [**awesome-claude-skills**](https://github.com/travisvn/awesome-claude-skills) (5.3k ⭐): A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows — particularly Claude Code.
-- 🔥 [**awesome-claude-skills**](https://github.com/VoltAgent/awesome-claude-skills) (3.3k ⭐): The awesome collection of Claude Skills and resources.
-- 🔥 [**awesome-agent-skills**](https://github.com/heilcheng/awesome-agent-skills) (1.4k ⭐): A curated list of skills, tools, tutorials, and capabilities for AI coding agents (Claude, Codex, Copilot, VS Code).
+- 🔥 [**humanizer**](https://github.com/blader/humanizer) (2.9k ⭐): A Claude Code skill that removes signs of AI-generated writing from text, making it sound more natural and human.
+- 🔥 [**notebooklm-skill**](https://github.com/PleasePrompto/notebooklm-skill) (2.6k ⭐): Let Claude Code chat directly with NotebookLM for source-grounded answers based exclusively on your uploaded documents.
 - 🔥 [**skills**](https://github.com/trailofbits/skills) (1.3k ⭐): Trail of Bits Claude Code skills for security research, vulnerability detection, and audit workflows.
 - 🔥 [**add-skill**](https://github.com/vercel-labs/add-skill) (1.1k ⭐): Install agent skills onto your coding agents from any git repository.
 - 🔥 [**claude-design-engineer**](https://github.com/Dammyjay93/claude-design-engineer) (1.1k ⭐): Design engineering for Claude Code. Craft, memory, and enforcement for consistent UI.
+- 🌟 [**threejs-skills**](https://github.com/CloudAI-X/threejs-skills) (904 ⭐): A curated collection of Three.js skill files that provide Claude Code with foundational knowledge for creating 3D elements and interactive experiences.
 - 🌟 [**n-skills**](https://github.com/numman-ali/n-skills) (789 ⭐): Curated plugin marketplace for AI agents - works with Claude Code, Codex, and openskills.
-- 🌟 [**libukai**](https://github.com/libukai/awesome-agent-skills) (536 ⭐): The Definitive Guide to Agent Skills: Quick Start, Recommended Skills, Latest News, and Practical Case Studies.
+- 🌟 [**Youtube-clipper-skill**](https://github.com/op7418/Youtube-clipper-skill) (633 ⭐): Download videos, generate semantic chapters, clip segments, translate subtitles to bilingual format, and burn subtitles into videos.
+- 🌟 [**Khazix-Skills**](https://github.com/op7418/Youtube-clipper-skill) (563 ⭐): DA collection of AI Skills for managing and evolving your skill library.
+- 🌟 [**vue-skills**](https://github.com/hyf0/vue-skills) (552 ⭐): Agent skills for Vue 3 development.
+- 🌟 [**x-article-publisher-skill**](https://github.com/wshuyi/x-article-publisher-skill) (482 ⭐): Claude Code skill for publishing Markdown articles to X (Twitter) Articles.
 - ✨ [**SkillForge**](https://github.com/tripleyak/SkillForge) (467 ⭐): The ultimate meta-skill for generating best-in-class Claude Code skills.
 - ✨ [**sickn33**](https://github.com/sickn33/antigravity-awesome-skills) (448 ⭐): The Ultimate Collection of 130+ Agentic Skills for Claude Code/Antigravity/Cursor. 
+- ✨ [**manim_skill**](https://github.com/adithya-s-k/manim_skill) (328 ⭐): Agent skills for Manim to create 3Blue1Brown style animations.
 - ✨ [**callstackincubator**](https://github.com/callstackincubator/agent-skills) (328 ⭐): A collection of agent-optimized React Native skills for AI coding assistants.
+- ✨ [**agent-toolkit**](https://github.com/softaworks/agent-toolkit) (237 ⭐): A curated collection of skills for AI coding agents.
 - ✨ [**happy-claude-skills**](https://github.com/iamzhihuix/happy-claude-skills) (234 ⭐): A collection of practical skill plugins designed for Claude Code.
 - ✨ [**blader**](https://github.com/blader/claude-code-continuous-learning-skill) (220 ⭐): A Claude Code skill for autonomous skill extraction and continuous learning. Have Claude Code get smarter as it works.
 - ✨ [**claude-skill-homeassistant**](https://github.com/komal-SkyNET/claude-skill-homeassistant) (206 ⭐): Claude Code skill to supercharge and manage all Home Assistant workflows.
+- ✨ [**nano-banana-pro-prompts-recommend-skill**](https://github.com/YouMind-OpenLab/nano-banana-pro-prompts-recommend-skill) (181 ⭐): Claude Code / Cursor skill to recommend from 6000+ Nano Banana Pro image prompts.
 - ✨ [**claude-code-voice-skill**](https://github.com/abracadabra50/claude-code-voice-skill) (141 ⭐): Skill to talk to Claude about your projects over the phone.
 - ✨ [**claude-code-skills**](https://github.com/whawkinsiv/claude-code-skills) (133 ⭐): Complete software development lifecycle skills optimized for non-technical founders building SaaS applications with AI tools (Lovable, Replit, Claude Code).
 - ✨ [**nano-image-generator-skill**](https://github.com/lxfater/nano-image-generator-skill) (110 ⭐): A Claude Code skill for generating images using Gemini 3 Pro Preview (Nano Banana Pro).
+- ✨ [**solid-skills**](https://github.com/lxfater/nano-image-generator-skill) (100 ⭐): AI agent skill for writing senior-engineer quality code through SOLID principles, TDD, and clean architecture.
 - [**Apple-Hig-Designer**](https://github.com/axiaoge2/Apple-Hig-Designer): A Claude Code Skill for designing professional interfaces following Apple Human Interface Guidelines.
 - [**skill-threat-modeling**](https://github.com/fr33d3m0n/skill-threat-modeling): Code-First Deep Risk Analysis Skill for Claude Code - 8-Phase Workflow with Security design review, STRIDE Threat modeling, PenTest and attack chain analysis, Software compliance assessment.
 - [**google-ai-mode-skill**](https://github.com/PleasePrompto/google-ai-mode-skill): Claude Code skill for free Google AI Mode search with citations.
@@ -116,16 +122,20 @@ A curated list of awesome tools, skills, plugins, integrations, extensions, fram
 ## 🔌 Claude Plugins
 
 
-- [**claude-hud**](https://github.com/jarrodwatts/claude-hud): A Claude Code plugin that shows what's happening - context usage, active tools, running agents, and todo progress.
-- [**claude-workflow-v2**](https://github.com/CloudAI-X/claude-workflow-v2): Universal Claude Code workflow plugin with agents, skills, hooks, and commands.
-- [**claude-code-plugin**](https://github.com/browserbase/claude-code-plugin): Browserbase plugin for Claude Code - Use cloud browsers with Claude Code instead of local Chrome.
-- [**claude-code-safety-net**](https://github.com/kenryu42/claude-code-safety-net): A Claude Code plugin that acts as a safety net, catching destructive git and filesystem commands before they execute.
-- [**ensue-skill**](https://github.com/mutable-state-inc/ensue-skill): A persistent knowledge tree that grows with you - what you learn today enriches tomorrow's reasoning.
-- [**call-me**](https://github.com/ZeframLou/call-me): Minimal plugin that lets Claude Code call you on the phone.
-- [**plugins-for-claude-natives**](https://github.com/team-attention/plugins-for-claude-natives): A collection of Claude Code plugins for power users who want to extend Claude Code's capabilities beyond the defaults.
+- 🔥 [**claude-hud**](https://github.com/jarrodwatts/claude-hud): A Claude Code plugin that shows what's happening - context usage, active tools, running agents, and todo progress.
+- 🔥 [**call-me**](https://github.com/ZeframLou/call-me): Minimal plugin that lets Claude Code call you on the phone.
+- 🔥 [**interface-design**](https://github.com/Dammyjay93/interface-design): Design engineering for Claude Code. Craft, memory, and enforcement for consistent UI.
+- 🔥 [**claude-workflow-v2**](https://github.com/CloudAI-X/claude-workflow-v2): Universal Claude Code workflow plugin with agents, skills, hooks, and commands.
+- 🌟 [**claude-code-safety-net**](https://github.com/kenryu42/claude-code-safety-net): A Claude Code plugin that acts as a safety net, catching destructive git and filesystem commands before they execute.
+- ✨ [**ralph-wiggum-marketer**](https://github.com/muratcankoylan/ralph-wiggum-marketer): A Claude Code Plugin that provides an autonomous AI copywriter.
+- ✨ [**adversarial-spec**](https://github.com/zscole/adversarial-spec): A Claude Code plugin that iteratively refines product specifications by debating between multiple LLMs until all models reach consensus.
+- ✨ [**design-plugin**](https://github.com/0xdesign/design-plugin): A Claude Code plugin that helps you make confident UI design decisions through rapid iteration.
+- ✨ [**claude-code**](https://github.com/laravel/claude-code): A collection of Claude Code plugins tailored for PHP / Laravel development.
+- ✨ [**plugins-for-claude-natives**](https://github.com/team-attention/plugins-for-claude-natives): A collection of Claude Code plugins for power users who want to extend Claude Code's capabilities beyond the defaults.
+- ✨ [**cartographer**](https://github.com/kingbootoshi/cartographer): Claude Code plugin that maps and documents codebases of any size using parallel AI subagents.
+- ✨ [**ensue-skill**](https://github.com/mutable-state-inc/ensue-skill): A persistent knowledge tree that grows with you - what you learn today enriches tomorrow's reasoning.
 - [**claude-dashboard**](https://github.com/uppinote20/claude-dashboard): Comprehensive status line plugin for Claude Code with context usage, API rate limits, and cost tracking
-- [**claude-code**](https://github.com/laravel/claude-code): A collection of Claude Code plugins tailored for PHP / Laravel development.
-
+- [**claude-code-plugin**](https://github.com/browserbase/claude-code-plugin): Browserbase plugin for Claude Code - Use cloud browsers with Claude Code instead of local Chrome.
 
 ---
 
@@ -239,6 +249,7 @@ A curated list of awesome tools, skills, plugins, integrations, extensions, fram
 - 🔥 [**vibe-kanban**](https://github.com/BloopAI/vibe-kanban) (14.7k ⭐) - Get 10X more out of Claude Code, Gemini CLI, Codex, Amp and other coding agents.
 - 🔥 [**happy**](https://github.com/slopus/happy) (7.0k ⭐) - Mobile and Web client for Claude Code, with realtime voice, encryption and fully featured.
 - 🔥 [**claudecodeui**](https://github.com/siteboon/claudecodeui) (5.4k ⭐) - A desktop and mobile UI for Claude Code, Anthropic's official CLI for AI-assisted coding.
+- 🔥 [**1code**](https://github.com/21st-dev/1code) (4.4k ⭐) - Best UI for Claude Code with local and remote agent execution.
 - 🔥 [**Sniffly**](https://github.com/chiphuyen/sniffly) (1.1k ⭐) - Claude Code dashboard with usage stats, error analysis, and sharable feature.
 - 🔥 [**cui**](https://github.com/BMPixel/cui) (1.1k ⭐) - A web UI for Claude Code agents.
 - 🌟 [**claude-code-webui**](https://github.com/sugyan/claude-code-webui) (821 ⭐) - Web-based interface for Claude CLI with streaming chat responses.
@@ -293,6 +304,7 @@ A curated list of awesome tools, skills, plugins, integrations, extensions, fram
 - 🔥 [**CCometixLine**](https://github.com/Haleclipse/CCometixLine) (1.3k ⭐) - A high-performance Claude Code statusline tool written in Rust with Git integration and real-time usage tracking.
 - 🌟 [**CCSeva**](https://github.com/Iamshankhadeep/ccseva) (748 ⭐) - A beautiful macOS menu bar app for tracking your Claude Code usage in real-time.
 - ✨ [**cc-statusline**](https://github.com/chongdashu/cc-statusline) (360 ⭐) - Transform your Claude Code experience with a beautiful, informative statusline.
+- ✨ [**opensync**](https://github.com/LKbaba/Claude-code-ChatInWindows) (237 ⭐) - Dashboards for OpenCode, Claude Code, Codex, Factory Droid and more.
 - ✨ [**claude-code-otel**](https://github.com/ColeMurray/claude-code-otel/) (228 ⭐) - A comprehensive observability solution for monitoring Claude Code usage, performance, and costs.
 - ✨ [**claude-code-leaderboard**](https://github.com/grp06/claude-code-leaderboard) (180 ⭐) - This CLI automatically monitors your token usage and posts your stats to the leaderboard after each Claude Code session.
 - ✨ [**claude-code-ui**](https://github.com/KyleAMathews/claude-code-ui) (108 ⭐) - A real-time dashboard for monitoring Claude Code sessions across multiple projects.
