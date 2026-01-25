@@ -14,7 +14,7 @@ A curated list of awesome tools, skills, plugins, integrations, extensions, fram
 
 - [Official Resources](#official-resources)
 - [🤖 Agents & Orchestration](#-agents--orchestration)
-- [🧠 Claude Skills](#-claude-skills)
+- [🧠 Claude Skills](#-agent-skills)
 - [🔌 Claude Plugins](#-claude-plugins)
 - [🛠️ Tools & Utilities](#%EF%B8%8F-tools--utilities)
 - [💻 IDE & Editor Integrations](#-ide--editor-integrations)
