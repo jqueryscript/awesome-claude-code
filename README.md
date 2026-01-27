@@ -93,10 +93,14 @@ A curated list of awesome tools, skills, plugins, integrations, extensions, fram
 - 🔥 [**n8n-skills**](https://github.com/czlonkowski/n8n-skills) (2.2k ⭐): n8n skillset for Claude Code to build flawless n8n workflows.
 - 🔥 [**playwright-skill**](https://github.com/lackeyjb/playwright-skill) (1.5k ⭐): Claude Code Skill for browser automation with Playwright. Model-invoked - Claude autonomously writes and executes custom automation for testing and validation.
 - 🔥 [**Claudeception**](https://github.com/blader/Claudeception) (1.5k ⭐): A Claude Code skill for autonomous skill extraction and continuous learning. Have Claude Code get smarter as it works.
+- 🔥 [**claude-skills**](https://github.com/alirezarezvani/claude-skills) (1.5k ⭐): A Collection of Skills for Claude Code and Claude AI for real-world Usage.
 - 🔥 [**skills**](https://github.com/trailofbits/skills) (1.3k ⭐): Trail of Bits Claude Code skills for security research, vulnerability detection, and audit workflows.
 - 🔥 [**add-skill**](https://github.com/vercel-labs/add-skill) (1.1k ⭐): Install agent skills onto your coding agents from any git repository.
 - 🔥 [**claude-design-engineer**](https://github.com/Dammyjay93/claude-design-engineer) (1.1k ⭐): Design engineering for Claude Code. Craft, memory, and enforcement for consistent UI.
+- 🌟 [**aws-agent-skills**](https://github.com/itsmostafa/aws-agent-skills) (977 ⭐): Supercharge Claude Code with AWS cloud engineering skills across 18 core AWS services.
 - 🌟 [**threejs-skills**](https://github.com/CloudAI-X/threejs-skills) (904 ⭐): A curated collection of Three.js skill files that provide Claude Code with foundational knowledge for creating 3D elements and interactive experiences.
+- 🌟 [**synalinks-skills**](https://github.com/numman-ali/n-skills) (894 ⭐): Claude skills for Synalinks.
+- 🌟 [**stitch-skills**](https://github.com/google-labs-code/stitch-skills) (886 ⭐): A library of Agent Skills designed to work with the Stitch MCP server. 
 - 🌟 [**n-skills**](https://github.com/numman-ali/n-skills) (789 ⭐): Curated plugin marketplace for AI agents - works with Claude Code, Codex, and openskills.
 - 🌟 [**Youtube-clipper-skill**](https://github.com/op7418/Youtube-clipper-skill) (633 ⭐): Download videos, generate semantic chapters, clip segments, translate subtitles to bilingual format, and burn subtitles into videos.
 - 🌟 [**Khazix-Skills**](https://github.com/op7418/Youtube-clipper-skill) (563 ⭐): DA collection of AI Skills for managing and evolving your skill library.
@@ -110,11 +114,13 @@ A curated list of awesome tools, skills, plugins, integrations, extensions, fram
 - ✨ [**happy-claude-skills**](https://github.com/iamzhihuix/happy-claude-skills) (234 ⭐): A collection of practical skill plugins designed for Claude Code.
 - ✨ [**blader**](https://github.com/blader/claude-code-continuous-learning-skill) (220 ⭐): A Claude Code skill for autonomous skill extraction and continuous learning. Have Claude Code get smarter as it works.
 - ✨ [**claude-skill-homeassistant**](https://github.com/komal-SkyNET/claude-skill-homeassistant) (206 ⭐): Claude Code skill to supercharge and manage all Home Assistant workflows.
+- ✨ [**solid-skills**](https://github.com/ramziddin/solid-skills) (205 ⭐): AI agent skill for writing senior-engineer quality code through SOLID principles, TDD, and clean architecture.
 - ✨ [**nano-banana-pro-prompts-recommend-skill**](https://github.com/YouMind-OpenLab/nano-banana-pro-prompts-recommend-skill) (181 ⭐): Claude Code / Cursor skill to recommend from 6000+ Nano Banana Pro image prompts.
 - ✨ [**claude-code-voice-skill**](https://github.com/abracadabra50/claude-code-voice-skill) (141 ⭐): Skill to talk to Claude about your projects over the phone.
 - ✨ [**claude-code-skills**](https://github.com/whawkinsiv/claude-code-skills) (133 ⭐): Complete software development lifecycle skills optimized for non-technical founders building SaaS applications with AI tools (Lovable, Replit, Claude Code).
 - ✨ [**nano-image-generator-skill**](https://github.com/lxfater/nano-image-generator-skill) (110 ⭐): A Claude Code skill for generating images using Gemini 3 Pro Preview (Nano Banana Pro).
 - ✨ [**solid-skills**](https://github.com/lxfater/nano-image-generator-skill) (100 ⭐): AI agent skill for writing senior-engineer quality code through SOLID principles, TDD, and clean architecture.
+- [**BFL Agent Skills**](https://docs.bfl.ai/api_integration/skills_integration): Reusable capabilities that teach AI agents how to work with FLUX models.
 - [**Apple-Hig-Designer**](https://github.com/axiaoge2/Apple-Hig-Designer): A Claude Code Skill for designing professional interfaces following Apple Human Interface Guidelines.
 - [**skill-threat-modeling**](https://github.com/fr33d3m0n/skill-threat-modeling): Code-First Deep Risk Analysis Skill for Claude Code - 8-Phase Workflow with Security design review, STRIDE Threat modeling, PenTest and attack chain analysis, Software compliance assessment.
 - [**google-ai-mode-skill**](https://github.com/PleasePrompto/google-ai-mode-skill): Claude Code skill for free Google AI Mode search with citations.
