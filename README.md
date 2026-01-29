@@ -106,10 +106,15 @@ A curated list of awesome tools, skills, plugins, integrations, extensions, fram
 - 🌟 [**vue-skills**](https://github.com/vuejs-ai/skills) (799 ⭐): Agent skills for Vue 3 development.
 - 🌟 [**n-skills**](https://github.com/numman-ali/n-skills) (789 ⭐): Curated plugin marketplace for AI agents - works with Claude Code, Codex, and openskills.
 - 🌟 [**Expo-Skills**](https://github.com/expo/skills) (749 ⭐): A collection of AI agent skills for working with Expo projects and Expo Application Services.
+- 🌟 [**cloudflare-skill**](https://github.com/dmmulroy/cloudflare-skill) (639 ⭐): Comprehensive Cloudflare platform reference docs for AI/LLM consumption.
 - 🌟 [**Youtube-clipper-skill**](https://github.com/op7418/Youtube-clipper-skill) (633 ⭐): Download videos, generate semantic chapters, clip segments, translate subtitles to bilingual format, and burn subtitles into videos.
+- 🌟 [**ui-skills**](https://github.com/ibelick/ui-skills) (629 ⭐): A growing set of skills to polish interfaces built by agents.
+- 🌟 [**rust-skills**](https://github.com/actionbook/rust-skills) (595 ⭐): Rust Developer AI Assistance System — Meta-Problem-Driven Knowledge Indexing.
 - 🌟 [**Khazix-Skills**](https://github.com/op7418/Youtube-clipper-skill) (563 ⭐): DA collection of AI Skills for managing and evolving your skill library.
 - 🌟 [**vue-skills**](https://github.com/hyf0/vue-skills) (552 ⭐): Agent skills for Vue 3 development.
+- 🌟 [**skill-codex**](https://github.com/skills-directory/skill-codex) (512 ⭐): A claude code skill to delegate prompts to codex.
 - 🌟 [**x-article-publisher-skill**](https://github.com/wshuyi/x-article-publisher-skill) (482 ⭐): Claude Code skill for publishing Markdown articles to X (Twitter) Articles.
+- 🌟 [**nuxt-skills**](https://github.com/onmax/nuxt-skills) (475 ⭐): Vue, Nuxt, and NuxtHub skills for AI coding assistants.
 - ✨ [**SkillForge**](https://github.com/tripleyak/SkillForge) (467 ⭐): The ultimate meta-skill for generating best-in-class Claude Code skills.
 - ✨ [**sickn33**](https://github.com/sickn33/antigravity-awesome-skills) (448 ⭐): The Ultimate Collection of 130+ Agentic Skills for Claude Code/Antigravity/Cursor. 
 - ✨ [**manim_skill**](https://github.com/adithya-s-k/manim_skill) (328 ⭐): Agent skills for Manim to create 3Blue1Brown style animations.
@@ -126,6 +131,8 @@ A curated list of awesome tools, skills, plugins, integrations, extensions, fram
 - ✨ [**solid-skills**](https://github.com/lxfater/nano-image-generator-skill) (100 ⭐): AI agent skill for writing senior-engineer quality code through SOLID principles, TDD, and clean architecture.
 - [**remotion-dev/skills**](https://www.remotion.dev/docs/ai/skills): Create videos programmatically.
 - [**BFL Agent Skills**](https://docs.bfl.ai/api_integration/skills_integration): Reusable capabilities that teach AI agents how to work with FLUX models.
+- [**Manus Skills**](https://manus.im/blog/manus-skills): Manus' official agent skills.
+- [**Firecrawl Skills**](https://docs.firecrawl.dev/sdks/cli): An easy way for AI agents such as Claude Code, Antigravity and OpenCode to use Firecrawl through the CLI.
 - [**Apple-Hig-Designer**](https://github.com/axiaoge2/Apple-Hig-Designer): A Claude Code Skill for designing professional interfaces following Apple Human Interface Guidelines.
 - [**skill-threat-modeling**](https://github.com/fr33d3m0n/skill-threat-modeling): Code-First Deep Risk Analysis Skill for Claude Code - 8-Phase Workflow with Security design review, STRIDE Threat modeling, PenTest and attack chain analysis, Software compliance assessment.
 - [**google-ai-mode-skill**](https://github.com/PleasePrompto/google-ai-mode-skill): Claude Code skill for free Google AI Mode search with citations.
