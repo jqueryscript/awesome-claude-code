@@ -49,6 +49,7 @@ A curated list of awesome tools, skills, plugins, integrations, extensions, fram
 - 🔥 [**claude-agents**](https://github.com/iannuttall/claude-agents) (2.0k ⭐) - Custom subagents to use with Claude Code.
 - 🔥 [**claude-swarm**](https://github.com/parruda/claude-swarm) (1.6k ⭐) - Easily launch a Claude Code session connected to a swarm of Claude Code Agents.
 - 🔥 [**claude-code-sub-agents**](https://github.com/lst97/claude-code-sub-agents) (1.3k ⭐) - Collection of specialized AI subagents for Claude Code for personal use.
+- 🔥 [**ralph-claude-code**](https://github.com/DmitrySolana/ralph-claude-code) (1.2k ⭐) - Autonomous AI development loop for Claude Code with intelligent exit detection.
 - 🔥 [**awesome-claude-code-agents**](https://github.com/hesreallyhim/awesome-claude-code-agents) (1.1k ⭐) - A curated list of awesome Claude Code Sub-Agents.
 - 🌟 [**claude-code-unified-agents**](https://github.com/stretchcloud/claude-code-unified-agents) (722 ⭐) - A comprehensive collection of specialized Claude Code sub-agents combining the best features from multiple community repositories.
 - 🌟 [**claude-code-subagents**](https://github.com/0xfurai/claude-code-subagents) (622 ⭐) - A comprehensive collection of 100+ production-ready development subagents for Claude Code.
@@ -70,6 +71,7 @@ A curated list of awesome tools, skills, plugins, integrations, extensions, fram
 - [**sub-agents.directory**](https://github.com/ayush-that/sub-agents.directory) (74 ⭐) - A curated collection of 100+ sub-agent prompts and MCP servers for Claude Code.
 - [**multi-agent-squad**](https://github.com/bijutharakan/multi-agent-squad) (74 ⭐) - Production-ready multi-agent orchestration framework for Claude Code.
 - [**claude-code-heavy**](https://github.com/gtrusler/claude-code-heavy) (72 ⭐) - Multi-agent research orchestration using Claude Code.
+- [**claude-code-semantic-memory**](https://github.com/gtrusler/claude-code-heavy) (70 ⭐) - Persistent semantic memory system for Claude Code.
 - [**Agent-Fusion**](https://github.com/krokozyab/Agent-Fusion) (46 ⭐) - A multi-agent orchestration system that enables Claude Code, Codex CLI, Amazon Q Developer, and Gemini Code Assist to collaborate bidirectionally through intelligent task routing and consensus-based decision making.
 - [**Severance**](https://github.com/blas0/Severance) (41 ⭐) - A semantic memory system designed for Claude Code.
 - [**AgentCheck**](https://github.com/devlyai/AgentCheck) (33 ⭐) - Local AI-powered code review agents for Claude Code.
@@ -112,11 +114,14 @@ A curated list of awesome tools, skills, plugins, integrations, extensions, fram
 - 🌟 [**rust-skills**](https://github.com/actionbook/rust-skills) (595 ⭐): Rust Developer AI Assistance System — Meta-Problem-Driven Knowledge Indexing.
 - 🌟 [**Khazix-Skills**](https://github.com/op7418/Youtube-clipper-skill) (563 ⭐): DA collection of AI Skills for managing and evolving your skill library.
 - 🌟 [**vue-skills**](https://github.com/hyf0/vue-skills) (552 ⭐): Agent skills for Vue 3 development.
+- 🌟 [**frontend-slides**](https://github.com/zarazhangrui/frontend-slides) (519 ⭐): A Claude Code skill for creating stunning, animation-rich HTML presentations.
 - 🌟 [**skill-codex**](https://github.com/skills-directory/skill-codex) (512 ⭐): A claude code skill to delegate prompts to codex.
 - 🌟 [**x-article-publisher-skill**](https://github.com/wshuyi/x-article-publisher-skill) (482 ⭐): Claude Code skill for publishing Markdown articles to X (Twitter) Articles.
 - 🌟 [**nuxt-skills**](https://github.com/onmax/nuxt-skills) (475 ⭐): Vue, Nuxt, and NuxtHub skills for AI coding assistants.
 - ✨ [**SkillForge**](https://github.com/tripleyak/SkillForge) (467 ⭐): The ultimate meta-skill for generating best-in-class Claude Code skills.
 - ✨ [**sickn33**](https://github.com/sickn33/antigravity-awesome-skills) (448 ⭐): The Ultimate Collection of 130+ Agentic Skills for Claude Code/Antigravity/Cursor. 
+- ✨ [**ios-simulator-skill**](https://github.com/conorluddy/ios-simulator-skill) (440 ⭐): An IOS Simulator Skill for ClaudeCode. Use it to optimise Claude's ability to build, run and interact with your apps, without using up any of the available token/context budget.
+- ✨ [**next-skills**](https://github.com/vercel-labs/next-skills) (424 ⭐): Agent skills for common Next.js workflows.
 - ✨ [**manim_skill**](https://github.com/adithya-s-k/manim_skill) (328 ⭐): Agent skills for Manim to create 3Blue1Brown style animations.
 - ✨ [**callstackincubator**](https://github.com/callstackincubator/agent-skills) (328 ⭐): A collection of agent-optimized React Native skills for AI coding assistants.
 - ✨ [**agent-toolkit**](https://github.com/softaworks/agent-toolkit) (237 ⭐): A curated collection of skills for AI coding agents.
@@ -160,6 +165,7 @@ A curated list of awesome tools, skills, plugins, integrations, extensions, fram
 - ✨ [**ensue-skill**](https://github.com/mutable-state-inc/ensue-skill): A persistent knowledge tree that grows with you - what you learn today enriches tomorrow's reasoning.
 - [**claude-dashboard**](https://github.com/uppinote20/claude-dashboard): Comprehensive status line plugin for Claude Code with context usage, API rate limits, and cost tracking
 - [**claude-code-plugin**](https://github.com/browserbase/claude-code-plugin): Browserbase plugin for Claude Code - Use cloud browsers with Claude Code instead of local Chrome.
+- [**homunculus**](https://github.com/humanplane/homunculus): A Claude Code plugin that watches how you work, learns your patterns, and evolves itself to help you better.
 
 ---
 
@@ -226,6 +232,7 @@ A curated list of awesome tools, skills, plugins, integrations, extensions, fram
 - ✨ [**claude-agent-server**](https://github.com/forayconsulting/gemini_cli_skill) (140 ⭐) - A Claude Code skill enabling Claude to use Gemini 3 Pro via Gemini CLI.
 - ✨ [**context-forge**](https://github.com/webdevtodayjason/context-forge) (134 ⭐) - CLI tool that scaffolds context engineering documentation for Claude Code projects.
 - ✨ [**meridian**](https://github.com/markmdev/meridian) (123 ⭐) - Zero-config Claude Code setup with enforced task scaffolding, structured memory, persistent context after compaction, plug-in code standards, optional TDD mode, and zero behavior changes for developers.
+- ✨ [**claude-code-hooks**](https://github.com/karanb192/claude-code-hooks) (122 ⭐) - A growing collection of useful Claude Code hooks. Copy, paste, customize..
 - ✨ [**ClaudeForge**](https://github.com/alirezarezvani/ClaudeForge) (117 ⭐) - A CLAUDE.md Generator and Maintenance tool for for Claude Code to create high-quality CLAUDE.md instruction files — aligned with Anthropic’s best practices for Claude Code.
 - ✨ [**claude-code-personal-assistant**](https://github.com/c0dezli/claude-code-personal-assistant) (110 ⭐) - AI personal assistant setup for Claude Code.
 - ✨ [**spec-based-claude-code**](https://github.com/papaoloba/spec-based-claude-code) (103 ⭐) - Implementation of a Spec-Driven Development workflow in Claude Code using custom slash commands.
@@ -245,6 +252,7 @@ A curated list of awesome tools, skills, plugins, integrations, extensions, fram
 - [**claudecode-macmenu**](https://github.com/PiXeL16/claudecode-macmenu) (32 ⭐) - A Mac Menu for Claude Code that notifies when Claude is done and shows insights.
 - [**ccheckpoints**](https://github.com/p32929/ccheckpoints) (26 ⭐) - A checkpoint system for Claude Code CLI that automatically tracks your coding sessions.
 - [**cc-monitor-rs**](https://github.com/ZhangHanDong/cc-monitor-rs) (22 ⭐) - Real-time Claude Code usage monitor with native UI built using Rust and Makepad.
+- [**ClaudeUsageBar**](https://github.com/Artzainnn/ClaudeUsageBar) (22 ⭐) - Track your Claude.ai usage right from your Mac menu bar.
 - [**claude-code-test-runner**](https://github.com/firstloophq/claude-code-test-runner) (20 ⭐) - An automated E2E natural language test runner built on Claude Code.
 - [**cc-monitor-worker**](https://github.com/cometkim/cc-monitor-worker) (13 ⭐) - Claude Code monitoring with Cloudflare Workers & Workers Analytics Engine.
 - [**shotgun-alpha**](https://github.com/shotgun-sh/shotgun-alpha) (3 ⭐) - Codebase-aware spec engine for Cursor, Claude Code & Lovable.
