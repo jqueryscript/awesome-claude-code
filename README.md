@@ -160,6 +160,7 @@ A curated list of awesome tools, skills, plugins, integrations, extensions, fram
 - ✨ [**ensue-skill**](https://github.com/mutable-state-inc/ensue-skill): A persistent knowledge tree that grows with you - what you learn today enriches tomorrow's reasoning.
 - [**claude-dashboard**](https://github.com/uppinote20/claude-dashboard): Comprehensive status line plugin for Claude Code with context usage, API rate limits, and cost tracking
 - [**claude-code-plugin**](https://github.com/browserbase/claude-code-plugin): Browserbase plugin for Claude Code - Use cloud browsers with Claude Code instead of local Chrome.
+- [**skill-semver**](https://github.com/cathy-kim/skill-semver): Automatic version control for Claude Code Skills with semantic versioning, auto-backup, and changelog generation. Features PostToolUse hook for versioned backups.
 
 ---
 
