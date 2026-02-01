@@ -124,9 +124,14 @@ A curated list of awesome tools, skills, plugins, integrations, extensions, fram
 - ✨ [**next-skills**](https://github.com/vercel-labs/next-skills) (424 ⭐): Agent skills for common Next.js workflows.
 - ✨ [**manim_skill**](https://github.com/adithya-s-k/manim_skill) (328 ⭐): Agent skills for Manim to create 3Blue1Brown style animations.
 - ✨ [**callstackincubator**](https://github.com/callstackincubator/agent-skills) (328 ⭐): A collection of agent-optimized React Native skills for AI coding assistants.
+- ✨ [**web-quality-skills**](https://github.com/addyosmani/web-quality-skills) (250 ⭐): Agent Skills for optimizing web quality based on Lighthouse and Core Web Vitals.
+- ✨ [**solana-dev-skill**](https://github.com/solana-foundation/solana-dev-skill) (250 ⭐): Claude Code skill for modern Solana development.
+- ✨ [**awesome-dfir-skills**](https://github.com/tsale/awesome-dfir-skills) (250 ⭐): A curated collection of DFIR skills and workflows for InfoSec practitioners.
 - ✨ [**agent-toolkit**](https://github.com/softaworks/agent-toolkit) (237 ⭐): A curated collection of skills for AI coding agents.
 - ✨ [**happy-claude-skills**](https://github.com/iamzhihuix/happy-claude-skills) (234 ⭐): A collection of practical skill plugins designed for Claude Code.
+- ✨ [**claude-office-skills**](https://github.com/tfriedel/claude-office-skills) (232 ⭐): Office document creation and editing skills for Claude Code - PPTX, DOCX, XLSX, and PDF workflows with automation support.
 - ✨ [**blader**](https://github.com/blader/claude-code-continuous-learning-skill) (220 ⭐): A Claude Code skill for autonomous skill extraction and continuous learning. Have Claude Code get smarter as it works.
+- ✨ [**csv-data-summarizer-claude-skill**](https://github.com/coffeefuelbump/csv-data-summarizer-claude-skill) (206 ⭐): A Claude Skill that automatically analyzes uploaded CSV files — generating summary statistics, detecting missing data, and creating quick visualizations using Python and pandas.
 - ✨ [**claude-skill-homeassistant**](https://github.com/komal-SkyNET/claude-skill-homeassistant) (206 ⭐): Claude Code skill to supercharge and manage all Home Assistant workflows.
 - ✨ [**solid-skills**](https://github.com/ramziddin/solid-skills) (205 ⭐): AI agent skill for writing senior-engineer quality code through SOLID principles, TDD, and clean architecture.
 - ✨ [**nano-banana-pro-prompts-recommend-skill**](https://github.com/YouMind-OpenLab/nano-banana-pro-prompts-recommend-skill) (181 ⭐): Claude Code / Cursor skill to recommend from 6000+ Nano Banana Pro image prompts.
