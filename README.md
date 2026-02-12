@@ -94,11 +94,14 @@ A curated list of awesome tools, skills, plugins, integrations, extensions, fram
 - 🔥 [**notebooklm-skill**](https://github.com/PleasePrompto/notebooklm-skill) (2.7k ⭐): Use this skill to enable Claude Code to communicate directly with your Google NotebookLM notebooks. 
 - 🔥 [**n8n-skills**](https://github.com/czlonkowski/n8n-skills) (2.2k ⭐): n8n skillset for Claude Code to build flawless n8n workflows.
 - 🔥 [**AI-research-SKILLs**](https://github.com/Orchestra-Research/AI-research-SKILLs) (2.2k ⭐): Visual Skills Pack for Obsidian: generate Canvas, Excalidraw, and Mermaid diagrams from text with Claude Code.
+- 🔥 [**AI-research-SKILLs**](https://github.com/sanyuan0704/code-review-expert) (1.9k ⭐): A comprehensive code review skill for AI agents. 
 - 🔥 [**playwright-skill**](https://github.com/lackeyjb/playwright-skill) (1.5k ⭐): Claude Code Skill for browser automation with Playwright. Model-invoked - Claude autonomously writes and executes custom automation for testing and validation.
 - 🔥 [**Claudeception**](https://github.com/blader/Claudeception) (1.5k ⭐): A Claude Code skill for autonomous skill extraction and continuous learning. Have Claude Code get smarter as it works.
 - 🔥 [**claude-skills**](https://github.com/alirezarezvani/claude-skills) (1.5k ⭐): A Collection of Skills for Claude Code and Claude AI for real-world Usage.
+- 🔥 [**claude-skills**](https://github.com/Jeffallan/claude-skills) (1.5k ⭐): 66 Specialized Skills for Full-Stack Developers.
 - 🔥 [**last30days-skill**](https://github.com/mvanhorn/last30days-skill) (1.3k ⭐): Claude Code skill that researches any topic across Reddit + X from the last 30 days, then writes copy-paste-ready prompts.
 - 🔥 [**skills**](https://github.com/trailofbits/skills) (1.3k ⭐): Trail of Bits Claude Code skills for security research, vulnerability detection, and audit workflows.
+- 🔥 [**skills**](https://github.com/microsoft/skills) (1.3k ⭐): Skills, MCP servers, Custom Agents, Agents.md for SDKs to ground Coding Agents.
 - 🔥 [**axton-obsidian-visual-skills**](https://github.com/trailofbits/skills) (1.2k ⭐): Trail of Bits Claude Code skills for security research, vulnerability detection, and audit workflows.
 - 🔥 [**add-skill**](https://github.com/vercel-labs/add-skill) (1.1k ⭐): Install agent skills onto your coding agents from any git repository.
 - 🔥 [**claude-design-engineer**](https://github.com/Dammyjay93/claude-design-engineer) (1.1k ⭐): Design engineering for Claude Code. Craft, memory, and enforcement for consistent UI.
@@ -289,6 +292,8 @@ A curated list of awesome tools, skills, plugins, integrations, extensions, fram
 - 🔥 [**happy**](https://github.com/slopus/happy) (7.0k ⭐) - Mobile and Web client for Claude Code, with realtime voice, encryption and fully featured.
 - 🔥 [**claudecodeui**](https://github.com/siteboon/claudecodeui) (5.4k ⭐) - A desktop and mobile UI for Claude Code, Anthropic's official CLI for AI-assisted coding.
 - 🔥 [**1code**](https://github.com/21st-dev/1code) (4.4k ⭐) - Best UI for Claude Code with local and remote agent execution.
+- 🔥 [**CodePilot**](https://github.com/op7418/CodePilot) (1.8k ⭐) - A native desktop GUI for Claude Code — chat, code, and manage projects visually.
+- 🔥 [**companion**](https://github.com/The-Vibe-Company/companion) (1.7k ⭐) - Open-source Claude Code / Codex Web UI. 
 - 🔥 [**Sniffly**](https://github.com/chiphuyen/sniffly) (1.1k ⭐) - Claude Code dashboard with usage stats, error analysis, and sharable feature.
 - 🔥 [**cui**](https://github.com/BMPixel/cui) (1.1k ⭐) - A web UI for Claude Code agents.
 - 🌟 [**claude-code-webui**](https://github.com/sugyan/claude-code-webui) (821 ⭐) - Web-based interface for Claude CLI with streaming chat responses.
