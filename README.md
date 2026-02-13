@@ -382,6 +382,7 @@ A curated list of awesome tools, skills, plugins, integrations, extensions, fram
 - ✨ [**claude-code-is-programmable**](https://github.com/disler/claude-code-is-programmable) (279 ⭐) - Scale your compute with Claude Code as a programmable agentic coding tool.
 - ✨ [**claude-code-mcpinstall**](https://github.com/undeadpickle/claude-code-mcpinstall) (236 ⭐) - Easy guide to installing Claude Code MCPs globally on your machine.
 - ✨ [**claude-code-system-prompt**](https://github.com/matthew-lim-matthew-lim/claude-code-system-prompt) (122 ⭐) - Claude Code's system prompt.
+- ✨ [**claude-code-ultimate-guide**](https://github.com/FlorianBruniaux/claude-code-ultimate-guide) (137 ⭐) - Covers Claude Code from beginner to power user with production-ready templates for hooks, agents, skills, and commands, plus agentic workflow guides, quizzes, and a cheatsheet.
 - [**claudecode-best-practices**](https://github.com/rosmur/claudecode-best-practices) (54 ⭐) - A collection of best practices and procedures for using Claude Code.
 
 ---
