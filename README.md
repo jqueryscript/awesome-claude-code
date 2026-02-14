@@ -76,6 +76,7 @@ A curated list of awesome tools, skills, plugins, integrations, extensions, fram
 - [**Severance**](https://github.com/blas0/Severance) (41 ⭐) - A semantic memory system designed for Claude Code.
 - [**AgentCheck**](https://github.com/devlyai/AgentCheck) (33 ⭐) - Local AI-powered code review agents for Claude Code.
 - [**claude-agents**](https://github.com/tddworks/claude-agents) (14 ⭐) - A collection of specialized AI agents for Claude Code that enhance software development workflows with focused expertise in specific domains.
+- [**claude-pipe**](https://github.com/bluzir/claude-pipe) - Conventions for multi-step Claude Code pipelines. Workers write to YAML, ROOT orchestrates flat (no nested spawns), state files enable resume from failure point. Includes research pipeline and batch classifier examples.
 
 ---
 
