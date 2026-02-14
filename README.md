@@ -305,6 +305,7 @@ A curated list of awesome tools, skills, plugins, integrations, extensions, fram
 - ✨ [**claude-code-webui**](https://github.com/DevAgentForge/claude-code-webui) (149 ⭐) - A web-based Claude Code that runs on desktop, mobile phones, and iPads.
 - [**ccmate-release**](https://github.com/djyde/ccmate-release) (57 ⭐) - A GUI for Claude Code.
 - [**Claude-Code-Web-GUI**](https://github.com/binggg/Claude-Code-Web-GUI) (56 ⭐) - Browse, view and share your Claude Code sessions - runs entirely in browser, no server required!
+- [**yume**](https://github.com/aofp/yume) (55 ⭐) - Native Tauri 2 desktop GUI for Claude Code with multi-tab sessions, background agents, context compaction, memory system, plugin/skills, and multi-provider support.
 - [**Claude in a Box**](https://github.com/juancgarza/claude-in-a-box) (48 ⭐) - A ChatGPT Canvas-style interface for Claude Code running in E2B sandboxes.
 
 ---
