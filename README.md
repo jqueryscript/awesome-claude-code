@@ -383,6 +383,7 @@ A curated list of awesome tools, skills, plugins, integrations, extensions, fram
 - ✨ [**claude-code-mcpinstall**](https://github.com/undeadpickle/claude-code-mcpinstall) (236 ⭐) - Easy guide to installing Claude Code MCPs globally on your machine.
 - ✨ [**claude-code-system-prompt**](https://github.com/matthew-lim-matthew-lim/claude-code-system-prompt) (122 ⭐) - Claude Code's system prompt.
 - [**claudecode-best-practices**](https://github.com/rosmur/claudecode-best-practices) (54 ⭐) - A collection of best practices and procedures for using Claude Code.
+- [Mysti](https://github.com/DeepMyst/Mysti) - Multi-agent AI coding assistant for VS Code with Claude Code integration, brainstorm mode, and multi-provider support.
 
 ---
 
