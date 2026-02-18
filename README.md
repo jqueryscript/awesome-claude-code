@@ -89,6 +89,7 @@ A curated list of awesome tools, skills, plugins, integrations, extensions, fram
 - 🔥 [**obsidian-skills**](https://github.com/kepano/obsidian-skills) (7k ⭐): Claude Skills for use with Obsidian.
 - 🔥 [**claude-scientific-skills**](https://github.com/K-Dense-AI/claude-scientific-skills) (6.4k ⭐): A set of ready to use scientific skills for Claude.
 - 🔥 [**marketingskills**](https://github.com/coreyhaines31/marketingskills) (4.8k ⭐): Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.
+- 🔥 [**antfu's skills**](https://github.com/antfu/skills) (3.5k ⭐): Anthony Fu's curated collection of agent skills.
 - 🔥 [**dev-browser**](https://github.com/SawyerHood/dev-browser) (3.3k ⭐): A Claude Skill to give your agent the ability to use a web browser.
 - 🔥 [**humanizer**](https://github.com/blader/humanizer) (2.9k ⭐): A Claude Code skill that removes signs of AI-generated writing from text, making it sound more natural and human.
 - 🔥 [**notebooklm-skill**](https://github.com/PleasePrompto/notebooklm-skill) (2.7k ⭐): Use this skill to enable Claude Code to communicate directly with your Google NotebookLM notebooks. 
@@ -112,7 +113,9 @@ A curated list of awesome tools, skills, plugins, integrations, extensions, fram
 - 🌟 [**agent-skills**](https://github.com/supabase/agent-skills) (833 ⭐): Agent Skills to help developers using AI agents with Supabase.
 - 🌟 [**vue-skills**](https://github.com/vuejs-ai/skills) (799 ⭐): Agent skills for Vue 3 development.
 - 🌟 [**n-skills**](https://github.com/numman-ali/n-skills) (789 ⭐): Curated plugin marketplace for AI agents - works with Claude Code, Codex, and openskills.
+- 🌟 [**x-research-skill**](https://github.com/rohunvora/x-research-skill) (781 ⭐): X/Twitter research skill for Claude Code and OpenClaw.
 - 🌟 [**Expo-Skills**](https://github.com/expo/skills) (749 ⭐): A collection of AI agent skills for working with Expo projects and Expo Application Services.
+- 🌟 [**visual-explainer**](https://github.com/nicobailon/visual-explainer) (731 ⭐): Agent skill + prompt templates that generate rich HTML pages for visual diff reviews, architecture overviews, plan audits, data tables, and project recaps.
 - 🌟 [**cloudflare-skill**](https://github.com/dmmulroy/cloudflare-skill) (639 ⭐): Comprehensive Cloudflare platform reference docs for AI/LLM consumption.
 - 🌟 [**Youtube-clipper-skill**](https://github.com/op7418/Youtube-clipper-skill) (633 ⭐): Download videos, generate semantic chapters, clip segments, translate subtitles to bilingual format, and burn subtitles into videos.
 - 🌟 [**ui-skills**](https://github.com/ibelick/ui-skills) (629 ⭐): A growing set of skills to polish interfaces built by agents.
@@ -193,6 +196,7 @@ A curated list of awesome tools, skills, plugins, integrations, extensions, fram
 - 🔥 [**claude-code-spec-workflow**](https://github.com/Pimzino/claude-code-spec-workflow) (3.3k ⭐) - Automated Kiro-style Spec workflow for Claude Code. Transform feature ideas into complete implementations through Requirements → Design → Tasks → Implementation.
 - 🔥 [**crystal**](https://github.com/stravu/crystal) (2.7k ⭐) - Run multiple Claude Code AI sessions in parallel git worktrees.
 - 🔥 [**CCPlugins**](https://github.com/brennercruvinel/CCPlugins) (2.6k ⭐) - Claude Code Plugins that actually save time. Built by a dev tired of typing please act like a senior engineer in every conversation.
+- 🔥 [**peon-ping**](https://github.com/PeonPing/peon-ping) (2.4k ⭐) - Warcraft III Peon voice notifications (+ more!) for Claude Code, Codex, IDEs, and any AI agent. 
 - 🔥 [**Continuous-Claude-v2**](https://github.com/parcadei/Continuous-Claude-v2) (2.2k ⭐) - Context management for Claude Code. Hooks maintain state via ledgers and handoffs. MCP execution without context pollution. Agent orchestration with isolated context windows.
 - 🔥 [**tdd-guard**](https://github.com/nizos/tdd-guard) (1.7k ⭐) - Automated TDD enforcement for Claude Code.
 - 🔥 [**commands**](https://github.com/wshobson/commands) (1.7k ⭐) - A collection of production-ready slash commands for Claude Code.
@@ -349,6 +353,7 @@ A curated list of awesome tools, skills, plugins, integrations, extensions, fram
 - 🔥 [**CCometixLine**](https://github.com/Haleclipse/CCometixLine) (1.3k ⭐) - A high-performance Claude Code statusline tool written in Rust with Git integration and real-time usage tracking.
 - 🌟 [**CCSeva**](https://github.com/Iamshankhadeep/ccseva) (748 ⭐) - A beautiful macOS menu bar app for tracking your Claude Code usage in real-time.
 - 🌟 [**tokentap**](https://github.com/jmuncor/tokentap) (685 ⭐) - Intercept LLM API traffic and visualize token usage in a real-time terminal dashboard. 
+- 🌟 [**claude-task-viewer**](https://github.com/L1AD/claude-task-viewer) (387 ⭐) - A web-based Kanban board for viewing Claude Code tasks.
 - ✨ [**cc-statusline**](https://github.com/chongdashu/cc-statusline) (360 ⭐) - Transform your Claude Code experience with a beautiful, informative statusline.
 - ✨ [**opensync**](https://github.com/LKbaba/Claude-code-ChatInWindows) (237 ⭐) - Dashboards for OpenCode, Claude Code, Codex, Factory Droid and more.
 - ✨ [**claude-code-otel**](https://github.com/ColeMurray/claude-code-otel/) (228 ⭐) - A comprehensive observability solution for monitoring Claude Code usage, performance, and costs.
@@ -378,6 +383,7 @@ A curated list of awesome tools, skills, plugins, integrations, extensions, fram
 
 - 🔥 [**agent-rules**](https://github.com/steipete/agent-rules) (5.5k ⭐) - Rules and knowledge to work better with agents such as Claude Code or Cursor.
 - 🔥 [**claude-code-guide**](https://github.com/zebbern/claude-code-guide) (3.0k ⭐) - A full guide on Claude tips and tricks, optimizing Claude Code, and finding every command possible.
+- 🔥 [**claude-code-tips**](https://github.com/ykdojo/claude-code-tips) (3.0k ⭐) - 45 tips for getting the most out of Claude Code, from basics to advanced - includes a custom status line script, cutting the system prompt in half, using Gemini CLI as Claude Code's minion, and Claude Code running itself in a container.
 - 🔥 [**claude-code-hooks-mastery**](https://github.com/disler/claude-code-hooks-mastery) (2.1k ⭐) - A resource for mastering Claude Code hooks.
 - ✨ [**claude-code-is-programmable**](https://github.com/disler/claude-code-is-programmable) (279 ⭐) - Scale your compute with Claude Code as a programmable agentic coding tool.
 - ✨ [**claude-code-mcpinstall**](https://github.com/undeadpickle/claude-code-mcpinstall) (236 ⭐) - Easy guide to installing Claude Code MCPs globally on your machine.
