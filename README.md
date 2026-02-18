@@ -359,6 +359,7 @@ A curated list of awesome tools, skills, plugins, integrations, extensions, fram
 - ✨ [**claude-code-otel**](https://github.com/ColeMurray/claude-code-otel/) (228 ⭐) - A comprehensive observability solution for monitoring Claude Code usage, performance, and costs.
 - ✨ [**claude-code-leaderboard**](https://github.com/grp06/claude-code-leaderboard) (180 ⭐) - This CLI automatically monitors your token usage and posts your stats to the leaderboard after each Claude Code session.
 - ✨ [**claude-code-ui**](https://github.com/KyleAMathews/claude-code-ui) (108 ⭐) - A real-time dashboard for monitoring Claude Code sessions across multiple projects.
+- [**oh-my-claude**](https://github.com/npow/oh-my-claude) - Like oh-my-zsh but for Claude Code. An extensible statusline framework with themes (tamagotchi, boss-battle, RPG, narrator, and more), dozens of mix-and-match segments, and a plugin system. Zero npm dependencies.
 - [**pyccsl**](https://github.com/wolfdenpublishing/pyccsl) (81 ⭐) - Python Claude Code Status Line (PyCCSL, pronounced "pixel").
 - [**claude-statusline**](https://github.com/luongnv89/claude-statusline) (41 ⭐) - Customize the status line in Claude Code.
 - [**Claude-Monitor**](https://github.com/RISCfuture/Claude-Monitor) (38 ⭐) - A menulet that tracks your Claude Code token usage.
