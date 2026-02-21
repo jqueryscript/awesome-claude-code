@@ -310,6 +310,7 @@ A curated list of awesome tools, skills, plugins, integrations, extensions, fram
 - [**ccmate-release**](https://github.com/djyde/ccmate-release) (57 ⭐) - A GUI for Claude Code.
 - [**Claude-Code-Web-GUI**](https://github.com/binggg/Claude-Code-Web-GUI) (56 ⭐) - Browse, view and share your Claude Code sessions - runs entirely in browser, no server required!
 - [**Claude in a Box**](https://github.com/juancgarza/claude-in-a-box) (48 ⭐) - A ChatGPT Canvas-style interface for Claude Code running in E2B sandboxes.
+- [**claude-code-open**](https://github.com/kill136/claude-code-open) - Open-source AI coding platform based on Claude Code CLI with Web IDE (Monaco editor), 37+ tools, Blueprint multi-agent system, and full MCP protocol support.
 
 ---
 
