@@ -272,6 +272,7 @@ A curated list of awesome tools, skills, plugins, integrations, extensions, fram
 - [**shotgun-alpha**](https://github.com/shotgun-sh/shotgun-alpha) (3 ⭐) - Codebase-aware spec engine for Cursor, Claude Code & Lovable.
 - [**conductor**](https://conductor.build/) (0 ⭐) - Run a bunch of Claude Codes in parallel.
 - [**claude-deep-research**](https://www.google.com/search?q=https://github.com/disler/claude-deep-research) (0 ⭐) - Claude Deep Research config for Claude Code.
+- [**metamemory**](https://github.com/xvirobotics/metamemory) (3 ⭐) - Shared memory server for Claude Code and AI agents with Web UI, full-text search, folder organization, and multi-agent knowledge sharing.
 
 ---
 
@@ -310,6 +311,7 @@ A curated list of awesome tools, skills, plugins, integrations, extensions, fram
 - [**ccmate-release**](https://github.com/djyde/ccmate-release) (57 ⭐) - A GUI for Claude Code.
 - [**Claude-Code-Web-GUI**](https://github.com/binggg/Claude-Code-Web-GUI) (56 ⭐) - Browse, view and share your Claude Code sessions - runs entirely in browser, no server required!
 - [**Claude in a Box**](https://github.com/juancgarza/claude-in-a-box) (48 ⭐) - A ChatGPT Canvas-style interface for Claude Code running in E2B sandboxes.
+- [**feishu-claudecode**](https://github.com/xvirobotics/feishu-claudecode) (25 ⭐) - Use Claude Code from Feishu/Lark on any device including mobile, with real-time streaming cards, multi-bot support, and full Agent SDK tool access.
 
 ---
 
