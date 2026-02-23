@@ -220,6 +220,7 @@ A curated list of awesome tools, skills, plugins, integrations, extensions, fram
 - 🌟 [**tweakcc**](https://github.com/Piebald-AI/tweakcc) (810 ⭐) - Command-line tool to customize your Claude Code styling.
 - 🌟 [**claudebox**](https://github.com/RchGrav/claudebox) (795 ⭐) - A Claude Code Docker Development Environment for running Claude AI's coding assistant in a fully containerized, reproducible environment.
 - 🌟 [**ccmanager**](https://github.com/kbwo/ccmanager) (747 ⭐) - Claude Code / Gemini CLI / Codex CLI Session Manager.
+- [**claude-autoupdate**](https://github.com/dlgochan/claude-code-autoupdate) - Automatic updates for claude-code Homebrew installations. One command sets up a macOS LaunchAgent that runs `brew upgrade --cask claude-code` on a configurable schedule. Zero dependencies.
 - 🌟 [**claude-code-transcripts**](https://github.com/simonw/claude-code-transcripts) (733 ⭐) - Tools for publishing transcripts for Claude Code sessions.
 - 🌟 [**claude-on-rails**](https://github.com/obie/claude-on-rails) (691 ⭐) - A development framework for Ruby on Rails developers using Claude Code, inspired by SuperClaude.
 - 🌟 [**claude-powerline**](https://github.com/Owloops/claude-powerline) (678 ⭐) - Beautiful vim-style powerline statusline for Claude Code.
