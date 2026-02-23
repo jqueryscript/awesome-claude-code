@@ -56,6 +56,7 @@ A curated list of awesome tools, skills, plugins, integrations, extensions, fram
 - 🌟 [**claude_code_agent_farm**](https://github.com/Dicklesworthstone/claude_code_agent_farm) (619 ⭐) - A powerful orchestration framework that runs multiple Claude Code (cc) sessions in parallel to systematically improve your codebase.
 - 🌟 [**claude-sub-agent**](https://github.com/zhsama/claude-sub-agent) (532 ⭐) - AI-driven development workflow system built on Claude Code Sub-Agents.
 - ✨ [**infinite-agentic-loop**](https://github.com/disler/infinite-agentic-loop) (492 ⭐) - An experimental project demonstrating Infinite Agentic Loop in a two-prompt system using Claude Code.
+- ✨ [**agentsys**](https://github.com/agent-sh/agentsys) (473 ⭐) - This automates everything else · 14 plugins · 43 agents · 30 skills · for Claude Code, OpenCode, Codex.
 - ✨ [**ClaudeCodeAgents**](https://github.com/darcyegb/ClaudeCodeAgents) (455 ⭐) - A set of useful QA agents for Claude Code.
 - ✨ [**Specialized AI Agents**](https://github.com/Dimillian/Claude) (344 ⭐) - This directory contains specialized AI agent definitions used by Claude Code to handle complex, domain-specific tasks.
 - ✨ [**OpenAgents**](https://github.com/OpenAgentsInc/openagents) (341 ⭐) - Seamlessly integrate Claude Code's AI development capabilities across desktop and mobile with real-time synchronization.
@@ -124,6 +125,8 @@ A curated list of awesome tools, skills, plugins, integrations, extensions, fram
 - 🌟 [**vue-skills**](https://github.com/hyf0/vue-skills) (552 ⭐): Agent skills for Vue 3 development.
 - 🌟 [**frontend-slides**](https://github.com/zarazhangrui/frontend-slides) (519 ⭐): A Claude Code skill for creating stunning, animation-rich HTML presentations.
 - 🌟 [**skill-codex**](https://github.com/skills-directory/skill-codex) (512 ⭐): A claude code skill to delegate prompts to codex.
+- 🌟 [**VibeSec-Skill**](https://github.com/BehiSecc/VibeSec-Skill) (496 ⭐): This skill helps Claude write secure code and prevent common vulnerabilities.
+- 🌟 [**Pretty-mermaid-skills**](https://github.com/imxv/Pretty-mermaid-skills) (487 ⭐): To provide AI with Mermaid chart rendering capability, supporting both SVG and ASCII output formats.
 - 🌟 [**x-article-publisher-skill**](https://github.com/wshuyi/x-article-publisher-skill) (482 ⭐): Claude Code skill for publishing Markdown articles to X (Twitter) Articles.
 - 🌟 [**nuxt-skills**](https://github.com/onmax/nuxt-skills) (475 ⭐): Vue, Nuxt, and NuxtHub skills for AI coding assistants.
 - ✨ [**SkillForge**](https://github.com/tripleyak/SkillForge) (467 ⭐): The ultimate meta-skill for generating best-in-class Claude Code skills.
@@ -166,6 +169,7 @@ A curated list of awesome tools, skills, plugins, integrations, extensions, fram
 
 - 🔥 [**claude-hud**](https://github.com/jarrodwatts/claude-hud): A Claude Code plugin that shows what's happening - context usage, active tools, running agents, and todo progress.
 - 🔥 [**call-me**](https://github.com/ZeframLou/call-me): Minimal plugin that lets Claude Code call you on the phone.
+- 🔥 [**arscontexta**](https://github.com/agenticnotetaking/arscontexta): Claude Code plugin that generates individualized knowledge systems from conversation. 
 - 🔥 [**interface-design**](https://github.com/Dammyjay93/interface-design): Design engineering for Claude Code. Craft, memory, and enforcement for consistent UI.
 - 🔥 [**claude-workflow-v2**](https://github.com/CloudAI-X/claude-workflow-v2): Universal Claude Code workflow plugin with agents, skills, hooks, and commands.
 - 🌟 [**claude-code-safety-net**](https://github.com/kenryu42/claude-code-safety-net): A Claude Code plugin that acts as a safety net, catching destructive git and filesystem commands before they execute.
@@ -176,6 +180,7 @@ A curated list of awesome tools, skills, plugins, integrations, extensions, fram
 - ✨ [**plugins-for-claude-natives**](https://github.com/team-attention/plugins-for-claude-natives): A collection of Claude Code plugins for power users who want to extend Claude Code's capabilities beyond the defaults.
 - ✨ [**cartographer**](https://github.com/kingbootoshi/cartographer): Claude Code plugin that maps and documents codebases of any size using parallel AI subagents.
 - ✨ [**ensue-skill**](https://github.com/mutable-state-inc/ensue-skill): A persistent knowledge tree that grows with you - what you learn today enriches tomorrow's reasoning.
+- ✨ [**claude-review-loop**](https://github.com/hamelsmu/claude-review-loop): Claude Code plugin: automated code review loop with Codex.
 - [**claude-dashboard**](https://github.com/uppinote20/claude-dashboard): Comprehensive status line plugin for Claude Code with context usage, API rate limits, and cost tracking
 - [**claude-code-plugin**](https://github.com/browserbase/claude-code-plugin): Browserbase plugin for Claude Code - Use cloud browsers with Claude Code instead of local Chrome.
 - [**homunculus**](https://github.com/humanplane/homunculus): A Claude Code plugin that watches how you work, learns your patterns, and evolves itself to help you better.
@@ -211,6 +216,7 @@ A curated list of awesome tools, skills, plugins, integrations, extensions, fram
 - 🌟 [**Claude-Code-Remote**](https://github.com/JessyTsui/Claude-Code-Remote) (943 ⭐) - Control Claude Code remotely via email. Start tasks locally, receive notifications when Claude completes them, and send new commands by simply replying to emails.
 - 🌟 [**Claude-Command-Suite**](https://github.com/qdhenry/Claude-Command-Suite) (904 ⭐) - Professional slash commands for Claude Code that provide structured workflows for software development tasks, including code review and feature implementation.
 - 🌟 [**claude-code-hooks-multi-agent-observability**](https://github.com/disler/claude-code-hooks-multi-agent-observability) (893 ⭐) - Real-time monitoring for Claude Code agents through simple hook event tracking.
+- 🌟 [**agent-of-empires**](https://github.com/njbrake/agent-of-empires) (873 ⭐) - Claude Code, OpenCode, Mistral Vibe, Codex CLI, Gemini CLI Coding Agent Terminal Session manager via tmux and git Worktrees.
 - 🌟 [**tweakcc**](https://github.com/Piebald-AI/tweakcc) (810 ⭐) - Command-line tool to customize your Claude Code styling.
 - 🌟 [**claudebox**](https://github.com/RchGrav/claudebox) (795 ⭐) - A Claude Code Docker Development Environment for running Claude AI's coding assistant in a fully containerized, reproducible environment.
 - 🌟 [**ccmanager**](https://github.com/kbwo/ccmanager) (747 ⭐) - Claude Code / Gemini CLI / Codex CLI Session Manager.
