@@ -316,6 +316,7 @@ A curated list of awesome tools, skills, plugins, integrations, extensions, fram
 - [**ccmate-release**](https://github.com/djyde/ccmate-release) (57 ⭐) - A GUI for Claude Code.
 - [**Claude-Code-Web-GUI**](https://github.com/binggg/Claude-Code-Web-GUI) (56 ⭐) - Browse, view and share your Claude Code sessions - runs entirely in browser, no server required!
 - [**Claude in a Box**](https://github.com/juancgarza/claude-in-a-box) (48 ⭐) - A ChatGPT Canvas-style interface for Claude Code running in E2B sandboxes.
+- [**Poirot**](https://github.com/LeonardoCardoso/Poirot) - A native macOS companion app for Claude Code that lets you browse sessions, explore diffs, and re-run commands from a polished SwiftUI interface.
 
 ---
 
