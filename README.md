@@ -264,6 +264,7 @@ A curated list of awesome tools, skills, plugins, integrations, extensions, fram
 - [**claude-code-container**](https://github.com/tintinweb/claude-code-container) (76 ⭐) - A Docker container for running Claude Code in "dangerously skip permissions" mode.
 - [**run-claude-docker**](https://github.com/icanhasjonas/run-claude-docker) (58 ⭐) - Run claude code in somewhat safe and isolated yolo mode.
 - [**flashbacker**](https://github.com/agentsea/flashbacker) (54 ⭐) - Claude Code state management with session continuity and AI personas, subagents and agent discussion.
+- [**Mantra**](https://mantra.gonewx.com) - AI coding session management. Save, restore, and time-travel through your Claude Code, Cursor, and Windsurf sessions.
 - [**ccguard**](https://github.com/pomterre/ccguard) (45 ⭐) - Automated enforcement of net-negative LOC, complexity constraints, and quality standards for Claude code.
 - [**Severance**](https://github.com/blas0/Severance) (41 ⭐) - A semantic memory system designed for Claude Code.
 - [**claude-code-specs-generator**](https://github.com/kellemar/claude-code-specs-generator) (38 ⭐) - A documentation and context management system for AI-assisted development, inspired by Amazon's Kiro IDE.
