@@ -62,6 +62,7 @@ A curated list of awesome tools, skills, plugins, integrations, extensions, fram
 - ✨ [**OpenAgents**](https://github.com/OpenAgentsInc/openagents) (341 ⭐) - Seamlessly integrate Claude Code's AI development capabilities across desktop and mobile with real-time synchronization.
 - ✨ [**ClaudeNightsWatch**](https://github.com/aniketkarne/ClaudeNightsWatch) (325 ⭐) - Autonomous task execution system for Claude CLI that monitors your usage windows and executes predefined tasks automatically.
 - ✨ [**seomachine**](https://github.com/TheCraigHewitt/seomachine) (287 ⭐) - A specialized Claude Code workspace for creating long-form, SEO-optimized blog content for any business.
+- ✨ [**claude-forge**](https://github.com/sangrokjung/claude-forge) (279 ⭐) - oh-my-zsh for Claude Code. Ships 11 agents, 36 slash commands, 15 skill workflows, 14 automation hooks, and 6-layer security out of the box. Install in 5 min, update with git pull.
 - ✨ [**claude-delegator**](https://github.com/jarrodwatts/claude-delegator) (224 ⭐) - Delegate tasks to Codex GPT 5.2 directly from within Claude Code.
 - ✨ [**visual-claude**](https://github.com/thetronjohnson/visual-claude) (208 ⭐) - A browser coding agent interface for selecting elements and sending instructions directly to Claude Code.
 - ✨ [**claude-code-subagents**](https://github.com/NicholasSpisak/claude-code-subagents) (186 ⭐) - A collection of specialized AI agent personas designed to work seamlessly with Claude Code's Task tool, providing expert-level assistance across the full spectrum of software development challenges.
