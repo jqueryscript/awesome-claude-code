@@ -77,6 +77,7 @@ A curated list of awesome tools, skills, plugins, integrations, extensions, fram
 - [**Severance**](https://github.com/blas0/Severance) (41 ⭐) - A semantic memory system designed for Claude Code.
 - [**AgentCheck**](https://github.com/devlyai/AgentCheck) (33 ⭐) - Local AI-powered code review agents for Claude Code.
 - [**claude-agents**](https://github.com/tddworks/claude-agents) (14 ⭐) - A collection of specialized AI agents for Claude Code that enhance software development workflows with focused expertise in specific domains.
+- [**discoclaw**](https://github.com/DiscoClaw/discoclaw) (7 ⭐) - A personal AI orchestrator that turns Discord into a persistent workspace for Claude Code, with durable memory, forum-thread-based task tracking, and cron-based automation.
 
 ---
 
