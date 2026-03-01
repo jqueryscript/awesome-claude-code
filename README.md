@@ -77,6 +77,7 @@ A curated list of awesome tools, skills, plugins, integrations, extensions, fram
 - [**Severance**](https://github.com/blas0/Severance) (41 ⭐) - A semantic memory system designed for Claude Code.
 - [**AgentCheck**](https://github.com/devlyai/AgentCheck) (33 ⭐) - Local AI-powered code review agents for Claude Code.
 - [**claude-agents**](https://github.com/tddworks/claude-agents) (14 ⭐) - A collection of specialized AI agents for Claude Code that enhance software development workflows with focused expertise in specific domains.
+- [**OpenPaw**](https://github.com/daxaur/openpaw) (2 ⭐) - Turns Claude Code into a personal assistant with 38 skills (email, calendar, Spotify, smart home, etc), Telegram bridge, task dashboard, and scheduling with cost caps.
 
 ---
 
