@@ -347,6 +347,7 @@ A curated list of awesome tools, skills, plugins, integrations, extensions, fram
 - [**castari-proxy**](https://github.com/castar-ventures/castari-proxy) (73 ⭐) - Use Claude Agent SDK and Claude Code with other providers/models.
 - [**claude-code-open**](https://github.com/Davincible/claude-code-open) (66 ⭐) - Claude Code with any LLM provider (OpenRouter, Gemini, Kimi K2).
 - [**Claudify**](https://github.com/neno-is-ooo/claudify) (32 ⭐) - Use Claude Code as an LLM provider with your subscription flat fee instead of pay-per-token API keys.
+- [**SkillBoss**](https://skillboss.co) - One SkillBoss key for 100+ AI services. Access GPT-5, Gemini, video generation (Veo), web scraping (LinkedIn, Twitter), Stripe payments, email, and more through Claude Code. [Skills Pack](https://github.com/nicepkg/skillboss-skills) | [Docs](https://skillboss.co/docs)
 
 ---
 
