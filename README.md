@@ -260,6 +260,7 @@ A curated list of awesome tools, skills, plugins, integrations, extensions, fram
 - [**recall**](https://github.com/zippoxer/recall) (100 ⭐) - Full-text search and resume for Claude/Codex conversations.
 - [**claude-select**](https://github.com/aeitroc/claude-select) (100 ⭐) - A unified launcher for Claude Code that lets you interactively choose which LLM backend to use.
 - [**claude-code-auto-memory**](https://github.com/severity1/claude-code-auto-memory) (81 ⭐) - Claude Code plugin that automatically maintains CLAUDE.md files.
+- [**codebase-memory-mcp**](https://github.com/DeusData/codebase-memory-mcp) (83 ⭐) - MCP server that indexes codebases into a persistent knowledge graph. 35 languages, sub-ms queries, 120x fewer tokens than file-by-file exploration. Single Go binary with 12 MCP tools for call graph tracing, dead code detection, cross-service HTTP linking, Cypher queries, architecture overview, and auto-sync.
 - [**claude-prune**](https://github.com/DannyAziz/claude-prune) (78 ⭐) - A fast CLI tool for pruning Claude Code sessions.
 - [**claude-code-container**](https://github.com/tintinweb/claude-code-container) (76 ⭐) - A Docker container for running Claude Code in "dangerously skip permissions" mode.
 - [**run-claude-docker**](https://github.com/icanhasjonas/run-claude-docker) (58 ⭐) - Run claude code in somewhat safe and isolated yolo mode.
