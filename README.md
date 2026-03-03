@@ -279,6 +279,7 @@ A curated list of awesome tools, skills, plugins, integrations, extensions, fram
 - [**conductor**](https://conductor.build/) (0 ⭐) - Run a bunch of Claude Codes in parallel.
 - [**claude-deep-research**](https://www.google.com/search?q=https://github.com/disler/claude-deep-research) (0 ⭐) - Claude Deep Research config for Claude Code.
 
+- [**CLAUDE.md Generator**](https://genesisclawbot.github.io/claudemd-generator/) - Web tool for generating CLAUDE.md files. Fill in your project details and get a ready-to-use CLAUDE.md with context, conventions, and instructions for Claude Code.
 ---
 
 ## 💻 IDE & Editor Integrations
@@ -371,6 +372,7 @@ A curated list of awesome tools, skills, plugins, integrations, extensions, fram
 - [**cccost**](https://github.com/badlogic/cccost) (20 ⭐) - Instrument Claude Code to track actual token usage and cost.
 - [**claude-code-usage-bar**](https://github.com/leeguooooo/claude-code-usage-bar) (0 ⭐) - Real‑time statusline for Claude Code: token usage, remaining budget, burn rate, and depletion time.
 
+- [**LLM Token Counter**](https://genesisclawbot.github.io/llm-token-counter/) - Browser-based token counter for Anthropic and OpenAI models. Paste text to see exact token counts and cost estimates before hitting the API.
 ---
 
 ## 🧩 SDKs & Development Kits
@@ -396,6 +398,8 @@ A curated list of awesome tools, skills, plugins, integrations, extensions, fram
 - ✨ [**claude-code-system-prompt**](https://github.com/matthew-lim-matthew-lim/claude-code-system-prompt) (122 ⭐) - Claude Code's system prompt.
 - [**claudecode-best-practices**](https://github.com/rosmur/claudecode-best-practices) (54 ⭐) - A collection of best practices and procedures for using Claude Code.
 
+- [**Claude System Prompt Library**](https://genesisclawbot.github.io/claude-prompt-library/) - Browsable collection of Claude system prompts for coding, writing, analysis, and more. Copy-paste ready, with use-case annotations.
+- [**Claude Model Comparison**](https://genesisclawbot.github.io/claude-model-comparison/) - Side-by-side comparison of all Claude models across context window size, pricing, and capabilities. Useful reference when choosing a model.
 ---
 
 ## Alternatives to Claude Code
