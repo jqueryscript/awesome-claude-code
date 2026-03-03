@@ -94,13 +94,17 @@ A curated list of awesome tools, skills, plugins, integrations, extensions, fram
 - 🔥 [**dev-browser**](https://github.com/SawyerHood/dev-browser) (3.3k ⭐): A Claude Skill to give your agent the ability to use a web browser.
 - 🔥 [**humanizer**](https://github.com/blader/humanizer) (2.9k ⭐): A Claude Code skill that removes signs of AI-generated writing from text, making it sound more natural and human.
 - 🔥 [**notebooklm-skill**](https://github.com/PleasePrompto/notebooklm-skill) (2.7k ⭐): Use this skill to enable Claude Code to communicate directly with your Google NotebookLM notebooks. 
+- 🔥 [**sanyuan-skills**](https://github.com/sanyuan0704/sanyuan-skills) (2.5k ⭐): Expert code review skill: SOLID, security, performance, error handling, boundary conditions.
 - 🔥 [**n8n-skills**](https://github.com/czlonkowski/n8n-skills) (2.2k ⭐): n8n skillset for Claude Code to build flawless n8n workflows.
 - 🔥 [**AI-research-SKILLs**](https://github.com/Orchestra-Research/AI-research-SKILLs) (2.2k ⭐): Visual Skills Pack for Obsidian: generate Canvas, Excalidraw, and Mermaid diagrams from text with Claude Code.
+- 🔥 [**gemini-skills**](https://github.com/google-gemini/gemini-skills) (2k ⭐): Skills for the Gemini API, SDK and model/agent interactions.
 - 🔥 [**AI-research-SKILLs**](https://github.com/sanyuan0704/code-review-expert) (1.9k ⭐): A comprehensive code review skill for AI agents. 
 - 🔥 [**playwright-skill**](https://github.com/lackeyjb/playwright-skill) (1.5k ⭐): Claude Code Skill for browser automation with Playwright. Model-invoked - Claude autonomously writes and executes custom automation for testing and validation.
 - 🔥 [**Claudeception**](https://github.com/blader/Claudeception) (1.5k ⭐): A Claude Code skill for autonomous skill extraction and continuous learning. Have Claude Code get smarter as it works.
 - 🔥 [**claude-skills**](https://github.com/alirezarezvani/claude-skills) (1.5k ⭐): A Collection of Skills for Claude Code and Claude AI for real-world Usage.
 - 🔥 [**claude-skills**](https://github.com/Jeffallan/claude-skills) (1.5k ⭐): 66 Specialized Skills for Full-Stack Developers.
+- 🔥 [**claude-code-plugins-plus-skills**](https://github.com/jeremylongshore/claude-code-plugins-plus-skills) (1.5k ⭐): 270+ Claude Code plugins with 739 agent skills.
+- 🔥 [**claude-seo**](https://github.com/AgriciDaniel/claude-seo) (1.5k ⭐): Universal SEO skill for Claude Code. Comprehensive SEO analysis for any website or business type.
 - 🔥 [**last30days-skill**](https://github.com/mvanhorn/last30days-skill) (1.3k ⭐): Claude Code skill that researches any topic across Reddit + X from the last 30 days, then writes copy-paste-ready prompts.
 - 🔥 [**skills**](https://github.com/trailofbits/skills) (1.3k ⭐): Trail of Bits Claude Code skills for security research, vulnerability detection, and audit workflows.
 - 🔥 [**skills**](https://github.com/microsoft/skills) (1.3k ⭐): Skills, MCP servers, Custom Agents, Agents.md for SDKs to ground Coding Agents.
@@ -203,6 +207,7 @@ A curated list of awesome tools, skills, plugins, integrations, extensions, fram
 - 🔥 [**CCPlugins**](https://github.com/brennercruvinel/CCPlugins) (2.6k ⭐) - Claude Code Plugins that actually save time. Built by a dev tired of typing please act like a senior engineer in every conversation.
 - 🔥 [**peon-ping**](https://github.com/PeonPing/peon-ping) (2.4k ⭐) - Warcraft III Peon voice notifications (+ more!) for Claude Code, Codex, IDEs, and any AI agent. 
 - 🔥 [**Continuous-Claude-v2**](https://github.com/parcadei/Continuous-Claude-v2) (2.2k ⭐) - Context management for Claude Code. Hooks maintain state via ledgers and handoffs. MCP execution without context pollution. Agent orchestration with isolated context windows.
+- 🔥 [**claude-context-mode**](https://github.com/mksglu/claude-context-mode) (2.2k ⭐) - An MCP server that sits between Claude Code and these outputs. 315 KB becomes 5.4 KB. 98% reduction.
 - 🔥 [**tdd-guard**](https://github.com/nizos/tdd-guard) (1.7k ⭐) - Automated TDD enforcement for Claude Code.
 - 🔥 [**commands**](https://github.com/wshobson/commands) (1.7k ⭐) - A collection of production-ready slash commands for Claude Code.
 - 🔥 [**cc-sessions**](https://github.com/GWUDCAP/cc-sessions) (1.5k ⭐) - An opinionated extension set for Claude Code (hooks, subagents, commands, task/git management infrastructure)
