@@ -28,6 +28,7 @@ A curated list of awesome tools, skills, plugins, integrations, extensions, fram
 
 ---
 
+- [**claude-recall**](https://github.com/zchdu/claude-recall) - Automatically discovers repeated workflows from Claude Code usage logs and generates reusable skills. PostToolUse hook for silent JSONL logging + `/analyze-patterns` for cross-session pattern detection and one-click skill creation.
 ## Official Resources
 
 - 🔥 [**claude-code**](https://github.com/anthropics/claude-code) (55.0k ⭐) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routines.
