@@ -77,6 +77,7 @@ A curated list of awesome tools, skills, plugins, integrations, extensions, fram
 - [**Severance**](https://github.com/blas0/Severance) (41 ⭐) - A semantic memory system designed for Claude Code.
 - [**AgentCheck**](https://github.com/devlyai/AgentCheck) (33 ⭐) - Local AI-powered code review agents for Claude Code.
 - [**claude-agents**](https://github.com/tddworks/claude-agents) (14 ⭐) - A collection of specialized AI agents for Claude Code that enhance software development workflows with focused expertise in specific domains.
+- [**fire-flow**](https://github.com/ThierryN/fire-flow) - Structured workflow orchestration for Claude Code with 42 commands, 13 agents, and 90+ skills. Features a 7-phase pipeline (Plan→Execute→Verify→Handoff), breath-based parallel execution, session memory across handoffs, circuit breaker safety, and a 70-point verification checklist. Install: `npx @thierrynakoa/fire-flow`.
 
 ---
 
