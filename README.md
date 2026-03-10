@@ -154,6 +154,7 @@ A curated list of awesome tools, skills, plugins, integrations, extensions, fram
 - ✨ [**claude-code-skills**](https://github.com/whawkinsiv/claude-code-skills) (133 ⭐): Complete software development lifecycle skills optimized for non-technical founders building SaaS applications with AI tools (Lovable, Replit, Claude Code).
 - ✨ [**nano-image-generator-skill**](https://github.com/lxfater/nano-image-generator-skill) (110 ⭐): A Claude Code skill for generating images using Gemini 3 Pro Preview (Nano Banana Pro).
 - ✨ [**solid-skills**](https://github.com/lxfater/nano-image-generator-skill) (100 ⭐): AI agent skill for writing senior-engineer quality code through SOLID principles, TDD, and clean architecture.
+- 🌟 [**oiloil-ui-ux-guide**](https://github.com/oil-oil/oiloil-ui-ux-guide) (5 ⭐): Modern clean UI/UX guidance and review skill with CRAP principles, task-first UX, and actionable P0/P1/P2 design review checklists.
 - [**remotion-dev/skills**](https://www.remotion.dev/docs/ai/skills): Create videos programmatically.
 - [**BFL Agent Skills**](https://docs.bfl.ai/api_integration/skills_integration): Reusable capabilities that teach AI agents how to work with FLUX models.
 - [**Manus Skills**](https://manus.im/blog/manus-skills): Manus' official agent skills.
