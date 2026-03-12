@@ -101,7 +101,7 @@ A curated list of awesome tools, skills, plugins, integrations, extensions, fram
 - 🔥 [**AI-research-SKILLs**](https://github.com/sanyuan0704/code-review-expert) (1.9k ⭐): A comprehensive code review skill for AI agents. 
 - 🔥 [**playwright-skill**](https://github.com/lackeyjb/playwright-skill) (1.5k ⭐): Claude Code Skill for browser automation with Playwright. Model-invoked - Claude autonomously writes and executes custom automation for testing and validation.
 - 🔥 [**Claudeception**](https://github.com/blader/Claudeception) (1.5k ⭐): A Claude Code skill for autonomous skill extraction and continuous learning. Have Claude Code get smarter as it works.
-- 🔥 [**claude-skills**](https://github.com/alirezarezvani/claude-skills) (1.5k ⭐): A Collection of Skills for Claude Code and Claude AI for real-world Usage.
+- 🔥 [**claude-skills**](https://github.com/alirezarezvani/claude-skills) (4.4k ⭐): 177 production-ready skill packages across engineering, marketing, product, compliance, and C-level advisory. Includes 16 agents, 17 slash commands, and Python automation tools. Supports 11 AI coding tools.
 - 🔥 [**claude-skills**](https://github.com/Jeffallan/claude-skills) (1.5k ⭐): 66 Specialized Skills for Full-Stack Developers.
 - 🔥 [**claude-code-plugins-plus-skills**](https://github.com/jeremylongshore/claude-code-plugins-plus-skills) (1.5k ⭐): 270+ Claude Code plugins with 739 agent skills.
 - 🔥 [**claude-seo**](https://github.com/AgriciDaniel/claude-seo) (1.5k ⭐): Universal SEO skill for Claude Code. Comprehensive SEO analysis for any website or business type.
