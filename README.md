@@ -376,6 +376,8 @@ A curated list of awesome tools, skills, plugins, integrations, extensions, fram
 - [**cccost**](https://github.com/badlogic/cccost) (20 ⭐) - Instrument Claude Code to track actual token usage and cost.
 - [**claude-code-usage-bar**](https://github.com/leeguooooo/claude-code-usage-bar) (0 ⭐) - Real‑time statusline for Claude Code: token usage, remaining budget, burn rate, and depletion time.
 
+- [**Claudebin**](https://claudebin.com) ([GitHub](https://github.com/wunderlabs-dev/claudebin.com/)) - A minimalistic tool for publishing and sharing Claude coding sessions.
+
 ---
 
 ## 🧩 SDKs & Development Kits
