@@ -188,6 +188,8 @@ A curated list of awesome tools, skills, plugins, integrations, extensions, fram
 - [**claude-dashboard**](https://github.com/uppinote20/claude-dashboard): Comprehensive status line plugin for Claude Code with context usage, API rate limits, and cost tracking
 - [**claude-code-plugin**](https://github.com/browserbase/claude-code-plugin): Browserbase plugin for Claude Code - Use cloud browsers with Claude Code instead of local Chrome.
 - [**homunculus**](https://github.com/humanplane/homunculus): A Claude Code plugin that watches how you work, learns your patterns, and evolves itself to help you better.
+- [**ContextDocs**](https://github.com/littlebearapps/contextdocs): Your AI agent maintains its own context files — a Claude Code plugin with an AGENTS-first model that covers Codex, Copilot, Cursor, Gemini, and 3 more tools. Signal Gate filtering, Context Guard hooks, and 0-100 health scoring.
+- [**PitchDocs**](https://github.com/littlebearapps/pitchdocs): Turn any codebase into professional, marketing-ready documentation — README, CHANGELOG, user guides, llms.txt, and 20+ doc types. Evidence-based features, GEO optimisation, quality scoring. Pure Markdown, zero dependencies.
 
 ---
 
