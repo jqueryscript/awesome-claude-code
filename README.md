@@ -94,6 +94,7 @@ A curated list of awesome tools, skills, plugins, integrations, extensions, fram
 - 🔥 [**dev-browser**](https://github.com/SawyerHood/dev-browser) (3.3k ⭐): A Claude Skill to give your agent the ability to use a web browser.
 - 🔥 [**humanizer**](https://github.com/blader/humanizer) (2.9k ⭐): A Claude Code skill that removes signs of AI-generated writing from text, making it sound more natural and human.
 - 🔥 [**notebooklm-skill**](https://github.com/PleasePrompto/notebooklm-skill) (2.7k ⭐): Use this skill to enable Claude Code to communicate directly with your Google NotebookLM notebooks. 
+- 🔥 [**SwiftUI-Agent-Skill**](https://github.com/twostraws/SwiftUI-Agent-Skill) (2.7k ⭐): SwiftUI agent skill for Claude Code, Codex, and other AI tools.
 - 🔥 [**sanyuan-skills**](https://github.com/sanyuan0704/sanyuan-skills) (2.5k ⭐): Expert code review skill: SOLID, security, performance, error handling, boundary conditions.
 - 🔥 [**n8n-skills**](https://github.com/czlonkowski/n8n-skills) (2.2k ⭐): n8n skillset for Claude Code to build flawless n8n workflows.
 - 🔥 [**AI-research-SKILLs**](https://github.com/Orchestra-Research/AI-research-SKILLs) (2.2k ⭐): Visual Skills Pack for Obsidian: generate Canvas, Excalidraw, and Mermaid diagrams from text with Claude Code.
@@ -109,11 +110,14 @@ A curated list of awesome tools, skills, plugins, integrations, extensions, fram
 - 🔥 [**skills**](https://github.com/trailofbits/skills) (1.3k ⭐): Trail of Bits Claude Code skills for security research, vulnerability detection, and audit workflows.
 - 🔥 [**skills**](https://github.com/microsoft/skills) (1.3k ⭐): Skills, MCP servers, Custom Agents, Agents.md for SDKs to ground Coding Agents.
 - 🔥 [**axton-obsidian-visual-skills**](https://github.com/trailofbits/skills) (1.2k ⭐): Trail of Bits Claude Code skills for security research, vulnerability detection, and audit workflows.
+- 🔥 [**excalidraw-diagram-skill**](https://github.com/coleam00/excalidraw-diagram-skill) (1.2k ⭐): Skill to give Claude Code (and any coding agent) the ability to generate beautiful and practical Excalidraw diagrams.
 - 🔥 [**add-skill**](https://github.com/vercel-labs/add-skill) (1.1k ⭐): Install agent skills onto your coding agents from any git repository.
 - 🔥 [**claude-design-engineer**](https://github.com/Dammyjay93/claude-design-engineer) (1.1k ⭐): Design engineering for Claude Code. Craft, memory, and enforcement for consistent UI.
+- 🔥 [**Claude-to-IM-skill**](https://github.com/op7418/Claude-to-IM-skill) (1k ⭐): Bridge Claude Code / Codex to IM platforms — chat with AI coding agents from Telegram, Discord, or Feishu/Lark.
 - 🌟 [**aws-agent-skills**](https://github.com/itsmostafa/aws-agent-skills) (977 ⭐): Supercharge Claude Code with AWS cloud engineering skills across 18 core AWS services.
 - 🌟 [**threejs-skills**](https://github.com/CloudAI-X/threejs-skills) (904 ⭐): A curated collection of Three.js skill files that provide Claude Code with foundational knowledge for creating 3D elements and interactive experiences.
 - 🌟 [**synalinks-skills**](https://github.com/numman-ali/n-skills) (894 ⭐): Claude skills for Synalinks.
+- 🌟 [**agent-skills**](https://github.com/WordPress/agent-skills/) (890 ⭐): Expert-level WordPress knowledge for AI coding assistants - blocks, themes, plugins, and best practices.
 - 🌟 [**stitch-skills**](https://github.com/google-labs-code/stitch-skills) (886 ⭐): A library of Agent Skills designed to work with the Stitch MCP server. 
 - 🌟 [**agent-skills**](https://github.com/supabase/agent-skills) (833 ⭐): Agent Skills to help developers using AI agents with Supabase.
 - 🌟 [**vue-skills**](https://github.com/vuejs-ai/skills) (799 ⭐): Agent skills for Vue 3 development.
