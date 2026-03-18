@@ -218,6 +218,7 @@ A curated list of awesome tools, skills, plugins, integrations, extensions, fram
 - 🔥 [**ccundo**](https://github.com/RonitSachdev/ccundo) (1.3k ⭐) - Integrates seamlessly with Claude Code to provide granular undo functionality by reading directly from Claude Code's session files.
 - 🔥 [**cc-mirror**](https://github.com/numman-ali/cc-mirror) (1.3k ⭐) - Create multiple isolated Claude Code variants with custom providers (Z.ai, MiniMax, OpenRouter, LiteLLM)
 - 🔥 [**Continuous Claude**](https://github.com/AnandChowdhary/continuous-claude) (1.1k ⭐) - Run Claude Code in a continuous loop, autonomously creating PRs, waiting for checks, and merging.
+- [**iris-eval**](https://github.com/iris-eval/mcp-server) - MCP-native agent eval & observability. Log traces, evaluate output quality (PII detection, prompt injection, hallucination, cost), and track per-agent costs. Agents discover it automatically. MIT licensed.
 - 🔥 [**claude-sessions**](https://github.com/iannuttall/claude-sessions) (1.1k ⭐) - Custom slash commands for Claude Code that provide comprehensive development session tracking and documentation.
 - 🔥 [**claude-canvas**](https://github.com/dvdsgl/claude-canvas) (1.1k ⭐) - A TUI toolkit that gives Claude Code its own display.
 - 🔥 [**claude-code-settings**](https://github.com/feiskyer/claude-code-settings) (1.1k ⭐) - Claude Code settings and commands for vibe coding.
