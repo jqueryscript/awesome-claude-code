@@ -287,6 +287,7 @@ A curated list of awesome tools, skills, plugins, integrations, extensions, fram
 - [**shotgun-alpha**](https://github.com/shotgun-sh/shotgun-alpha) (3 ⭐) - Codebase-aware spec engine for Cursor, Claude Code & Lovable.
 - [**conductor**](https://conductor.build/) (0 ⭐) - Run a bunch of Claude Codes in parallel.
 - [**claude-deep-research**](https://www.google.com/search?q=https://github.com/disler/claude-deep-research) (0 ⭐) - Claude Deep Research config for Claude Code.
+- [**prompt-toolkit-mcp**](https://github.com/Money-Monkey-26/prompt-toolkit-mcp) (0 ⭐) - Production-tested AI prompt templates for code review, debugging, testing, and architecture — as an MCP server.
 
 ---
 
