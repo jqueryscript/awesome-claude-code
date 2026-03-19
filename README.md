@@ -252,6 +252,7 @@ A curated list of awesome tools, skills, plugins, integrations, extensions, fram
 - ✨ [**Claude Code Tamagotchi**](https://github.com/Ido-Levi/claude-code-tamagotchi) (240 ⭐) - A digital friend that lives in your Claude Code statusline and keeps you company while you build cool stuff.
 - ✨ [**claude-code-containers**](https://github.com/ghostwriternr/claude-code-containers) (227 ⭐) - Use Claude Code on Cloudflare to solve GitHub issues.
 - ✨ [**win-claude-code**](https://github.com/somersby10ml/win-claude-code) (226 ⭐) - Claude Code for Windows: No WSL. No Docker. Just code.
+- ✨ [**Reporecall**](https://github.com/proofofwork-agency/reporecall) (200 ⭐) - Local codebase memory for Claude Code. Builds an AST index (22 languages via Tree-sitter), extracts call graphs, and uses hybrid keyword + vector search. Injects relevant code context into prompts via hooks (~5ms) — eliminating grep chains and reducing token usage by 3-8x. Also works as an MCP server.
 - ✨ [**claude-code-studio**](https://github.com/arnaldo-delisio/claude-code-studio) (190 ⭐) - Transform Claude Code into a complete development studio with 40+ specialized AI agents, MCP integrations, and enterprise-grade workflows.
 - ✨ [**claude-self-reflect**](https://github.com/ramakay/claude-self-reflect) (189 ⭐) - Claude forgets everything. This fixes that.
 - ✨ [**claude-code-boost**](https://github.com/yifanzz/claude-code-boost) (160 ⭐) - Hook utilities for Claude Code with intelligent auto-approval.
