@@ -325,6 +325,7 @@ A curated list of awesome tools, skills, plugins, integrations, extensions, fram
 - [**ccmate-release**](https://github.com/djyde/ccmate-release) (57 ⭐) - A GUI for Claude Code.
 - [**Claude-Code-Web-GUI**](https://github.com/binggg/Claude-Code-Web-GUI) (56 ⭐) - Browse, view and share your Claude Code sessions - runs entirely in browser, no server required!
 - [**Claude in a Box**](https://github.com/juancgarza/claude-in-a-box) (48 ⭐) - A ChatGPT Canvas-style interface for Claude Code running in E2B sandboxes.
+- [**OctoAlly**](https://github.com/ai-genius-automations/octoally) (18 ⭐) - AI coding session orchestration dashboard with multi-agent hive-mind via RuFlo, Whisper voice dictation, git source control, session persistence, and Electron desktop app.
 
 ---
 
