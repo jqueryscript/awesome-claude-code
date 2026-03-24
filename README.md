@@ -90,6 +90,7 @@ A curated list of awesome tools, skills, plugins, integrations, extensions, fram
 - 🔥 [**obsidian-skills**](https://github.com/kepano/obsidian-skills) (7k ⭐): Claude Skills for use with Obsidian.
 - 🔥 [**claude-scientific-skills**](https://github.com/K-Dense-AI/claude-scientific-skills) (6.4k ⭐): A set of ready to use scientific skills for Claude.
 - 🔥 [**marketingskills**](https://github.com/coreyhaines31/marketingskills) (4.8k ⭐): Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.
+- 🔥 [**MiniMax-AI/skills**](https://github.com/MiniMax-AI/skills) (3.8k ⭐): Development skills for AI coding agents. 
 - 🔥 [**antfu's skills**](https://github.com/antfu/skills) (3.5k ⭐): Anthony Fu's curated collection of agent skills.
 - 🔥 [**geo-seo-claude**](https://github.com/zubair-trabzada/geo-seo-claude) (3.5k ⭐): GEO-first SEO skill for Claude Code. Comprehensive AI search optimization for any website — citability scoring, AI crawler analysis, brand authority, schema markup, platform-specific optimization, and PDF reports.
 - 🔥 [**dev-browser**](https://github.com/SawyerHood/dev-browser) (3.3k ⭐): A Claude Skill to give your agent the ability to use a web browser.
@@ -109,6 +110,7 @@ A curated list of awesome tools, skills, plugins, integrations, extensions, fram
 - 🔥 [**claude-skills**](https://github.com/Jeffallan/claude-skills) (1.5k ⭐): 66 Specialized Skills for Full-Stack Developers.
 - 🔥 [**claude-code-plugins-plus-skills**](https://github.com/jeremylongshore/claude-code-plugins-plus-skills) (1.5k ⭐): 270+ Claude Code plugins with 739 agent skills.
 - 🔥 [**claude-seo**](https://github.com/AgriciDaniel/claude-seo) (1.5k ⭐): Universal SEO skill for Claude Code. Comprehensive SEO analysis for any website or business type.
+- 🔥 [**gsap-skills**](https://github.com/greensock/gsap-skills) (1.5k ⭐): Official AI skills for GSAP. These skills teach AI coding agents how to correctly use GSAP (GreenSock Animation Platform), including best practices, common animation patterns, and plugin usage.
 - 🔥 [**last30days-skill**](https://github.com/mvanhorn/last30days-skill) (1.3k ⭐): Claude Code skill that researches any topic across Reddit + X from the last 30 days, then writes copy-paste-ready prompts.
 - 🔥 [**skills**](https://github.com/trailofbits/skills) (1.3k ⭐): Trail of Bits Claude Code skills for security research, vulnerability detection, and audit workflows.
 - 🔥 [**skills**](https://github.com/microsoft/skills) (1.3k ⭐): Skills, MCP servers, Custom Agents, Agents.md for SDKs to ground Coding Agents.
@@ -128,6 +130,7 @@ A curated list of awesome tools, skills, plugins, integrations, extensions, fram
 - 🌟 [**x-research-skill**](https://github.com/rohunvora/x-research-skill) (781 ⭐): X/Twitter research skill for Claude Code and OpenClaw.
 - 🌟 [**Expo-Skills**](https://github.com/expo/skills) (749 ⭐): A collection of AI agent skills for working with Expo projects and Expo Application Services.
 - 🌟 [**visual-explainer**](https://github.com/nicobailon/visual-explainer) (731 ⭐): Agent skill + prompt templates that generate rich HTML pages for visual diff reviews, architecture overviews, plan audits, data tables, and project recaps.
+- 🌟 [**ai-marketing-claude**](https://github.com/zubair-trabzada/ai-marketing-claude) (722 ⭐): A comprehensive marketing analysis and automation skill system for Claude Code. 
 - 🌟 [**cloudflare-skill**](https://github.com/dmmulroy/cloudflare-skill) (639 ⭐): Comprehensive Cloudflare platform reference docs for AI/LLM consumption.
 - 🌟 [**Youtube-clipper-skill**](https://github.com/op7418/Youtube-clipper-skill) (633 ⭐): Download videos, generate semantic chapters, clip segments, translate subtitles to bilingual format, and burn subtitles into videos.
 - 🌟 [**ui-skills**](https://github.com/ibelick/ui-skills) (629 ⭐): A growing set of skills to polish interfaces built by agents.
