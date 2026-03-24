@@ -427,6 +427,11 @@ A curated list of awesome tools, skills, plugins, integrations, extensions, fram
 
 ---
 
+## XVARY Stock Research
+
+- [XVARY Stock Research](https://github.com/xvary-research/claude-code-stock-analysis-skill) — Claude Code skill for public SEC EDGAR + market data: `/analyze`, `/score`, `/compare`. MIT.
+
+
 ## Contribution Guidelines
 
 **Under Construction**
