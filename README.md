@@ -177,14 +177,12 @@ A curated list of awesome tools, skills, plugins, integrations, extensions, fram
 - [**meta_skilld**](https://github.com/Dicklesworthstone/meta_skilld): Rust CLI for managing Claude Code skills: indexing, building, bundling, and sharing.
 - [**claude-cs**](https://github.com/nbashaw/claude-cs): A Claude Code skill that helps you build custom customer support automation for your company.
 - [**design-engineer-auditor-package**](https://github.com/kylezantos/design-engineer-auditor-package): A Claude Code skill for motion design audits, trained on Emil Kowalski, Jakub Krehel, and Jhey Tompkins.
+- [**adhx**](https://github.com/itsmemeworks/adhx): Fetch any X/Twitter post as clean LLM-friendly JSON via a public API — no browser, no scraping. Supports regular tweets and full X Articles. Install: `/plugin marketplace add itsmemeworks/adhx`
 
 ---
 
 ## 🔌 Claude Plugins
-- [**adhx**](https://github.com/itsmemeworks/adhx): Fetch any X/Twitter post as clean LLM-friendly JSON via a public API — no browser, no scraping. Supports regular tweets and full X Articles. Install: `/plugin marketplace add itsmemeworks/adhx`
 
-
-- 🔥 [**claude-hud**](https://github.com/jarrodwatts/claude-hud): A Claude Code plugin that shows what's happening - context usage, active tools, running agents, and todo progress.
 - 🔥 [**call-me**](https://github.com/ZeframLou/call-me): Minimal plugin that lets Claude Code call you on the phone.
 - 🔥 [**arscontexta**](https://github.com/agenticnotetaking/arscontexta): Claude Code plugin that generates individualized knowledge systems from conversation. 
 - 🔥 [**interface-design**](https://github.com/Dammyjay93/interface-design): Design engineering for Claude Code. Craft, memory, and enforcement for consistent UI.
