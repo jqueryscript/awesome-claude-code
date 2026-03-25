@@ -181,6 +181,7 @@ A curated list of awesome tools, skills, plugins, integrations, extensions, fram
 ---
 
 ## 🔌 Claude Plugins
+- [**adhx**](https://github.com/itsmemeworks/adhx): Fetch any X/Twitter post as clean LLM-friendly JSON via a public API — no browser, no scraping. Supports regular tweets and full X Articles. Install: `/plugin marketplace add itsmemeworks/adhx`
 
 
 - 🔥 [**claude-hud**](https://github.com/jarrodwatts/claude-hud): A Claude Code plugin that shows what's happening - context usage, active tools, running agents, and todo progress.
