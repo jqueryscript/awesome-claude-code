@@ -77,6 +77,7 @@ A curated list of awesome tools, skills, plugins, integrations, extensions, fram
 - [**Severance**](https://github.com/blas0/Severance) (41 ⭐) - A semantic memory system designed for Claude Code.
 - [**AgentCheck**](https://github.com/devlyai/AgentCheck) (33 ⭐) - Local AI-powered code review agents for Claude Code.
 - [**claude-agents**](https://github.com/tddworks/claude-agents) (14 ⭐) - A collection of specialized AI agents for Claude Code that enhance software development workflows with focused expertise in specific domains.
+- [**healthcare-agents**](https://github.com/ajhcs/healthcare-agents) (1 ⭐) - 51 specialized healthcare administration AI agents for Claude Code with MHA-level expertise across 10 divisions including revenue cycle, compliance, quality, clinical ops, payer relations, and health IT.
 
 ---
 
