@@ -242,6 +242,7 @@ A curated list of awesome tools, skills, plugins, integrations, extensions, fram
 - 🌟 [**claude-powerline**](https://github.com/Owloops/claude-powerline) (678 ⭐) - Beautiful vim-style powerline statusline for Claude Code.
 - 🌟 [**claude-island**](https://github.com/farouqaldori/claude-island) (639 ⭐) - Claude Code notifications without the context switch.
 - 🌟 [**claude-code-log**](https://github.com/daaain/claude-code-log) (620 ⭐) - A Python CLI tool that converts Claude Code transcript JSONL files into readable HTML format.
+- [**claude-notes**](https://github.com/vtemian/claude-notes) - CLI tool that transforms Claude Code transcript JSONL files into terminal-viewable output and HTML files.
 - 🌟 [**claude-code-configs**](https://github.com/Matt-Dionis/claude-code-configs) (591 ⭐) - A comprehensive collection of production-grade Claude Code configurations, specialized agents, and automation workflows for optimizing AI-assisted development.
 - 🌟 [**claude-code-base-action**](https://github.com/anthropics/claude-code-base-action) (550 ⭐) - A Claude Code base action.
 - 🌟 [**ccmate**](https://github.com/djyde/ccmate) (546 ⭐) - Configure your Claude Code without pain.
