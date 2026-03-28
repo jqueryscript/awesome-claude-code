@@ -177,7 +177,7 @@ A curated list of awesome tools, skills, plugins, integrations, extensions, fram
 - [**meta_skilld**](https://github.com/Dicklesworthstone/meta_skilld): Rust CLI for managing Claude Code skills: indexing, building, bundling, and sharing.
 - [**claude-cs**](https://github.com/nbashaw/claude-cs): A Claude Code skill that helps you build custom customer support automation for your company.
 - [**design-engineer-auditor-package**](https://github.com/kylezantos/design-engineer-auditor-package): A Claude Code skill for motion design audits, trained on Emil Kowalski, Jakub Krehel, and Jhey Tompkins.
-- [**Spartan AI Toolkit**](https://github.com/spartan-stratos/spartan-ai-toolkit): Engineering discipline layer with 56 slash commands, quality gates, configurable rules for any stack, and agent memory across sessions. One command runs spec → plan → TDD → review → PR.
+- [**Spartan AI Toolkit**](https://github.com/spartan-stratos/spartan-ai-toolkit): Engineering discipline layer with 67 slash commands, quality gates, configurable rules for any stack, and agent memory across sessions. One command runs spec → plan → TDD → review → PR.
 
 ---
 
