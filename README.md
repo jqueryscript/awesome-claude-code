@@ -265,6 +265,7 @@ A curated list of awesome tools, skills, plugins, integrations, extensions, fram
 - ✨ [**claude-code-boost**](https://github.com/yifanzz/claude-code-boost) (160 ⭐) - Hook utilities for Claude Code with intelligent auto-approval.
 - ✨ [**claude-context-local**](https://github.com/FarhanAliRaza/claude-context-local) (154 ⭐) - Code search MCP for Claude Code. Make entire codebase the context for any coding agent. Embeddings are created and stored locally. No API cost.
 - ✨ [**claude-config-editor**](https://github.com/gagarinyury/claude-config-editor) (150 ⭐) - A lightweight web tool that helps you clean and optimize your Claude Code/Desktop config files (.claude.json).
+- [**CCHub**](https://github.com/Moresl/cchub) - A Tauri 2.0 desktop app for managing the full Claude Code ecosystem — MCP servers, skills, hooks, config profiles — all in one place. Auto-scans configs from Claude Code, Claude Desktop, and Cursor.
 - ✨ [**cctrace**](https://github.com/jimmc414/cctrace) (140 ⭐) - Export Claude Code chat sessions into markdown and XML.
 - ✨ [**claude-agent-server**](https://github.com/forayconsulting/gemini_cli_skill) (140 ⭐) - A Claude Code skill enabling Claude to use Gemini 3 Pro via Gemini CLI.
 - ✨ [**context-forge**](https://github.com/webdevtodayjason/context-forge) (134 ⭐) - CLI tool that scaffolds context engineering documentation for Claude Code projects.
