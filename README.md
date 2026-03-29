@@ -233,6 +233,7 @@ A curated list of awesome tools, skills, plugins, integrations, extensions, fram
 - 🌟 [**Claude-Code-Remote**](https://github.com/JessyTsui/Claude-Code-Remote) (943 ⭐) - Control Claude Code remotely via email. Start tasks locally, receive notifications when Claude completes them, and send new commands by simply replying to emails.
 - 🌟 [**Claude-Command-Suite**](https://github.com/qdhenry/Claude-Command-Suite) (904 ⭐) - Professional slash commands for Claude Code that provide structured workflows for software development tasks, including code review and feature implementation.
 - 🌟 [**claude-code-hooks-multi-agent-observability**](https://github.com/disler/claude-code-hooks-multi-agent-observability) (893 ⭐) - Real-time monitoring for Claude Code agents through simple hook event tracking.
+- [**claude-kit**](https://github.com/luiseiman/claude-kit) - Configuration factory for Claude Code — 13 composable stacks, 6 agents, audit scoring, practices pipeline. End-to-end .claude/ management.
 - 🌟 [**agent-of-empires**](https://github.com/njbrake/agent-of-empires) (873 ⭐) - Claude Code, OpenCode, Mistral Vibe, Codex CLI, Gemini CLI Coding Agent Terminal Session manager via tmux and git Worktrees.
 - 🌟 [**tweakcc**](https://github.com/Piebald-AI/tweakcc) (810 ⭐) - Command-line tool to customize your Claude Code styling.
 - 🌟 [**claudebox**](https://github.com/RchGrav/claudebox) (795 ⭐) - A Claude Code Docker Development Environment for running Claude AI's coding assistant in a fully containerized, reproducible environment.
