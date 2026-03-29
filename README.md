@@ -331,10 +331,10 @@ A curated list of awesome tools, skills, plugins, integrations, extensions, fram
 - ✨ [**claude-code-costs**](https://github.com/philipp-spiess/claude-code-costs) (182 ⭐) - Analyze your Claude Code conversation costs with interactive visualizations.
 - ✨ [**Claudiatron**](https://github.com/Haleclipse/Claudiatron) (160 ⭐) - A Powerful Claude Code GUI Desktop Application.
 - ✨ [**claude-code-webui**](https://github.com/DevAgentForge/claude-code-webui) (149 ⭐) - A web-based Claude Code that runs on desktop, mobile phones, and iPads.
+- [**Nimbalyst**](https://github.com/Nimbalyst/nimbalyst) (48 ⭐) - Visual workspace for building with Claude Code and Codex. Session and task management. Visual editing.
 - [**ccmate-release**](https://github.com/djyde/ccmate-release) (57 ⭐) - A GUI for Claude Code.
 - [**Claude-Code-Web-GUI**](https://github.com/binggg/Claude-Code-Web-GUI) (56 ⭐) - Browse, view and share your Claude Code sessions - runs entirely in browser, no server required!
 - [**Claude in a Box**](https://github.com/juancgarza/claude-in-a-box) (48 ⭐) - A ChatGPT Canvas-style interface for Claude Code running in E2B sandboxes.
-
 ---
 
 ## 🏗️ Infrastructure & Proxies
