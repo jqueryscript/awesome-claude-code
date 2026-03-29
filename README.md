@@ -334,6 +334,7 @@ A curated list of awesome tools, skills, plugins, integrations, extensions, fram
 - [**ccmate-release**](https://github.com/djyde/ccmate-release) (57 ⭐) - A GUI for Claude Code.
 - [**Claude-Code-Web-GUI**](https://github.com/binggg/Claude-Code-Web-GUI) (56 ⭐) - Browse, view and share your Claude Code sessions - runs entirely in browser, no server required!
 - [**Claude in a Box**](https://github.com/juancgarza/claude-in-a-box) (48 ⭐) - A ChatGPT Canvas-style interface for Claude Code running in E2B sandboxes.
+- [**KANBAII**](https://github.com/martinmsaavedra/kanbaii) (1 ⭐) - AI-native kanban board for Claude Code — plan visually, track progress, let AI execute. Includes sequential and parallel multi-agent engines, cost tracking, and a real-time dashboard.
 
 ---
 
