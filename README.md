@@ -303,6 +303,8 @@ A curated list of awesome tools, skills, plugins, integrations, extensions, fram
 - [**claude-code-test-runner**](https://github.com/firstloophq/claude-code-test-runner) (20 ⭐) - An automated E2E natural language test runner built on Claude Code.
 - [**cc-monitor-worker**](https://github.com/cometkim/cc-monitor-worker) (13 ⭐) - Claude Code monitoring with Cloudflare Workers & Workers Analytics Engine.
 - [**shotgun-alpha**](https://github.com/shotgun-sh/shotgun-alpha) (3 ⭐) - Codebase-aware spec engine for Cursor, Claude Code & Lovable.
+- [**cc-safe-setup**](https://github.com/yurukusa/cc-safe-setup) (2.5K DL/day) - One-command safety hooks for Claude Code: `npx cc-safe-setup`. 8 built-in + 27 example hooks, safety audit, hook generator, compound command approver, and [settings.json reference](https://github.com/yurukusa/cc-safe-setup/blob/main/SETTINGS_REFERENCE.md).
+- [**cc-hook-test**](https://github.com/yurukusa/cc-hook-test) - Test runner for Claude Code hooks. Auto-detects hook type and generates test cases: `npx cc-hook-test <hook.sh>`.
 - [**conductor**](https://conductor.build/) (0 ⭐) - Run a bunch of Claude Codes in parallel.
 - [**claude-deep-research**](https://www.google.com/search?q=https://github.com/disler/claude-deep-research) (0 ⭐) - Claude Deep Research config for Claude Code.
 
