@@ -45,6 +45,7 @@ A curated list of awesome tools, skills, plugins, integrations, extensions, fram
 - 🔥 [**agents**](https://github.com/contains-studio/agents) (11.4k ⭐) - A comprehensive collection of specialized AI agents designed to accelerate and enhance every aspect of rapid development.
 - 🔥 [**claude-squad**](https://github.com/smtg-ai/claude-squad) (5.6k ⭐) - Manage multiple AI terminal agents, including Claude Code, Aider, Codex, OpenCode, and Amp.
 - 🔥 [**awesome-claude-agents**](https://github.com/vijaythecoder/awesome-claude-agents) (3.7k ⭐) - Supercharge Claude Code with a team of specialized AI agents that work together to build complete features, debug complex issues, and handle any technology stack with expert-level knowledge.
+- 🔥 [**claude-subconscious**](https://github.com/letta-ai/claude-subconscious) (2.4k ⭐) - A background agent that whispers to Claude Code. A subconcious agent that watches your sessions, reads your files, builds up memory over time, and whispers guidance back.
 - 🔥 [**claude-code-subagents-collection**](https://github.com/davepoon/claude-code-subagents-collection) (2.2k ⭐) - A comprehensive collection of specialized AI subagents for Claude Code, designed to enhance development workflows with domain-specific expertise.
 - 🔥 [**claude-agents**](https://github.com/iannuttall/claude-agents) (2.0k ⭐) - Custom subagents to use with Claude Code.
 - 🔥 [**claude-swarm**](https://github.com/parruda/claude-swarm) (1.6k ⭐) - Easily launch a Claude Code session connected to a swarm of Claude Code Agents.
@@ -54,10 +55,12 @@ A curated list of awesome tools, skills, plugins, integrations, extensions, fram
 - 🌟 [**claude-code-unified-agents**](https://github.com/stretchcloud/claude-code-unified-agents) (722 ⭐) - A comprehensive collection of specialized Claude Code sub-agents combining the best features from multiple community repositories.
 - 🌟 [**claude-code-subagents**](https://github.com/0xfurai/claude-code-subagents) (622 ⭐) - A comprehensive collection of 100+ production-ready development subagents for Claude Code.
 - 🌟 [**claude_code_agent_farm**](https://github.com/Dicklesworthstone/claude_code_agent_farm) (619 ⭐) - A powerful orchestration framework that runs multiple Claude Code (cc) sessions in parallel to systematically improve your codebase.
+- 🌟 [**agent-flow**](https://github.com/patoles/agent-flow) (538 ⭐) - Real-time visualization of Claude Code agent orchestration — see your agents think, branch, and coordinate as they work.
 - 🌟 [**claude-sub-agent**](https://github.com/zhsama/claude-sub-agent) (532 ⭐) - AI-driven development workflow system built on Claude Code Sub-Agents.
 - ✨ [**infinite-agentic-loop**](https://github.com/disler/infinite-agentic-loop) (492 ⭐) - An experimental project demonstrating Infinite Agentic Loop in a two-prompt system using Claude Code.
 - ✨ [**agentsys**](https://github.com/agent-sh/agentsys) (473 ⭐) - This automates everything else · 14 plugins · 43 agents · 30 skills · for Claude Code, OpenCode, Codex.
 - ✨ [**ClaudeCodeAgents**](https://github.com/darcyegb/ClaudeCodeAgents) (455 ⭐) - A set of useful QA agents for Claude Code.
+- ✨ [**Citadel**](https://github.com/SethGammon/Citadel) (430 ⭐) - An agent orchestration harness for Claude Code. It coordinates multiple AI agents in parallel, persists memory across sessions, and routes your intent to the cheapest execution path automatically. 
 - ✨ [**Specialized AI Agents**](https://github.com/Dimillian/Claude) (344 ⭐) - This directory contains specialized AI agent definitions used by Claude Code to handle complex, domain-specific tasks.
 - ✨ [**OpenAgents**](https://github.com/OpenAgentsInc/openagents) (341 ⭐) - Seamlessly integrate Claude Code's AI development capabilities across desktop and mobile with real-time synchronization.
 - ✨ [**ClaudeNightsWatch**](https://github.com/aniketkarne/ClaudeNightsWatch) (325 ⭐) - Autonomous task execution system for Claude CLI that monitors your usage windows and executes predefined tasks automatically.
@@ -88,17 +91,23 @@ A curated list of awesome tools, skills, plugins, integrations, extensions, fram
 - 🔥 [**planning-with-files**](https://github.com/OthmanAdi/planning-with-files) (9.7k ⭐): Claude Code skill implementing Manus-style persistent markdown planning — the workflow pattern behind the $2B acquisition.
 - 🔥 [**Agent-Skills-for-Context-Engineering**](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering) (7.8k ⭐): A comprehensive collection of Agent Skills for context engineering, multi-agent architectures, and production agent systems.
 - 🔥 [**obsidian-skills**](https://github.com/kepano/obsidian-skills) (7k ⭐): Claude Skills for use with Obsidian.
+- 🔥 [**taste-skill**](https://github.com/Leonxlnx/taste-skill) (6.9k ⭐): A collection of skills that improve how AI tools write frontend code. 
 - 🔥 [**claude-scientific-skills**](https://github.com/K-Dense-AI/claude-scientific-skills) (6.4k ⭐): A set of ready to use scientific skills for Claude.
+- 🔥 [**slavingia/skills**](https://github.com/slavingia/skills) (5.8k ⭐): Claude Code skills based on The Minimalist Entrepreneur by Sahil Lavingia.
 - 🔥 [**marketingskills**](https://github.com/coreyhaines31/marketingskills) (4.8k ⭐): Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.
+- 🔥 [**Anthropic-Cybersecurity-Skills**](https://github.com/mukul975/Anthropic-Cybersecurity-Skills) (3.9k ⭐): 753+ structured cybersecurity skills for AI agents. 
 - 🔥 [**MiniMax-AI/skills**](https://github.com/MiniMax-AI/skills) (3.8k ⭐): Development skills for AI coding agents. 
 - 🔥 [**antfu's skills**](https://github.com/antfu/skills) (3.5k ⭐): Anthony Fu's curated collection of agent skills.
 - 🔥 [**geo-seo-claude**](https://github.com/zubair-trabzada/geo-seo-claude) (3.5k ⭐): GEO-first SEO skill for Claude Code. Comprehensive AI search optimization for any website — citability scoring, AI crawler analysis, brand authority, schema markup, platform-specific optimization, and PDF reports.
 - 🔥 [**dev-browser**](https://github.com/SawyerHood/dev-browser) (3.3k ⭐): A Claude Skill to give your agent the ability to use a web browser.
 - 🔥 [**humanizer**](https://github.com/blader/humanizer) (2.9k ⭐): A Claude Code skill that removes signs of AI-generated writing from text, making it sound more natural and human.
+- 🔥 [**autoresearch**](https://github.com/uditgoenka/autoresearch) (2.9k ⭐): Turn Claude Code into a relentless improvement engine.
 - 🔥 [**notebooklm-skill**](https://github.com/PleasePrompto/notebooklm-skill) (2.7k ⭐): Use this skill to enable Claude Code to communicate directly with your Google NotebookLM notebooks. 
 - 🔥 [**SwiftUI-Agent-Skill**](https://github.com/twostraws/SwiftUI-Agent-Skill) (2.7k ⭐): SwiftUI agent skill for Claude Code, Codex, and other AI tools.
+- 🔥 [**codebase-to-course**](https://github.com/zarazhangrui/codebase-to-course) (2.7k ⭐): A Claude Code skill that turns any codebase into a beautiful, interactive single-page HTML course for non-technical vibe coders.
 - 🔥 [**sanyuan-skills**](https://github.com/sanyuan0704/sanyuan-skills) (2.5k ⭐): Expert code review skill: SOLID, security, performance, error handling, boundary conditions.
 - 🔥 [**chrome-cdp-skill**](https://github.com/pasky/chrome-cdp-skill) (2.5k ⭐): Give your AI agent access to your live Chrome session — works out of the box, connects to tabs you already have open.
+- 🔥 [**godogen**](https://github.com/htdt/godogen) (2.4k ⭐): Claude Code skills that build complete Godot 4 projects from a game description.
 - 🔥 [**n8n-skills**](https://github.com/czlonkowski/n8n-skills) (2.2k ⭐): n8n skillset for Claude Code to build flawless n8n workflows.
 - 🔥 [**AI-research-SKILLs**](https://github.com/Orchestra-Research/AI-research-SKILLs) (2.2k ⭐): Visual Skills Pack for Obsidian: generate Canvas, Excalidraw, and Mermaid diagrams from text with Claude Code.
 - 🔥 [**Understand-Anything**](https://github.com/Lum1104/Understand-Anything) (2.1k ⭐): Claude Code skills that turn any codebase into an interactive knowledge graph you can explore, search, and ask questions about (Multi-platform e.g., Codex are supported).
@@ -139,6 +148,7 @@ A curated list of awesome tools, skills, plugins, integrations, extensions, fram
 - 🌟 [**vue-skills**](https://github.com/hyf0/vue-skills) (552 ⭐): Agent skills for Vue 3 development.
 - 🌟 [**frontend-slides**](https://github.com/zarazhangrui/frontend-slides) (519 ⭐): A Claude Code skill for creating stunning, animation-rich HTML presentations.
 - 🌟 [**skill-codex**](https://github.com/skills-directory/skill-codex) (512 ⭐): A claude code skill to delegate prompts to codex.
+- 🌟 [**advertising-skills**](https://github.com/realkimbarrett/advertising-skills) (509 ⭐): Advertising Skills for Open Claw, Claude Code & AI agents. 
 - 🌟 [**VibeSec-Skill**](https://github.com/BehiSecc/VibeSec-Skill) (496 ⭐): This skill helps Claude write secure code and prevent common vulnerabilities.
 - 🌟 [**Pretty-mermaid-skills**](https://github.com/imxv/Pretty-mermaid-skills) (487 ⭐): To provide AI with Mermaid chart rendering capability, supporting both SVG and ASCII output formats.
 - 🌟 [**x-article-publisher-skill**](https://github.com/wshuyi/x-article-publisher-skill) (482 ⭐): Claude Code skill for publishing Markdown articles to X (Twitter) Articles.
@@ -316,6 +326,7 @@ A curated list of awesome tools, skills, plugins, integrations, extensions, fram
 
 - 🔥 [**claudia**](https://github.com/getAsterisk/claudia) (19.9k ⭐) - A powerful GUI app and Toolkit for Claude Code - Create custom agents, manage interactive Claude Code sessions, run secure background agents, and more.
 - 🔥 [**vibe-kanban**](https://github.com/BloopAI/vibe-kanban) (14.7k ⭐) - Get 10X more out of Claude Code, Gemini CLI, Codex, Amp and other coding agents.
+- 🔥 [**t3code**](https://github.com/pingdotgg/t3code) (7.8k ⭐) - A minimal web GUI for coding agents.
 - 🔥 [**happy**](https://github.com/slopus/happy) (7.0k ⭐) - Mobile and Web client for Claude Code, with realtime voice, encryption and fully featured.
 - 🔥 [**claudecodeui**](https://github.com/siteboon/claudecodeui) (5.4k ⭐) - A desktop and mobile UI for Claude Code, Anthropic's official CLI for AI-assisted coding.
 - 🔥 [**1code**](https://github.com/21st-dev/1code) (4.4k ⭐) - Best UI for Claude Code with local and remote agent execution.
