@@ -290,6 +290,7 @@ A curated list of awesome tools, skills, plugins, integrations, extensions, fram
 - [**claude-prune**](https://github.com/DannyAziz/claude-prune) (78 ⭐) - A fast CLI tool for pruning Claude Code sessions.
 - [**claude-code-container**](https://github.com/tintinweb/claude-code-container) (76 ⭐) - A Docker container for running Claude Code in "dangerously skip permissions" mode.
 - [**run-claude-docker**](https://github.com/icanhasjonas/run-claude-docker) (58 ⭐) - Run claude code in somewhat safe and isolated yolo mode.
+- [**OpenPaw**](https://github.com/daxaur/openpaw) (67 ⭐) - Local-first assistant wizard for Claude Code with reusable skills, scheduling, dashboard tasks, Telegram control, and focus mode.
 - [**flashbacker**](https://github.com/agentsea/flashbacker) (54 ⭐) - Claude Code state management with session continuity and AI personas, subagents and agent discussion.
 - [**ccguard**](https://github.com/pomterre/ccguard) (45 ⭐) - Automated enforcement of net-negative LOC, complexity constraints, and quality standards for Claude code.
 - [**Severance**](https://github.com/blas0/Severance) (41 ⭐) - A semantic memory system designed for Claude Code.
