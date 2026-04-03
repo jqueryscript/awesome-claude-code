@@ -80,6 +80,7 @@ A curated list of awesome tools, skills, plugins, integrations, extensions, fram
 - [**Severance**](https://github.com/blas0/Severance) (41 ⭐) - A semantic memory system designed for Claude Code.
 - [**AgentCheck**](https://github.com/devlyai/AgentCheck) (33 ⭐) - Local AI-powered code review agents for Claude Code.
 - [**claude-agents**](https://github.com/tddworks/claude-agents) (14 ⭐) - A collection of specialized AI agents for Claude Code that enhance software development workflows with focused expertise in specific domains.
+- [**flex-claudecode**](https://github.com/damiandelmas/flex-claudecode) - Compiles your Claude Code session history for vector and hybrid retrieval. Your agent connects via MCP, discovers the schema at runtime, and writes SQL against your history — the full observable surface is searchable, including tool calls, file edits, agent delegations, and project attribution. Knowledge graphs build automatically from the data. Works retroactively — every past session becomes searchable on install.
 
 ---
 
