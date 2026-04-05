@@ -210,6 +210,7 @@ A curated list of awesome tools, skills, plugins, integrations, extensions, fram
 - [**claude-dashboard**](https://github.com/uppinote20/claude-dashboard): Comprehensive status line plugin for Claude Code with context usage, API rate limits, and cost tracking
 - [**claude-code-plugin**](https://github.com/browserbase/claude-code-plugin): Browserbase plugin for Claude Code - Use cloud browsers with Claude Code instead of local Chrome.
 - [**homunculus**](https://github.com/humanplane/homunculus): A Claude Code plugin that watches how you work, learns your patterns, and evolves itself to help you better.
+- [**Signum**](https://github.com/heurema/signum): Evidence-driven development pipeline with multi-model code review. CONTRACT → EXECUTE → AUDIT → PACK with holdout blinding, 3-model adversarial audit (Claude + Codex + Gemini), and tamper-evident proofpack.
 
 ---
 
