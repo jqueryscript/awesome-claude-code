@@ -115,6 +115,7 @@ A curated list of awesome tools, skills, plugins, integrations, extensions, fram
 - 🔥 [**n8n-skills**](https://github.com/czlonkowski/n8n-skills) (2.2k ⭐): n8n skillset for Claude Code to build flawless n8n workflows.
 - 🔥 [**AI-research-SKILLs**](https://github.com/Orchestra-Research/AI-research-SKILLs) (2.2k ⭐): Visual Skills Pack for Obsidian: generate Canvas, Excalidraw, and Mermaid diagrams from text with Claude Code.
 - 🔥 [**Understand-Anything**](https://github.com/Lum1104/Understand-Anything) (2.1k ⭐): Claude Code skills that turn any codebase into an interactive knowledge graph you can explore, search, and ask questions about (Multi-platform e.g., Codex are supported).
+- [**floom**](https://github.com/floomhq/floom): Deploy Python scripts as cloud automations from Claude Code, Cursor, or any MCP-capable agent. Generates a web UI, REST API, and MCP endpoint. `/floom` skill handles adapt, test, deploy.
 - 🔥 [**gemini-skills**](https://github.com/google-gemini/gemini-skills) (2k ⭐): Skills for the Gemini API, SDK and model/agent interactions.
 - 🔥 [**AI-research-SKILLs**](https://github.com/sanyuan0704/code-review-expert) (1.9k ⭐): A comprehensive code review skill for AI agents. 
 - 🔥 [**playwright-skill**](https://github.com/lackeyjb/playwright-skill) (1.5k ⭐): Claude Code Skill for browser automation with Playwright. Model-invoked - Claude autonomously writes and executes custom automation for testing and validation.
