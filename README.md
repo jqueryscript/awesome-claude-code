@@ -51,8 +51,11 @@ A curated list of awesome tools, skills, plugins, integrations, extensions, fram
 - 🔥 [**claude-swarm**](https://github.com/parruda/claude-swarm) (1.6k ⭐) - Easily launch a Claude Code session connected to a swarm of Claude Code Agents.
 - 🔥 [**claude-code-sub-agents**](https://github.com/lst97/claude-code-sub-agents) (1.3k ⭐) - Collection of specialized AI subagents for Claude Code for personal use.
 - 🔥 [**ralph-claude-code**](https://github.com/DmitrySolana/ralph-claude-code) (1.2k ⭐) - Autonomous AI development loop for Claude Code with intelligent exit detection.
+- 🔥 [**nothing-design-skill**](https://github.com/dominikmartn/nothing-design-skill) (1.2k ⭐) - A Claude Code skill for generating UI in the Nothing design language. Monochrome, typographic, industrial.
 - 🔥 [**awesome-claude-code-agents**](https://github.com/hesreallyhim/awesome-claude-code-agents) (1.1k ⭐) - A curated list of awesome Claude Code Sub-Agents.
+- 🔥 [**seo-geo-claude-skills**](https://github.com/aaron-he-zhu/seo-geo-claude-skills) (864 ⭐) - 20 SEO & GEO skills for Claude Code, Cursor, Codex, and 35+ AI agents. Keyword research, content writing, technical audits, rank tracking.
 - 🌟 [**claude-code-unified-agents**](https://github.com/stretchcloud/claude-code-unified-agents) (722 ⭐) - A comprehensive collection of specialized Claude Code sub-agents combining the best features from multiple community repositories.
+- 🌟 [**Pika-Skills**](https://github.com/Pika-Labs/Pika-Skills) (704 ⭐) - A collection of open-source skills for AI coding agents (Claude Code, OpenClaw, etc.) powered by the Pika Developer API.
 - 🌟 [**claude-code-subagents**](https://github.com/0xfurai/claude-code-subagents) (622 ⭐) - A comprehensive collection of 100+ production-ready development subagents for Claude Code.
 - 🌟 [**claude_code_agent_farm**](https://github.com/Dicklesworthstone/claude_code_agent_farm) (619 ⭐) - A powerful orchestration framework that runs multiple Claude Code (cc) sessions in parallel to systematically improve your codebase.
 - 🌟 [**agent-flow**](https://github.com/patoles/agent-flow) (538 ⭐) - Real-time visualization of Claude Code agent orchestration — see your agents think, branch, and coordinate as they work.
@@ -65,6 +68,7 @@ A curated list of awesome tools, skills, plugins, integrations, extensions, fram
 - ✨ [**OpenAgents**](https://github.com/OpenAgentsInc/openagents) (341 ⭐) - Seamlessly integrate Claude Code's AI development capabilities across desktop and mobile with real-time synchronization.
 - ✨ [**ClaudeNightsWatch**](https://github.com/aniketkarne/ClaudeNightsWatch) (325 ⭐) - Autonomous task execution system for Claude CLI that monitors your usage windows and executes predefined tasks automatically.
 - ✨ [**seomachine**](https://github.com/TheCraigHewitt/seomachine) (287 ⭐) - A specialized Claude Code workspace for creating long-form, SEO-optimized blog content for any business.
+- ✨ [**GLM-skills**](https://github.com/zai-org/GLM-skills) (251 ⭐) - Official skills for the GLM family of models.
 - ✨ [**claude-delegator**](https://github.com/jarrodwatts/claude-delegator) (224 ⭐) - Delegate tasks to Codex GPT 5.2 directly from within Claude Code.
 - ✨ [**visual-claude**](https://github.com/thetronjohnson/visual-claude) (208 ⭐) - A browser coding agent interface for selecting elements and sending instructions directly to Claude Code.
 - ✨ [**claude-code-subagents**](https://github.com/NicholasSpisak/claude-code-subagents) (186 ⭐) - A collection of specialized AI agent personas designed to work seamlessly with Claude Code's Task tool, providing expert-level assistance across the full spectrum of software development challenges.
