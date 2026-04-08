@@ -346,6 +346,7 @@ A curated list of awesome tools, skills, plugins, integrations, extensions, fram
 - ✨ [**claude-code-costs**](https://github.com/philipp-spiess/claude-code-costs) (182 ⭐) - Analyze your Claude Code conversation costs with interactive visualizations.
 - ✨ [**Claudiatron**](https://github.com/Haleclipse/Claudiatron) (160 ⭐) - A Powerful Claude Code GUI Desktop Application.
 - ✨ [**claude-code-webui**](https://github.com/DevAgentForge/claude-code-webui) (149 ⭐) - A web-based Claude Code that runs on desktop, mobile phones, and iPads.
+- ✨ [**claude-cowork-linux**](https://github.com/johnzfitch/claude-cowork-linux) (104 ⭐) - Unofficial Linux port of Claude Desktop's Cowork mode. Reverse-engineered Electron stubs and darwin header spoofing enable Cowork natively on Linux x86_64 — no macOS, no VM. Install via AUR or automated script.
 - [**ccmate-release**](https://github.com/djyde/ccmate-release) (57 ⭐) - A GUI for Claude Code.
 - [**Claude-Code-Web-GUI**](https://github.com/binggg/Claude-Code-Web-GUI) (56 ⭐) - Browse, view and share your Claude Code sessions - runs entirely in browser, no server required!
 - [**Claude in a Box**](https://github.com/juancgarza/claude-in-a-box) (48 ⭐) - A ChatGPT Canvas-style interface for Claude Code running in E2B sandboxes.
@@ -400,6 +401,7 @@ A curated list of awesome tools, skills, plugins, integrations, extensions, fram
 - ✨ [**claude-code-leaderboard**](https://github.com/grp06/claude-code-leaderboard) (180 ⭐) - This CLI automatically monitors your token usage and posts your stats to the leaderboard after each Claude Code session.
 - ✨ [**claude-code-ui**](https://github.com/KyleAMathews/claude-code-ui) (108 ⭐) - A real-time dashboard for monitoring Claude Code sessions across multiple projects.
 - [**pyccsl**](https://github.com/wolfdenpublishing/pyccsl) (81 ⭐) - Python Claude Code Status Line (PyCCSL, pronounced "pixel").
+- [**claude-warden**](https://github.com/johnzfitch/claude-warden) (42 ⭐) - Token-saving hooks and observability for Claude Code. Auto-injects quiet flags, blocks binary reads, enforces subagent budgets, truncates oversized output, and provides a real-time statusline. Optional Go collector with Grafana/Loki/Prometheus stack.
 - [**claude-statusline**](https://github.com/luongnv89/claude-statusline) (41 ⭐) - Customize the status line in Claude Code.
 - [**Claude-Monitor**](https://github.com/RISCfuture/Claude-Monitor) (38 ⭐) - A menulet that tracks your Claude Code token usage.
 - [**cccost**](https://github.com/badlogic/cccost) (20 ⭐) - Instrument Claude Code to track actual token usage and cost.
@@ -429,6 +431,7 @@ A curated list of awesome tools, skills, plugins, integrations, extensions, fram
 - ✨ [**claude-code-mcpinstall**](https://github.com/undeadpickle/claude-code-mcpinstall) (236 ⭐) - Easy guide to installing Claude Code MCPs globally on your machine.
 - ✨ [**claude-code-system-prompt**](https://github.com/matthew-lim-matthew-lim/claude-code-system-prompt) (122 ⭐) - Claude Code's system prompt.
 - [**claudecode-best-practices**](https://github.com/rosmur/claudecode-best-practices) (54 ⭐) - A collection of best practices and procedures for using Claude Code.
+- [**claude-wiki**](https://github.com/johnzfitch/claude-wiki) (8 ⭐) - Local mirror of all Anthropic and Claude documentation — 1,996 articles across 24 categories, updated daily. Plain Markdown with YAML front matter, searchable offline via grep or ripgrep.
 
 ---
 
