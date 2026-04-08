@@ -89,6 +89,7 @@ A curated list of awesome tools, skills, plugins, integrations, extensions, fram
 
 ## 🧠 Agent Skills
 
+- [**claude-skills**](https://github.com/jezweb/claude-skills) - 99 production-ready skills for Cloudflare, React, Tailwind v4, and AI integrations with 39 bundled agents. ~60% token savings, 400+ errors prevented.
 - 🔥 [**Superpowers**](https://github.com/obra/superpowers) (27.9k ⭐) - Give Claude Code superpowers with a comprehensive skills library of proven techniques, patterns, and tools.
 - 🔥 [**ui-ux-pro-max-skill**](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) (16.9k ⭐): An AI SKILL that provide design intelligence for building professional UI/UX multiple platforms.
 - 🔥 [**agent-skills**](https://github.com/vercel-labs/agent-skills) (12k ⭐): A collection of skills for AI coding agents. Skills are packaged instructions and scripts that extend agent capabilities.
