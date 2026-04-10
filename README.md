@@ -330,6 +330,7 @@ A curated list of awesome tools, skills, plugins, integrations, extensions, fram
 - 🌟 [**claude-code.el**](https://github.com/stevemolitor/claude-code.el) (577 ⭐) - Claude Code Emacs integration.
 - ✨ [**Claude-Autopilot**](https://github.com/benbasha/Claude-Autopilot) (197 ⭐) - VS Code/Cursor extension for automating Claude Code tasks with intelligent queuing, batch processing, and auto-resume.
 - [**n8n-nodes-claudecode**](https://github.com/holt-web-ai/n8n-nodes-claudecode) (70 ⭐) - Bring the power of Claude Code directly into your n8n automation workflows!
+- [**Vexp**](https://marketplace.visualstudio.com/items?itemName=Vexp.vexp-vscode) - Local-first context engine for Claude Code via MCP. Pre-indexes your codebase into a dependency graph using tree-sitter and SQLite, delivers ranked context capsules instead of entire files. Auto-generates CLAUDE.md and hooks. Supports 30 languages, 12 agents. Zero network calls.
 
 ---
 
@@ -411,6 +412,7 @@ A curated list of awesome tools, skills, plugins, integrations, extensions, fram
 - [**Claude-Monitor**](https://github.com/RISCfuture/Claude-Monitor) (38 ⭐) - A menulet that tracks your Claude Code token usage.
 - [**cccost**](https://github.com/badlogic/cccost) (20 ⭐) - Instrument Claude Code to track actual token usage and cost.
 - [**claude-code-usage-bar**](https://github.com/leeguooooo/claude-code-usage-bar) (0 ⭐) - Real‑time statusline for Claude Code: token usage, remaining budget, burn rate, and depletion time.
+- [vexp-swe-bench](https://github.com/Vexp-ai/vexp-swe-bench) - Open-source SWE-bench Verified benchmark harness for comparing coding agents. Agent-agnostic with adapter system. Default: Claude Code + vexp achieves 73% pass@1 at $0.67/task on 100-task subset. Full logs and results included.
 
 ---
 
