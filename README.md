@@ -75,6 +75,7 @@ A curated list of awesome tools, skills, plugins, integrations, extensions, fram
 - ✨ [**dotclaude**](https://github.com/FradSer/dotclaude) (185 ⭐) - A comprehensive development environment with specialized AI agents for code review, security analysis, and technical leadership.
 - ✨ [**sub-agents**](https://github.com/webdevtodayjason/sub-agents) (175 ⭐) - A simple Manager for adding Claude Code Sub Agents with hooks and custom slash commands.
 - ✨ [**claude-user-memory**](https://github.com/irenicj/claude-user-memory) (125 ⭐) - A comprehensive Claude user memory system that enables intelligent, automatic orchestration of 12 specialized AI agents for Claude Code CLI.
+- ✨ [**amux**](https://github.com/mixpeek/amux) (118 ⭐) - Open-source agent multiplexer for running dozens of parallel Claude Code sessions with a web dashboard, self-healing watchdog, kanban board, agent-to-agent REST API, and mobile PWA. Single Python file.
 - ✨ [**claude-code-agents**](https://github.com/vizra-ai/claude-code-agents) (110 ⭐) - Meet 59 specialized AI agents that supercharge your development workflow.
 - [**sub-agents.directory**](https://github.com/ayush-that/sub-agents.directory) (74 ⭐) - A curated collection of 100+ sub-agent prompts and MCP servers for Claude Code.
 - [**multi-agent-squad**](https://github.com/bijutharakan/multi-agent-squad) (74 ⭐) - Production-ready multi-agent orchestration framework for Claude Code.
