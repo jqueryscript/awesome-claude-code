@@ -356,7 +356,8 @@ A curated list of awesome tools, skills, plugins, integrations, extensions, fram
 - [**ccmate-release**](https://github.com/djyde/ccmate-release) (57 ⭐) - A GUI for Claude Code.
 - [**Claude-Code-Web-GUI**](https://github.com/binggg/Claude-Code-Web-GUI) (56 ⭐) - Browse, view and share your Claude Code sessions - runs entirely in browser, no server required!
 - [**Claude in a Box**](https://github.com/juancgarza/claude-in-a-box) (48 ⭐) - A ChatGPT Canvas-style interface for Claude Code running in E2B sandboxes.
-
+- [**VIBE OS**](https://github.com/TPal126/vibe-os) - Reasoning-first desktop IDE running the Claude Agent SDK with
+  graph-native context injection and custom MCP tools. No API key required — uses your Claude Code subscription.
 ---
 
 ## 🏗️ Infrastructure & Proxies
