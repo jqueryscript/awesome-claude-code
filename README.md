@@ -141,12 +141,16 @@ A curated list of awesome tools, skills, plugins, integrations, extensions, fram
 - 🌟 [**agent-skills**](https://github.com/WordPress/agent-skills/) (890 ⭐): Expert-level WordPress knowledge for AI coding assistants - blocks, themes, plugins, and best practices.
 - 🌟 [**stitch-skills**](https://github.com/google-labs-code/stitch-skills) (886 ⭐): A library of Agent Skills designed to work with the Stitch MCP server. 
 - 🌟 [**agent-skills**](https://github.com/supabase/agent-skills) (833 ⭐): Agent Skills to help developers using AI agents with Supabase.
+- 🌟 [**Axiom**](https://github.com/CharlesWiltgen/Axiom) (808 ⭐): Battle-tested Claude Code skills for modern xOS (iOS, iPadOS, watchOS, tvOS) development.
 - 🌟 [**vue-skills**](https://github.com/vuejs-ai/skills) (799 ⭐): Agent skills for Vue 3 development.
 - 🌟 [**n-skills**](https://github.com/numman-ali/n-skills) (789 ⭐): Curated plugin marketplace for AI agents - works with Claude Code, Codex, and openskills.
 - 🌟 [**x-research-skill**](https://github.com/rohunvora/x-research-skill) (781 ⭐): X/Twitter research skill for Claude Code and OpenClaw.
 - 🌟 [**Expo-Skills**](https://github.com/expo/skills) (749 ⭐): A collection of AI agent skills for working with Expo projects and Expo Application Services.
 - 🌟 [**visual-explainer**](https://github.com/nicobailon/visual-explainer) (731 ⭐): Agent skill + prompt templates that generate rich HTML pages for visual diff reviews, architecture overviews, plan audits, data tables, and project recaps.
 - 🌟 [**ai-marketing-claude**](https://github.com/zubair-trabzada/ai-marketing-claude) (722 ⭐): A comprehensive marketing analysis and automation skill system for Claude Code. 
+- 🌟 [**app-onboarding-questionnaire**](https://github.com/adamlyttleapps/claude-skill-app-onboarding-questionnaire) (704 ⭐): A Claude Code skill that designs and builds high-converting questionnaire-style app onboarding flows — modelled on proven conversion patterns from top subscription apps like Mob, Headspace and Noom. 
+- 🌟 [**qmd-skill**](https://github.com/levineam/qmd-skill) (671 ⭐): A Codex/Clawd skill definition for qmd (Quick Markdown Search).
+- 🌟 [**second-brain-skills**](https://github.com/coleam00/second-brain-skills) (661 ⭐): A collection of Claude Skills to turn Claude Code into a Second Brain.
 - 🌟 [**cloudflare-skill**](https://github.com/dmmulroy/cloudflare-skill) (639 ⭐): Comprehensive Cloudflare platform reference docs for AI/LLM consumption.
 - 🌟 [**Youtube-clipper-skill**](https://github.com/op7418/Youtube-clipper-skill) (633 ⭐): Download videos, generate semantic chapters, clip segments, translate subtitles to bilingual format, and burn subtitles into videos.
 - 🌟 [**ui-skills**](https://github.com/ibelick/ui-skills) (629 ⭐): A growing set of skills to polish interfaces built by agents.
@@ -154,6 +158,7 @@ A curated list of awesome tools, skills, plugins, integrations, extensions, fram
 - 🌟 [**Khazix-Skills**](https://github.com/op7418/Youtube-clipper-skill) (563 ⭐): DA collection of AI Skills for managing and evolving your skill library.
 - 🌟 [**vue-skills**](https://github.com/hyf0/vue-skills) (552 ⭐): Agent skills for Vue 3 development.
 - 🌟 [**frontend-slides**](https://github.com/zarazhangrui/frontend-slides) (519 ⭐): A Claude Code skill for creating stunning, animation-rich HTML presentations.
+- 🌟 [**webgpu-claude-skill**](https://github.com/dgreenheck/webgpu-claude-skill) (513 ⭐): A Claude skill for developing WebGPU applications with Three.js.
 - 🌟 [**skill-codex**](https://github.com/skills-directory/skill-codex) (512 ⭐): A claude code skill to delegate prompts to codex.
 - 🌟 [**advertising-skills**](https://github.com/realkimbarrett/advertising-skills) (509 ⭐): Advertising Skills for Open Claw, Claude Code & AI agents. 
 - 🌟 [**VibeSec-Skill**](https://github.com/BehiSecc/VibeSec-Skill) (496 ⭐): This skill helps Claude write secure code and prevent common vulnerabilities.
@@ -397,6 +402,7 @@ A curated list of awesome tools, skills, plugins, integrations, extensions, fram
 - 🔥 [**CodexBar**](https://github.com/steipete/CodexBar) (4.4k ⭐) - Show usage stats for OpenAI Codex and Claude Code, without having to login.
 - 🔥 [**ccstatusline**](https://github.com/sirmalloc/ccstatusline) (2.7k ⭐) - A customizable status line formatter for Claude Code CLI that displays model info, git branch, token usage, and other metrics in your terminal.
 - 🔥 [**CCometixLine**](https://github.com/Haleclipse/CCometixLine) (1.3k ⭐) - A high-performance Claude Code statusline tool written in Rust with Git integration and real-time usage tracking.
+- 🌟 [**claude-usage**](https://github.com/phuryn/claude-usage) (818 ⭐) - A local dashboard for tracking your Claude Code token usage, costs, and session history.
 - 🌟 [**CCSeva**](https://github.com/Iamshankhadeep/ccseva) (748 ⭐) - A beautiful macOS menu bar app for tracking your Claude Code usage in real-time.
 - 🌟 [**tokentap**](https://github.com/jmuncor/tokentap) (685 ⭐) - Intercept LLM API traffic and visualize token usage in a real-time terminal dashboard. 
 - 🌟 [**claude-task-viewer**](https://github.com/L1AD/claude-task-viewer) (387 ⭐) - A web-based Kanban board for viewing Claude Code tasks.
