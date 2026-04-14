@@ -417,6 +417,7 @@ A curated list of awesome tools, skills, plugins, integrations, extensions, fram
 - [**Claude-Monitor**](https://github.com/RISCfuture/Claude-Monitor) (38 ⭐) - A menulet that tracks your Claude Code token usage.
 - [**cccost**](https://github.com/badlogic/cccost) (20 ⭐) - Instrument Claude Code to track actual token usage and cost.
 - [**claude-code-usage-bar**](https://github.com/leeguooooo/claude-code-usage-bar) (0 ⭐) - Real‑time statusline for Claude Code: token usage, remaining budget, burn rate, and depletion time.
+- [**aby-claude-watcher**](https://github.com/aby-agency/aby-claude-watcher) (0 ⭐) - Real-time macOS dashboard for monitoring every Claude Code session. Five color-coded states (thinking, running, waiting, error, completed), per-session notifications, one-click focus terminal across 9 terminal apps (iTerm2, Terminal, Warp, VSCode, Cursor, Ghostty, kitty, WezTerm, Hyper). Bilingual FR/EN, local-first, MIT licensed.
 
 ---
 
