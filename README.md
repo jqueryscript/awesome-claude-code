@@ -90,6 +90,8 @@ A curated list of awesome tools, skills, plugins, integrations, extensions, fram
 ## 🧠 Agent Skills
 
 - 🔥 [**Superpowers**](https://github.com/obra/superpowers) (27.9k ⭐) - Give Claude Code superpowers with a comprehensive skills library of proven techniques, patterns, and tools.
+- 🔥 [**caveman**](https://github.com/JuliusBrussee/caveman) (27.9k ⭐) - A Claude Code skill/plugin and Codex plugin that makes agent talk like caveman — cutting ~75% of output tokens while keeping full technical accuracy.
+- 🔥 [**scientific-agent-skills**](https://github.com/K-Dense-AI/scientific-agent-skills) (18.4k ⭐) - A set of ready to use Agent Skills for research, science, engineering, analysis, finance and writing.
 - 🔥 [**ui-ux-pro-max-skill**](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) (16.9k ⭐): An AI SKILL that provide design intelligence for building professional UI/UX multiple platforms.
 - 🔥 [**graphify**](https://github.com/safishamsi/graphify) (15.3k ⭐): AI coding assistant skill (Claude Code, Codex, OpenCode, OpenClaw, Factory Droid, Trae). 
 - 🔥 [**agent-skills**](https://github.com/vercel-labs/agent-skills) (12k ⭐): A collection of skills for AI coding agents. Skills are packaged instructions and scripts that extend agent capabilities.
@@ -98,6 +100,7 @@ A curated list of awesome tools, skills, plugins, integrations, extensions, fram
 - 🔥 [**Agent-Skills-for-Context-Engineering**](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering) (7.8k ⭐): A comprehensive collection of Agent Skills for context engineering, multi-agent architectures, and production agent systems.
 - 🔥 [**obsidian-skills**](https://github.com/kepano/obsidian-skills) (7k ⭐): Claude Skills for use with Obsidian.
 - 🔥 [**taste-skill**](https://github.com/Leonxlnx/taste-skill) (6.9k ⭐): A collection of skills that improve how AI tools write frontend code. 
+- 🔥 [**Auto-claude-code-research-in-sleep**](https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep) (6.6k ⭐): Lightweight Markdown-only skills for autonomous ML research.
 - 🔥 [**claude-scientific-skills**](https://github.com/K-Dense-AI/claude-scientific-skills) (6.4k ⭐): A set of ready to use scientific skills for Claude.
 - 🔥 [**slavingia/skills**](https://github.com/slavingia/skills) (5.8k ⭐): Claude Code skills based on The Minimalist Entrepreneur by Sahil Lavingia.
 - 🔥 [**prompt-master**](https://github.com/nidhinjs/prompt-master) (4.9k ⭐): A Claude skill that writes the accurate prompts for any AI tool. 
@@ -254,6 +257,7 @@ A curated list of awesome tools, skills, plugins, integrations, extensions, fram
 - 🔥 [**claude-sessions**](https://github.com/iannuttall/claude-sessions) (1.1k ⭐) - Custom slash commands for Claude Code that provide comprehensive development session tracking and documentation.
 - 🔥 [**claude-canvas**](https://github.com/dvdsgl/claude-canvas) (1.1k ⭐) - A TUI toolkit that gives Claude Code its own display.
 - 🔥 [**claude-code-settings**](https://github.com/feiskyer/claude-code-settings) (1.1k ⭐) - Claude Code settings and commands for vibe coding.
+- 🔥 [**claude-obsidian**](https://github.com/AgriciDaniel/claude-obsidian) (1.1k ⭐) - Claude + Obsidian knowledge companion. A running notetaker that builds and maintains a persistent, compounding wiki vault. 
 - 🔥 [**claude-code-prompt-improver**](https://github.com/severity1/claude-code-prompt-improver) (1.0k ⭐) - Intelligent prompt improver hook for Claude Code. Type vibes, ship precision.
 - 🌟 [**Claude-Code-Remote**](https://github.com/JessyTsui/Claude-Code-Remote) (943 ⭐) - Control Claude Code remotely via email. Start tasks locally, receive notifications when Claude completes them, and send new commands by simply replying to emails.
 - 🌟 [**Claude-Command-Suite**](https://github.com/qdhenry/Claude-Command-Suite) (904 ⭐) - Professional slash commands for Claude Code that provide structured workflows for software development tasks, including code review and feature implementation.
@@ -264,6 +268,7 @@ A curated list of awesome tools, skills, plugins, integrations, extensions, fram
 - 🌟 [**ccmanager**](https://github.com/kbwo/ccmanager) (747 ⭐) - Claude Code / Gemini CLI / Codex CLI Session Manager.
 - 🌟 [**claude-code-transcripts**](https://github.com/simonw/claude-code-transcripts) (733 ⭐) - Tools for publishing transcripts for Claude Code sessions.
 - 🌟 [**claude-on-rails**](https://github.com/obie/claude-on-rails) (691 ⭐) - A development framework for Ruby on Rails developers using Claude Code, inspired by SuperClaude.
+- 🌟 [**claude-memory-compiler**](https://github.com/obie/claude-on-rails) (687 ⭐) - Give Claude Code a memory that evolves with your codebase.
 - 🌟 [**claude-powerline**](https://github.com/Owloops/claude-powerline) (678 ⭐) - Beautiful vim-style powerline statusline for Claude Code.
 - 🌟 [**claude-island**](https://github.com/farouqaldori/claude-island) (639 ⭐) - Claude Code notifications without the context switch.
 - 🌟 [**claude-code-log**](https://github.com/daaain/claude-code-log) (620 ⭐) - A Python CLI tool that converts Claude Code transcript JSONL files into readable HTML format.
