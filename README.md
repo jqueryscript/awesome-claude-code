@@ -40,6 +40,8 @@ A curated list of awesome tools, skills, plugins, integrations, extensions, fram
 
 ## 🤖 Agents & Orchestration
 
+- [**Asynkor**](https://github.com/asynkor/asynkor) (3 ⭐) - Coordination layer for AI agent teams. File leasing prevents overwrites, shared memory compounds learnings, cross-machine sync eliminates merge conflicts. One MCP server for Claude Code, Cursor, Windsurf.
+
 - 🔥 [**agents**](https://github.com/wshobson/agents) (25.0k ⭐) - A collection of production-ready subagents for Claude Code.
 - 🔥 [**Claude-Flow**](https://github.com/ruvnet/claude-flow) (11.4k ⭐) - An enterprise-grade AI orchestration platform that revolutionizes how developers build with AI.
 - 🔥 [**agents**](https://github.com/contains-studio/agents) (11.4k ⭐) - A comprehensive collection of specialized AI agents designed to accelerate and enhance every aspect of rapid development.
