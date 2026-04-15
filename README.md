@@ -89,6 +89,7 @@ A curated list of awesome tools, skills, plugins, integrations, extensions, fram
 
 ## 🧠 Agent Skills
 
+- 🔥 [**andrej-karpathy-skills**](https://github.com/forrestchang/andrej-karpathy-skills) (40.5k ⭐) - A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.
 - 🔥 [**Superpowers**](https://github.com/obra/superpowers) (27.9k ⭐) - Give Claude Code superpowers with a comprehensive skills library of proven techniques, patterns, and tools.
 - 🔥 [**caveman**](https://github.com/JuliusBrussee/caveman) (27.9k ⭐) - A Claude Code skill/plugin and Codex plugin that makes agent talk like caveman — cutting ~75% of output tokens while keeping full technical accuracy.
 - 🔥 [**scientific-agent-skills**](https://github.com/K-Dense-AI/scientific-agent-skills) (18.4k ⭐) - A set of ready to use Agent Skills for research, science, engineering, analysis, finance and writing.
@@ -112,12 +113,14 @@ A curated list of awesome tools, skills, plugins, integrations, extensions, fram
 - 🔥 [**dev-browser**](https://github.com/SawyerHood/dev-browser) (3.3k ⭐): A Claude Skill to give your agent the ability to use a web browser.
 - 🔥 [**humanizer**](https://github.com/blader/humanizer) (2.9k ⭐): A Claude Code skill that removes signs of AI-generated writing from text, making it sound more natural and human.
 - 🔥 [**autoresearch**](https://github.com/uditgoenka/autoresearch) (2.9k ⭐): Turn Claude Code into a relentless improvement engine.
+- 🔥 [**fireworks-tech-graph**](https://github.com/yizhiyanhua-ai/fireworks-tech-graph) (2.8k ⭐): Claude Code skill for generating production-quality SVG+PNG technical diagrams.
 - 🔥 [**notebooklm-skill**](https://github.com/PleasePrompto/notebooklm-skill) (2.7k ⭐): Use this skill to enable Claude Code to communicate directly with your Google NotebookLM notebooks. 
 - 🔥 [**SwiftUI-Agent-Skill**](https://github.com/twostraws/SwiftUI-Agent-Skill) (2.7k ⭐): SwiftUI agent skill for Claude Code, Codex, and other AI tools.
 - 🔥 [**codebase-to-course**](https://github.com/zarazhangrui/codebase-to-course) (2.7k ⭐): A Claude Code skill that turns any codebase into a beautiful, interactive single-page HTML course for non-technical vibe coders.
 - 🔥 [**sanyuan-skills**](https://github.com/sanyuan0704/sanyuan-skills) (2.5k ⭐): Expert code review skill: SOLID, security, performance, error handling, boundary conditions.
 - 🔥 [**chrome-cdp-skill**](https://github.com/pasky/chrome-cdp-skill) (2.5k ⭐): Give your AI agent access to your live Chrome session — works out of the box, connects to tabs you already have open.
 - 🔥 [**godogen**](https://github.com/htdt/godogen) (2.4k ⭐): Claude Code skills that build complete Godot 4 projects from a game description.
+- 🔥 [**architecture-diagram-generator**](https://github.com/Cocoon-AI/architecture-diagram-generator) (2.4k ⭐): Generate beautiful dark-themed system architecture diagrams as standalone HTML/SVG files.
 - 🔥 [**n8n-skills**](https://github.com/czlonkowski/n8n-skills) (2.2k ⭐): n8n skillset for Claude Code to build flawless n8n workflows.
 - 🔥 [**AI-research-SKILLs**](https://github.com/Orchestra-Research/AI-research-SKILLs) (2.2k ⭐): Visual Skills Pack for Obsidian: generate Canvas, Excalidraw, and Mermaid diagrams from text with Claude Code.
 - 🔥 [**Understand-Anything**](https://github.com/Lum1104/Understand-Anything) (2.1k ⭐): Claude Code skills that turn any codebase into an interactive knowledge graph you can explore, search, and ask questions about (Multi-platform e.g., Codex are supported).
@@ -267,6 +270,7 @@ A curated list of awesome tools, skills, plugins, integrations, extensions, fram
 - 🌟 [**claudebox**](https://github.com/RchGrav/claudebox) (795 ⭐) - A Claude Code Docker Development Environment for running Claude AI's coding assistant in a fully containerized, reproducible environment.
 - 🌟 [**ccmanager**](https://github.com/kbwo/ccmanager) (747 ⭐) - Claude Code / Gemini CLI / Codex CLI Session Manager.
 - 🌟 [**claude-code-transcripts**](https://github.com/simonw/claude-code-transcripts) (733 ⭐) - Tools for publishing transcripts for Claude Code sessions.
+- 🌟 [**claude-memory-compiler**](https://github.com/coleam00/claude-memory-compiler) (729 ⭐) - Give Claude Code a memory that evolves with your codebase. 
 - 🌟 [**claude-on-rails**](https://github.com/obie/claude-on-rails) (691 ⭐) - A development framework for Ruby on Rails developers using Claude Code, inspired by SuperClaude.
 - 🌟 [**claude-memory-compiler**](https://github.com/obie/claude-on-rails) (687 ⭐) - Give Claude Code a memory that evolves with your codebase.
 - 🌟 [**claude-powerline**](https://github.com/Owloops/claude-powerline) (678 ⭐) - Beautiful vim-style powerline statusline for Claude Code.
@@ -383,6 +387,7 @@ A curated list of awesome tools, skills, plugins, integrations, extensions, fram
 - 🌟 [**claude-balancer**](https://github.com/snipeship/claude-balancer) (820 ⭐) - A load balancer proxy for multiple Claude OAuth accounts with automatic failover, request tracking, and web dashboard.
 - 🌟 [**ccflare**](https://github.com/snipeship/ccflare) (820 ⭐) - The ultimate Claude API proxy with intelligent load balancing across multiple accounts.
 - 🌟 [**ccNexus**](https://github.com/lich0821/ccNexus) (622 ⭐) - A smart API endpoint rotation proxy for Claude Code.
+- 🌟 [**Context-Gateway**](https://github.com/Compresr-ai/Context-Gateway) (582 ⭐) - An agentic proxy that enhances any AI agent workflow with instant history compaction and context optimization tools.
 - ✨ [**anthropic-proxy**](https://github.com/maxnowack/anthropic-proxy) (394 ⭐) - A proxy server that converts Anthropic API requests to OpenAI format and sends them to OpenRouter, used to use Claude Code with OpenRouter.
 - ✨ [**claude-code-kimi-groq**](https://github.com/fakerybakery/claude-code-kimi-groq) (376 ⭐) - A basic proxy to use Kimi K2 on Claude Code through Groq.
 - ✨ [**y-router**](https://github.com/luohy15/y-router) (370 ⭐) - A Simple Proxy enabling Claude Code to work with OpenRouter.
@@ -406,6 +411,7 @@ A curated list of awesome tools, skills, plugins, integrations, extensions, fram
 - 🔥 [**Claude-Code-Usage-Monitor**](https://github.com/Maciek-roboblog/Claude-Code-Usage-Monitor) (6.1k ⭐) - A real-time Claude Code usage monitor with predictions and warnings.
 - 🔥 [**CodexBar**](https://github.com/steipete/CodexBar) (4.4k ⭐) - Show usage stats for OpenAI Codex and Claude Code, without having to login.
 - 🔥 [**ccstatusline**](https://github.com/sirmalloc/ccstatusline) (2.7k ⭐) - A customizable status line formatter for Claude Code CLI that displays model info, git branch, token usage, and other metrics in your terminal.
+- 🔥 [**codeburn**](https://github.com/AgentSeal/codeburn) (1.5k ⭐) - See where your AI coding tokens go. Interactive TUI dashboard for Claude Code, Codex, and Cursor cost observability.
 - 🔥 [**CCometixLine**](https://github.com/Haleclipse/CCometixLine) (1.3k ⭐) - A high-performance Claude Code statusline tool written in Rust with Git integration and real-time usage tracking.
 - 🌟 [**claude-usage**](https://github.com/phuryn/claude-usage) (818 ⭐) - A local dashboard for tracking your Claude Code token usage, costs, and session history.
 - 🌟 [**CCSeva**](https://github.com/Iamshankhadeep/ccseva) (748 ⭐) - A beautiful macOS menu bar app for tracking your Claude Code usage in real-time.
