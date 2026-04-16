@@ -330,6 +330,7 @@ A curated list of awesome tools, skills, plugins, integrations, extensions, fram
 - [**shotgun-alpha**](https://github.com/shotgun-sh/shotgun-alpha) (3 ⭐) - Codebase-aware spec engine for Cursor, Claude Code & Lovable.
 - [**conductor**](https://conductor.build/) (0 ⭐) - Run a bunch of Claude Codes in parallel.
 - [**claude-deep-research**](https://www.google.com/search?q=https://github.com/disler/claude-deep-research) (0 ⭐) - Claude Deep Research config for Claude Code.
+- [**cc-agents-md**](https://github.com/GeiserX/cc-agents-md) - CLI tool that loads AGENTS.md files into Claude Code sessions via SessionStart hooks. Walks from working directory to git root, inlines small files and emits read instructions for large ones. Supports mid-session reload, context preservation, custom file patterns, and stat-based caching.
 
 ---
 
