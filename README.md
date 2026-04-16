@@ -106,6 +106,7 @@ A curated list of awesome tools, skills, plugins, integrations, extensions, fram
 - 🔥 [**slavingia/skills**](https://github.com/slavingia/skills) (5.8k ⭐): Claude Code skills based on The Minimalist Entrepreneur by Sahil Lavingia.
 - 🔥 [**prompt-master**](https://github.com/nidhinjs/prompt-master) (4.9k ⭐): A Claude skill that writes the accurate prompts for any AI tool. 
 - 🔥 [**marketingskills**](https://github.com/coreyhaines31/marketingskills) (4.8k ⭐): Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.
+- 🔥 [**claude-code-marketing-skills**](https://github.com/cognyai/claude-code-marketing-skills): AI-powered marketing skills — SEO Audit, Landing Page Review, Competitor Analysis, Ad Copy Writer, and Lead Qualification. Free, works with Claude Code, Cursor, and Windsurf.
 - 🔥 [**Anthropic-Cybersecurity-Skills**](https://github.com/mukul975/Anthropic-Cybersecurity-Skills) (3.9k ⭐): 753+ structured cybersecurity skills for AI agents. 
 - 🔥 [**MiniMax-AI/skills**](https://github.com/MiniMax-AI/skills) (3.8k ⭐): Development skills for AI coding agents. 
 - 🔥 [**antfu's skills**](https://github.com/antfu/skills) (3.5k ⭐): Anthony Fu's curated collection of agent skills.
