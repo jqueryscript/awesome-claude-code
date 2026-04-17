@@ -83,6 +83,8 @@ A curated list of awesome tools, skills, plugins, integrations, extensions, fram
 - [**Agent-Fusion**](https://github.com/krokozyab/Agent-Fusion) (46 ⭐) - A multi-agent orchestration system that enables Claude Code, Codex CLI, Amazon Q Developer, and Gemini Code Assist to collaborate bidirectionally through intelligent task routing and consensus-based decision making.
 - [**Severance**](https://github.com/blas0/Severance) (41 ⭐) - A semantic memory system designed for Claude Code.
 - [**AgentCheck**](https://github.com/devlyai/AgentCheck) (33 ⭐) - Local AI-powered code review agents for Claude Code.
+- [**openclaw-memorybox**](https://github.com/Ramsbaby/openclaw-memorybox) (8 ⭐) - Persistent memory and skill storage for Claude Code. Saves context across sessions via slash commands.
+- [**openclaw-self-evolving**](https://github.com/Ramsbaby/openclaw-self-evolving) (2 ⭐) - AI agent that analyzes its own codebase and generates weekly self-improvement proposals as GitHub Issues.
 - [**claude-agents**](https://github.com/tddworks/claude-agents) (14 ⭐) - A collection of specialized AI agents for Claude Code that enhance software development workflows with focused expertise in specific domains.
 
 ---
@@ -402,6 +404,7 @@ A curated list of awesome tools, skills, plugins, integrations, extensions, fram
 - [**castari-proxy**](https://github.com/castar-ventures/castari-proxy) (73 ⭐) - Use Claude Agent SDK and Claude Code with other providers/models.
 - [**claude-code-open**](https://github.com/Davincible/claude-code-open) (66 ⭐) - Claude Code with any LLM provider (OpenRouter, Gemini, Kimi K2).
 - [**Claudify**](https://github.com/neno-is-ooo/claudify) (32 ⭐) - Use Claude Code as an LLM provider with your subscription flat fee instead of pay-per-token API keys.
+- [**openclaw-self-healing**](https://github.com/Ramsbaby/openclaw-self-healing) (32 ⭐) - Self-healing infrastructure for Claude Code AI agents. Auto-recovers from failures using a 4-tier escalation system: watchdog, health checks, AI diagnosis, and alerts.
 
 ---
 
