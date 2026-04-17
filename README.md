@@ -370,6 +370,7 @@ A curated list of awesome tools, skills, plugins, integrations, extensions, fram
 - [**ccmate-release**](https://github.com/djyde/ccmate-release) (57 ⭐) - A GUI for Claude Code.
 - [**Claude-Code-Web-GUI**](https://github.com/binggg/Claude-Code-Web-GUI) (56 ⭐) - Browse, view and share your Claude Code sessions - runs entirely in browser, no server required!
 - [**Claude in a Box**](https://github.com/juancgarza/claude-in-a-box) (48 ⭐) - A ChatGPT Canvas-style interface for Claude Code running in E2B sandboxes.
+- [**Factory Floor**](https://github.com/alltuner/factoryfloor) - Native macOS workspace for running multiple Claude Code agents in parallel, each in its own git worktree with GPU-rendered terminals (libghostty) and automatic dev server detection.
 
 ---
 
