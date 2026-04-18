@@ -205,6 +205,9 @@ A curated list of awesome tools, skills, plugins, integrations, extensions, fram
 - [**meta_skilld**](https://github.com/Dicklesworthstone/meta_skilld): Rust CLI for managing Claude Code skills: indexing, building, bundling, and sharing.
 - [**claude-cs**](https://github.com/nbashaw/claude-cs): A Claude Code skill that helps you build custom customer support automation for your company.
 - [**design-engineer-auditor-package**](https://github.com/kylezantos/design-engineer-auditor-package): A Claude Code skill for motion design audits, trained on Emil Kowalski, Jakub Krehel, and Jhey Tompkins.
+- [**ckorhonen/claude-skills**](https://github.com/ckorhonen/claude-skills): A broader collection of 45+ Claude Code skills across engineering, hygiene, design, and workflows. Hub: cdd.dev/skills.
+- [**ckorhonen/swe-skills**](https://github.com/ckorhonen/swe-skills): 15 strategic engineering skills for Claude Code — PR risk review, test gap hunting, performance profiling, ownership mapping. Install: `npx skills add ckorhonen/swe-skills`.
+- [**ckorhonen/hone-skills**](https://github.com/ckorhonen/hone-skills): 8 scheduled code-hygiene skills that run on cron to keep a repo in shape. Install: `npx skills add ckorhonen/hone-skills`.
 
 ---
 
