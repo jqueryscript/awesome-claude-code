@@ -30,6 +30,9 @@ A curated list of awesome tools, skills, plugins, integrations, extensions, fram
 
 ## Official Resources
 
+
+- [Agent Shadow Brain](https://github.com/theihtisham/agent-shadow-brain) - Self-evolving AI coding intelligence with infinite memory (TurboQuant), genetic algorithm self-evolution, predictive bug detection, PageRank knowledge graphs, swarm intelligence, and adversarial defense.
+- [Omni Skills Forge](https://github.com/theihtisham/omni-skills-forge) - 50,000+ curated AI agent skills for Claude Code, Cursor, Copilot, Windsurf, Cline. Visual dashboard, one-click install, skill doctor, auto-update.
 - 🔥 [**claude-code**](https://github.com/anthropics/claude-code) (55.0k ⭐) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routines.
 - 🔥 [**skills**](https://github.com/anthropics/skills) (37.5k ⭐) - Public repository for Agent Skills.
 - 🔥 [**claude-code-sdk-python**](https://github.com/anthropics/claude-code-sdk-python) (4.0k ⭐) - The official Python SDK for Claude Code.
