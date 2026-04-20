@@ -99,6 +99,7 @@ A curated list of awesome tools, skills, plugins, integrations, extensions, fram
 - 🔥 [**agent-skills**](https://github.com/addyosmani/agent-skills) (9.9k ⭐): Production-grade engineering skills for AI coding agents.
 - 🔥 [**planning-with-files**](https://github.com/OthmanAdi/planning-with-files) (9.7k ⭐): Claude Code skill implementing Manus-style persistent markdown planning — the workflow pattern behind the $2B acquisition.
 - 🔥 [**Agent-Skills-for-Context-Engineering**](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering) (7.8k ⭐): A comprehensive collection of Agent Skills for context engineering, multi-agent architectures, and production agent systems.
+- 🔥 [**hyperframes**](https://github.com/heygen-com/hyperframes) (7.7k ⭐): Write HTML. Render video. Built for agents.
 - 🔥 [**obsidian-skills**](https://github.com/kepano/obsidian-skills) (7k ⭐): Claude Skills for use with Obsidian.
 - 🔥 [**taste-skill**](https://github.com/Leonxlnx/taste-skill) (6.9k ⭐): A collection of skills that improve how AI tools write frontend code. 
 - 🔥 [**Auto-claude-code-research-in-sleep**](https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep) (6.6k ⭐): Lightweight Markdown-only skills for autonomous ML research.
@@ -143,9 +144,11 @@ A curated list of awesome tools, skills, plugins, integrations, extensions, fram
 - 🔥 [**Claude-to-IM-skill**](https://github.com/op7418/Claude-to-IM-skill) (1k ⭐): Bridge Claude Code / Codex to IM platforms — chat with AI coding agents from Telegram, Discord, or Feishu/Lark.
 - 🌟 [**aws-agent-skills**](https://github.com/itsmostafa/aws-agent-skills) (977 ⭐): Supercharge Claude Code with AWS cloud engineering skills across 18 core AWS services.
 - 🌟 [**threejs-skills**](https://github.com/CloudAI-X/threejs-skills) (904 ⭐): A curated collection of Three.js skill files that provide Claude Code with foundational knowledge for creating 3D elements and interactive experiences.
+- 🌟 [**Xcode-Build-Optimization-Agent-Skill**](https://github.com/AvdLee/Xcode-Build-Optimization-Agent-Skill) (904 ⭐): An Agent Skill helping you to optimize Xcode incremental and clean builds by running benchmarks and optimizing build settings.
 - 🌟 [**synalinks-skills**](https://github.com/numman-ali/n-skills) (894 ⭐): Claude skills for Synalinks.
 - 🌟 [**agent-skills**](https://github.com/WordPress/agent-skills/) (890 ⭐): Expert-level WordPress knowledge for AI coding assistants - blocks, themes, plugins, and best practices.
 - 🌟 [**stitch-skills**](https://github.com/google-labs-code/stitch-skills) (886 ⭐): A library of Agent Skills designed to work with the Stitch MCP server. 
+- 🌟 [**diagram-design**](https://github.com/supabase/agent-skills) (838 ⭐): Thirteen editorial diagram types for Claude Code. Self-contained HTML + SVG. No shadows, no Mermaid-slop.
 - 🌟 [**agent-skills**](https://github.com/supabase/agent-skills) (833 ⭐): Agent Skills to help developers using AI agents with Supabase.
 - 🌟 [**Axiom**](https://github.com/CharlesWiltgen/Axiom) (808 ⭐): Battle-tested Claude Code skills for modern xOS (iOS, iPadOS, watchOS, tvOS) development.
 - 🌟 [**vue-skills**](https://github.com/vuejs-ai/skills) (799 ⭐): Agent skills for Vue 3 development.
