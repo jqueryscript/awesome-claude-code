@@ -428,6 +428,7 @@ A curated list of awesome tools, skills, plugins, integrations, extensions, fram
 - [**Claude-Monitor**](https://github.com/RISCfuture/Claude-Monitor) (38 ⭐) - A menulet that tracks your Claude Code token usage.
 - [**cccost**](https://github.com/badlogic/cccost) (20 ⭐) - Instrument Claude Code to track actual token usage and cost.
 - [**claude-code-usage-bar**](https://github.com/leeguooooo/claude-code-usage-bar) (0 ⭐) - Real‑time statusline for Claude Code: token usage, remaining budget, burn rate, and depletion time.
+- [**burnd**](https://github.com/garvitsurana271/burnd) (2 ⭐) - Local-first cost-control CLI that reads ~/.claude/projects/*.jsonl, finds 8 cost-leak patterns (Opus-on-routine-work, retry storms, context thrash, project outliers), and prints dollar-denominated fixes. MIT, zero telemetry.
 
 ---
 
