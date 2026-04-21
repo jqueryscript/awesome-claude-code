@@ -208,6 +208,7 @@ A curated list of awesome tools, skills, plugins, integrations, extensions, fram
 - [**meta_skilld**](https://github.com/Dicklesworthstone/meta_skilld): Rust CLI for managing Claude Code skills: indexing, building, bundling, and sharing.
 - [**claude-cs**](https://github.com/nbashaw/claude-cs): A Claude Code skill that helps you build custom customer support automation for your company.
 - [**design-engineer-auditor-package**](https://github.com/kylezantos/design-engineer-auditor-package): A Claude Code skill for motion design audits, trained on Emil Kowalski, Jakub Krehel, and Jhey Tompkins.
+- [**concise**](https://github.com/Cpp1022/concise): Chinese-first concise mode skill. Makes Claude Code replies shorter and denser without losing technical accuracy. Two compression levels (lite/ultra), auto-relax for safety and multi-step cases. Works across Claude Code, Codex CLI, and Cursor from the same source.
 
 ---
 
