@@ -107,14 +107,18 @@ A curated list of awesome tools, skills, plugins, integrations, extensions, fram
 - 🔥 [**slavingia/skills**](https://github.com/slavingia/skills) (5.8k ⭐): Claude Code skills based on The Minimalist Entrepreneur by Sahil Lavingia.
 - 🔥 [**prompt-master**](https://github.com/nidhinjs/prompt-master) (4.9k ⭐): A Claude skill that writes the accurate prompts for any AI tool. 
 - 🔥 [**marketingskills**](https://github.com/coreyhaines31/marketingskills) (4.8k ⭐): Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.
+- 🔥 [**android-reverse-engineering-skill**](https://github.com/SimoneAvogadro/android-reverse-engineering-skill) (4.7k ⭐): Claude Code skill to support Android app's reverse engineering.
 - 🔥 [**Anthropic-Cybersecurity-Skills**](https://github.com/mukul975/Anthropic-Cybersecurity-Skills) (3.9k ⭐): 753+ structured cybersecurity skills for AI agents. 
 - 🔥 [**MiniMax-AI/skills**](https://github.com/MiniMax-AI/skills) (3.8k ⭐): Development skills for AI coding agents. 
 - 🔥 [**antfu's skills**](https://github.com/antfu/skills) (3.5k ⭐): Anthony Fu's curated collection of agent skills.
 - 🔥 [**geo-seo-claude**](https://github.com/zubair-trabzada/geo-seo-claude) (3.5k ⭐): GEO-first SEO skill for Claude Code. Comprehensive AI search optimization for any website — citability scoring, AI crawler analysis, brand authority, schema markup, platform-specific optimization, and PDF reports.
+- 🔥 [**academic-research-skills**](https://github.com/Imbad0202/academic-research-skills) (3.4k ⭐): Academic Research Skills for Claude Code: research → write → review → revise → finalize.
 - 🔥 [**dev-browser**](https://github.com/SawyerHood/dev-browser) (3.3k ⭐): A Claude Skill to give your agent the ability to use a web browser.
+- 🔥 [**Generative-Media-Skills**](https://github.com/SamurAIGPT/Generative-Media-Skills) (3.0k ⭐): Multi-modal Generative Media Skills for AI Agents (Claude Code, Cursor, Gemini CLI). 
 - 🔥 [**humanizer**](https://github.com/blader/humanizer) (2.9k ⭐): A Claude Code skill that removes signs of AI-generated writing from text, making it sound more natural and human.
 - 🔥 [**autoresearch**](https://github.com/uditgoenka/autoresearch) (2.9k ⭐): Turn Claude Code into a relentless improvement engine.
 - 🔥 [**fireworks-tech-graph**](https://github.com/yizhiyanhua-ai/fireworks-tech-graph) (2.8k ⭐): Claude Code skill for generating production-quality SVG+PNG technical diagrams.
+- 🔥 [**claude-ads**](https://github.com/AgriciDaniel/claude-ads) (2.8k ⭐): Comprehensive paid advertising audit & optimization skill for Claude Code.
 - 🔥 [**notebooklm-skill**](https://github.com/PleasePrompto/notebooklm-skill) (2.7k ⭐): Use this skill to enable Claude Code to communicate directly with your Google NotebookLM notebooks. 
 - 🔥 [**SwiftUI-Agent-Skill**](https://github.com/twostraws/SwiftUI-Agent-Skill) (2.7k ⭐): SwiftUI agent skill for Claude Code, Codex, and other AI tools.
 - 🔥 [**codebase-to-course**](https://github.com/zarazhangrui/codebase-to-course) (2.7k ⭐): A Claude Code skill that turns any codebase into a beautiful, interactive single-page HTML course for non-technical vibe coders.
@@ -122,9 +126,11 @@ A curated list of awesome tools, skills, plugins, integrations, extensions, fram
 - 🔥 [**chrome-cdp-skill**](https://github.com/pasky/chrome-cdp-skill) (2.5k ⭐): Give your AI agent access to your live Chrome session — works out of the box, connects to tabs you already have open.
 - 🔥 [**godogen**](https://github.com/htdt/godogen) (2.4k ⭐): Claude Code skills that build complete Godot 4 projects from a game description.
 - 🔥 [**architecture-diagram-generator**](https://github.com/Cocoon-AI/architecture-diagram-generator) (2.4k ⭐): Generate beautiful dark-themed system architecture diagrams as standalone HTML/SVG files.
+- 🔥 [**Kami**](https://github.com/ericosiu/ai-marketing-skills) (2.3k ⭐): Good content deserves good paper.
 - 🔥 [**n8n-skills**](https://github.com/czlonkowski/n8n-skills) (2.2k ⭐): n8n skillset for Claude Code to build flawless n8n workflows.
 - 🔥 [**AI-research-SKILLs**](https://github.com/Orchestra-Research/AI-research-SKILLs) (2.2k ⭐): Visual Skills Pack for Obsidian: generate Canvas, Excalidraw, and Mermaid diagrams from text with Claude Code.
 - 🔥 [**Understand-Anything**](https://github.com/Lum1104/Understand-Anything) (2.1k ⭐): Claude Code skills that turn any codebase into an interactive knowledge graph you can explore, search, and ask questions about (Multi-platform e.g., Codex are supported).
+- 🔥 [**ai-marketing-skills**](https://github.com/ericosiu/ai-marketing-skills) (2.1k ⭐): Open-source AI marketing skills — growth experiments, sales pipeline, content ops, outbound, SEO, and finance automation.
 - 🔥 [**gemini-skills**](https://github.com/google-gemini/gemini-skills) (2k ⭐): Skills for the Gemini API, SDK and model/agent interactions.
 - 🔥 [**AI-research-SKILLs**](https://github.com/sanyuan0704/code-review-expert) (1.9k ⭐): A comprehensive code review skill for AI agents. 
 - 🔥 [**playwright-skill**](https://github.com/lackeyjb/playwright-skill) (1.5k ⭐): Claude Code Skill for browser automation with Playwright. Model-invoked - Claude autonomously writes and executes custom automation for testing and validation.
