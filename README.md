@@ -330,6 +330,7 @@ A curated list of awesome tools, skills, plugins, integrations, extensions, fram
 - [**claude-code-specs-generator**](https://github.com/kellemar/claude-code-specs-generator) (38 ⭐) - A documentation and context management system for AI-assisted development, inspired by Amazon's Kiro IDE.
 - [**claude-code-voice**](https://github.com/mckaywrigley/claude-code-voice) (38 ⭐) - Hands-free voice control for Claude Code on macOS.
 - [**claude-code-thinking-patch**](https://github.com/aleks-apostle/claude-code-thinking-patch) (38 ⭐) - Make Claude Code's thinking blocks visible by default without pressing ctrl+o.
+- [**ClaudeOS-Core**](https://github.com/claudeos-core/claudeos-core) (33 ⭐) - Deterministic Node.js CLI that auto-generates `CLAUDE.md` and `.claude/rules/` from source code, with 5 validators and 12-stack support.
 - [**claudecode-macmenu**](https://github.com/PiXeL16/claudecode-macmenu) (32 ⭐) - A Mac Menu for Claude Code that notifies when Claude is done and shows insights.
 - [**ccheckpoints**](https://github.com/p32929/ccheckpoints) (26 ⭐) - A checkpoint system for Claude Code CLI that automatically tracks your coding sessions.
 - [**cc-monitor-rs**](https://github.com/ZhangHanDong/cc-monitor-rs) (22 ⭐) - Real-time Claude Code usage monitor with native UI built using Rust and Makepad.
