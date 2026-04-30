@@ -89,13 +89,15 @@ A curated list of awesome tools, skills, plugins, integrations, extensions, fram
 
 ## 🧠 Agent Skills
 
-- 🔥 [**andrej-karpathy-skills**](https://github.com/forrestchang/andrej-karpathy-skills) (40.5k ⭐) - A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.
-- 🔥 [**Superpowers**](https://github.com/obra/superpowers) (27.9k ⭐) - Give Claude Code superpowers with a comprehensive skills library of proven techniques, patterns, and tools.
+- 🔥 [**andrej-karpathy-skills**](https://github.com/forrestchang/andrej-karpathy-skills) (101k ⭐) - A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.
+- 🔥 [**Superpowers**](https://github.com/obra/superpowers) (174k ⭐) - Give Claude Code superpowers with a comprehensive skills library of proven techniques, patterns, and tools.
+- 🔥 [**mattpocock skills**](https://github.com/mattpocock/skills) (40.5k ⭐) - Skills for Real Engineers.
 - 🔥 [**caveman**](https://github.com/JuliusBrussee/caveman) (27.9k ⭐) - A Claude Code skill/plugin and Codex plugin that makes agent talk like caveman — cutting ~75% of output tokens while keeping full technical accuracy.
 - 🔥 [**scientific-agent-skills**](https://github.com/K-Dense-AI/scientific-agent-skills) (18.4k ⭐) - A set of ready to use Agent Skills for research, science, engineering, analysis, finance and writing.
 - 🔥 [**ui-ux-pro-max-skill**](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) (16.9k ⭐): An AI SKILL that provide design intelligence for building professional UI/UX multiple platforms.
 - 🔥 [**graphify**](https://github.com/safishamsi/graphify) (15.3k ⭐): AI coding assistant skill (Claude Code, Codex, OpenCode, OpenClaw, Factory Droid, Trae). 
 - 🔥 [**agent-skills**](https://github.com/vercel-labs/agent-skills) (12k ⭐): A collection of skills for AI coding agents. Skills are packaged instructions and scripts that extend agent capabilities.
+- 🔥 [**huggingface skills**](https://github.com/huggingface/skills) (10.4k ⭐): Give your agents the power of the Hugging Face ecosystem.
 - 🔥 [**agent-skills**](https://github.com/addyosmani/agent-skills) (9.9k ⭐): Production-grade engineering skills for AI coding agents.
 - 🔥 [**planning-with-files**](https://github.com/OthmanAdi/planning-with-files) (9.7k ⭐): Claude Code skill implementing Manus-style persistent markdown planning — the workflow pattern behind the $2B acquisition.
 - 🔥 [**Agent-Skills-for-Context-Engineering**](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering) (7.8k ⭐): A comprehensive collection of Agent Skills for context engineering, multi-agent architectures, and production agent systems.
@@ -149,10 +151,13 @@ A curated list of awesome tools, skills, plugins, integrations, extensions, fram
 - 🔥 [**skills**](https://github.com/trailofbits/skills) (1.3k ⭐): Trail of Bits Claude Code skills for security research, vulnerability detection, and audit workflows.
 - 🔥 [**skills**](https://github.com/microsoft/skills) (1.3k ⭐): Skills, MCP servers, Custom Agents, Agents.md for SDKs to ground Coding Agents.
 - 🔥 [**garden-skills**](https://github.com/ConardLi/garden-skills) (1.3k ⭐): ConardLi's open-source Skills collection, featuring web design, knowledge retrieval, image generation, and more.
+- 🔥 [**agent-sprite-forge**](https://github.com/0x0funky/agent-sprite-forge) (1.3k ⭐): Agent Skill for generating 2D sprite sheets and map, transparent PNG frames, and animated GIFs from prompts.
 - 🔥 [**axton-obsidian-visual-skills**](https://github.com/trailofbits/skills) (1.2k ⭐): Trail of Bits Claude Code skills for security research, vulnerability detection, and audit workflows.
 - 🔥 [**excalidraw-diagram-skill**](https://github.com/coleam00/excalidraw-diagram-skill) (1.2k ⭐): Skill to give Claude Code (and any coding agent) the ability to generate beautiful and practical Excalidraw diagrams.
+- 🔥 [**text-to-cad**](https://github.com/earthtojake/text-to-cad) (1.2k ⭐): An open source harness for generating CAD models.
 - 🔥 [**add-skill**](https://github.com/vercel-labs/add-skill) (1.1k ⭐): Install agent skills onto your coding agents from any git repository.
 - 🔥 [**claude-design-engineer**](https://github.com/Dammyjay93/claude-design-engineer) (1.1k ⭐): Design engineering for Claude Code. Craft, memory, and enforcement for consistent UI.
+- 🔥 [**gpt_image_2_skill**](https://github.com/wuyoscar/gpt_image_2_skill) (1.1k ⭐): GPT Image 2 prompt gallery, image prompt library, agentic skill, and CLI for OpenAI image generation/editing.
 - 🔥 [**Claude-to-IM-skill**](https://github.com/op7418/Claude-to-IM-skill) (1k ⭐): Bridge Claude Code / Codex to IM platforms — chat with AI coding agents from Telegram, Discord, or Feishu/Lark.
 - 🌟 [**aws-agent-skills**](https://github.com/itsmostafa/aws-agent-skills) (977 ⭐): Supercharge Claude Code with AWS cloud engineering skills across 18 core AWS services.
 - 🌟 [**threejs-skills**](https://github.com/CloudAI-X/threejs-skills) (904 ⭐): A curated collection of Three.js skill files that provide Claude Code with foundational knowledge for creating 3D elements and interactive experiences.
@@ -162,6 +167,7 @@ A curated list of awesome tools, skills, plugins, integrations, extensions, fram
 - 🌟 [**stitch-skills**](https://github.com/google-labs-code/stitch-skills) (886 ⭐): A library of Agent Skills designed to work with the Stitch MCP server. 
 - 🌟 [**diagram-design**](https://github.com/supabase/agent-skills) (838 ⭐): Thirteen editorial diagram types for Claude Code. Self-contained HTML + SVG. No shadows, no Mermaid-slop.
 - 🌟 [**agent-skills**](https://github.com/supabase/agent-skills) (833 ⭐): Agent Skills to help developers using AI agents with Supabase.
+- 🌟 [**logo-generator-skill**](https://github.com/op7418/logo-generator-skill) (832 ⭐): Professional SVG logo generator with high-end showcase presentations.
 - 🌟 [**Axiom**](https://github.com/CharlesWiltgen/Axiom) (808 ⭐): Battle-tested Claude Code skills for modern xOS (iOS, iPadOS, watchOS, tvOS) development.
 - 🌟 [**vue-skills**](https://github.com/vuejs-ai/skills) (799 ⭐): Agent skills for Vue 3 development.
 - 🌟 [**n-skills**](https://github.com/numman-ali/n-skills) (789 ⭐): Curated plugin marketplace for AI agents - works with Claude Code, Codex, and openskills.
