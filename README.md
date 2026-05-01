@@ -226,6 +226,7 @@ A curated list of awesome tools, skills, plugins, integrations, extensions, fram
 - [**meta_skilld**](https://github.com/Dicklesworthstone/meta_skilld): Rust CLI for managing Claude Code skills: indexing, building, bundling, and sharing.
 - [**claude-cs**](https://github.com/nbashaw/claude-cs): A Claude Code skill that helps you build custom customer support automation for your company.
 - [**design-engineer-auditor-package**](https://github.com/kylezantos/design-engineer-auditor-package): A Claude Code skill for motion design audits, trained on Emil Kowalski, Jakub Krehel, and Jhey Tompkins.
+- [**paul-graham-skills**](https://github.com/WinterDDo/paul-graham-skills): Five Claude Code skills distilled from Paul Graham's essays — plain-output, discover-not-persuade, distrust-the-surface, change-method-not-goal, mark-what-you-don't-know. Each is a comprehensive SKILL.md with triggers, failure modes, and self-tests.
 
 ---
 
