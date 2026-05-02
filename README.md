@@ -351,6 +351,7 @@ A curated list of awesome tools, skills, plugins, integrations, extensions, fram
 - [**shotgun-alpha**](https://github.com/shotgun-sh/shotgun-alpha) (3 ⭐) - Codebase-aware spec engine for Cursor, Claude Code & Lovable.
 - [**conductor**](https://conductor.build/) (0 ⭐) - Run a bunch of Claude Codes in parallel.
 - [**claude-deep-research**](https://www.google.com/search?q=https://github.com/disler/claude-deep-research) (0 ⭐) - Claude Deep Research config for Claude Code.
+- [**linear-cli**](https://github.com/phnx-labs/linear-cli) (0 ⭐) - Single-file Python CLI for Linear. Zero dependencies, MIT licensed. Built for use as a subagent tool by Claude Code, Codex, and Gemini. Includes a SKILL.md for drop-in Claude Code integration.
 
 ---
 
