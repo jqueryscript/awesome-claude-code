@@ -474,6 +474,7 @@ A curated list of awesome tools, skills, plugins, integrations, extensions, fram
 - ✨ [**claude-code-mcpinstall**](https://github.com/undeadpickle/claude-code-mcpinstall) (236 ⭐) - Easy guide to installing Claude Code MCPs globally on your machine.
 - ✨ [**claude-code-system-prompt**](https://github.com/matthew-lim-matthew-lim/claude-code-system-prompt) (122 ⭐) - Claude Code's system prompt.
 - [**claudecode-best-practices**](https://github.com/rosmur/claudecode-best-practices) (54 ⭐) - A collection of best practices and procedures for using Claude Code.
+- [**ai-agent-production-checklist**](https://github.com/tangcruz/ai-agent-production-checklist) - Production-tested checklist and architecture patterns for running AI agents 24/7. Includes a 10-point production checklist, a complete CLAUDE.md template with SOUL.md identity system, 4-layer memory tower, self-healing sentinel daemon, and multi-agent coordination patterns. Extracted from a system running 10+ agents in production for 3 months.
 
 ---
 
