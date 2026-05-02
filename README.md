@@ -423,6 +423,7 @@ A curated list of awesome tools, skills, plugins, integrations, extensions, fram
 - [**castari-proxy**](https://github.com/castar-ventures/castari-proxy) (73 ⭐) - Use Claude Agent SDK and Claude Code with other providers/models.
 - [**claude-code-open**](https://github.com/Davincible/claude-code-open) (66 ⭐) - Claude Code with any LLM provider (OpenRouter, Gemini, Kimi K2).
 - [**Claudify**](https://github.com/neno-is-ooo/claudify) (32 ⭐) - Use Claude Code as an LLM provider with your subscription flat fee instead of pay-per-token API keys.
+- [**claude-pool**](https://github.com/arthurgarmider/claude-pool) - Transparent rate-limit failover for Claude Code teams. On 429, the local proxy borrows an idle API key from a teammate's agent and retries the request; SQLite-backed lease arbitration with cooldown windows, AES-256-GCM encrypted credentials at rest.
 
 ---
 
