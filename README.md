@@ -82,6 +82,7 @@ A curated list of awesome tools, skills, plugins, integrations, extensions, fram
 - [**claude-code-semantic-memory**](https://github.com/gtrusler/claude-code-heavy) (70 ⭐) - Persistent semantic memory system for Claude Code.
 - [**Agent-Fusion**](https://github.com/krokozyab/Agent-Fusion) (46 ⭐) - A multi-agent orchestration system that enables Claude Code, Codex CLI, Amazon Q Developer, and Gemini Code Assist to collaborate bidirectionally through intelligent task routing and consensus-based decision making.
 - [**Severance**](https://github.com/blas0/Severance) (41 ⭐) - A semantic memory system designed for Claude Code.
+- [**Hail Hydra**](https://github.com/AR6420/Hail_Hydra) (41 ⭐) - Multi-agent orchestration framework for Claude Code. 10 specialized subagents (Haiku/Sonnet), Opus orchestrates. ~50% API cost reduction, speculative decoding at task level. Install: `npx hail-hydra-cc@latest`
 - [**AgentCheck**](https://github.com/devlyai/AgentCheck) (33 ⭐) - Local AI-powered code review agents for Claude Code.
 - [**claude-agents**](https://github.com/tddworks/claude-agents) (14 ⭐) - A collection of specialized AI agents for Claude Code that enhance software development workflows with focused expertise in specific domains.
 
