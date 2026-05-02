@@ -145,6 +145,7 @@ A curated list of awesome tools, skills, plugins, integrations, extensions, fram
 - 🔥 [**claude-skills**](https://github.com/alirezarezvani/claude-skills) (1.5k ⭐): A Collection of Skills for Claude Code and Claude AI for real-world Usage.
 - 🔥 [**claude-skills**](https://github.com/Jeffallan/claude-skills) (1.5k ⭐): 66 Specialized Skills for Full-Stack Developers.
 - 🔥 [**claude-code-plugins-plus-skills**](https://github.com/jeremylongshore/claude-code-plugins-plus-skills) (1.5k ⭐): 270+ Claude Code plugins with 739 agent skills.
+- 🔥 [**Claudify**](https://claudify.tech) - Complete operating system for Claude Code with 1,700+ skills across 31 categories, specialist agents with persistent memory, slash commands, and automated quality checks. One-command install via `npx create-claudify`.
 - 🔥 [**claude-seo**](https://github.com/AgriciDaniel/claude-seo) (1.5k ⭐): Universal SEO skill for Claude Code. Comprehensive SEO analysis for any website or business type.
 - 🔥 [**gsap-skills**](https://github.com/greensock/gsap-skills) (1.5k ⭐): Official AI skills for GSAP. These skills teach AI coding agents how to correctly use GSAP (GreenSock Animation Platform), including best practices, common animation patterns, and plugin usage.
 - 🔥 [**last30days-skill**](https://github.com/mvanhorn/last30days-skill) (1.3k ⭐): Claude Code skill that researches any topic across Reddit + X from the last 30 days, then writes copy-paste-ready prompts.
