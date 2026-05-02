@@ -449,6 +449,7 @@ A curated list of awesome tools, skills, plugins, integrations, extensions, fram
 - [**Claude-Monitor**](https://github.com/RISCfuture/Claude-Monitor) (38 ⭐) - A menulet that tracks your Claude Code token usage.
 - [**cccost**](https://github.com/badlogic/cccost) (20 ⭐) - Instrument Claude Code to track actual token usage and cost.
 - [**claude-code-usage-bar**](https://github.com/leeguooooo/claude-code-usage-bar) (0 ⭐) - Real‑time statusline for Claude Code: token usage, remaining budget, burn rate, and depletion time.
+- [**cc-hud**](https://github.com/WaterTian/cc-hud) - A compact single-line statusline for Claude Code showing model, context usage (1/8-char progress bar), active subagents, and 5h/7d rate-limit countdowns. Zero dependencies, crash-free on Windows.
 
 ---
 
