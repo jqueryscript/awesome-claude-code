@@ -251,6 +251,7 @@ A curated list of awesome tools, skills, plugins, integrations, extensions, fram
 - [**claude-dashboard**](https://github.com/uppinote20/claude-dashboard): Comprehensive status line plugin for Claude Code with context usage, API rate limits, and cost tracking
 - [**claude-code-plugin**](https://github.com/browserbase/claude-code-plugin): Browserbase plugin for Claude Code - Use cloud browsers with Claude Code instead of local Chrome.
 - [**homunculus**](https://github.com/humanplane/homunculus): A Claude Code plugin that watches how you work, learns your patterns, and evolves itself to help you better.
+- [**axme-code**](https://github.com/AxmeAI/axme-code): Claude Code plugin that gives the agent persistent project memory across sessions, architectural decisions with enforce levels, and pre-execution safety hooks (blocks dangerous commands at the harness level, not via prompts). Local-only storage, multi-repo workspace support, automatic knowledge extraction via background auditor. Verified: 100% on ToolEmu safety, 89% on LongMemEval at ~10x fewer tokens than competitors.
 
 ---
 
