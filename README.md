@@ -365,6 +365,8 @@ A curated list of awesome tools, skills, plugins, integrations, extensions, fram
 - 🌟 [**claude-code.el**](https://github.com/stevemolitor/claude-code.el) (577 ⭐) - Claude Code Emacs integration.
 - ✨ [**Claude-Autopilot**](https://github.com/benbasha/Claude-Autopilot) (197 ⭐) - VS Code/Cursor extension for automating Claude Code tasks with intelligent queuing, batch processing, and auto-resume.
 - [**n8n-nodes-claudecode**](https://github.com/holt-web-ai/n8n-nodes-claudecode) (70 ⭐) - Bring the power of Claude Code directly into your n8n automation workflows!
+- [**Claude Code Skills Panel**](https://github.com/parksubeom/claude-skills-panel) - VS Code / Cursor panel that auto-discovers every Claude Code slash command and plugin on your machine, with one-click execution, Quick Bar (keys 1–6), and a built-in /plugin marketplace browser. EN / 한국어 / 日本語 / 中文. Free, MIT.
+
 
 ---
 
