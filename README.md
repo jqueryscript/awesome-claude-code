@@ -330,7 +330,6 @@ A curated list of awesome tools, skills, plugins, integrations, extensions, fram
 - [**shotgun-alpha**](https://github.com/shotgun-sh/shotgun-alpha) (3 ⭐) - Codebase-aware spec engine for Cursor, Claude Code & Lovable.
 - [**conductor**](https://conductor.build/) (0 ⭐) - Run a bunch of Claude Codes in parallel.
 - [**claude-deep-research**](https://www.google.com/search?q=https://github.com/disler/claude-deep-research) (0 ⭐) - Claude Deep Research config for Claude Code.
-- [**claude-rails**](https://github.com/trazer-labs/claude-rails) (6 ⭐) - Convention over Configuration for Claude Code. CLAUDE.md hierarchy, hooks, templates, guardrails — for Linux/Raspberry Pi. (Different project from `claude-on-rails`.)
 
 ---
 
