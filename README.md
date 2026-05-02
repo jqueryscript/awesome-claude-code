@@ -226,6 +226,9 @@ A curated list of awesome tools, skills, plugins, integrations, extensions, fram
 - [**meta_skilld**](https://github.com/Dicklesworthstone/meta_skilld): Rust CLI for managing Claude Code skills: indexing, building, bundling, and sharing.
 - [**claude-cs**](https://github.com/nbashaw/claude-cs): A Claude Code skill that helps you build custom customer support automation for your company.
 - [**design-engineer-auditor-package**](https://github.com/kylezantos/design-engineer-auditor-package): A Claude Code skill for motion design audits, trained on Emil Kowalski, Jakub Krehel, and Jhey Tompkins.
+- [**claude-session-continuity**](https://github.com/manja316/claude-session-continuity): Anti-amnesia skill that auto-checkpoints working state to survive context compaction and session restarts. Saves decisions, progress, and next steps so Claude resumes with full context.
+- [**claude-dependency-auditor**](https://github.com/manja316/claude-dependency-auditor): Multi-ecosystem dependency security auditor with noise filtering. Runs real audit tools across 7 ecosystems and classifies findings into four priority tiers.
+- [**claude-project-init-wizard**](https://github.com/manja316/claude-project-init-wizard): Auto-detects a project's tech stack and generates an optimized CLAUDE.md with project-specific conventions, recommended skills, hooks, and settings.
 
 ---
 
