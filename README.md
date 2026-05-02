@@ -433,6 +433,7 @@ A curated list of awesome tools, skills, plugins, integrations, extensions, fram
 - 🔥 [**CodexBar**](https://github.com/steipete/CodexBar) (4.4k ⭐) - Show usage stats for OpenAI Codex and Claude Code, without having to login.
 - 🔥 [**ccstatusline**](https://github.com/sirmalloc/ccstatusline) (2.7k ⭐) - A customizable status line formatter for Claude Code CLI that displays model info, git branch, token usage, and other metrics in your terminal.
 - 🔥 [**codeburn**](https://github.com/AgentSeal/codeburn) (1.5k ⭐) - See where your AI coding tokens go. Interactive TUI dashboard for Claude Code, Codex, and Cursor cost observability.
+- [**agenttrace**](https://github.com/luoyuctl/agenttrace) (1 ⭐) - TUI observability for Claude Code, Codex CLI, Gemini CLI, Aider, Cursor exports, and more. Tracks cost, tokens, tool failures, latency, anomalies, health, diffs, and CI gates from local session logs.
 - 🔥 [**CCometixLine**](https://github.com/Haleclipse/CCometixLine) (1.3k ⭐) - A high-performance Claude Code statusline tool written in Rust with Git integration and real-time usage tracking.
 - 🌟 [**claude-usage**](https://github.com/phuryn/claude-usage) (818 ⭐) - A local dashboard for tracking your Claude Code token usage, costs, and session history.
 - 🌟 [**CCSeva**](https://github.com/Iamshankhadeep/ccseva) (748 ⭐) - A beautiful macOS menu bar app for tracking your Claude Code usage in real-time.
