@@ -351,6 +351,7 @@ A curated list of awesome tools, skills, plugins, integrations, extensions, fram
 - [**shotgun-alpha**](https://github.com/shotgun-sh/shotgun-alpha) (3 ⭐) - Codebase-aware spec engine for Cursor, Claude Code & Lovable.
 - [**conductor**](https://conductor.build/) (0 ⭐) - Run a bunch of Claude Codes in parallel.
 - [**claude-deep-research**](https://www.google.com/search?q=https://github.com/disler/claude-deep-research) (0 ⭐) - Claude Deep Research config for Claude Code.
+- [**contextzip**](https://github.com/jee599/contextzip) (0 ⭐) - Claude Code context optimizer. Compresses CLI output by 60-90% with 6 noise filters (error stacktraces, web pages, ANSI, build errors, package install, Docker). Fork of RTK.
 
 ---
 
