@@ -448,6 +448,7 @@ A curated list of awesome tools, skills, plugins, integrations, extensions, fram
 - [**claude-statusline**](https://github.com/luongnv89/claude-statusline) (41 ⭐) - Customize the status line in Claude Code.
 - [**Claude-Monitor**](https://github.com/RISCfuture/Claude-Monitor) (38 ⭐) - A menulet that tracks your Claude Code token usage.
 - [**cccost**](https://github.com/badlogic/cccost) (20 ⭐) - Instrument Claude Code to track actual token usage and cost.
+- [**PRISM**](https://github.com/jakeefr/prism) (15 ⭐) - A session forensics tool for Claude Code that analyzes JSONL files to surface token waste, CLAUDE.md adherence failures, and attention curve degradation with health score grading.
 - [**claude-code-usage-bar**](https://github.com/leeguooooo/claude-code-usage-bar) (0 ⭐) - Real‑time statusline for Claude Code: token usage, remaining budget, burn rate, and depletion time.
 
 ---
