@@ -251,6 +251,7 @@ A curated list of awesome tools, skills, plugins, integrations, extensions, fram
 - [**claude-dashboard**](https://github.com/uppinote20/claude-dashboard): Comprehensive status line plugin for Claude Code with context usage, API rate limits, and cost tracking
 - [**claude-code-plugin**](https://github.com/browserbase/claude-code-plugin): Browserbase plugin for Claude Code - Use cloud browsers with Claude Code instead of local Chrome.
 - [**homunculus**](https://github.com/humanplane/homunculus): A Claude Code plugin that watches how you work, learns your patterns, and evolves itself to help you better.
+- [**unslop**](https://github.com/MohamedAbdallah-14/unslop): Claude Code plugin that removes named AI writing tells — tricolons, em-dash pileups, hedging stacks, sycophancy openers, stock vocab (delve, crucial, etc.). Lint-only mode audits without rewriting. Five intensity levels. MIT licensed.
 
 ---
 
@@ -282,7 +283,8 @@ A curated list of awesome tools, skills, plugins, integrations, extensions, fram
 - 🔥 [**claude-canvas**](https://github.com/dvdsgl/claude-canvas) (1.1k ⭐) - A TUI toolkit that gives Claude Code its own display.
 - 🔥 [**claude-code-settings**](https://github.com/feiskyer/claude-code-settings) (1.1k ⭐) - Claude Code settings and commands for vibe coding.
 - 🔥 [**claude-obsidian**](https://github.com/AgriciDaniel/claude-obsidian) (1.1k ⭐) - Claude + Obsidian knowledge companion. A running notetaker that builds and maintains a persistent, compounding wiki vault. 
-- 🔥 [**claude-code-prompt-improver**](https://github.com/severity1/claude-code-prompt-improver) (1.0k ⭐) - Intelligent prompt improver hook for Claude Code. Type vibes, ship precision.
+- 🔥 [**claude-code-prompt-improver**](https://github.com/severity1/claude-code-prompt-improver) (1.0k ⭐) - Intelligent prompt improver hook for Claude Code.
+- [**prompt-to-asset**](https://github.com/MohamedAbdallah-14/prompt-to-asset) - MCP server and CLI that generates production-ready visual assets (app icons, favicons, OG images, logos) by routing each request across 30+ image generation models. Zero API key for first run via free-tier providers (Pollinations, Stable Horde, HuggingFace). MIT licensed. Type vibes, ship precision.
 - 🌟 [**Claude-Code-Remote**](https://github.com/JessyTsui/Claude-Code-Remote) (943 ⭐) - Control Claude Code remotely via email. Start tasks locally, receive notifications when Claude completes them, and send new commands by simply replying to emails.
 - 🌟 [**Claude-Command-Suite**](https://github.com/qdhenry/Claude-Command-Suite) (904 ⭐) - Professional slash commands for Claude Code that provide structured workflows for software development tasks, including code review and feature implementation.
 - 🌟 [**claude-code-hooks-multi-agent-observability**](https://github.com/disler/claude-code-hooks-multi-agent-observability) (893 ⭐) - Real-time monitoring for Claude Code agents through simple hook event tracking.
