@@ -251,6 +251,7 @@ A curated list of awesome tools, skills, plugins, integrations, extensions, fram
 - [**claude-dashboard**](https://github.com/uppinote20/claude-dashboard): Comprehensive status line plugin for Claude Code with context usage, API rate limits, and cost tracking
 - [**claude-code-plugin**](https://github.com/browserbase/claude-code-plugin): Browserbase plugin for Claude Code - Use cloud browsers with Claude Code instead of local Chrome.
 - [**homunculus**](https://github.com/humanplane/homunculus): A Claude Code plugin that watches how you work, learns your patterns, and evolves itself to help you better.
+- [**craft-statusline**](https://github.com/derjochenmeyer/claude-code-craft-statusline): Bash statusline plugin for Claude Code with state-aware git branch, context window traffic light (yellow at 400k tokens, red at 85%), rate limits, and optional cost. Bash 3.2 compatible, jq is the only dependency.
 
 ---
 
