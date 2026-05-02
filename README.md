@@ -84,6 +84,7 @@ A curated list of awesome tools, skills, plugins, integrations, extensions, fram
 - [**Severance**](https://github.com/blas0/Severance) (41 ⭐) - A semantic memory system designed for Claude Code.
 - [**AgentCheck**](https://github.com/devlyai/AgentCheck) (33 ⭐) - Local AI-powered code review agents for Claude Code.
 - [**claude-agents**](https://github.com/tddworks/claude-agents) (14 ⭐) - A collection of specialized AI agents for Claude Code that enhance software development workflows with focused expertise in specific domains.
+- [**Claude-Software-Office**](https://github.com/ilkerprdal/Claude-Software-Office) (0 ⭐) - 11 specialized agents (PM/Architect/Devs/QA/Security/Scrum) and 20 commands for full Agile workflow. Single-file Windows installer, multilingual (auto-detects user language and responds accordingly), built-in `/takeover` to import context from prior AI tools (Cursor, Copilot, Windsurf, etc.).
 
 ---
 
