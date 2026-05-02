@@ -250,6 +250,7 @@ A curated list of awesome tools, skills, plugins, integrations, extensions, fram
 - ✨ [**claude-review-loop**](https://github.com/hamelsmu/claude-review-loop): Claude Code plugin: automated code review loop with Codex.
 - [**claude-dashboard**](https://github.com/uppinote20/claude-dashboard): Comprehensive status line plugin for Claude Code with context usage, API rate limits, and cost tracking
 - [**claude-code-plugin**](https://github.com/browserbase/claude-code-plugin): Browserbase plugin for Claude Code - Use cloud browsers with Claude Code instead of local Chrome.
+- [**Governor**](https://github.com/0xhimanshu/governor): Claude Code usage governor with compact output, safe CLAUDE.md compression, noisy-log filtering, local telemetry, and drift guardrails.
 - [**homunculus**](https://github.com/humanplane/homunculus): A Claude Code plugin that watches how you work, learns your patterns, and evolves itself to help you better.
 
 ---
