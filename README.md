@@ -220,6 +220,7 @@ A curated list of awesome tools, skills, plugins, integrations, extensions, fram
 - [**Manus Skills**](https://manus.im/blog/manus-skills): Manus' official agent skills.
 - [**Firecrawl Skills**](https://docs.firecrawl.dev/sdks/cli): An easy way for AI agents such as Claude Code, Antigravity and OpenCode to use Firecrawl through the CLI.
 - [**Apple-Hig-Designer**](https://github.com/axiaoge2/Apple-Hig-Designer): A Claude Code Skill for designing professional interfaces following Apple Human Interface Guidelines.
+- [**CoinPaprika & DexPaprika Skills**](https://github.com/coinpaprika/skills): Free crypto data skills — CoinPaprika (12K+ coins, 350+ exchanges) and DexPaprika (34 chains, 30M+ pools, real-time streaming). No API key. Install: `npx skills add github.com/coinpaprika/skills`
 - [**skill-threat-modeling**](https://github.com/fr33d3m0n/skill-threat-modeling): Code-First Deep Risk Analysis Skill for Claude Code - 8-Phase Workflow with Security design review, STRIDE Threat modeling, PenTest and attack chain analysis, Software compliance assessment.
 - [**google-ai-mode-skill**](https://github.com/PleasePrompto/google-ai-mode-skill): Claude Code skill for free Google AI Mode search with citations.
 - [**claude-skills-supercharged**](https://github.com/jefflester/claude-skills-supercharged): A "supercharged" implementation of Claude Code Skills – using Haiku prompt analysis/critical skill scoring and skill auto-injection for friction-free, context-driven workflows.
