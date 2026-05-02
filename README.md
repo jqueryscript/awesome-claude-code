@@ -474,6 +474,7 @@ A curated list of awesome tools, skills, plugins, integrations, extensions, fram
 - ✨ [**claude-code-mcpinstall**](https://github.com/undeadpickle/claude-code-mcpinstall) (236 ⭐) - Easy guide to installing Claude Code MCPs globally on your machine.
 - ✨ [**claude-code-system-prompt**](https://github.com/matthew-lim-matthew-lim/claude-code-system-prompt) (122 ⭐) - Claude Code's system prompt.
 - [**claudecode-best-practices**](https://github.com/rosmur/claudecode-best-practices) (54 ⭐) - A collection of best practices and procedures for using Claude Code.
+- [**claude-code-memory-guide**](https://github.com/Acteq1391gp/claude-code-memory-guide) (2 ⭐) - Production memory setup for Claude Code with MemPalace semantic search, session hooks, and nightly Karpathy-style LLM compile. Zero-to-production guide.
 
 ---
 
