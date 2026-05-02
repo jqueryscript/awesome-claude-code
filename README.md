@@ -351,6 +351,10 @@ A curated list of awesome tools, skills, plugins, integrations, extensions, fram
 - [**shotgun-alpha**](https://github.com/shotgun-sh/shotgun-alpha) (3 ⭐) - Codebase-aware spec engine for Cursor, Claude Code & Lovable.
 - [**conductor**](https://conductor.build/) (0 ⭐) - Run a bunch of Claude Codes in parallel.
 - [**claude-deep-research**](https://www.google.com/search?q=https://github.com/disler/claude-deep-research) (0 ⭐) - Claude Deep Research config for Claude Code.
+- [**nothumansearch**](https://github.com/unitedideas/nothumansearch) - Agent-first search engine you can wire into Claude Code as an MCP server (`claude mcp add --transport http nothumansearch https://nothumansearch.ai/mcp`). Indexes 8,000+ MCP servers + agent-readable sites. Includes `verify_mcp` tool to live-probe any URL from within Claude Code.
+- [**ai-dev-jobs**](https://aidevboard.com/docs) - MCP server for AI/ML engineering jobs (`claude mcp add --transport http aidevboard https://aidevboard.com/mcp`). 8,400+ jobs from 580 ATS sources. 4 tools: search_jobs, get_job, list_companies, get_stats.
+- [**nhs-score-check-action**](https://github.com/unitedideas/nhs-score-check-action) - GitHub Action for CI. Fails your build if your site's agentic readiness score (llms.txt, OpenAPI, MCP, etc.) drops below a threshold. Pairs well with the `claude-code-action` pattern above.
+- [**Bring Your AI**](https://bringyour.ai/claude-code-to-codex) - Local-first Claude Code to Codex migration tool that checks AGENTS.md and CLAUDE.md differences, hooks, MCP references, and validation notes without uploading harness files.
 
 ---
 
