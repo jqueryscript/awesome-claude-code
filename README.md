@@ -141,6 +141,7 @@ A curated list of awesome tools, skills, plugins, integrations, extensions, fram
 - 🔥 [**ctf-skills**](https://github.com/ljagiello/ctf-skills) (1.7k ⭐): Agent skills for solving CTF challenges - web exploitation, binary pwn, crypto, reverse engineering, forensics, OSINT, and more.
 - 🔥 [**Vibe-Skills**](https://github.com/foryourhealth111-pixel/Vibe-Skills) (1.7k ⭐): An all-in-one AI skills package.
 - 🔥 [**playwright-skill**](https://github.com/lackeyjb/playwright-skill) (1.5k ⭐): Claude Code Skill for browser automation with Playwright. Model-invoked - Claude autonomously writes and executes custom automation for testing and validation.
+- [**Lumen**](https://github.com/omxyz/lumen) - A vision-first browser agent with self-healing deterministic replay over CDP. Screenshot → model → action loop with multi-provider support (Anthropic, Google).
 - 🔥 [**Claudeception**](https://github.com/blader/Claudeception) (1.5k ⭐): A Claude Code skill for autonomous skill extraction and continuous learning. Have Claude Code get smarter as it works.
 - 🔥 [**claude-skills**](https://github.com/alirezarezvani/claude-skills) (1.5k ⭐): A Collection of Skills for Claude Code and Claude AI for real-world Usage.
 - 🔥 [**claude-skills**](https://github.com/Jeffallan/claude-skills) (1.5k ⭐): 66 Specialized Skills for Full-Stack Developers.
