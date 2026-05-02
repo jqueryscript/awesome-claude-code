@@ -46,6 +46,7 @@ A curated list of awesome tools, skills, plugins, integrations, extensions, fram
 - 🔥 [**claude-squad**](https://github.com/smtg-ai/claude-squad) (5.6k ⭐) - Manage multiple AI terminal agents, including Claude Code, Aider, Codex, OpenCode, and Amp.
 - 🔥 [**awesome-claude-agents**](https://github.com/vijaythecoder/awesome-claude-agents) (3.7k ⭐) - Supercharge Claude Code with a team of specialized AI agents that work together to build complete features, debug complex issues, and handle any technology stack with expert-level knowledge.
 - 🔥 [**claude-subconscious**](https://github.com/letta-ai/claude-subconscious) (2.4k ⭐) - A background agent that whispers to Claude Code. A subconcious agent that watches your sessions, reads your files, builds up memory over time, and whispers guidance back.
+- 🔥 [**ouroboros**](https://github.com/Q00/ouroboros) (2.4k ⭐) - Stop prompting. Start specifying. A specification-first workflow engine for AI coding agents, with a Socratic interview → seed spec → execute → evaluate → evolve loop.
 - 🔥 [**claude-code-subagents-collection**](https://github.com/davepoon/claude-code-subagents-collection) (2.2k ⭐) - A comprehensive collection of specialized AI subagents for Claude Code, designed to enhance development workflows with domain-specific expertise.
 - 🔥 [**claude-agents**](https://github.com/iannuttall/claude-agents) (2.0k ⭐) - Custom subagents to use with Claude Code.
 - 🔥 [**claude-swarm**](https://github.com/parruda/claude-swarm) (1.6k ⭐) - Easily launch a Claude Code session connected to a swarm of Claude Code Agents.
