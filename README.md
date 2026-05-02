@@ -88,6 +88,7 @@ A curated list of awesome tools, skills, plugins, integrations, extensions, fram
 ---
 
 ## 🧠 Agent Skills
+- [AuraKit](https://github.com/smorky850612/Aurakit) - All-in-one Claude Code skill: 46 modes, 23 sub-agents, 6-layer OWASP security, 10 lifecycle hooks, ~55% token savings. Cross-platform. `npx @smorky85/aurakit`
 
 - 🔥 [**andrej-karpathy-skills**](https://github.com/forrestchang/andrej-karpathy-skills) (101k ⭐) - A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.
 - 🔥 [**Superpowers**](https://github.com/obra/superpowers) (174k ⭐) - Give Claude Code superpowers with a comprehensive skills library of proven techniques, patterns, and tools.
