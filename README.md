@@ -226,6 +226,7 @@ A curated list of awesome tools, skills, plugins, integrations, extensions, fram
 - [**meta_skilld**](https://github.com/Dicklesworthstone/meta_skilld): Rust CLI for managing Claude Code skills: indexing, building, bundling, and sharing.
 - [**claude-cs**](https://github.com/nbashaw/claude-cs): A Claude Code skill that helps you build custom customer support automation for your company.
 - [**design-engineer-auditor-package**](https://github.com/kylezantos/design-engineer-auditor-package): A Claude Code skill for motion design audits, trained on Emil Kowalski, Jakub Krehel, and Jhey Tompkins.
+- [**buyer-eval-skill**](https://github.com/salespeak-ai/buyer-eval-skill): Structured B2B software vendor evaluation skill for Claude Code. Asks domain-expert questions per software category, engages vendor AI agents for verified due diligence, scores vendors across 7 dimensions with transparent evidence tracking, and produces comparative scorecards for procurement and build-vs-buy decisions.
 
 ---
 
