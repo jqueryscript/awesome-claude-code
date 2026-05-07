@@ -302,6 +302,8 @@ A curated list of awesome tools, skills, plugins, integrations, extensions, fram
 - [**ClaudeUsageBar**](https://github.com/Artzainnn/ClaudeUsageBar) (22 ⭐) - Track your Claude.ai usage right from your Mac menu bar.
 - [**claude-code-test-runner**](https://github.com/firstloophq/claude-code-test-runner) (20 ⭐) - An automated E2E natural language test runner built on Claude Code.
 - [**cc-monitor-worker**](https://github.com/cometkim/cc-monitor-worker) (13 ⭐) - Claude Code monitoring with Cloudflare Workers & Workers Analytics Engine.
+- [**kivun-terminal**](https://github.com/noambrand/kivun-terminal) (12 ⭐) - One-click Claude Code installer for Windows and macOS; bundles Node.js, Git, Windows Terminal theme, live status bar, and a folder picker with named profiles.
+- [**kivun-terminal-wsl**](https://github.com/noambrand/kivun-terminal-wsl) (4 ⭐) - Claude Code terminal for RTL languages (Hebrew, Arabic, Persian + 8 more) with a BiDi wrapper for mixed RTL+LTR rendering; one-click WSL2 + Konsole installer on Windows and shell installers on Linux.
 - [**shotgun-alpha**](https://github.com/shotgun-sh/shotgun-alpha) (3 ⭐) - Codebase-aware spec engine for Cursor, Claude Code & Lovable.
 - [**conductor**](https://conductor.build/) (0 ⭐) - Run a bunch of Claude Codes in parallel.
 - [**claude-deep-research**](https://www.google.com/search?q=https://github.com/disler/claude-deep-research) (0 ⭐) - Claude Deep Research config for Claude Code.
