@@ -85,6 +85,7 @@ A curated list of awesome tools, skills, plugins, integrations, extensions, fram
 - [**Severance**](https://github.com/blas0/Severance) (41 ⭐) - A semantic memory system designed for Claude Code.
 - [**AgentCheck**](https://github.com/devlyai/AgentCheck) (33 ⭐) - Local AI-powered code review agents for Claude Code.
 - [**claude-agents**](https://github.com/tddworks/claude-agents) (14 ⭐) - A collection of specialized AI agents for Claude Code that enhance software development workflows with focused expertise in specific domains.
+- [**SwarmOps**](https://github.com/h4ckm1n-dev/SwarmOps) - Hardened fork of ruflo/claude-flow optimized for global ~/.claude installs. 46× faster memory_search via in-process pool, semantic memory via mxbai-embed-large, AIDefence wired into UserPromptSubmit/PreToolUse hooks.
 
 ---
 
