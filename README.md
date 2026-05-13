@@ -242,7 +242,7 @@ A curated list of awesome tools, skills, plugins, integrations, extensions, fram
 ## 🔌 Claude Plugins
 
 
-- ✨ [**ejentum-mcp**](https://github.com/ejentum/ejentum-mcp): Reasoning Harness for agentic AI exposed as 4 MCP tools (reasoning, code, anti-deception, memory) over 679 engineered cognitive operations. Each call returns a structured scaffold (failure pattern, procedure, suppression vectors, falsification test) the calling LLM ingests before its first token. Catches sycophancy, hallucination, and reasoning decay before they emerge. MIT, free tier 100 calls.
+- ✨ [**ejentum-mcp**](https://github.com/ejentum/ejentum-mcp): MCP server with reasoning, code, anti-deception, and memory tools for AI agents.
 - 🔥 [**claude-hud**](https://github.com/jarrodwatts/claude-hud): A Claude Code plugin that shows what's happening - context usage, active tools, running agents, and todo progress.
 - 🔥 [**call-me**](https://github.com/ZeframLou/call-me): Minimal plugin that lets Claude Code call you on the phone.
 - 🔥 [**harness**](https://github.com/revfactory/harness): A meta-skill that designs domain-specific agent teams, defines specialized agents, and generates the skills they use.
