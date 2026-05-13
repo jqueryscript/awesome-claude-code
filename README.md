@@ -363,6 +363,7 @@ A curated list of awesome tools, skills, plugins, integrations, extensions, fram
 - [**cc-monitor-rs**](https://github.com/ZhangHanDong/cc-monitor-rs) (22 ⭐) - Real-time Claude Code usage monitor with native UI built using Rust and Makepad.
 - [**ClaudeUsageBar**](https://github.com/Artzainnn/ClaudeUsageBar) (22 ⭐) - Track your Claude.ai usage right from your Mac menu bar.
 - [**claude-code-test-runner**](https://github.com/firstloophq/claude-code-test-runner) (20 ⭐) - An automated E2E natural language test runner built on Claude Code.
+- [**OpenQuack**](https://github.com/larryxiao/openquack) (16 ⭐) - Privacy-first local voice dictation menu bar app for macOS that pastes at the cursor in Claude Code; powered by WhisperKit, all on-device.
 - [**cc-monitor-worker**](https://github.com/cometkim/cc-monitor-worker) (13 ⭐) - Claude Code monitoring with Cloudflare Workers & Workers Analytics Engine.
 - [**shotgun-alpha**](https://github.com/shotgun-sh/shotgun-alpha) (3 ⭐) - Codebase-aware spec engine for Cursor, Claude Code & Lovable.
 - [**conductor**](https://conductor.build/) (0 ⭐) - Run a bunch of Claude Codes in parallel.
