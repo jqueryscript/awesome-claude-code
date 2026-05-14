@@ -490,6 +490,7 @@ A curated list of awesome tools, skills, plugins, integrations, extensions, fram
 - ✨ [**claude-code-mcpinstall**](https://github.com/undeadpickle/claude-code-mcpinstall) (236 ⭐) - Easy guide to installing Claude Code MCPs globally on your machine.
 - ✨ [**claude-code-system-prompt**](https://github.com/matthew-lim-matthew-lim/claude-code-system-prompt) (122 ⭐) - Claude Code's system prompt.
 - [**claudecode-best-practices**](https://github.com/rosmur/claudecode-best-practices) (54 ⭐) - A collection of best practices and procedures for using Claude Code.
+- [**claude46**](https://github.com/sparklingneuronics/claude-code-helpers) (1 ⭐) - Pin Claude Code to Opus 4.6 + version 2.1.110 for reproducible workflows. Separate launcher with auto-updates blocked, while normal `claude` keeps updating. macOS, Linux, WSL, Windows.
 
 ---
 
