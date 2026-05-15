@@ -242,6 +242,7 @@ A curated list of awesome tools, skills, plugins, integrations, extensions, fram
 - [**meta_skilld**](https://github.com/Dicklesworthstone/meta_skilld): Rust CLI for managing Claude Code skills: indexing, building, bundling, and sharing.
 - [**claude-cs**](https://github.com/nbashaw/claude-cs): A Claude Code skill that helps you build custom customer support automation for your company.
 - [**design-engineer-auditor-package**](https://github.com/kylezantos/design-engineer-auditor-package): A Claude Code skill for motion design audits, trained on Emil Kowalski, Jakub Krehel, and Jhey Tompkins.
+- [**recsys-pipeline-architect**](https://github.com/mturac/recsys-pipeline-architect): Vendor-agnostic Agent Skill for designing composable recommendation, ranking, and feed pipelines (six-stage Source→Hydrator→Filter→Scorer→Selector→SideEffect framework, pattern from xAI's open-sourced X For You algorithm). Includes runnable scaffolds for Strapi (TypeScript), Go, and Python/FastAPI.
 
 ---
 
