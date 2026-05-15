@@ -242,6 +242,7 @@ A curated list of awesome tools, skills, plugins, integrations, extensions, fram
 - [**meta_skilld**](https://github.com/Dicklesworthstone/meta_skilld): Rust CLI for managing Claude Code skills: indexing, building, bundling, and sharing.
 - [**claude-cs**](https://github.com/nbashaw/claude-cs): A Claude Code skill that helps you build custom customer support automation for your company.
 - [**design-engineer-auditor-package**](https://github.com/kylezantos/design-engineer-auditor-package): A Claude Code skill for motion design audits, trained on Emil Kowalski, Jakub Krehel, and Jhey Tompkins.
+- [**claude-indie-toolkit**](https://github.com/tastekim/claude-indie-toolkit): Workflow toolkit for solo founders shipping side projects — 5 agents (idea-validator with kill criteria, pricing-strategist using Van Westendorp, landing-page-architect with AIDA+PAS, cold-outreach-writer, launch-day-orchestrator) + 3 skills + 2 commands + 1 PreToolUse hook (scope-creep-guard). Includes Korean adaptation.
 
 ---
 
