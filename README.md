@@ -407,6 +407,7 @@ A curated list of awesome tools, skills, plugins, integrations, extensions, fram
 - [**ccmate-release**](https://github.com/djyde/ccmate-release) (57 ⭐) - A GUI for Claude Code.
 - [**Claude-Code-Web-GUI**](https://github.com/binggg/Claude-Code-Web-GUI) (56 ⭐) - Browse, view and share your Claude Code sessions - runs entirely in browser, no server required!
 - [**Claude in a Box**](https://github.com/juancgarza/claude-in-a-box) (48 ⭐) - A ChatGPT Canvas-style interface for Claude Code running in E2B sandboxes.
+- [**AI Memory Reader**](https://github.com/nvwalj/ai-memory-reader) (new) - Native macOS & iOS app for browsing AI agent memory files. Auto-detects Claude Code, OpenClaw, Codex, Cursor, Gemini, Continue, Aider, GitHub Copilot. SwiftUI + MarkdownUI rendering, sidebar tree, in-page find (⌘F), edit mode with auto-save, URL scheme + CLI for agent integration. Universal binary. GPL-3.0.
 
 ---
 
