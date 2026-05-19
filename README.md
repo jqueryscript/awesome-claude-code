@@ -468,6 +468,7 @@ A curated list of awesome tools, skills, plugins, integrations, extensions, fram
 - ✨ [**claude-code-leaderboard**](https://github.com/grp06/claude-code-leaderboard) (180 ⭐) - This CLI automatically monitors your token usage and posts your stats to the leaderboard after each Claude Code session.
 - ✨ [**claude-code-ui**](https://github.com/KyleAMathews/claude-code-ui) (108 ⭐) - A real-time dashboard for monitoring Claude Code sessions across multiple projects.
 - [**pyccsl**](https://github.com/wolfdenpublishing/pyccsl) (81 ⭐) - Python Claude Code Status Line (PyCCSL, pronounced "pixel").
+- [**agenttrace**](https://github.com/luoyuctl/agenttrace) (41 ⭐) - Local-first TUI observability for Claude Code, Codex, and Cursor sessions with trace timelines, token usage, and tool-call inspection.
 - [**claude-statusline**](https://github.com/luongnv89/claude-statusline) (41 ⭐) - Customize the status line in Claude Code.
 - [**Claude-Monitor**](https://github.com/RISCfuture/Claude-Monitor) (38 ⭐) - A menulet that tracks your Claude Code token usage.
 - [**cccost**](https://github.com/badlogic/cccost) (20 ⭐) - Instrument Claude Code to track actual token usage and cost.
