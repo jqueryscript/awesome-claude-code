@@ -271,6 +271,7 @@ A curated list of awesome tools, skills, plugins, integrations, extensions, fram
 ---
 
 ## 🛠️ Tools & Utilities
+n- [**cca-audit**](https://github.com/GiulioDER/cca-audit) - 6-layer parallel code audit pipeline. Runs 6 specialized LLM auditors (code quality, bugs, security, performance, docs, config) with non-overlapping scopes — zero duplicate findings. Three variants: Claude Code, Codex CLI, OpenRouter Python CLI. MIT licensed.
 
 - 🔥 [**claude-code-router**](https://github.com/musistudio/claude-code-router) (25.3k ⭐) - Use Claude Code as the foundation for coding infrastructure, allowing you to decide how to interact with the model while enjoying updates from Anthropic.
 - 🔥 [**SuperClaude**](https://github.com/NomenAK/SuperClaude) (20.0k ⭐) - A configuration framework that enhances Claude Code with specialized commands, cognitive personas, and development methodologies.
