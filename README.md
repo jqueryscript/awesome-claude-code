@@ -374,6 +374,7 @@ A curated list of awesome tools, skills, plugins, integrations, extensions, fram
 - [**shotgun-alpha**](https://github.com/shotgun-sh/shotgun-alpha) (3 ⭐) - Codebase-aware spec engine for Cursor, Claude Code & Lovable.
 - [**conductor**](https://conductor.build/) (0 ⭐) - Run a bunch of Claude Codes in parallel.
 - [**claude-deep-research**](https://www.google.com/search?q=https://github.com/disler/claude-deep-research) (0 ⭐) - Claude Deep Research config for Claude Code.
+- [**claude-verify-before-stop**](https://github.com/ianymu/claude-verify-before-stop) (0 ⭐) - Zero-dependency Stop hook that blocks "lies of completion" — requires a `VERIFIED` log entry within the last 5 minutes when files have changed, forcing the agent to actually run tests / curl / playwright before ending the session. Pure bash + python3 stdlib, no Node required.
 
 ---
 
