@@ -353,6 +353,7 @@ A curated list of awesome tools, skills, plugins, integrations, extensions, fram
 - ✨ [**claude-code-personal-assistant**](https://github.com/c0dezli/claude-code-personal-assistant) (110 ⭐) - AI personal assistant setup for Claude Code.
 - ✨ [**spec-based-claude-code**](https://github.com/papaoloba/spec-based-claude-code) (103 ⭐) - Implementation of a Spec-Driven Development workflow in Claude Code using custom slash commands.
 - ✨ [**rins_hooks**](https://github.com/rinadelph/rins_hooks) (101 ⭐) - Universal Claude Code hooks collection with cross-platform installer.
+- [**claude-verify-before-stop**](https://github.com/ianymu/claude-verify-before-stop) - Stop hook that blocks the session from ending until verification is logged. Forces the model to either prove it verified or admit it didn't — kills "lies of completion". Pure bash, zero deps.
 - [**recall**](https://github.com/zippoxer/recall) (100 ⭐) - Full-text search and resume for Claude/Codex conversations.
 - [**claude-select**](https://github.com/aeitroc/claude-select) (100 ⭐) - A unified launcher for Claude Code that lets you interactively choose which LLM backend to use.
 - [**claude-code-auto-memory**](https://github.com/severity1/claude-code-auto-memory) (81 ⭐) - Claude Code plugin that automatically maintains CLAUDE.md files.
