@@ -343,6 +343,7 @@ A curated list of awesome tools, skills, plugins, integrations, extensions, fram
 - ✨ [**claude-self-reflect**](https://github.com/ramakay/claude-self-reflect) (189 ⭐) - Claude forgets everything. This fixes that.
 - ✨ [**claude-code-boost**](https://github.com/yifanzz/claude-code-boost) (160 ⭐) - Hook utilities for Claude Code with intelligent auto-approval.
 - ✨ [**claude-context-local**](https://github.com/FarhanAliRaza/claude-context-local) (154 ⭐) - Code search MCP for Claude Code. Make entire codebase the context for any coding agent. Embeddings are created and stored locally. No API cost.
+- [**LegacyDoc AI**](https://www.romanticode.com/legacydoc-ai/) - VS Code extension that creates local codebase context packs and audit reports for Claude Code handoff, cleanup, and review workflows.
 - ✨ [**claude-config-editor**](https://github.com/gagarinyury/claude-config-editor) (150 ⭐) - A lightweight web tool that helps you clean and optimize your Claude Code/Desktop config files (.claude.json).
 - ✨ [**cctrace**](https://github.com/jimmc414/cctrace) (140 ⭐) - Export Claude Code chat sessions into markdown and XML.
 - ✨ [**claude-agent-server**](https://github.com/forayconsulting/gemini_cli_skill) (140 ⭐) - A Claude Code skill enabling Claude to use Gemini 3 Pro via Gemini CLI.
