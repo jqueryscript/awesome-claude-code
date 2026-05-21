@@ -465,6 +465,7 @@ A curated list of awesome tools, skills, plugins, integrations, extensions, fram
 - [**Claude-Monitor**](https://github.com/RISCfuture/Claude-Monitor) (38 ⭐) - A menulet that tracks your Claude Code token usage.
 - [**cccost**](https://github.com/badlogic/cccost) (20 ⭐) - Instrument Claude Code to track actual token usage and cost.
 - [**claude-code-usage-bar**](https://github.com/leeguooooo/claude-code-usage-bar) (0 ⭐) - Real‑time statusline for Claude Code: token usage, remaining budget, burn rate, and depletion time.
+- [**vibeworkload**](https://github.com/3dnow/vibeworkload) (0 ⭐) - Render a single anonymized PNG of your Claude Code workload (messages, tool calls, tokens, active hours) over the last N hours. Local-only; reads ~/.claude/projects/*.jsonl, ships as both a plugin and a standalone CLI.
 
 ---
 
