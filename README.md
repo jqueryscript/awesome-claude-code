@@ -103,6 +103,7 @@ A curated list of awesome tools, skills, plugins, integrations, extensions, fram
 - 🔥 [**agent-skills**](https://github.com/addyosmani/agent-skills) (9.9k ⭐): Production-grade engineering skills for AI coding agents.
 - 🔥 [**planning-with-files**](https://github.com/OthmanAdi/planning-with-files) (9.7k ⭐): Claude Code skill implementing Manus-style persistent markdown planning — the workflow pattern behind the $2B acquisition.
 - 🔥 [**Agent-Skills-for-Context-Engineering**](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering) (7.8k ⭐): A comprehensive collection of Agent Skills for context engineering, multi-agent architectures, and production agent systems.
+- [**VaultForge**](https://github.com/Easonnotsing/VaultForge) — AI agent skill that transforms PDF/Markdown into structured Obsidian knowledge bases. 7-phase pipeline with incremental learning, 5-type logical wikilinks, and Firecrawl/Exa deep research. English & 中文.
 - 🔥 [**hyperframes**](https://github.com/heygen-com/hyperframes) (7.7k ⭐): Write HTML. Render video. Built for agents.
 - 🔥 [**obsidian-skills**](https://github.com/kepano/obsidian-skills) (7k ⭐): Claude Skills for use with Obsidian.
 - 🔥 [**taste-skill**](https://github.com/Leonxlnx/taste-skill) (6.9k ⭐): A collection of skills that improve how AI tools write frontend code. 
