@@ -83,6 +83,7 @@ A curated list of awesome tools, skills, plugins, integrations, extensions, fram
 - [**claude-code-semantic-memory**](https://github.com/gtrusler/claude-code-heavy) (70 ⭐) - Persistent semantic memory system for Claude Code.
 - [**Agent-Fusion**](https://github.com/krokozyab/Agent-Fusion) (46 ⭐) - A multi-agent orchestration system that enables Claude Code, Codex CLI, Amazon Q Developer, and Gemini Code Assist to collaborate bidirectionally through intelligent task routing and consensus-based decision making.
 - [**Severance**](https://github.com/blas0/Severance) (41 ⭐) - A semantic memory system designed for Claude Code.
+- [**claude-distill**](https://github.com/tomacco/claude-distill) — First-principles memory for Claude Code. Encodes corrections as reusable principles (not flat facts), retrieves by relevance via native rules/, and pushes back when you repeat a mistake it already learned. A/B tested: +6 points vs vanilla Claude on a 12-point scale. Zero dependencies — 18 lines of config.
 - [**AgentCheck**](https://github.com/devlyai/AgentCheck) (33 ⭐) - Local AI-powered code review agents for Claude Code.
 - [**claude-agents**](https://github.com/tddworks/claude-agents) (14 ⭐) - A collection of specialized AI agents for Claude Code that enhance software development workflows with focused expertise in specific domains.
 
