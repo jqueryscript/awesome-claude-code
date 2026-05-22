@@ -85,6 +85,7 @@ A curated list of awesome tools, skills, plugins, integrations, extensions, fram
 - [**Severance**](https://github.com/blas0/Severance) (41 ⭐) - A semantic memory system designed for Claude Code.
 - [**AgentCheck**](https://github.com/devlyai/AgentCheck) (33 ⭐) - Local AI-powered code review agents for Claude Code.
 - [**claude-agents**](https://github.com/tddworks/claude-agents) (14 ⭐) - A collection of specialized AI agents for Claude Code that enhance software development workflows with focused expertise in specific domains.
+- [**nrflo**](https://github.com/nrflo/nrflo) (2 ⭐): A self-hosted control plane that orchestrates Claude Code, Codex, Gemini and Opencode CLIs through layered multi-phase workflows. Multi-agent parallelism per phase, verifier callbacks to earlier phases, isolated git worktrees per ticket with auto-merge, browser-based PTY session takeover, and automatic context-exhaustion recovery.
 
 ---
 
