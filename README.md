@@ -248,6 +248,7 @@ A curated list of awesome tools, skills, plugins, integrations, extensions, fram
 - [**meta_skilld**](https://github.com/Dicklesworthstone/meta_skilld): Rust CLI for managing Claude Code skills: indexing, building, bundling, and sharing.
 - [**claude-cs**](https://github.com/nbashaw/claude-cs): A Claude Code skill that helps you build custom customer support automation for your company.
 - [**design-engineer-auditor-package**](https://github.com/kylezantos/design-engineer-auditor-package): A Claude Code skill for motion design audits, trained on Emil Kowalski, Jakub Krehel, and Jhey Tompkins.
+- 👑 [**MUNDO — THE EMPEROR**](https://github.com/LiHongwei-cn/lihongwei-cn) — The ultimate self-evolving AI skill engine. Consults ALL AIs (ChatGPT, Claude, Gemini, DeepSeek), crawls ALL of the web, saves solutions as reusable Skills. Parallel sub-agents, collective consciousness, infinite growth. For Claude Code & Hermes Agent. Multilingual (EN/CN/JP/KR).
 
 ---
 
