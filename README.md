@@ -250,6 +250,7 @@ A curated list of awesome tools, skills, plugins, integrations, extensions, fram
 - [**design-engineer-auditor-package**](https://github.com/kylezantos/design-engineer-auditor-package): A Claude Code skill for motion design audits, trained on Emil Kowalski, Jakub Krehel, and Jhey Tompkins.
 
 ---
+- [**capcut-edit**](https://github.com/renezander030/capcut-cli) (22 ⭐): Skill that drives capcut-cli — a zero-dep Node CLI for editing CapCut and JianYing video drafts (draft_content.json) directly. Subtitles, decorators, templates, long-form-to-shorts cut, multi-language translate. Both namespaces in one binary.
 
 ## 🔌 Claude Plugins
 
