@@ -277,6 +277,8 @@ A curated list of awesome tools, skills, plugins, integrations, extensions, fram
 
 ---
 
+- [Claude Plugins Official](https://ai-trove.com/en/claude-plugins-official) - A curated overview of Anthropic's managed directory of 250+ Claude Code plugins — LSP servers, MCP integrations, skills and agents — with install and build guides.
+
 ## 🛠️ Tools & Utilities
 
 - 🔥 [**claude-code-router**](https://github.com/musistudio/claude-code-router) (25.3k ⭐) - Use Claude Code as the foundation for coding infrastructure, allowing you to decide how to interact with the model while enjoying updates from Anthropic.
