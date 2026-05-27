@@ -446,6 +446,7 @@ A curated list of awesome tools, skills, plugins, integrations, extensions, fram
 - [**castari-proxy**](https://github.com/castar-ventures/castari-proxy) (73 ⭐) - Use Claude Agent SDK and Claude Code with other providers/models.
 - [**claude-code-open**](https://github.com/Davincible/claude-code-open) (66 ⭐) - Claude Code with any LLM provider (OpenRouter, Gemini, Kimi K2).
 - [**Claudify**](https://github.com/neno-is-ooo/claudify) (32 ⭐) - Use Claude Code as an LLM provider with your subscription flat fee instead of pay-per-token API keys.
+- [**Shellgate**](https://github.com/matthiastjong/shellgate) - Security gateway for AI agents. Sits between Claude Code and your infrastructure — agents get scoped tokens, never real credentials. Includes human-in-the-loop approval, SSH execution, vault, and full audit logging.
 
 ---
 
