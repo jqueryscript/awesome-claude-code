@@ -159,6 +159,7 @@ A curated list of awesome tools, skills, plugins, integrations, extensions, fram
 - 🔥 [**Swift-Agent-Skills**](https://github.com/nowork-studio/toprank) (1.7k ⭐): A curated directory of open-source AI agent skills for Swift and Apple platform development.
 - 🔥 [**seedance-prompt-skill**](https://github.com/songguoxs/seedance-prompt-skill) (1.7k ⭐): A Claude Code custom skill that turns Claude into a professional AI video prompt engineer for ByteDance's Seedance 2.0 (即梦) video generation platform.
 - 🔥 [**playwright-skill**](https://github.com/lackeyjb/playwright-skill) (1.5k ⭐): Claude Code Skill for browser automation with Playwright. Model-invoked - Claude autonomously writes and executes custom automation for testing and validation.
+- [**Lumen**](https://github.com/omxyz/lumen) - A vision-first browser agent with self-healing deterministic replay over CDP. Screenshot → model → action loop with multi-provider support (Anthropic, Google).
 - 🔥 [**Claudeception**](https://github.com/blader/Claudeception) (1.5k ⭐): A Claude Code skill for autonomous skill extraction and continuous learning. Have Claude Code get smarter as it works.
 - 🔥 [**claude-skills**](https://github.com/alirezarezvani/claude-skills) (1.5k ⭐): A Collection of Skills for Claude Code and Claude AI for real-world Usage.
 - 🔥 [**claude-skills**](https://github.com/Jeffallan/claude-skills) (1.5k ⭐): 66 Specialized Skills for Full-Stack Developers.
