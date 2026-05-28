@@ -53,6 +53,7 @@ A curated list of awesome tools, skills, plugins, integrations, extensions, fram
 - 🔥 [**ralph-claude-code**](https://github.com/DmitrySolana/ralph-claude-code) (1.2k ⭐) - Autonomous AI development loop for Claude Code with intelligent exit detection.
 - 🔥 [**deepclaude**](https://github.com/aattaran/deepclaude) (1.2k ⭐) - A Claude Code skill for generating UI in the Nothing design language. Monochrome, typographic, industrial.
 - 🔥 [**awesome-claude-code-agents**](https://github.com/hesreallyhim/awesome-claude-code-agents) (1.1k ⭐) - A curated list of awesome Claude Code Sub-Agents.
+- 🌟 [**Agent Teams**](https://github.com/777genius/agent-teams-ai) (996 ⭐) - Free desktop app for autonomous AI agent teams across Claude, Codex, and OpenCode. Give high-level commands; agents handle Kanban tasks, messaging, code review, and logs. Supports 200+ models and 75+ LLM providers.
 - 🔥 [**seo-geo-claude-skills**](https://github.com/aaron-he-zhu/seo-geo-claude-skills) (864 ⭐) - 20 SEO & GEO skills for Claude Code, Cursor, Codex, and 35+ AI agents. Keyword research, content writing, technical audits, rank tracking.
 - 🌟 [**claude-code-unified-agents**](https://github.com/stretchcloud/claude-code-unified-agents) (722 ⭐) - A comprehensive collection of specialized Claude Code sub-agents combining the best features from multiple community repositories.
 - 🌟 [**Pika-Skills**](https://github.com/Pika-Labs/Pika-Skills) (704 ⭐) - A collection of open-source skills for AI coding agents (Claude Code, OpenClaw, etc.) powered by the Pika Developer API.
