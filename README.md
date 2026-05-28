@@ -194,7 +194,7 @@ A curated list of awesome tools, skills, plugins, integrations, extensions, fram
 - 🌟 [**rust-skills**](https://github.com/actionbook/rust-skills) (595 ⭐): Rust Developer AI Assistance System — Meta-Problem-Driven Knowledge Indexing.
 - 🌟 [**Khazix-Skills**](https://github.com/op7418/Youtube-clipper-skill) (563 ⭐): DA collection of AI Skills for managing and evolving your skill library.
 - 🌟 [**vue-skills**](https://github.com/hyf0/vue-skills) (552 ⭐): Agent skills for Vue 3 development.
-- 🌟 [**OmegaWiki**](https://github.com/skyllwt/OmegaWiki) (542 ⭐): Wiki-centric full-lifecycle research platform: 20+ Claude Code skills spanning literature ingest, ideation, novelty check, experiment design/run/eval, and paper writing/compile.
+- 🌟 [**AutoSci**](https://github.com/skyllwt/AutoSci) (542 ⭐): Wiki-centric full-lifecycle research platform: 20+ Claude Code skills spanning literature ingest, ideation, novelty check, experiment design/run/eval, and paper writing/compile.
 - 🌟 [**frontend-slides**](https://github.com/zarazhangrui/frontend-slides) (519 ⭐): A Claude Code skill for creating stunning, animation-rich HTML presentations.
 - 🌟 [**webgpu-claude-skill**](https://github.com/dgreenheck/webgpu-claude-skill) (513 ⭐): A Claude skill for developing WebGPU applications with Three.js.
 - 🌟 [**skill-codex**](https://github.com/skills-directory/skill-codex) (512 ⭐): A claude code skill to delegate prompts to codex.
