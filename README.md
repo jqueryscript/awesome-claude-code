@@ -109,6 +109,7 @@ A curated list of awesome tools, skills, plugins, integrations, extensions, fram
 - 🔥 [**Auto-claude-code-research-in-sleep**](https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep) (6.6k ⭐): Lightweight Markdown-only skills for autonomous ML research.
 - 🔥 [**claude-scientific-skills**](https://github.com/K-Dense-AI/claude-scientific-skills) (6.4k ⭐): A set of ready to use scientific skills for Claude.
 - 🔥 [**slavingia/skills**](https://github.com/slavingia/skills) (5.8k ⭐): Claude Code skills based on The Minimalist Entrepreneur by Sahil Lavingia.
+- 🔥 [**html-ppt-skill**](https://github.com/lewislulu/html-ppt-skill) (5k ⭐): HTML PPT Studio — AgentSkill with 24 themes, 31 layouts, 20+ animations for building professional HTML presentations.
 - 🔥 [**prompt-master**](https://github.com/nidhinjs/prompt-master) (4.9k ⭐): A Claude skill that writes the accurate prompts for any AI tool. 
 - 🔥 [**marketingskills**](https://github.com/coreyhaines31/marketingskills) (4.8k ⭐): Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.
 - 🔥 [**android-reverse-engineering-skill**](https://github.com/SimoneAvogadro/android-reverse-engineering-skill) (4.7k ⭐): Claude Code skill to support Android app's reverse engineering.
@@ -137,6 +138,7 @@ A curated list of awesome tools, skills, plugins, integrations, extensions, fram
 - 🔥 [**godogen**](https://github.com/htdt/godogen) (2.4k ⭐): Claude Code skills that build complete Godot 4 projects from a game description.
 - 🔥 [**architecture-diagram-generator**](https://github.com/Cocoon-AI/architecture-diagram-generator) (2.4k ⭐): Generate beautiful dark-themed system architecture diagrams as standalone HTML/SVG files.
 - 🔥 [**markdown-viewer skills**](https://github.com/markdown-viewer/skills) (2.4k ⭐): Opinionated skills for AI coding agents to create stunning diagrams and visualizations directly in Markdown.
+- 🔥 [**9arm-skills**](https://github.com/thananon/9arm-skills) (2.4k ⭐): Agent skills loaded by Claude Code.
 - 🔥 [**finance-skills**](https://github.com/himself65/finance-skills) (2.4k ⭐): A collection of skills for AI financial analysis and trading.
 - 🔥 [**Kami**](https://github.com/ericosiu/ai-marketing-skills) (2.3k ⭐): Good content deserves good paper.
 - 🔥 [**n8n-skills**](https://github.com/czlonkowski/n8n-skills) (2.2k ⭐): n8n skillset for Claude Code to build flawless n8n workflows.
@@ -145,6 +147,7 @@ A curated list of awesome tools, skills, plugins, integrations, extensions, fram
 - 🔥 [**Understand-Anything**](https://github.com/Lum1104/Understand-Anything) (2.1k ⭐): Claude Code skills that turn any codebase into an interactive knowledge graph you can explore, search, and ask questions about (Multi-platform e.g., Codex are supported).
 - 🔥 [**ai-marketing-skills**](https://github.com/ericosiu/ai-marketing-skills) (2.1k ⭐): Open-source AI marketing skills — growth experiments, sales pipeline, content ops, outbound, SEO, and finance automation.
 - 🔥 [**agents-cli**](https://github.com/google/agents-cli) (2.1k ⭐): The CLI and skills that turn any coding assistant into an expert at creating, evaluating, and deploying AI agents on Google Cloud.
+- 🔥 [**hallmark**](https://github.com/Nutlope/hallmark) (2.1k ⭐): Anti-AI-slop design skill for Claude Code, Cursor, and Codex.
 - 🔥 [**gemini-skills**](https://github.com/google-gemini/gemini-skills) (2k ⭐): Skills for the Gemini API, SDK and model/agent interactions.
 - 🔥 [**Apify Agent Skills**](https://github.com/apify/agent-skills) (2k ⭐): Production-grade web scraping and automation skills for AI coding agents.
 - 🔥 [**learning-opportunities**](https://github.com/DrCatHicks/learning-opportunities) (2k ⭐): A Claude or Codex skill for deliberate skill development during AI-assisted coding.
@@ -452,6 +455,7 @@ A curated list of awesome tools, skills, plugins, integrations, extensions, fram
 ## 📊 Usage & Observability
 
 - 🔥 [**ccusage**](https://github.com/ryoppippi/ccusage) (9.7k ⭐) - A CLI tool for analyzing Claude Code usage from local JSONL files.
+- 🔥 [**codeburn**](https://github.com/getagentseal/codeburn) (7.1k ⭐) - See where your AI coding tokens go. Interactive TUI dashboard for Claude Code, Codex, and Cursor cost observability.
 - 🔥 [**Claude-Code-Usage-Monitor**](https://github.com/Maciek-roboblog/Claude-Code-Usage-Monitor) (6.1k ⭐) - A real-time Claude Code usage monitor with predictions and warnings.
 - 🔥 [**CodexBar**](https://github.com/steipete/CodexBar) (4.4k ⭐) - Show usage stats for OpenAI Codex and Claude Code, without having to login.
 - 🔥 [**ccstatusline**](https://github.com/sirmalloc/ccstatusline) (2.7k ⭐) - A customizable status line formatter for Claude Code CLI that displays model info, git branch, token usage, and other metrics in your terminal.
@@ -462,6 +466,7 @@ A curated list of awesome tools, skills, plugins, integrations, extensions, fram
 - 🌟 [**tokentap**](https://github.com/jmuncor/tokentap) (685 ⭐) - Intercept LLM API traffic and visualize token usage in a real-time terminal dashboard. 
 - 🌟 [**claude-task-viewer**](https://github.com/L1AD/claude-task-viewer) (387 ⭐) - A web-based Kanban board for viewing Claude Code tasks.
 - ✨ [**cc-statusline**](https://github.com/chongdashu/cc-statusline) (360 ⭐) - Transform your Claude Code experience with a beautiful, informative statusline.
+- ✨ [**ccglass**](https://github.com/jianshuo/ccglass) (331 ⭐) - See what your coding agent (Claude Code, Codex, Kimi) sends to the model — local proxy + web dashboard.
 - ✨ [**ClaudeCodeStatusLine**](https://github.com/daniel3303/ClaudeCodeStatusLine) (330 ⭐) - Custom status line for Claude Code showing model, tokens, rate limits, and git info in real-time.
 - ✨ [**opensync**](https://github.com/LKbaba/Claude-code-ChatInWindows) (237 ⭐) - Dashboards for OpenCode, Claude Code, Codex, Factory Droid and more.
 - ✨ [**claude-code-otel**](https://github.com/ColeMurray/claude-code-otel/) (228 ⭐) - A comprehensive observability solution for monitoring Claude Code usage, performance, and costs.
