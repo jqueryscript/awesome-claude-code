@@ -614,6 +614,7 @@ June 14, 2026
 - [**Claude-Code-Web-GUI**](https://github.com/binggg/Claude-Code-Web-GUI) - (72 ⭐) - Browse, view and share your Claude Code sessions - runs entirely in browser, no server required!
 - [**ccmate-release**](https://github.com/djyde/ccmate-release) - (56 ⭐) - A GUI for Claude Code.
 - [**Claude in a Box**](https://github.com/juancgarza/claude-in-a-box) - (51 ⭐) - A ChatGPT Canvas-style interface for Claude Code running in E2B sandboxes.
+- [**Helix**](https://github.com/tomarai85/helix-releases) - (1 ⭐) - Native macOS terminal for running multiple Claude Code agents side by side — several panes plus a preview canvas in one view, so you can watch sub-agents work at once. The step up from tmux for agentic coding. Free beta.
 
 ---
 
