@@ -252,6 +252,11 @@ A curated list of awesome tools, skills, plugins, integrations, extensions, fram
 - [**claude-cs**](https://github.com/nbashaw/claude-cs): A Claude Code skill that helps you build custom customer support automation for your company.
 - [**design-engineer-auditor-package**](https://github.com/kylezantos/design-engineer-auditor-package): A Claude Code skill for motion design audits, trained on Emil Kowalski, Jakub Krehel, and Jhey Tompkins.
 
+- [**yield-intelligence**](https://github.com/thebrierfox/yield-intelligence-skill): US Treasury yield MCP server for passive income portfolio analysis — live rate comparisons, TIPS inflation protection, CD/savings benchmarking, and x402 micropayment support.
+- [**moatmri**](https://github.com/thebrierfox/moatmri): Competitive moat analysis skill for AI coding agents — assesses business defensibility, pricing power, and market position from any company description.
+- [**doc2math**](https://github.com/thebrierfox/doc2math): Converts technical documents, specifications, and algorithms into formal LaTeX mathematical notation for verification, publication, and AI-readable precision.
+- [**ai-identity-persistence-contract**](https://github.com/thebrierfox/ai-identity-persistence-contract): Machine-readable contract for AI persona persistence — enables agents to maintain consistent identity, behavioral constraints, and handoff protocols across sessions.
+
 ---
 
 ## 🔌 Claude Plugins
