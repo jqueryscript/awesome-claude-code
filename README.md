@@ -277,6 +277,7 @@ A curated list of awesome tools, skills, plugins, integrations, extensions, fram
 - [**claude-dashboard**](https://github.com/uppinote20/claude-dashboard): Comprehensive status line plugin for Claude Code with context usage, API rate limits, and cost tracking
 - [**claude-code-plugin**](https://github.com/browserbase/claude-code-plugin): Browserbase plugin for Claude Code - Use cloud browsers with Claude Code instead of local Chrome.
 - [**homunculus**](https://github.com/humanplane/homunculus): A Claude Code plugin that watches how you work, learns your patterns, and evolves itself to help you better.
+- [**authsome**](https://github.com/agentrhq/authsome): Local credential broker for AI agents. Log in once via OAuth2 or API key, encrypted vault stores credentials, a loopback HTTPS proxy injects them into outbound provider requests so Claude Code never sees raw secrets. 45 providers bundled. Install via `/plugin marketplace add agentrhq/authsome` then `/plugin install authsome@authsome`.
 
 ---
 
