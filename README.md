@@ -251,6 +251,7 @@ A curated list of awesome tools, skills, plugins, integrations, extensions, fram
 - [**meta_skilld**](https://github.com/Dicklesworthstone/meta_skilld): Rust CLI for managing Claude Code skills: indexing, building, bundling, and sharing.
 - [**claude-cs**](https://github.com/nbashaw/claude-cs): A Claude Code skill that helps you build custom customer support automation for your company.
 - [**design-engineer-auditor-package**](https://github.com/kylezantos/design-engineer-auditor-package): A Claude Code skill for motion design audits, trained on Emil Kowalski, Jakub Krehel, and Jhey Tompkins.
+- [**pathmode-skills**](https://github.com/pathmodeio/claude-code-skills): 7 auto-triggering Claude Code skills for product intent — compile-intent, grill-intent, verify-intent, review-against-intent, split-intent-to-issues, handoff-intent, and setup-pathmode-workflow. Same SKILL.md format as mattpocock/skills.
 
 ---
 
@@ -377,6 +378,7 @@ A curated list of awesome tools, skills, plugins, integrations, extensions, fram
 - [**shotgun-alpha**](https://github.com/shotgun-sh/shotgun-alpha) (3 ⭐) - Codebase-aware spec engine for Cursor, Claude Code & Lovable.
 - [**conductor**](https://conductor.build/) (0 ⭐) - Run a bunch of Claude Codes in parallel.
 - [**claude-deep-research**](https://www.google.com/search?q=https://github.com/disler/claude-deep-research) (0 ⭐) - Claude Deep Research config for Claude Code.
+- [**pathmode-mcp-server**](https://github.com/pathmodeio/mcp-server): MCP server with Socratic AI conversation that turns vague problems into structured intent specs. Two modes — local (writes `intent.md`) or team mode with evidence anchoring and dependency graphs. Ships with the Pathmode Claude Code skill pack.
 
 ---
 
