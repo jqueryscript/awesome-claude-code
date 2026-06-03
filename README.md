@@ -442,6 +442,7 @@ A curated list of awesome tools, skills, plugins, integrations, extensions, fram
 - ✨ [**claude-code-proxy**](https://github.com/seifghazi/claude-code-proxy) (340 ⭐) - Proxy that captures and visualizes in-flight Claude Code requests and conversations.
 - ✨ [**gemini-for-claude-code**](https://github.com/coffeegrind123/gemini-for-claude-code) (333 ⭐) - A Python program allowing the use of Claude Code with Google's Gemini models.
 - ✨ [**mcp-claude-code**](https://github.com/SDGLBL/mcp-claude-code) (296 ⭐) - MCP implementation of Claude Code capabilities and more.
+- ✨ [**claude-code-cache-fix**](https://github.com/cnighswonger/claude-code-cache-fix) (270 ⭐) - Local proxy that fixes Claude Code's prompt-cache TTL handling, reducing token spend on long sessions.
 - ✨ [**claude_code-gemini-mcp**](https://github.com/RaiAnsar/claude_code-gemini-mcp) (237 ⭐) - Connect Claude Code with Google's Gemini AI for powerful AI collaboration.
 - ✨ [**claude-code-nexus**](https://github.com/KroMiose/claude-code-nexus) (224 ⭐) - Seamlessly forward Claude Code requests to any OpenAI-compatible API service with smart model mapping, streaming support, deployed on Cloudflare Worker.
 - ✨ [**claude-historian**](https://github.com/Vvkmnn/claude-historian) (197 ⭐) - An MCP server for Claude Code conversation history.
