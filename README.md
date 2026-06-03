@@ -515,6 +515,7 @@ A curated list of awesome tools, skills, plugins, integrations, extensions, fram
 - 🔥 [**grok-cli**](https://github.com/superagent-ai/grok-cli) (2.2k ⭐) - An open-source AI agent that brings the power of Grok directly into your terminal.
 - 🌟 [**octofriend**](https://github.com/synthetic-lab/octofriend) (819 ⭐) - An open-source coding helper. Very friendly!
 - ✨ [**opencoder**](https://github.com/ducan-ne/opencoder) (361 ⭐) - An alternative to Claude Code.
+- [**dvalincode**](https://github.com/arthurpanhku/dvalincode) - A local-first, provider-neutral AI coding agent with three modes (Chat / Cowork / Code), inline diff approval, and a built-in Web GUI. Brings your own model (DeepSeek, OpenAI, Claude via OpenRouter, Groq, Ollama).
 
 ---
 
