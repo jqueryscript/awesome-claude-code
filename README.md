@@ -449,6 +449,7 @@ A curated list of awesome tools, skills, plugins, integrations, extensions, fram
 - [**castari-proxy**](https://github.com/castar-ventures/castari-proxy) (73 ⭐) - Use Claude Agent SDK and Claude Code with other providers/models.
 - [**claude-code-open**](https://github.com/Davincible/claude-code-open) (66 ⭐) - Claude Code with any LLM provider (OpenRouter, Gemini, Kimi K2).
 - [**Claudify**](https://github.com/neno-is-ooo/claudify) (32 ⭐) - Use Claude Code as an LLM provider with your subscription flat fee instead of pay-per-token API keys.
+- [**CoderPlan**](https://coderplan.ai) - Unified LLM API gateway for Claude Code, Codex CLI, and Gemini CLI. Supports Claude, OpenAI, Gemini, DeepSeek with pay-per-use pricing. China-optimized with Alipay/WeChat payments.
 
 ---
 
