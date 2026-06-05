@@ -94,6 +94,7 @@ A curated list of awesome tools, skills, plugins, integrations, extensions, fram
 - 🔥 [**Superpowers**](https://github.com/obra/superpowers) (174k ⭐) - Give Claude Code superpowers with a comprehensive skills library of proven techniques, patterns, and tools.
 - 🔥 [**mattpocock skills**](https://github.com/mattpocock/skills) (40.5k ⭐) - Skills for Real Engineers.
 - 🔥 [**caveman**](https://github.com/JuliusBrussee/caveman) (27.9k ⭐) - A Claude Code skill/plugin and Codex plugin that makes agent talk like caveman — cutting ~75% of output tokens while keeping full technical accuracy.
+- 🔥 [**Claude-Code-Game-Studios**](https://github.com/Donchitos/Claude-Code-Game-Studios) (20.9k ⭐) - Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete coordination system mirroring real studio hierarchy.
 - 🔥 [**scientific-agent-skills**](https://github.com/K-Dense-AI/scientific-agent-skills) (18.4k ⭐) - A set of ready to use Agent Skills for research, science, engineering, analysis, finance and writing.
 - 🔥 [**ui-ux-pro-max-skill**](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) (16.9k ⭐): An AI SKILL that provide design intelligence for building professional UI/UX multiple platforms.
 - 🔥 [**graphify**](https://github.com/safishamsi/graphify) (15.3k ⭐): AI coding assistant skill (Claude Code, Codex, OpenCode, OpenClaw, Factory Droid, Trae). 
@@ -109,6 +110,7 @@ A curated list of awesome tools, skills, plugins, integrations, extensions, fram
 - 🔥 [**Auto-claude-code-research-in-sleep**](https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep) (6.6k ⭐): Lightweight Markdown-only skills for autonomous ML research.
 - 🔥 [**claude-scientific-skills**](https://github.com/K-Dense-AI/claude-scientific-skills) (6.4k ⭐): A set of ready to use scientific skills for Claude.
 - 🔥 [**slavingia/skills**](https://github.com/slavingia/skills) (5.8k ⭐): Claude Code skills based on The Minimalist Entrepreneur by Sahil Lavingia.
+- 🔥 [**Waza**](https://github.com/tw93/Waza) (5.5k ⭐): Engineering habits you already know, turned into skills Claude can run.
 - 🔥 [**html-ppt-skill**](https://github.com/lewislulu/html-ppt-skill) (5k ⭐): HTML PPT Studio — AgentSkill with 24 themes, 31 layouts, 20+ animations for building professional HTML presentations.
 - 🔥 [**prompt-master**](https://github.com/nidhinjs/prompt-master) (4.9k ⭐): A Claude skill that writes the accurate prompts for any AI tool. 
 - 🔥 [**marketingskills**](https://github.com/coreyhaines31/marketingskills) (4.8k ⭐): Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.
@@ -120,6 +122,7 @@ A curated list of awesome tools, skills, plugins, integrations, extensions, fram
 - 🔥 [**stop-slop**](https://github.com/hardikpandya/stop-slop) (3.7k ⭐): A skill file for removing AI tells from prose.
 - 🔥 [**antfu's skills**](https://github.com/antfu/skills) (3.5k ⭐): Anthony Fu's curated collection of agent skills.
 - 🔥 [**geo-seo-claude**](https://github.com/zubair-trabzada/geo-seo-claude) (3.5k ⭐): GEO-first SEO skill for Claude Code. Comprehensive AI search optimization for any website — citability scoring, AI crawler analysis, brand authority, schema markup, platform-specific optimization, and PDF reports.
+- 🔥 [**SenseNova-Skills**](https://github.com/OpenSenseNova/SenseNova-Skills) (3.5k ⭐): Modular SenseNova skills for building AI-powered office assistants and productivity workflows.
 - 🔥 [**academic-research-skills**](https://github.com/Imbad0202/academic-research-skills) (3.4k ⭐): Academic Research Skills for Claude Code: research → write → review → revise → finalize.
 - 🔥 [**Dimillian Skills**](https://github.com/Dimillian/Skills) (3.4k ⭐): A collection of reusable development skills for Apple platforms, GitHub workflows, refactoring, diff review swarms, bug investigation swarms, code review, React performance work, and skill curation.
 - 🔥 [**dev-browser**](https://github.com/SawyerHood/dev-browser) (3.3k ⭐): A Claude Skill to give your agent the ability to use a web browser.
@@ -127,9 +130,11 @@ A curated list of awesome tools, skills, plugins, integrations, extensions, fram
 - 🔥 [**humanizer**](https://github.com/blader/humanizer) (2.9k ⭐): A Claude Code skill that removes signs of AI-generated writing from text, making it sound more natural and human.
 - 🔥 [**autoresearch**](https://github.com/uditgoenka/autoresearch) (2.9k ⭐): Turn Claude Code into a relentless improvement engine.
 - 🔥 [**guizang-ppt-skill**](https://github.com/op7418/guizang-ppt-skill) (2.9k ⭐): A Claude Code Skill that turns prompts into horizontal-swipe magazine-style HTML decks.
+- 🔥 [**guizang-social-card-skill**](https://github.com/op7418/guizang-social-card-skill) (2.9k ⭐): Claude Code / Codex skill — generate Xiaohongshu carousels & WeChat 21:9+1:1 cover pairs.
 - 🔥 [**fireworks-tech-graph**](https://github.com/yizhiyanhua-ai/fireworks-tech-graph) (2.8k ⭐): Claude Code skill for generating production-quality SVG+PNG technical diagrams.
 - 🔥 [**claude-ads**](https://github.com/AgriciDaniel/claude-ads) (2.8k ⭐): Comprehensive paid advertising audit & optimization skill for Claude Code.
 - 🔥 [**Research-Paper-Writing-Skills**](https://github.com/Master-cai/Research-Paper-Writing-Skills) (2.8k ⭐): Skill package for ML/CV/NLP paper writing, curated and adapted from Prof. Peng Sida's open notes for Codex, Claude Code, and Gemini.
+- 🔥 [**NotFair**](https://github.com/nowork-studio/NotFair) (2.8k ⭐): Open-source Claude Code skills for SEO, GEO, Google Ads, Meta Ads.
 - 🔥 [**notebooklm-skill**](https://github.com/PleasePrompto/notebooklm-skill) (2.7k ⭐): Use this skill to enable Claude Code to communicate directly with your Google NotebookLM notebooks. 
 - 🔥 [**SwiftUI-Agent-Skill**](https://github.com/twostraws/SwiftUI-Agent-Skill) (2.7k ⭐): SwiftUI agent skill for Claude Code, Codex, and other AI tools.
 - 🔥 [**codebase-to-course**](https://github.com/zarazhangrui/codebase-to-course) (2.7k ⭐): A Claude Code skill that turns any codebase into a beautiful, interactive single-page HTML course for non-technical vibe coders.
@@ -140,6 +145,7 @@ A curated list of awesome tools, skills, plugins, integrations, extensions, fram
 - 🔥 [**markdown-viewer skills**](https://github.com/markdown-viewer/skills) (2.4k ⭐): Opinionated skills for AI coding agents to create stunning diagrams and visualizations directly in Markdown.
 - 🔥 [**9arm-skills**](https://github.com/thananon/9arm-skills) (2.4k ⭐): Agent skills loaded by Claude Code.
 - 🔥 [**finance-skills**](https://github.com/himself65/finance-skills) (2.4k ⭐): A collection of skills for AI financial analysis and trading.
+- 🔥 [**anysearch-skill**](https://github.com/anysearch-ai/anysearch-skill) (2.4k ⭐): Unified real-time search engine skill for AI agents.
 - 🔥 [**Kami**](https://github.com/ericosiu/ai-marketing-skills) (2.3k ⭐): Good content deserves good paper.
 - 🔥 [**n8n-skills**](https://github.com/czlonkowski/n8n-skills) (2.2k ⭐): n8n skillset for Claude Code to build flawless n8n workflows.
 - 🔥 [**AI-research-SKILLs**](https://github.com/Orchestra-Research/AI-research-SKILLs) (2.2k ⭐): Visual Skills Pack for Obsidian: generate Canvas, Excalidraw, and Mermaid diagrams from text with Claude Code.
@@ -158,7 +164,6 @@ A curated list of awesome tools, skills, plugins, integrations, extensions, fram
 - 🔥 [**terraform-skill**](https://github.com/antonbabenko/terraform-skill) (1.7k ⭐): Terraform & OpenTofu Skill for AI Agents - testing, modules, CI/CD, and production patterns. 
 - 🔥 [**ctf-skills**](https://github.com/ljagiello/ctf-skills) (1.7k ⭐): Agent skills for solving CTF challenges - web exploitation, binary pwn, crypto, reverse engineering, forensics, OSINT, and more.
 - 🔥 [**Vibe-Skills**](https://github.com/foryourhealth111-pixel/Vibe-Skills) (1.7k ⭐): An all-in-one AI skills package.
-- 🔥 [**toprank**](https://github.com/nowork-studio/toprank) (1.7k ⭐): Open-source Claude Code skills for SEO, GEO, Google Ads, Meta Ads.
 - 🔥 [**Swift-Agent-Skills**](https://github.com/nowork-studio/toprank) (1.7k ⭐): A curated directory of open-source AI agent skills for Swift and Apple platform development.
 - 🔥 [**seedance-prompt-skill**](https://github.com/songguoxs/seedance-prompt-skill) (1.7k ⭐): A Claude Code custom skill that turns Claude into a professional AI video prompt engineer for ByteDance's Seedance 2.0 (即梦) video generation platform.
 - 🔥 [**playwright-skill**](https://github.com/lackeyjb/playwright-skill) (1.5k ⭐): Claude Code Skill for browser automation with Playwright. Model-invoked - Claude autonomously writes and executes custom automation for testing and validation.
