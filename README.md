@@ -34,6 +34,7 @@ A curated list of awesome tools, skills, plugins, integrations, extensions, fram
 - 🔥 [**skills**](https://github.com/anthropics/skills) (37.5k ⭐) - Public repository for Agent Skills.
 - 🔥 [**claude-code-sdk-python**](https://github.com/anthropics/claude-code-sdk-python) (4.0k ⭐) - The official Python SDK for Claude Code.
 - 🔥 [**claude-code-security-review**](https://github.com/anthropics/claude-code-security-review) (2.8k ⭐) - An AI-powered security review GitHub Action using Claude to analyze code changes for security vulnerabilities.
+- 🔥 [**huiyu-safe-ai**](https://github.com/huiyu9144/huiyu-safe-ai) (1 ⭐) - Lightweight AI security guard for install/download commands. Blocks 68+ malicious packages, verifies identity, scans code in <1s. Built from a real supply chain attack.
 - 🔥 [**claude-plugins-official**](https://github.com/anthropics/claude-plugins-official) (2.8k ⭐) - Anthropic-managed directory of high quality Claude Code Plugins.
 
 ---
