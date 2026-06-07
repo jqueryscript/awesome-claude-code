@@ -369,6 +369,7 @@ A curated list of awesome tools, skills, plugins, integrations, extensions, fram
 - [**run-claude-docker**](https://github.com/icanhasjonas/run-claude-docker) (58 ⭐) - Run claude code in somewhat safe and isolated yolo mode.
 - [**flashbacker**](https://github.com/agentsea/flashbacker) (54 ⭐) - Claude Code state management with session continuity and AI personas, subagents and agent discussion.
 - [**ccguard**](https://github.com/pomterre/ccguard) (45 ⭐) - Automated enforcement of net-negative LOC, complexity constraints, and quality standards for Claude code.
+- [**cc-safe-setup**](https://github.com/yurukusa/cc-safe-setup) (45 ⭐) - One command (`npx cc-safe-setup`) installs safety hooks that block destructive and cost-runaway operations before they run — rm -rf, force-push, multi-branch CI fan-out, runaway fetch/output loops — plus a 0–100 safety-score audit.
 - [**Severance**](https://github.com/blas0/Severance) (41 ⭐) - A semantic memory system designed for Claude Code.
 - [**claude-code-specs-generator**](https://github.com/kellemar/claude-code-specs-generator) (38 ⭐) - A documentation and context management system for AI-assisted development, inspired by Amazon's Kiro IDE.
 - [**claude-code-voice**](https://github.com/mckaywrigley/claude-code-voice) (38 ⭐) - Hands-free voice control for Claude Code on macOS.
