@@ -520,6 +520,7 @@ A curated list of awesome tools, skills, plugins, integrations, extensions, fram
 - 🔥 [**grok-cli**](https://github.com/superagent-ai/grok-cli) (2.2k ⭐) - An open-source AI agent that brings the power of Grok directly into your terminal.
 - 🌟 [**octofriend**](https://github.com/synthetic-lab/octofriend) (819 ⭐) - An open-source coding helper. Very friendly!
 - ✨ [**opencoder**](https://github.com/ducan-ne/opencoder) (361 ⭐) - An alternative to Claude Code.
+- [EGC](https://github.com/Fmarzochi/EGC) - Local-first MCP runtime with persistent memory and shared workflows. Gives Claude Code cross-session context and project memory. TypeScript, zero cloud dependencies.
 
 ---
 
