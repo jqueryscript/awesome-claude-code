@@ -507,6 +507,7 @@ A curated list of awesome tools, skills, plugins, integrations, extensions, fram
 - ✨ [**claude-code-mcpinstall**](https://github.com/undeadpickle/claude-code-mcpinstall) (236 ⭐) - Easy guide to installing Claude Code MCPs globally on your machine.
 - ✨ [**claude-code-system-prompt**](https://github.com/matthew-lim-matthew-lim/claude-code-system-prompt) (122 ⭐) - Claude Code's system prompt.
 - [**claudecode-best-practices**](https://github.com/rosmur/claudecode-best-practices) (54 ⭐) - A collection of best practices and procedures for using Claude Code.
+- [**agent-workspace-architecture**](https://github.com/jimy-r/agent-workspace-architecture) (2 ⭐) - Redacted architecture of a real long-running Claude Code workspace: roles library, scheduled agents with a dead-man's switch, weekly self-audit with canaries, memory hygiene discipline, plus an interactive tour of its load-bearing patterns.
 
 ---
 
