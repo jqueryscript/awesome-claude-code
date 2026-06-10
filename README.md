@@ -409,6 +409,7 @@ A curated list of awesome tools, skills, plugins, integrations, extensions, fram
 - 🔥 [**1code**](https://github.com/21st-dev/1code) (4.4k ⭐) - Best UI for Claude Code with local and remote agent execution.
 - 🔥 [**CodePilot**](https://github.com/op7418/CodePilot) (1.8k ⭐) - A native desktop GUI for Claude Code — chat, code, and manage projects visually.
 - 🔥 [**companion**](https://github.com/The-Vibe-Company/companion) (1.7k ⭐) - Open-source Claude Code / Codex Web UI. 
+- 🔥 [**Cate**](https://github.com/0-AI-UG/cate) (1.3k ⭐) - An open source desktop IDE on an infinite zoomable canvas. Editor, terminal, browser, and Claude Code agent panels float in freeform space instead of tabs.
 - 🔥 [**Sniffly**](https://github.com/chiphuyen/sniffly) (1.1k ⭐) - Claude Code dashboard with usage stats, error analysis, and sharable feature.
 - 🔥 [**cui**](https://github.com/BMPixel/cui) (1.1k ⭐) - A web UI for Claude Code agents.
 - 🔥 [**clui-cc**](https://github.com/lcoutodemos/clui-cc) (946 ⭐) - A lightweight, transparent desktop overlay for Claude Code on macOS. Clui CC wraps the Claude Code CLI in a floating pill interface with multi-tab sessions, a permission approval UI, voice input, and a skills marketplace.
