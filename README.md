@@ -343,6 +343,7 @@ A curated list of awesome tools, skills, plugins, integrations, extensions, fram
 - ✨ [**claude-setup**](https://github.com/AizenvoltPrime/claude-setup) (269 ⭐) - A comprehensive configuration setup for Claude Code with Model Context Protocol (MCP) servers, custom commands, and automated workflows.
 - ✨ [**claude-modular**](https://github.com/oxygen-fragment/claude-modular) (269 ⭐) - Production-ready modular Claude Code framework with 30+ commands, token optimization, and MCP server integration.
 - ✨ [**claude-code-sandbox**](https://github.com/textcortex/claude-code-sandbox) (255 ⭐) - Run Claude Code safely in local Docker containers without having to approve every permission.
+- [**ccline**](https://github.com/jianshuo/ccline) (new) - zsh shell integration: type a natural-language thought at your prompt, get a Claude AI answer rendered as Markdown, and run suggested commands with one keypress in your live shell. Hijacks `command_not_found_handler`.
 - ✨ [**claude-blocker**](https://github.com/T3-Content/claude-blocker) (247 ⭐) - Block distracting websites unless Claude Code is actively running inference.
 - ✨ [**Claude Code Tamagotchi**](https://github.com/Ido-Levi/claude-code-tamagotchi) (240 ⭐) - A digital friend that lives in your Claude Code statusline and keeps you company while you build cool stuff.
 - ✨ [**claude-code-containers**](https://github.com/ghostwriternr/claude-code-containers) (227 ⭐) - Use Claude Code on Cloudflare to solve GitHub issues.
