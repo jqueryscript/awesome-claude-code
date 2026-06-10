@@ -390,6 +390,7 @@ A curated list of awesome tools, skills, plugins, integrations, extensions, fram
 - [**shotgun-alpha**](https://github.com/shotgun-sh/shotgun-alpha) (3 ⭐) - Codebase-aware spec engine for Cursor, Claude Code & Lovable.
 - [**conductor**](https://conductor.build/) (0 ⭐) - Run a bunch of Claude Codes in parallel.
 - [**claude-deep-research**](https://www.google.com/search?q=https://github.com/disler/claude-deep-research) (0 ⭐) - Claude Deep Research config for Claude Code.
+- [**memorize**](https://github.com/shakystar/memorize) (0 ⭐) - Shared, persistent project memory for Claude Code and Codex — hooks capture work, background consolidation distills long-term memories through your existing CLI login (no API key), and session-start injection restores context across agents and machines. Local-first, event-sourced, AGPL.
 
 ---
 
