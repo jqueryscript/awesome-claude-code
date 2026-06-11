@@ -270,6 +270,7 @@ A curated list of awesome tools, skills, plugins, integrations, extensions, fram
 ## 🔌 Claude Plugins
 
 
+- ✨ [**ejentum-mcp**](https://github.com/ejentum/ejentum-mcp): MCP server with reasoning, code, anti-deception, and memory tools for AI agents.
 - 🔥 [**claude-hud**](https://github.com/jarrodwatts/claude-hud): A Claude Code plugin that shows what's happening - context usage, active tools, running agents, and todo progress.
 - 🔥 [**call-me**](https://github.com/ZeframLou/call-me): Minimal plugin that lets Claude Code call you on the phone.
 - 🔥 [**harness**](https://github.com/revfactory/harness): A meta-skill that designs domain-specific agent teams, defines specialized agents, and generates the skills they use.
