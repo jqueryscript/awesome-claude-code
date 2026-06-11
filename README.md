@@ -257,6 +257,7 @@ A curated list of awesome tools, skills, plugins, integrations, extensions, fram
 - [**BFL Agent Skills**](https://docs.bfl.ai/api_integration/skills_integration): Reusable capabilities that teach AI agents how to work with FLUX models.
 - [**Manus Skills**](https://manus.im/blog/manus-skills): Manus' official agent skills.
 - [**Firecrawl Skills**](https://docs.firecrawl.dev/sdks/cli): An easy way for AI agents such as Claude Code, Antigravity and OpenCode to use Firecrawl through the CLI.
+- [**CreatorSkills**](https://creatorskills.co): Curated marketplace of 30+ downloadable AI skills for content creators — YouTube scripting, sponsorship analysis, content repurposing, and audience growth. Uses the open SKILL.md format.
 - [**Apple-Hig-Designer**](https://github.com/axiaoge2/Apple-Hig-Designer): A Claude Code Skill for designing professional interfaces following Apple Human Interface Guidelines.
 - [**skill-threat-modeling**](https://github.com/fr33d3m0n/skill-threat-modeling): Code-First Deep Risk Analysis Skill for Claude Code - 8-Phase Workflow with Security design review, STRIDE Threat modeling, PenTest and attack chain analysis, Software compliance assessment.
 - [**google-ai-mode-skill**](https://github.com/PleasePrompto/google-ai-mode-skill): Claude Code skill for free Google AI Mode search with citations.
