@@ -430,6 +430,7 @@ A curated list of awesome tools, skills, plugins, integrations, extensions, fram
 - [**ccmate-release**](https://github.com/djyde/ccmate-release) (57 ⭐) - A GUI for Claude Code.
 - [**Claude-Code-Web-GUI**](https://github.com/binggg/Claude-Code-Web-GUI) (56 ⭐) - Browse, view and share your Claude Code sessions - runs entirely in browser, no server required!
 - [**Claude in a Box**](https://github.com/juancgarza/claude-in-a-box) (48 ⭐) - A ChatGPT Canvas-style interface for Claude Code running in E2B sandboxes.
+- [**DPlex**](https://github.com/Ron537/DPlex) - Desktop multiplexer for Claude Code and Copilot CLI sessions — auto-discovers past sessions, resumes any of them in one click, and restores all open session tabs (splits, CWDs, resume commands) across restarts. Cross-platform Electron app with split panes, projects, worktrees, and a built-in VSCode-style source control view.
 
 ---
 
