@@ -277,6 +277,7 @@ A curated list of awesome tools, skills, plugins, integrations, extensions, fram
 - 🔥 [**interface-design**](https://github.com/Dammyjay93/interface-design): Design engineering for Claude Code. Craft, memory, and enforcement for consistent UI.
 - 🔥 [**claude-workflow-v2**](https://github.com/CloudAI-X/claude-workflow-v2): Universal Claude Code workflow plugin with agents, skills, hooks, and commands.
 - 🌟 [**claude-code-safety-net**](https://github.com/kenryu42/claude-code-safety-net): A Claude Code plugin that acts as a safety net, catching destructive git and filesystem commands before they execute.
+- ✨ [**cc-powerpack**](https://github.com/Ludoonus/cc-powerpack): Safety guardrails for Claude Code agents - pre-push secret scanning, dangerous-command gate, and worktree protection as native hooks.
 - ✨ [**ralph-wiggum-marketer**](https://github.com/muratcankoylan/ralph-wiggum-marketer): A Claude Code Plugin that provides an autonomous AI copywriter.
 - ✨ [**hackingtool-plugin**](https://github.com/AKCodez/hackingtool-plugin): 183+ pentesting & OSINT tools from Z4nzu/hackingtool.
 - ✨ [**hello2cc**](https://github.com/hellowind777/hello2cc): Native-first Claude Code plugin for third-party models with silent Agent model injection and output styles.
