@@ -374,6 +374,7 @@ A curated list of awesome tools, skills, plugins, integrations, extensions, fram
 - [**claude-code-auto-memory**](https://github.com/severity1/claude-code-auto-memory) (81 ⭐) - Claude Code plugin that automatically maintains CLAUDE.md files.
 - [**claude-prune**](https://github.com/DannyAziz/claude-prune) (78 ⭐) - A fast CLI tool for pruning Claude Code sessions.
 - [**claude-code-container**](https://github.com/tintinweb/claude-code-container) (76 ⭐) - A Docker container for running Claude Code in "dangerously skip permissions" mode.
+- [**sverklo**](https://github.com/sverklo/sverklo) (71 ⭐) - Local-first repo memory and code-intelligence MCP for Claude Code, Cursor, Windsurf, and Codex CLI with semantic search, symbol lookup, impact analysis, diff-aware review, and no-write proof receipts before setup.
 - [**run-claude-docker**](https://github.com/icanhasjonas/run-claude-docker) (58 ⭐) - Run claude code in somewhat safe and isolated yolo mode.
 - [**flashbacker**](https://github.com/agentsea/flashbacker) (54 ⭐) - Claude Code state management with session continuity and AI personas, subagents and agent discussion.
 - [**ccguard**](https://github.com/pomterre/ccguard) (45 ⭐) - Automated enforcement of net-negative LOC, complexity constraints, and quality standards for Claude code.
