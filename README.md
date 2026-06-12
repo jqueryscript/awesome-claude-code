@@ -277,7 +277,6 @@ A curated list of awesome tools, skills, plugins, integrations, extensions, fram
 - 🔥 [**interface-design**](https://github.com/Dammyjay93/interface-design): Design engineering for Claude Code. Craft, memory, and enforcement for consistent UI.
 - 🔥 [**claude-workflow-v2**](https://github.com/CloudAI-X/claude-workflow-v2): Universal Claude Code workflow plugin with agents, skills, hooks, and commands.
 - 🌟 [**claude-code-safety-net**](https://github.com/kenryu42/claude-code-safety-net): A Claude Code plugin that acts as a safety net, catching destructive git and filesystem commands before they execute.
-- ✨ [**cc-powerpack**](https://github.com/Ludoonus/cc-powerpack): Safety guardrails for Claude Code agents - pre-push secret scanning, dangerous-command gate, and worktree protection as native hooks.
 - ✨ [**ralph-wiggum-marketer**](https://github.com/muratcankoylan/ralph-wiggum-marketer): A Claude Code Plugin that provides an autonomous AI copywriter.
 - ✨ [**hackingtool-plugin**](https://github.com/AKCodez/hackingtool-plugin): 183+ pentesting & OSINT tools from Z4nzu/hackingtool.
 - ✨ [**hello2cc**](https://github.com/hellowind777/hello2cc): Native-first Claude Code plugin for third-party models with silent Agent model injection and output styles.
@@ -475,6 +474,7 @@ A curated list of awesome tools, skills, plugins, integrations, extensions, fram
 - 🔥 [**ccstatusline**](https://github.com/sirmalloc/ccstatusline) (2.7k ⭐) - A customizable status line formatter for Claude Code CLI that displays model info, git branch, token usage, and other metrics in your terminal.
 - 🔥 [**codeburn**](https://github.com/AgentSeal/codeburn) (1.5k ⭐) - See where your AI coding tokens go. Interactive TUI dashboard for Claude Code, Codex, and Cursor cost observability.
 - 🔥 [**CCometixLine**](https://github.com/Haleclipse/CCometixLine) (1.3k ⭐) - A high-performance Claude Code statusline tool written in Rust with Git integration and real-time usage tracking.
+- ✨ [**Operator**](https://github.com/Ludoonus/operator) - Unified cost, **audit, and safety** console for Claude Code. Beyond token cost: shows every command run, sensitive-path access, and the dangerous actions your agent *attempted* (force-pushes, rm -rf, curl|sh), plus re-read waste. Local, no telemetry.
 - 🌟 [**claude-usage**](https://github.com/phuryn/claude-usage) (818 ⭐) - A local dashboard for tracking your Claude Code token usage, costs, and session history.
 - 🌟 [**CCSeva**](https://github.com/Iamshankhadeep/ccseva) (748 ⭐) - A beautiful macOS menu bar app for tracking your Claude Code usage in real-time.
 - 🌟 [**tokentap**](https://github.com/jmuncor/tokentap) (685 ⭐) - Intercept LLM API traffic and visualize token usage in a real-time terminal dashboard. 
