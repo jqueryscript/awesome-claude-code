@@ -430,6 +430,7 @@ A curated list of awesome tools, skills, plugins, integrations, extensions, fram
 - [**ccmate-release**](https://github.com/djyde/ccmate-release) (57 ⭐) - A GUI for Claude Code.
 - [**Claude-Code-Web-GUI**](https://github.com/binggg/Claude-Code-Web-GUI) (56 ⭐) - Browse, view and share your Claude Code sessions - runs entirely in browser, no server required!
 - [**Claude in a Box**](https://github.com/juancgarza/claude-in-a-box) (48 ⭐) - A ChatGPT Canvas-style interface for Claude Code running in E2B sandboxes.
+- [**WithVibe**](https://github.com/withvibe/withvibe) (6 ⭐) - Self-hosted web environment for running Claude Code collaboratively — teams spin up isolated coding environments and drive Claude from a shared browser interface, with automated agent review gates.
 
 ---
 
