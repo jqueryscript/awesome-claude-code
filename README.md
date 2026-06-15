@@ -12,9 +12,13 @@ A curated list of awesome tools, skills, plugins, integrations, extensions, fram
 
 ## Changelog
 
+June 16, 2026
+
+- Added more plugins & agent skills.
+
 June 14, 2026
 
-- Updated GitHub star counts
+- Updated GitHub star counts.
 
 ## Table of Contents
 
@@ -54,13 +58,16 @@ June 14, 2026
 - 🔥 [**agents**](https://github.com/contains-studio/agents) (12.4k ⭐) - A comprehensive collection of specialized AI agents designed to accelerate and enhance every aspect of rapid development.
 - 🔥 [**claude-squad**](https://github.com/smtg-ai/claude-squad) (7.8k ⭐) - Manage multiple AI terminal agents, including Claude Code, Aider, Codex, OpenCode, and Amp.
 - 🔥 [**seomachine**](https://github.com/TheCraigHewitt/seomachine) (7.1k ⭐) - A specialized Claude Code workspace for creating long-form, SEO-optimized blog content for any business.
+- 🔥 [**herdr**](https://github.com/ogulcancelik/herdr) (5.7k ⭐) - Agent multiplexer that lives in your terminal.
 - 🔥 [**awesome-claude-agents**](https://github.com/vijaythecoder/awesome-claude-agents) (4.3k ⭐) - Supercharge Claude Code with a team of specialized AI agents that work together to build complete features, debug complex issues, and handle any technology stack with expert-level knowledge.
 - 🔥 [**claude-code-subagents-collection**](https://github.com/davepoon/claude-code-subagents-collection) (3.1k ⭐) - A comprehensive collection of specialized AI subagents for Claude Code, designed to enhance development workflows with domain-specific expertise.
+- 🔥 [**raptor**](https://github.com/gadievron/raptor) (3k ⭐) - Turns Claude Code into a general-purpose AI offensive/defensive security agent.
 - 🔥 [**claude-subconscious**](https://github.com/letta-ai/claude-subconscious) (2.8k ⭐) - A background agent that whispers to Claude Code. A subconcious agent that watches your sessions, reads your files, builds up memory over time, and whispers guidance back.
 - 🔥 [**seo-geo-claude-skills**](https://github.com/aaron-he-zhu/seo-geo-claude-skills) (2.1k ⭐) - 20 SEO & GEO skills for Claude Code, Cursor, Codex, and 35+ AI agents. Keyword research, content writing, technical audits, rank tracking.
 - 🔥 [**deepclaude**](https://github.com/aattaran/deepclaude) (2.1k ⭐) - A Claude Code skill for generating UI in the Nothing design language. Monochrome, typographic, industrial.
 - 🔥 [**claude-agents**](https://github.com/iannuttall/claude-agents) (2.1k ⭐) - Custom subagents to use with Claude Code.
 - 🔥 [**claude-code-sub-agents**](https://github.com/lst97/claude-code-sub-agents) (1.6k ⭐) - Collection of specialized AI subagents for Claude Code for personal use.
+- 🔥 [**omnigent**](https://github.com/omnigent-ai/omnigent) (1.4k ⭐) - A meta-harness for all your AI agents.
 - 🔥 [**awesome-claude-code-agents**](https://github.com/hesreallyhim/awesome-claude-code-agents) (1.3k ⭐) - A curated list of awesome Claude Code Sub-Agents.
 - 🔥 [**Pika-Skills**](https://github.com/Pika-Labs/Pika-Skills) (1.1k ⭐) - A collection of open-source skills for AI coding agents (Claude Code, OpenClaw, etc.) powered by the Pika Developer API.
 - 🌟 [**agent-flow**](https://github.com/patoles/agent-flow) (974 ⭐) - Real-time visualization of Claude Code agent orchestration — see your agents think, branch, and coordinate as they work.
@@ -157,6 +164,7 @@ June 14, 2026
 - 🔥 [**claude-design-engineer**](https://github.com/Dammyjay93/claude-design-engineer) (5.0k ⭐): Design engineering for Claude Code. Craft, memory, and enforcement for consistent UI.
 - 🔥 [**autoresearch**](https://github.com/uditgoenka/autoresearch) (5.0k ⭐): Turn Claude Code into a relentless improvement engine.
 - 🔥 [**codebase-to-course**](https://github.com/zarazhangrui/codebase-to-course) (4.6k ⭐): A Claude Code skill that turns any codebase into a beautiful, interactive single-page HTML course for non-technical vibe coders.
+- 🔥 [**improve**](https://github.com/shadcn/improve) (4.6k ⭐): Use your most capable model to audit your codebase and write plans for cheaper models to execute.
 - 🔥 [**SenseNova-Skills**](https://github.com/OpenSenseNova/SenseNova-Skills) (4.5k ⭐): Modular SenseNova skills for building AI-powered office assistants and productivity workflows.
 - 🔥 [**cheat-on-content**](https://github.com/XBuilderLAB/cheat-on-content) (4.2k ⭐): A skill that turns every post into a calibrated experiment.
 - 🔥 [**SwiftUI-Agent-Skill**](https://github.com/twostraws/SwiftUI-Agent-Skill) (4.1k ⭐): SwiftUI agent skill for Claude Code, Codex, and other AI tools.
@@ -233,6 +241,7 @@ June 14, 2026
 - 🌟 [**VibeSec-Skill**](https://github.com/BehiSecc/VibeSec-Skill) (945 ⭐): This skill helps Claude write secure code and prevent common vulnerabilities.
 - 🌟 [**next-skills**](https://github.com/vercel-labs/next-skills) (929 ⭐): Agent skills for common Next.js workflows.
 - 🌟 [**manim_skill**](https://github.com/adithya-s-k/manim_skill) (918 ⭐): Agent skills for Manim to create 3Blue1Brown style animations.
+- 🌟 [**effective-html**](https://github.com/plannotator/effective-html) (866 ⭐): Agent skill for elegant and simple html plans, architecture diagrams, or whatever else you can think of.
 - 🌟 [**adhd**](https://github.com/UditAkhourii/adhd) (814 ⭐): A skill for coding agents. Tree-of-thought with pruning, built on the Claude & Codex Agent SDK.
 - 🌟 [**cc-design**](https://github.com/ZeroZ-lab/cc-design) (805 ⭐): High-fidelity HTML design and prototype guidance skill for AI agents.
 - 🌟 [**x-article-publisher-skill**](https://github.com/wshuyi/x-article-publisher-skill) (802 ⭐): Claude Code skill for publishing Markdown articles to X (Twitter) Articles.
@@ -274,6 +283,7 @@ June 14, 2026
 
 
 - 🔥 [**claude-hud**](https://github.com/jarrodwatts/claude-hud): A Claude Code plugin that shows what's happening - context usage, active tools, running agents, and todo progress.
+- 🔥 [**ponytail**](https://github.com/DietrichGebert/ponytail): Makes your AI agent think like the laziest senior dev in the room.
 - 🔥 [**call-me**](https://github.com/ZeframLou/call-me): Minimal plugin that lets Claude Code call you on the phone.
 - 🔥 [**harness**](https://github.com/revfactory/harness): A meta-skill that designs domain-specific agent teams, defines specialized agents, and generates the skills they use.
 - 🔥 [**arscontexta**](https://github.com/agenticnotetaking/arscontexta): Claude Code plugin that generates individualized knowledge systems from conversation.
