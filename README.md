@@ -476,6 +476,7 @@ June 14, 2026
 ## 📊 Usage & Observability
 
 - 🔥 [**ccusage**](https://github.com/ryoppippi/ccusage) (16.1k ⭐) - A CLI tool for analyzing Claude Code usage from local JSONL files.
+- [**tokenhabit**](https://github.com/epoko77-ai/tokenhabit) - Scans your Claude Code logs for token-wasting *habits* and ranks them with copy-paste fixes, plus an A–F Waste Score. Diagnosis complement to ccusage — no LLM calls, fully offline.
 - 🔥 [**CodexBar**](https://github.com/steipete/CodexBar) (14.8k ⭐) - Show usage stats for OpenAI Codex and Claude Code, without having to login.
 - 🔥 [**ccstatusline**](https://github.com/sirmalloc/ccstatusline) (10.7k ⭐) - A customizable status line formatter for Claude Code CLI that displays model info, git branch, token usage, and other metrics in your terminal.
 - 🔥 [**Claude-Code-Usage-Monitor**](https://github.com/Maciek-roboblog/Claude-Code-Usage-Monitor) (8.2k ⭐) - A real-time Claude Code usage monitor with predictions and warnings.
