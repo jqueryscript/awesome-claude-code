@@ -440,6 +440,7 @@ June 14, 2026
 - [**Claude-Code-Web-GUI**](https://github.com/binggg/Claude-Code-Web-GUI) (72 ⭐) - Browse, view and share your Claude Code sessions - runs entirely in browser, no server required!
 - [**ccmate-release**](https://github.com/djyde/ccmate-release) (56 ⭐) - A GUI for Claude Code.
 - [**Claude in a Box**](https://github.com/juancgarza/claude-in-a-box) (51 ⭐) - A ChatGPT Canvas-style interface for Claude Code running in E2B sandboxes.
+- [**Clave**](https://github.com/codika-io/clave) (25 ⭐) - Native macOS app for running multiple Claude Code, Gemini CLI, and Codex sessions in parallel, with split/grid layouts, per-project session groups, a built-in git panel, and remote sessions over SSH. Fully local and open-source.
 ---
 
 ## 🏗️ Infrastructure & Proxies
