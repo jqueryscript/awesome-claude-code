@@ -276,6 +276,13 @@ June 14, 2026
 - [**meta_skilld**](https://github.com/Dicklesworthstone/meta_skilld): Rust CLI for managing Claude Code skills: indexing, building, bundling, and sharing.
 - [**claude-cs**](https://github.com/nbashaw/claude-cs): A Claude Code skill that helps you build custom customer support automation for your company.
 - [**design-engineer-auditor-package**](https://github.com/kylezantos/design-engineer-auditor-package): A Claude Code skill for motion design audits, trained on Emil Kowalski, Jakub Krehel, and Jhey Tompkins.
+- [**lookdev**](https://github.com/connerkward/lookdev-studio-skill): Human-in-the-loop web studio to tune AI-generated visual output by eye with live sliders, pickers, and drag handles.
+- [**lookdev-auto**](https://github.com/connerkward/lookdev-auto-skill): Automated visual tuning — render labeled variants, a vision model rates them and suggests better values, loop until good.
+- [**deterministic-design**](https://github.com/connerkward/deterministic-design-skill): Render the UI and prove it's balanced and usable — deterministic layout audit plus a vision-judged usability pass.
+- [**ckw-design**](https://github.com/connerkward/ckw-design-skill): Frontend design skill — direction, design system, and visual philosophy for building and polishing web UIs.
+- [**screenstudio-alt**](https://github.com/connerkward/screenstudio-alternative-skill): Headless, open-source Screen Studio alternative — auto-zoom, idle speed-up, keystroke overlays, and 9:16 vertical export.
+- [**macos-screen-recorder**](https://github.com/connerkward/macos-screen-recorder-system-audio): Headless macOS screen recorder capturing display plus system audio via ScreenCaptureKit — CLI, no loopback driver, no sudo.
+- [**web-media-getter**](https://github.com/connerkward/web-media-getter-skill): One query across free image/video/GIF APIs (stock, archival, GIF engines) with license-tagged, attributed results.
 
 ---
 
