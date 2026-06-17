@@ -312,7 +312,7 @@ June 14, 2026
 - [**claude-dashboard**](https://github.com/uppinote20/claude-dashboard): Comprehensive status line plugin for Claude Code with context usage, API rate limits, and cost tracking
 - [**claude-code-plugin**](https://github.com/browserbase/claude-code-plugin): Browserbase plugin for Claude Code - Use cloud browsers with Claude Code instead of local Chrome.
 - [**homunculus**](https://github.com/humanplane/homunculus): A Claude Code plugin that watches how you work, learns your patterns, and evolves itself to help you better.
-
+- [**SlimSnap**](https://github.com/bickov/slimsnap-skill): Claude Code skill that loads the latest SlimSnap JSON capture into the agent's context. Auto-discovers the save folder via ~/.slimsnap/config.json. Companion to the SlimSnap Mac app that converts annotated screenshots to about 700 tokens of structured JSON instead of about 8000 vision tokens of raw image. MIT.
 ---
 
 ## 🛠️ Tools & Utilities
