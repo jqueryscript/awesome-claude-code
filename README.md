@@ -102,6 +102,7 @@ June 14, 2026
 - [**claude-code-heavy**](https://github.com/gtrusler/claude-code-heavy) (77 ⭐) - Multi-agent research orchestration using Claude Code.
 - [**claude-code-semantic-memory**](https://github.com/gtrusler/claude-code-heavy) (77 ⭐) - Persistent semantic memory system for Claude Code.
 - [**Agent-Fusion**](https://github.com/krokozyab/Agent-Fusion) (67 ⭐) - A multi-agent orchestration system that enables Claude Code, Codex CLI, Amazon Q Developer, and Gemini Code Assist to collaborate bidirectionally through intelligent task routing and consensus-based decision making.
+- [**BagIdea Office**](https://github.com/bagidea/bagidea-office) (55 ⭐) - A living multi-agent office that renders your Claude Code agents as pixel-art employees on your desktop wallpaper — they walk to their desks, do real work in real project folders, delegate, hold meetings and learn skills, with per-agent swappable models (Claude/GLM/DeepSeek/Qwen/OpenAI/Gemini/Groq/Ollama…).
 - [**Severance**](https://github.com/blas0/Severance) (47 ⭐) - A semantic memory system designed for Claude Code.
 - [**AgentCheck**](https://github.com/devlyai/AgentCheck) (44 ⭐) - Local AI-powered code review agents for Claude Code.
 - [**claude-agents**](https://github.com/tddworks/claude-agents) (18 ⭐) - A collection of specialized AI agents for Claude Code that enhance software development workflows with focused expertise in specific domains.
