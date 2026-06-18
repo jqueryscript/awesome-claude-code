@@ -312,6 +312,7 @@ June 14, 2026
 - [**claude-dashboard**](https://github.com/uppinote20/claude-dashboard): Comprehensive status line plugin for Claude Code with context usage, API rate limits, and cost tracking
 - [**claude-code-plugin**](https://github.com/browserbase/claude-code-plugin): Browserbase plugin for Claude Code - Use cloud browsers with Claude Code instead of local Chrome.
 - [**homunculus**](https://github.com/humanplane/homunculus): A Claude Code plugin that watches how you work, learns your patterns, and evolves itself to help you better.
+- [**viral-launch-pipeline**](https://github.com/Koz-TV/viral-launch-pipeline): 21-agent orchestrator for viral product launches. Runs research → hook → giveaway → body (with weapons/controversy/technical/flow specialists) → Mom Test → multi-channel delivery (X-thread + LinkedIn + ProductHunt). Manager loops force rewrites until rubric passes.
 
 ---
 
