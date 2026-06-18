@@ -286,6 +286,7 @@ June 14, 2026
 - [**meta_skilld**](https://github.com/Dicklesworthstone/meta_skilld): Rust CLI for managing Claude Code skills: indexing, building, bundling, and sharing.
 - [**claude-cs**](https://github.com/nbashaw/claude-cs): A Claude Code skill that helps you build custom customer support automation for your company.
 - [**design-engineer-auditor-package**](https://github.com/kylezantos/design-engineer-auditor-package): A Claude Code skill for motion design audits, trained on Emil Kowalski, Jakub Krehel, and Jhey Tompkins.
+- [**growth-retrospective-skill**](https://github.com/YoungApple/growth-retrospective-skill): A cross-agent skill (Claude Code, Codex CLI, Antigravity) for personal growth retrospectives. Ranks gaps by decision-velocity signals from git + chat history across 5 categories (domain knowledge, human skills, work habits, meta-cognition, productivity), with required graduation markers so items leave the list instead of piling up. Includes a Step 0 forcing function that blocks new scans if prior level-up actions are untouched.
 
 ---
 
