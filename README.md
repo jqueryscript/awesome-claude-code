@@ -106,6 +106,7 @@ June 14, 2026
 - [**AgentCheck**](https://github.com/devlyai/AgentCheck) (44 ⭐) - Local AI-powered code review agents for Claude Code.
 - [**claude-agents**](https://github.com/tddworks/claude-agents) (18 ⭐) - A collection of specialized AI agents for Claude Code that enhance software development workflows with focused expertise in specific domains.
 ---
+- [**5dive**](https://github.com/5dive-ai/5dive) (10 ⭐) - Open-source self-hosted multi-agent runtime for Claude Code. Spawn a persistent team of autonomous agents on your own Linux box, each running a dedicated CC session, driven from Telegram, off your existing Claude subscription.
 
 ## 🧠 Agent Skills
 
