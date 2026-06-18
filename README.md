@@ -282,6 +282,7 @@ June 14, 2026
 - [**Apple-Hig-Designer**](https://github.com/axiaoge2/Apple-Hig-Designer): A Claude Code Skill for designing professional interfaces following Apple Human Interface Guidelines.
 - [**skill-threat-modeling**](https://github.com/fr33d3m0n/skill-threat-modeling): Code-First Deep Risk Analysis Skill for Claude Code - 8-Phase Workflow with Security design review, STRIDE Threat modeling, PenTest and attack chain analysis, Software compliance assessment.
 - [**google-ai-mode-skill**](https://github.com/PleasePrompto/google-ai-mode-skill): Claude Code skill for free Google AI Mode search with citations.
+- [**weasel**](https://github.com/jaswalmohit8-collab/weasel): One CLAUDE.md file that stops AI coding agents from narrating instead of shipping. Forces action over narration, requires evidence before done claims, self-audits on context pressure. MIT licensed.
 - [**claude-skills-supercharged**](https://github.com/jefflester/claude-skills-supercharged): A "supercharged" implementation of Claude Code Skills – using Haiku prompt analysis/critical skill scoring and skill auto-injection for friction-free, context-driven workflows.
 - [**meta_skilld**](https://github.com/Dicklesworthstone/meta_skilld): Rust CLI for managing Claude Code skills: indexing, building, bundling, and sharing.
 - [**claude-cs**](https://github.com/nbashaw/claude-cs): A Claude Code skill that helps you build custom customer support automation for your company.
