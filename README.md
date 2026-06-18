@@ -415,6 +415,7 @@ June 14, 2026
 - [**claude-code-test-runner**](https://github.com/firstloophq/claude-code-test-runner) (22 ⭐) - An automated E2E natural language test runner built on Claude Code.
 - [**cc-monitor-worker**](https://github.com/cometkim/cc-monitor-worker) (21 ⭐) - Claude Code monitoring with Cloudflare Workers & Workers Analytics Engine.
 - [**shotgun-alpha**](https://github.com/shotgun-sh/shotgun-alpha) (3 ⭐) - Codebase-aware spec engine for Cursor, Claude Code & Lovable.
+- [**vsync**](https://github.com/nicepkg/vsync) - One-command config sync for AI coding tools. Sync Skills, MCP servers, Agents & Commands across Claude Code, Cursor, OpenCode, and Codex with automatic format conversion and atomic writes.
 - [**conductor**](https://conductor.build/) (0 ⭐) - Run a bunch of Claude Codes in parallel.
 
 ---
