@@ -312,6 +312,7 @@ June 14, 2026
 - [**claude-dashboard**](https://github.com/uppinote20/claude-dashboard): Comprehensive status line plugin for Claude Code with context usage, API rate limits, and cost tracking
 - [**claude-code-plugin**](https://github.com/browserbase/claude-code-plugin): Browserbase plugin for Claude Code - Use cloud browsers with Claude Code instead of local Chrome.
 - [**homunculus**](https://github.com/humanplane/homunculus): A Claude Code plugin that watches how you work, learns your patterns, and evolves itself to help you better.
+- [**grounded**](https://github.com/hyde0395/grounded): A Claude Code plugin that deterministically blocks ungrounded agent actions — editing files never read, installing hallucinated packages, citing dead URLs. No LLM in the judgment path.
 
 ---
 
