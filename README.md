@@ -312,6 +312,7 @@ June 14, 2026
 - [**claude-dashboard**](https://github.com/uppinote20/claude-dashboard): Comprehensive status line plugin for Claude Code with context usage, API rate limits, and cost tracking
 - [**claude-code-plugin**](https://github.com/browserbase/claude-code-plugin): Browserbase plugin for Claude Code - Use cloud browsers with Claude Code instead of local Chrome.
 - [**homunculus**](https://github.com/humanplane/homunculus): A Claude Code plugin that watches how you work, learns your patterns, and evolves itself to help you better.
+- [**seo-survival-kit**](https://github.com/maxschottke-spec/seo-survival-kit): Six SEO skills for rescue work after Google Core Updates — free-tier audit, Authority-First recovery playbook, decision-maker PDF outreach reports (Sistrix + DataForSEO + PSI), channel economics, competitor gap analysis, weekly PSI cron baseline. Zero npm dependencies, security-hardened.
 
 ---
 
