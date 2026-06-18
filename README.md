@@ -415,6 +415,7 @@ June 14, 2026
 - [**claude-code-test-runner**](https://github.com/firstloophq/claude-code-test-runner) (22 ⭐) - An automated E2E natural language test runner built on Claude Code.
 - [**cc-monitor-worker**](https://github.com/cometkim/cc-monitor-worker) (21 ⭐) - Claude Code monitoring with Cloudflare Workers & Workers Analytics Engine.
 - [**shotgun-alpha**](https://github.com/shotgun-sh/shotgun-alpha) (3 ⭐) - Codebase-aware spec engine for Cursor, Claude Code & Lovable.
+- [**ccs**](https://github.com/Ike-li/ccs) (0 ⭐) - Tiny Claude Code provider switcher for Anthropic-compatible endpoints. Homebrew install, DeepSeek/OpenRouter presets, `ccs doctor`, no proxy or daemon.
 - [**conductor**](https://conductor.build/) (0 ⭐) - Run a bunch of Claude Codes in parallel.
 
 ---
