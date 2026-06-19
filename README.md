@@ -289,6 +289,8 @@ June 14, 2026
 
 ---
 
+- [**delta-engage**](https://github.com/newan2001/delta-engage): Finds high-fit Reddit & LinkedIn posts to engage with (buyers voicing the pain you solve, not competitors) and drafts a comment for each in your voice. Cookieless, BYOK, you post manually.
+
 ## 🔌 Claude Plugins
 
 - 🔥 [**claude-hud**](https://github.com/jarrodwatts/claude-hud): A Claude Code plugin that shows what's happening - context usage, active tools, running agents, and todo progress.
