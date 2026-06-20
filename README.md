@@ -12,11 +12,7 @@ A curated list of awesome tools, skills, plugins, integrations, extensions, fram
 
 ## Changelog
 
-June 17, 2026
-
-- Added more plugins & agent skills.
-
-June 16, 2026
+June 20, 2026
 
 - Added more plugins & agent skills.
 
