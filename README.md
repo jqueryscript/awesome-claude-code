@@ -415,6 +415,7 @@ June 14, 2026
 - [**claude-code-test-runner**](https://github.com/firstloophq/claude-code-test-runner) (22 ⭐) - An automated E2E natural language test runner built on Claude Code.
 - [**cc-monitor-worker**](https://github.com/cometkim/cc-monitor-worker) (21 ⭐) - Claude Code monitoring with Cloudflare Workers & Workers Analytics Engine.
 - [**shotgun-alpha**](https://github.com/shotgun-sh/shotgun-alpha) (3 ⭐) - Codebase-aware spec engine for Cursor, Claude Code & Lovable.
+- [**cc-bridge**](https://github.com/Incultnitollc/claude-code-live-bridge) (2 ⭐) - Live JSONL bridge so two local Claude Code windows talk in real time via one shared file + the Monitor tool as a push stream. ~500 LoC, no daemon, no network.
 - [**conductor**](https://conductor.build/) (0 ⭐) - Run a bunch of Claude Codes in parallel.
 
 ---
