@@ -416,6 +416,7 @@ June 14, 2026
 - [**cc-monitor-worker**](https://github.com/cometkim/cc-monitor-worker) (21 ⭐) - Claude Code monitoring with Cloudflare Workers & Workers Analytics Engine.
 - [**shotgun-alpha**](https://github.com/shotgun-sh/shotgun-alpha) (3 ⭐) - Codebase-aware spec engine for Cursor, Claude Code & Lovable.
 - [**conductor**](https://conductor.build/) (0 ⭐) - Run a bunch of Claude Codes in parallel.
+- [**Stack Cleaner**](https://github.com/BespokeWoodcraftStudio/stack-cleaner) (0 ⭐) - A free, no-backend web tool and npx CLI to inventory and clean up a Claude Code setup (skills, plugins, MCP servers, agents) split by global and project scope, with usage counts from local transcripts and detection of standalone items a plugin's bundle supersedes.
 
 ---
 
