@@ -445,6 +445,7 @@ June 14, 2026
 - [**cc-monitor-worker**](https://github.com/cometkim/cc-monitor-worker) (21 ⭐) - Claude Code monitoring with Cloudflare Workers & Workers Analytics Engine.
 - [**shotgun-alpha**](https://github.com/shotgun-sh/shotgun-alpha) (3 ⭐) - Codebase-aware spec engine for Cursor, Claude Code & Lovable.
 - [**conductor**](https://conductor.build/) (0 ⭐) - Run a bunch of Claude Codes in parallel.
+- [**SkillTotal**](https://github.com/pezhik/skilltotal) - Free, Apache-2.0, offline static security scanner for AI components (agent skills/plugins, MCP servers, npm & PyPI packages, git repos). Deterministic regex + AST detection, no LLM, no account; evidence-anchored findings mapped to the OWASP Agentic Skills Top 10. JSON/SARIF output, GitHub Action, pre-commit hook (pipx install skilltotal).
 
 ---
 
