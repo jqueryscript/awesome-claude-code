@@ -326,6 +326,7 @@ June 14, 2026
 - ✨ [**hackingtool-plugin**](https://github.com/AKCodez/hackingtool-plugin): 183+ pentesting & OSINT tools from Z4nzu/hackingtool.
 - ✨ [**hello2cc**](https://github.com/hellowind777/hello2cc): Native-first Claude Code plugin for third-party models with silent Agent model injection and output styles.
 - ✨ [**adversarial-spec**](https://github.com/zscole/adversarial-spec): A Claude Code plugin that iteratively refines product specifications by debating between multiple LLMs until all models reach consensus.
+- ✨ [**keelson**](https://github.com/innovestrum/keelson): Establishes a tracker-agnostic, issue-driven operating model in any repo — agents run mechanical work autonomously and escalate any move touching the original design, plan, or strategy to a human. Ships two Agent Skills (adopt-keelson, tune-gates) and works with GitHub, GitLab, Jira, Linear, or any API/CLI/MCP.
 - ✨ [**design-plugin**](https://github.com/0xdesign/design-plugin): A Claude Code plugin that helps you make confident UI design decisions through rapid iteration.
 - ✨ [**claude-code**](https://github.com/laravel/claude-code): A collection of Claude Code plugins tailored for PHP / Laravel development.
 - ✨ [**plugins-for-claude-natives**](https://github.com/team-attention/plugins-for-claude-natives): A collection of Claude Code plugins for power users who want to extend Claude Code's capabilities beyond the defaults.
