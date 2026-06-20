@@ -564,6 +564,7 @@ June 14, 2026
 - ✨ [**claude-code-mcpinstall**](https://github.com/undeadpickle/claude-code-mcpinstall) (235 ⭐) - Easy guide to installing Claude Code MCPs globally on your machine.
 - ✨ [**claude-code-system-prompt**](https://github.com/matthew-lim-matthew-lim/claude-code-system-prompt) (154 ⭐) - Claude Code's system prompt.
 - [**claudecode-best-practices**](https://github.com/rosmur/claudecode-best-practices) (85 ⭐) - A collection of best practices and procedures for using Claude Code.
+- [**ClaudeCodeManual**](https://github.com/NickScherbakov/ClaudeCodeManual) - Free comprehensive course on Claude Code's Workflow tool (multi-agent orchestration) — 15 interactive chapters + 14 hands-on labs. Covers pipeline() vs parallel(), loop-until-dry, adversarial verify, budget-aware loops, and schema-forced output. Browser-based trainer, no install. Content in Russian (first comprehensive Russian-language resource), all code examples language-agnostic.
 ---
 
 ## Alternatives to Claude Code
