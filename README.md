@@ -505,6 +505,7 @@ June 14, 2026
 - ✨ [**ccglass**](https://github.com/jianshuo/ccglass) (495 ⭐) - See what your coding agent (Claude Code, Codex, Kimi) sends to the model — local proxy + web dashboard.
 - ✨ [**claude-code-otel**](https://github.com/ColeMurray/claude-code-otel/) (440 ⭐) - A comprehensive observability solution for monitoring Claude Code usage, performance, and costs.
 - ✨ [**claude-code-ui**](https://github.com/KyleAMathews/claude-code-ui) (413 ⭐) - A real-time dashboard for monitoring Claude Code sessions across multiple projects.
+- ✨ [**ax**](https://github.com/Necmttn/ax) (31 ⭐) - Local-first telemetry and memory graph for Claude Code, Codex, Pi, OpenCode, and Cursor histories with cost analytics, skill/hook usage, workflow extraction, dashboard, and MCP access.
 - ✨ [**claude-code-usage-bar**](https://github.com/leeguooooo/claude-code-usage-bar) (270 ⭐) - Real‑time statusline for Claude Code: token usage, remaining budget, burn rate, and depletion time.
 - ✨ [**opensync**](https://github.com/LKbaba/Claude-code-ChatInWindows) (217 ⭐) - Dashboards for OpenCode, Claude Code, Codex, Factory Droid and more.
 - ✨ [**claude-code-leaderboard**](https://github.com/grp06/claude-code-leaderboard) (189 ⭐) - This CLI automatically monitors your token usage and posts your stats to the leaderboard after each Claude Code session.
