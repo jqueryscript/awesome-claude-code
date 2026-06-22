@@ -12,7 +12,15 @@ A curated list of awesome tools, skills, plugins, integrations, extensions, fram
 
 ## Changelog
 
-June 20, 2026
+June 22, 2026
+
+- Added more Agent Skills.
+
+June 17, 2026
+
+- Added more plugins & agent skills.
+
+June 16, 2026
 
 - Added more plugins & agent skills.
 
@@ -257,16 +265,33 @@ June 14, 2026
 - 🔥 [**paper2code**](https://github.com/PrathamLearnsToCode/paper2code) (1.4k ⭐): Agent skill for turning arXiv papers into working code implementations.
 - 🔥 [**evals-skills**](https://github.com/hamelsmu/evals-skills) (1.4k ⭐): Skills for AI evaluation workflows and the AI Evals for Engineers course.
 - 🔥 [**wondelai/skills**](https://github.com/wondelai/skills) (1.4k ⭐): Agent skills for Claude Code and agentskills.io-compatible coding agents.
-- 🔥 [**skill-codex**](https://github.com/skills-directory/skill-codex) (1.3k ⭐): A claude code skill to delegate prompts to codex.
-- 🔥 [**rust-skills**](https://github.com/actionbook/rust-skills) (1.2k ⭐): Rust Developer AI Assistance System — Meta-Problem-Driven Knowledge Indexing.
-- 🔥 [**logo-generator-skill**](https://github.com/op7418/logo-generator-skill) (1.2k ⭐): Professional SVG logo generator with high-end showcase presentations.
+- 🔥 [**awesome-design-skills**](https://github.com/bergside/awesome-design-skills) (1.3k ⭐): Design skill directory for agentic tools, covering DESIGN.md and SKILL.md files for Claude Design, Codex, Cursor, and related AI tools.
+- 🔥 [**skill-codex**](https://github.com/skills-directory/skill-codex) (1.3k ⭐): Claude Code skill for delegating prompts to Codex.
+- 🔥 [**logo-generator-skill**](https://github.com/op7418/logo-generator-skill) (1.3k ⭐): Professional SVG logo generator with high-end showcase presentations.
+- 🔥 [**Deep-Research-skills**](https://github.com/Weizhena/Deep-Research-skills) (1.3k ⭐): Structured deep research skill for Claude Code, OpenCode, and Codex, with human-in-the-loop controls for research workflows.
+- 🔥 [**rust-skills**](https://github.com/actionbook/rust-skills) (1.3k ⭐): Rust Developer AI Assistance System — Meta-Problem-Driven Knowledge Indexing.
+- 🔥 [**app-store-preflight-skills**](https://github.com/truongduy2611/app-store-preflight-skills) (1.2k ⭐): AI agent skill that scans iOS and macOS projects for App Store rejection risks before submission.
+- 🔥 [**skillkit**](https://github.com/rohitg00/skillkit) (1.2k ⭐): Portable skill toolkit for installing, translating, and sharing skills across Claude Code, Cursor, Codex, Copilot, and other coding agents.
+- 🔥 [**gtm-engineer-skills**](https://github.com/onvoyage-ai/gtm-engineer-skills) (1.2k ⭐): Claude Code skill for website AEO and GEO audits, with checks for AI search visibility, structured data, and framework-specific fixes.
+- 🔥 [**azure-skills**](https://github.com/microsoft/azure-skills) (1.2k ⭐): Microsoft agent plugin with skills and MCP server configurations for Azure development scenarios.
+- 🔥 [**archify**](https://github.com/tt-a1i/archify) (1.2k ⭐): Agent skill for generating architecture diagrams with dark and light themes plus PNG, JPEG, WebP, and SVG export.
+- 🔥 [**claude-code-skills**](https://github.com/daymade/claude-code-skills) (1.2k ⭐): Marketplace-style collection of production-ready Claude Code skills for development workflows.
+- 🔥 [**medical-research-skills**](https://github.com/aipoch/medical-research-skills) (1.2k ⭐): Agent skills for medical research tasks, including protocol design, data analysis, evidence review, and academic writing.
+- 🔥 [**hack-skills**](https://github.com/yaklang/hack-skills) (1.2k ⭐): Practical hacking skills for AI agents working on security research and offensive security workflows.
+- 🔥 [**context-engineering-kit**](https://github.com/NeoLabHQ/context-engineering-kit) (1.2k ⭐): Hand-crafted Claude Code skills for improving agent output quality, with compatibility across OpenCode, Cursor, Gemini CLI, and related tools.
 - 🔥 [**x-research-skill**](https://github.com/rohunvora/x-research-skill) (1.1k ⭐): X/Twitter research skill for Claude Code and OpenClaw.
 - 🔥 [**Xcode-Build-Optimization-Agent-Skill**](https://github.com/AvdLee/Xcode-Build-Optimization-Agent-Skill) (1.1k ⭐): An Agent Skill helping you to optimize Xcode incremental and clean builds by running benchmarks and optimizing build settings.
-- 🔥 [**aws-agent-skills**](https://github.com/itsmostafa/aws-agent-skills) (1.1k ⭐): Supercharge Claude Code with AWS cloud engineering skills across 18 core AWS services.
-- 🔥 [**ios-simulator-skill**](https://github.com/conorluddy/ios-simulator-skill) (1.1k ⭐): An IOS Simulator Skill for ClaudeCode. Use it to optimise Claude's ability to build, run and interact with your apps, without using up any of the available token/context budget.
-- 🔥 [**app-onboarding-questionnaire**](https://github.com/adamlyttleapps/claude-skill-app-onboarding-questionnaire) (1.1k ⭐): A Claude Code skill that designs and builds high-converting questionnaire-style app onboarding flows — modelled on proven conversion patterns from top subscription apps like Mob, Headspace and Noom.
+- 🔥 [**claude-blog**](https://github.com/AgriciDaniel/claude-blog) (1.1k ⭐): Claude Code blog skill suite with sub-skills, agents, and quality gates for SEO-focused and AI-citation-ready publishing workflows.
+- 🔥 [**aws-agent-skills**](https://github.com/itsmostafa/aws-agent-skills) (1.1k ⭐): AWS cloud engineering skills for Claude Code across 18 core AWS services.
+- 🔥 [**code-review-skill**](https://github.com/awesome-skills/code-review-skill) (1.1k ⭐): Comprehensive code review skill for Claude Code, covering React, Vue, Rust, TypeScript, TanStack Query, and related stacks.
+- 🔥 [**ios-simulator-skill**](https://github.com/conorluddy/ios-simulator-skill) (1.1k ⭐): iOS Simulator skill for Claude Code that helps agents build, run, and interact with apps while preserving token context.
+- 🔥 [**moai-adk**](https://github.com/modu-ai/moai-adk) (1.1k ⭐): Spec-first agentic development kit for Claude Code, with agents, skills, TDD and DDD quality gates, multilingual project support, and a Go CLI.
+- 🔥 [**lenny-skills**](https://github.com/RefoundAI/lenny-skills) (1.1k ⭐): Product management skill collection based on Lenny's Podcast, covering hiring, user research, strategy, shipping, and related PM workflows.
+- 🔥 [**app-onboarding-questionnaire**](https://github.com/adamlyttleapps/claude-skill-app-onboarding-questionnaire) (1.1k ⭐): Claude Code skill for designing questionnaire-style app onboarding flows based on subscription app conversion patterns.
+- 🔥 [**dotnet-skills**](https://github.com/Aaronontheweb/dotnet-skills) (1.0k ⭐): Claude Code skills and sub-agents for .NET developers.
 - 🔥 [**baoyu-design**](https://github.com/JimLiu/baoyu-design) (1.0k ⭐): Run Claude Design locally as an Agent Skill.
 - 🔥 [**webgpu-claude-skill**](https://github.com/dgreenheck/webgpu-claude-skill) (1.0k ⭐): A Claude skill for developing WebGPU applications with Three.js.
+- 🔥 [**material-3-skill**](https://github.com/hamen/material-3-skill) (1.0k ⭐): Material Design 3 skill for Claude Code, with components, design tokens, theming, responsive layout, and MD3 audit support.
 - 🌟 [**synalinks-skills**](https://github.com/numman-ali/n-skills) (996 ⭐): Claude skills for Synalinks.
 - 🌟 [**n-skills**](https://github.com/numman-ali/n-skills) (996 ⭐): Curated plugin marketplace for AI agents - works with Claude Code, Codex, and openskills.
 - 🌟 [**Axiom**](https://github.com/CharlesWiltgen/Axiom) (973 ⭐): Battle-tested Claude Code skills for modern xOS (iOS, iPadOS, watchOS, tvOS) development.
