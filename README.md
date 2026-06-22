@@ -445,7 +445,8 @@ June 14, 2026
 - [**cc-monitor-worker**](https://github.com/cometkim/cc-monitor-worker) (21 ⭐) - Claude Code monitoring with Cloudflare Workers & Workers Analytics Engine.
 - [**shotgun-alpha**](https://github.com/shotgun-sh/shotgun-alpha) (3 ⭐) - Codebase-aware spec engine for Cursor, Claude Code & Lovable.
 - [**conductor**](https://conductor.build/) (0 ⭐) - Run a bunch of Claude Codes in parallel.
-
+- [**PMB (Personal Memory Brain)**](https://github.com/oleksiijko/pmb) (80 ⭐) - Local-first persistent memory for Claude Code over MCP. Captures decisions, lessons and facts as you work and injects the relevant ones back via lifecycle hooks; hybrid BM25 + vector + graph retrieval, fully offline, no API keys.
+  
 ---
 
 ## 💻 IDE & Editor Integrations
