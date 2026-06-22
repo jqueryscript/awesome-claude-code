@@ -110,6 +110,7 @@ June 14, 2026
 - [**Severance**](https://github.com/blas0/Severance) (47 ⭐) - A semantic memory system designed for Claude Code.
 - [**AgentCheck**](https://github.com/devlyai/AgentCheck) (44 ⭐) - Local AI-powered code review agents for Claude Code.
 - [**claude-agents**](https://github.com/tddworks/claude-agents) (18 ⭐) - A collection of specialized AI agents for Claude Code that enhance software development workflows with focused expertise in specific domains.
+- [**open-bridge**](https://github.com/bks-lab/open-bridge) (2 ⭐) - An agent-agnostic context/orchestration layer: a plain git repo of Markdown + YAML your coding agent reads at the start of every session, so it begins knowing your repos, clients, and task conventions. One skills/ tree works across Claude Code, Codex, and Copilot CLI. MIT.
 ---
 
 ## 🧠 Agent Skills
