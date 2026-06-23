@@ -8,7 +8,7 @@ A curated list of awesome tools, skills, plugins, integrations, extensions, fram
 >
 > **👉 [7 Best CLI AI Coding Agents (Open Source)](https://www.scriptbyai.com/best-cli-ai-coding-agents/)**
 
-> **Note**: Items marked with 🔥 have >1000 stars, 🌟 >500 stars, and ✨ >100 stars. **Star counts are static and represent the numbers at the time the resource was recorded in this list.**
+> **Note**:  **Star counts are static and represent the numbers at the time the resource was recorded in this list.**
 
 ## Changelog
 
