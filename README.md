@@ -90,6 +90,7 @@ June 14, 2026
 - 🌟 [**ClaudeCodeAgents**](https://github.com/darcyegb/ClaudeCodeAgents) (724 ⭐) - A set of useful QA agents for Claude Code.
 - 🌟 [**Citadel**](https://github.com/SethGammon/Citadel) (607 ⭐) - An agent orchestration harness for Claude Code. It coordinates multiple AI agents in parallel, persists memory across sessions, and routes your intent to the cheapest execution path automatically.
 - 🌟 [**infinite-agentic-loop**](https://github.com/disler/infinite-agentic-loop) (591 ⭐) - An experimental project demonstrating Infinite Agentic Loop in a two-prompt system using Claude Code.
+- [**ralph-harness**](https://github.com/rxdt/py_ralph_frame) - Minimal repo-local loop scaffold for Claude Code, Codex CLI, and Gemini CLI. Uses `PROMPT.md`, specs, fresh-context iterations, git hooks, CI verification, and hard iteration/time caps.
 - 🌟 [**claude-sub-agent**](https://github.com/zhsama/claude-sub-agent) (586 ⭐) - AI-driven development workflow system built on Claude Code Sub-Agents.
 - 🌟 [**dotclaude**](https://github.com/FradSer/dotclaude) (557 ⭐) - A comprehensive development environment with specialized AI agents for code review, security analysis, and technical leadership.
 - ✨ [**OpenAgents**](https://github.com/OpenAgentsInc/openagents) (424 ⭐) - Seamlessly integrate Claude Code's AI development capabilities across desktop and mobile with real-time synchronization.
