@@ -606,6 +606,7 @@ June 14, 2026
 - [**pyccsl**](https://github.com/wolfdenpublishing/pyccsl) - (83 ⭐) - Python Claude Code Status Line (PyCCSL, pronounced "pixel").
 - [**Claude-Monitor**](https://github.com/RISCfuture/Claude-Monitor) - (43 ⭐) - A menulet that tracks your Claude Code token usage.
 - [**cccost**](https://github.com/badlogic/cccost) - (25 ⭐) - Instrument Claude Code to track actual token usage and cost.
+- [**QuotaLens**](https://github.com/mangiapanejohn-dev/QuotaLens) - (2 ⭐) - A macOS menu-bar gauge for Claude and Codex usage quotas — official 5h/7d limits, per-account cards, session token + cost, and a 24h timeline.
 ---
 
 ## 🧩 SDKs & Development Kits
