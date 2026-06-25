@@ -385,6 +385,7 @@ June 14, 2026
 - [**call-me**](https://github.com/ZeframLou/call-me) - Minimal plugin that lets Claude Code call you on the phone.
 - [**harness**](https://github.com/revfactory/harness) - A meta-skill that designs domain-specific agent teams, defines specialized agents, and generates the skills they use.
 - [**arscontexta**](https://github.com/agenticnotetaking/arscontexta) - Claude Code plugin that generates individualized knowledge systems from conversation.
+- [**lore**](https://github.com/aoc81/lore) - Self-maintaining learnings system for Claude Code & Codex — hooks auto-recall relevant past learnings into context and nudge capture of non-obvious, reusable facts, with a freshness linter and a blocking pre-push secret scan. Plain-markdown store committed in your repo; stdlib Python, zero deps, no network.
 - [**interface-design**](https://github.com/Dammyjay93/interface-design) - Design engineering for Claude Code. Craft, memory, and enforcement for consistent UI.
 - [**pg-aiguide**](https://github.com/timescale/pg-aiguide) - MCP server and Claude plugin for Postgres skills, documentation, and database guidance.
 - [**claude-workflow-v2**](https://github.com/CloudAI-X/claude-workflow-v2) - Universal Claude Code workflow plugin with agents, skills, hooks, and commands.
