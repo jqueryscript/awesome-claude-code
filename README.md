@@ -122,7 +122,7 @@ June 14, 2026
 - [**claude-code-agents**](https://github.com/vizra-ai/claude-code-agents) - (156 ⭐) - Meet 59 specialized AI agents that supercharge your development workflow.
 - [**sub-agents.directory**](https://github.com/ayush-that/sub-agents.directory) - (127 ⭐) - A curated collection of 100+ sub-agent prompts and MCP servers for Claude Code.
 - [**multi-agent-squad**](https://github.com/bijutharakan/multi-agent-squad) - (84 ⭐) - Production-ready multi-agent orchestration framework for Claude Code.
-- [**CCC**](https://github.com/amirfish1/claude-command-center) - (82 ⭐) - Local dashboard for spawning, monitoring, and resuming parallel Claude Code, Codex, Cursor, Antigravity, and Kilo Code sessions.
+- [**Claude Command Center (CCC)**](https://github.com/amirfish1/claude-command-center) - (82 ⭐) - Local dashboard for spawning, monitoring, and resuming parallel Claude Code, Codex, Cursor, Antigravity, and Kilo Code sessions.
 - [**claude-code-heavy**](https://github.com/gtrusler/claude-code-heavy) - (77 ⭐) - Multi-agent research orchestration using Claude Code.
 - [**claude-code-semantic-memory**](https://github.com/gtrusler/claude-code-heavy) - (77 ⭐) - Persistent semantic memory system for Claude Code.
 - [**Agent-Fusion**](https://github.com/krokozyab/Agent-Fusion) - (67 ⭐) - A multi-agent orchestration system that enables Claude Code, Codex CLI, Amazon Q Developer, and Gemini Code Assist to collaborate bidirectionally through intelligent task routing and consensus-based decision making.
