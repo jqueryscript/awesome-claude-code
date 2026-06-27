@@ -483,6 +483,7 @@ June 14, 2026
 - [**context-infrastructure**](https://github.com/grapeot/context-infrastructure) - (623 ⭐) - Context and memory system for AI coding agents with persistent memory, personal rules, skills, and scheduled observations.
 - [**OpenContext**](https://github.com/0xranx/OpenContext) - (592 ⭐) - Personal context store for Codex, Claude, OpenCode, and other agents, with skills, tools, search, and a desktop GUI.
 - [**skillhub-desktop**](https://github.com/skillhub-club/skillhub-desktop) - (590 ⭐) - Desktop app for managing agent skills in one place.
+- [**vestige**](https://github.com/samvallad33/vestige) - (565 ⭐) - Local-first cognitive memory MCP server for AI coding agents. Stores memory in local SQLite with FSRS-6 retention, prediction-error gating, active forgetting, spreading activation, hybrid retrieval, and a 3D dashboard. Works with Claude Code, Cursor, VS Code, Codex, Windsurf, and JetBrains.
 - [**claude-simone**](https://github.com/Helmi/claude-simone) - (555 ⭐) - A project management framework for AI-assisted development with Claude Code.
 - [**async-code**](https://github.com/ObservedObserver/async-code) - (534 ⭐) - Use Claude Code or CodeX CLI to perform multiple tasks in parallel with a Codex-style UI, functioning as a personal codex or cursor-background agent.
 - [**claude-commands**](https://github.com/badlogic/claude-commands) - (506 ⭐) - Global Claude Code commands and workflows.
