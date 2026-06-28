@@ -419,6 +419,7 @@ June 14, 2026
 - [**homunculus**](https://github.com/humanplane/homunculus) - A Claude Code plugin that watches how you work, learns your patterns, and evolves itself to help you better.
 
 ---
+- [Imagine](https://github.com/freestyler-arb/imagine-gemini-for-claude-codex) - Bring Google Gemini into Claude Code & Codex: delegate reasoning, independent code review, deep research, and automatic prompt-engineering. Runs on your Google AI Pro subscription, not your agent's tokens. (MIT)
 
 ## 🛠️ Tools & Utilities
 
