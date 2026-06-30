@@ -577,6 +577,8 @@ June 14, 2026
 - [**Claude-Code-Web-GUI**](https://github.com/binggg/Claude-Code-Web-GUI) - (72 ⭐) - Browse, view and share your Claude Code sessions - runs entirely in browser, no server required!
 - [**ccmate-release**](https://github.com/djyde/ccmate-release) - (56 ⭐) - A GUI for Claude Code.
 - [**Claude in a Box**](https://github.com/juancgarza/claude-in-a-box) - (51 ⭐) - A ChatGPT Canvas-style interface for Claude Code running in E2B sandboxes.
+- [**nimbalyst**](https://github.com/nimbalyst/nimbalyst) - (1.0k ⭐) - The open-source visual workspace for building with Codex, Claude Code, and more. Higher bandwidth and less context switching. Manage your agents, edit the work visually, and track tasks.
+
 
 ---
 
