@@ -537,6 +537,7 @@ June 14, 2026
 - [**cc-monitor-worker**](https://github.com/cometkim/cc-monitor-worker) - (21 ⭐) - Claude Code monitoring with Cloudflare Workers & Workers Analytics Engine.
 - [**shotgun-alpha**](https://github.com/shotgun-sh/shotgun-alpha) - (3 ⭐) - Codebase-aware spec engine for Cursor, Claude Code & Lovable.
 - [**conductor**](https://conductor.build/) - (0 ⭐) - Run a bunch of Claude Codes in parallel.
+- [**QuotaWake**](https://github.com/jeongjin0/quotawake) - (1 ⭐) - An open-source macOS menu bar app that keeps Claude Code and Codex CLI sessions ready around usage-window resets; local-first, invokes the official CLIs you already use, and stores no provider tokens.
 
 ---
 
