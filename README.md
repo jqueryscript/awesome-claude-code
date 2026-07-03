@@ -77,6 +77,7 @@ June 14, 2026
 - [**claude-code-subagents-collection**](https://github.com/davepoon/claude-code-subagents-collection) - (3.1k ⭐) - A comprehensive collection of specialized AI subagents for Claude Code, designed to enhance development workflows with domain-specific expertise.
 - [**raptor**](https://github.com/gadievron/raptor) - (3k ⭐) - Turns Claude Code into a general-purpose AI offensive/defensive security agent.
 - [**claude-subconscious**](https://github.com/letta-ai/claude-subconscious) - (2.8k ⭐) - A background agent that whispers to Claude Code. A subconcious agent that watches your sessions, reads your files, builds up memory over time, and whispers guidance back.
+- [**ai-meeting-skill**](https://github.com/bin1874/ai-meeting-skill) - (0 ⭐) - Multi-agent AI meeting skill for Codex and Claude that preserves agent sessions across rounds and produces sourced final reports.
 - [**seo-geo-claude-skills**](https://github.com/aaron-he-zhu/seo-geo-claude-skills) - (2.1k ⭐) - 20 SEO & GEO skills for Claude Code, Cursor, Codex, and 35+ AI agents. Keyword research, content writing, technical audits, rank tracking.
 - [**deepclaude**](https://github.com/aattaran/deepclaude) - (2.1k ⭐) - A Claude Code skill for generating UI in the Nothing design language. Monochrome, typographic, industrial.
 - [**claude-agents**](https://github.com/iannuttall/claude-agents) - (2.1k ⭐) - Custom subagents to use with Claude Code.
