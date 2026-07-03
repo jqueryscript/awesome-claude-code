@@ -71,6 +71,7 @@ June 14, 2026
 - [**agents**](https://github.com/wshobson/agents) - (36.7k ⭐) - A collection of production-ready subagents for Claude Code.
 - [**agents**](https://github.com/contains-studio/agents) - (12.4k ⭐) - A comprehensive collection of specialized AI agents designed to accelerate and enhance every aspect of rapid development.
 - [**claude-squad**](https://github.com/smtg-ai/claude-squad) - (7.8k ⭐) - Manage multiple AI terminal agents, including Claude Code, Aider, Codex, OpenCode, and Amp.
+- [**Proliferate**](https://github.com/proliferate-ai/proliferate) - (145 ⭐) - Open-source local and cloud agent IDE for running Claude Code, Codex, Gemini CLI, and other coding agents in parallel across isolated workspaces.
 - [**seomachine**](https://github.com/TheCraigHewitt/seomachine) - (7.1k ⭐) - A specialized Claude Code workspace for creating long-form, SEO-optimized blog content for any business.
 - [**herdr**](https://github.com/ogulcancelik/herdr) - (5.7k ⭐) - Agent multiplexer that lives in your terminal.
 - [**awesome-claude-agents**](https://github.com/vijaythecoder/awesome-claude-agents) - (4.3k ⭐) - Supercharge Claude Code with a team of specialized AI agents that work together to build complete features, debug complex issues, and handle any technology stack with expert-level knowledge.
