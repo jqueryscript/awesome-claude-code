@@ -117,6 +117,7 @@ June 14, 2026
 - [**Severance**](https://github.com/blas0/Severance) - (47 ⭐) - A semantic memory system designed for Claude Code.
 - [**AgentCheck**](https://github.com/devlyai/AgentCheck) - (44 ⭐) - Local AI-powered code review agents for Claude Code.
 - [**claude-agents**](https://github.com/tddworks/claude-agents) - (18 ⭐) - A collection of specialized AI agents for Claude Code that enhance software development workflows with focused expertise in specific domains.
+- [**loop-engineer**](https://github.com/SollanSystems/loop-engineer) - Proof-of-done layer for AI agent loops: 7 typed terminal states, held-out verification gates, and an anti-cheat scan so a loop proves "done" instead of asserting it. 9 skills plus a pure-Python portable contract core.
 
 ---
 
