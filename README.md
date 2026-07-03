@@ -643,6 +643,8 @@ June 14, 2026
 
 ---
 
+- [**skillscope**](https://github.com/kabylesystem/skillscope) - A local dashboard for your Claude Code skill bank: lists every skill on your machine (global, per-project, plugins), mines real usage from local transcripts, and flags duplicates, dead references, and never-used skills.
+
 ## 🧩 SDKs & Development Kits
 
 - [**vibekit**](https://github.com/superagent-ai/vibekit) - (1.8k ⭐) - A simple SDK for safely running Codex, Gemini CLI, and Claude Code in a secure sandbox.
