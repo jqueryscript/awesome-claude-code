@@ -640,6 +640,7 @@ June 14, 2026
 - [**pyccsl**](https://github.com/wolfdenpublishing/pyccsl) - (83 ⭐) - Python Claude Code Status Line (PyCCSL, pronounced "pixel").
 - [**Claude-Monitor**](https://github.com/RISCfuture/Claude-Monitor) - (43 ⭐) - A menulet that tracks your Claude Code token usage.
 - [**cccost**](https://github.com/badlogic/cccost) - (25 ⭐) - Instrument Claude Code to track actual token usage and cost.
+- [**Quota Dashboard**](https://github.com/ryan-knowone/quota-dashboard) - (0 ⭐) - Local-only, privacy-first static-site dashboard for tracking AI coding subscription quotas (Claude Code Max, Kimi, Z.ai). Runs entirely in the browser; tokens never leave your machine. [Live demo](https://ryan-knowone.github.io/quota-dashboard/?mock=1)
 
 ---
 
