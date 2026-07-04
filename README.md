@@ -536,6 +536,7 @@ June 14, 2026
 - [**claude-code-test-runner**](https://github.com/firstloophq/claude-code-test-runner) - (22 ⭐) - An automated E2E natural language test runner built on Claude Code.
 - [**cc-monitor-worker**](https://github.com/cometkim/cc-monitor-worker) - (21 ⭐) - Claude Code monitoring with Cloudflare Workers & Workers Analytics Engine.
 - [**shotgun-alpha**](https://github.com/shotgun-sh/shotgun-alpha) - (3 ⭐) - Codebase-aware spec engine for Cursor, Claude Code & Lovable.
+- [**AI Agent Safety Starter Pack**](https://github.com/el-zachariah/ai-agent-safety-starter-pack) - (0 ⭐) - Lite repo preflight scanner and checklist for reviewing agent instructions, config files, secret-adjacent files, package scripts, and risky shell patterns before Claude Code/Cursor/Codex tool runs.
 - [**conductor**](https://conductor.build/) - (0 ⭐) - Run a bunch of Claude Codes in parallel.
 
 ---
