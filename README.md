@@ -685,3 +685,5 @@ June 14, 2026
 ## Contribution Guidelines
 
 **Under Construction**
+
+- [Context Kit](https://github.com/JDDavenport/context-kit) — 4 PCA templates + 5 skills for personal context in Claude Code. MIT.
