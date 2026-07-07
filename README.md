@@ -536,6 +536,7 @@ June 14, 2026
 - [**claude-code-test-runner**](https://github.com/firstloophq/claude-code-test-runner) - (22 ⭐) - An automated E2E natural language test runner built on Claude Code.
 - [**cc-monitor-worker**](https://github.com/cometkim/cc-monitor-worker) - (21 ⭐) - Claude Code monitoring with Cloudflare Workers & Workers Analytics Engine.
 - [**shotgun-alpha**](https://github.com/shotgun-sh/shotgun-alpha) - (3 ⭐) - Codebase-aware spec engine for Cursor, Claude Code & Lovable.
+- [**Tree Ring Memory**](https://github.com/TerminallyLazy/Tree-Ring-Memory) - (2 ⭐) - Framework-agnostic, local-first memory lifecycle layer for AI coding agents, with Rust CLI/TUI, SQLite/FTS recall, audit, forgetting, consolidation, and Claude Code bridge guidance.
 - [**conductor**](https://conductor.build/) - (0 ⭐) - Run a bunch of Claude Codes in parallel.
 
 ---
