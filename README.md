@@ -595,6 +595,7 @@ June 14, 2026
 - [**ccflare**](https://github.com/snipeship/ccflare) - (992 ⭐) - The ultimate Claude API proxy with intelligent load balancing across multiple accounts.
 - [**ccNexus**](https://github.com/lich0821/ccNexus) - (962 ⭐) - A smart API endpoint rotation proxy for Claude Code.
 - [**Context-Gateway**](https://github.com/Compresr-ai/Context-Gateway) - (614 ⭐) - An agentic proxy that enhances any AI agent workflow with instant history compaction and context optimization tools.
+- [**Lynkr**](https://github.com/Fast-Editor/Lynkr) - (0.5k ⭐) - Self-hosted LLM gateway that routes Claude Code requests across 13 providers by request complexity, with tool-schema stripping, JSON tool-result compression, and semantic caching.
 - [**claude-code-proxy**](https://github.com/seifghazi/claude-code-proxy) - (480 ⭐) - Proxy that captures and visualizes in-flight Claude Code requests and conversations.
 - [**anthropic-proxy**](https://github.com/maxnowack/anthropic-proxy) - (415 ⭐) - A proxy server that converts Anthropic API requests to OpenAI format and sends them to OpenRouter, used to use Claude Code with OpenRouter.
 - [**claude-gemini-bridge**](https://github.com/tkaufmann/claude-gemini-bridge) - (406 ⭐) - Intelligent integration between Claude Code and Google Gemini for large-scale code analysis.
