@@ -410,6 +410,7 @@ June 14, 2026
 
 ---
 
+- [**linkedin-growth**](https://github.com/Linked-API/linkedin-skills/tree/main/linkedin-growth) - Import leads from LinkedIn or Sales Navigator searches, qualify them against an ideal-customer profile, schedule safe connection invites across accounts, track acceptances, and withdraw stale pending requests.
 ## 🔌 Claude Plugins
 
 - [**claude-forge**](https://github.com/sangrokjung/claude-forge) - (756 ⭐) - Claude Code plugin framework with agents, commands, skills, and security hooks.
