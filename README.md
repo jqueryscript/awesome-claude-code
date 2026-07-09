@@ -410,6 +410,7 @@ June 14, 2026
 
 ---
 
+- [**linkedin-skills**](https://github.com/Linked-API/linkedin-skills/tree/main/linkedin) - Fetch LinkedIn profiles, search people and companies, send messages, manage connections, create posts, react, comment, and run custom LinkedIn workflows from Claude Code, Codex, Cursor, and Windsurf.
 ## 🔌 Claude Plugins
 
 - [**claude-forge**](https://github.com/sangrokjung/claude-forge) - (756 ⭐) - Claude Code plugin framework with agents, commands, skills, and security hooks.
