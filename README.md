@@ -289,7 +289,7 @@ June 14, 2026
 - [**social-media-skills**](https://github.com/charlie947/social-media-skills) - (1.5k ⭐) - Agent skills for planning, writing, and managing social media content.
 - [**ai-legal-claude**](https://github.com/zubair-trabzada/ai-legal-claude) - (1.5k ⭐) - AI legal assistant skill for contract review, legal research, and compliance workflows.
 - [**modern-web-guidance**](https://github.com/GoogleChrome/modern-web-guidance) - (1.4k ⭐) - Google Chrome guidance for modern web development, with a companion site for current web platform recommendations.
-- [**claude-real-video**](https://github.com/HUANGCHIHHUNGLeo/claude-real-video) - (1.4k ⭐) - Claude Code skill for real-video generation workflows, including planning, prompts, and production steps.
+- [**claude-real-video**](https://github.com/HUANGCHIHHUNGLeo/claude-real-video) - (1.4k ⭐) - Local CLI + Claude Code skill that lets Claude actually watch a video: scene-aware, deduplicated keyframes plus a timestamped transcript from a URL or local file.
 - [**callstackincubator**](https://github.com/callstackincubator/agent-skills) - (1.4k ⭐) - A collection of agent-optimized React Native skills for AI coding assistants.
 - [**chops**](https://github.com/Shpigford/chops) - (1.4k ⭐) - macOS app for browsing, organizing, and using AI agent skills.
 - [**paper2code**](https://github.com/PrathamLearnsToCode/paper2code) - (1.4k ⭐) - Agent skill for turning arXiv papers into working code implementations.
