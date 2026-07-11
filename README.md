@@ -689,6 +689,7 @@ June 14, 2026
 - [**claude-code-mcpinstall**](https://github.com/undeadpickle/claude-code-mcpinstall) - (235 ⭐) - Easy guide to installing Claude Code MCPs globally on your machine.
 - [**claude-code-system-prompt**](https://github.com/matthew-lim-matthew-lim/claude-code-system-prompt) - (154 ⭐) - Claude Code's system prompt.
 - [**claudecode-best-practices**](https://github.com/rosmur/claudecode-best-practices) - (85 ⭐) - A collection of best practices and procedures for using Claude Code.
+- [**claude-code-agent-starter**](https://github.com/ibdmaibot-southafrica/claude-code-agent-starter) - Free ready-to-copy agent operating system for Claude Code: persistent memory files, reusable skills, and an intent-keyed toolkit index, with a four-part setup walkthrough.
 
 ---
 
