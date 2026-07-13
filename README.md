@@ -438,6 +438,7 @@ June 14, 2026
 - [**homunculus**](https://github.com/humanplane/homunculus) - A Claude Code plugin that watches how you work, learns your patterns, and evolves itself to help you better.
 - [**brand-forge**](https://github.com/localplugins/plugins/tree/main/brand-forge) - Generate on-brand logos, social templates, and marketing graphics from a saved brand profile; vector output runs locally and AI imagery is opt-in.
 - [**content-multiplier**](https://github.com/localplugins/plugins/tree/main/content-multiplier) - Turn one idea into on-brand, multi-channel, multi-language content from a single command.
+- [**cv-forge**](https://github.com/localplugins/plugins/tree/main/cv-forge) - Turn one versioned résumé (JSON Resume) into an ATS-friendly PDF via an HTML template and your browser; no Node, no keys, no network.
 
 ---
 
