@@ -407,6 +407,7 @@ June 14, 2026
 - [**meta_skilld**](https://github.com/Dicklesworthstone/meta_skilld) - Rust CLI for managing Claude Code skills: indexing, building, bundling, and sharing.
 - [**claude-cs**](https://github.com/nbashaw/claude-cs) - A Claude Code skill that helps you build custom customer support automation for your company.
 - [**design-engineer-auditor-package**](https://github.com/kylezantos/design-engineer-auditor-package) - A Claude Code skill for motion design audits, trained on Emil Kowalski, Jakub Krehel, and Jhey Tompkins.
+- [**Vox Director**](https://github.com/Alisa0808/vox-director) - Turn one topic into a finished Vox-style paper-collage explainer/ad video (script, collage art, motion, voice-over, music, captions), automated on Atlas Cloud + ffmpeg. Works with Claude Code, Codex & any SKILL.md agent.
 
 ---
 
