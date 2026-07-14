@@ -405,6 +405,7 @@ June 14, 2026
 - [**google-ai-mode-skill**](https://github.com/PleasePrompto/google-ai-mode-skill) - Claude Code skill for free Google AI Mode search with citations.
 - [**claude-skills-supercharged**](https://github.com/jefflester/claude-skills-supercharged) - A "supercharged" implementation of Claude Code Skills — using Haiku prompt analysis/critical skill scoring and skill auto-injection for friction-free, context-driven workflows.
 - [**meta_skilld**](https://github.com/Dicklesworthstone/meta_skilld) - Rust CLI for managing Claude Code skills: indexing, building, bundling, and sharing.
+- [**Ontoly**](https://github.com/0xsarwagya/ontoly) - (0 ⭐) - TypeScript-native software intelligence engine with deterministic Software Graphs, MCP, and Agent Skills for architecture review, request tracing, dependency analysis, and impact analysis.
 - [**claude-cs**](https://github.com/nbashaw/claude-cs) - A Claude Code skill that helps you build custom customer support automation for your company.
 - [**design-engineer-auditor-package**](https://github.com/kylezantos/design-engineer-auditor-package) - A Claude Code skill for motion design audits, trained on Emil Kowalski, Jakub Krehel, and Jhey Tompkins.
 
