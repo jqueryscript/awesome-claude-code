@@ -622,7 +622,7 @@ June 14, 2026
 - [**codeburn**](https://github.com/AgentSeal/codeburn) - (8.0k ⭐) - See where your AI coding tokens go. Interactive TUI dashboard for Claude Code, Codex, and Cursor cost observability.
 - [**CCometixLine**](https://github.com/Haleclipse/CCometixLine) - (3.2k ⭐) - A high-performance Claude Code statusline tool written in Rust with Git integration and real-time usage tracking.
 - [**claude-usage**](https://github.com/phuryn/claude-usage) - (1.8k ⭐) - A local dashboard for tracking your Claude Code token usage, costs, and session history.
-- [**TokenTracker**](https://github.com/mm7894215/TokenTracker) - (837 ⭐) - Local-first, zero-config token and cost tracker across 25 AI coding tools (Claude Code, Codex, Cursor, Gemini, and more), with a local dashboard, native macOS menu bar and Windows tray apps, and desktop widgets.
+- [**TokenTracker**](https://github.com/mm7894215/TokenTracker) - (991 ⭐) - Local-first, zero-config token and cost tracker across 27 AI coding tools, with a dashboard, native macOS and Windows apps, four desktop widgets, achievements, and a desktop pet powered by real usage.
 - [**tokentap**](https://github.com/jmuncor/tokentap) - (798 ⭐) - Intercept LLM API traffic and visualize token usage in a real-time terminal dashboard.
 - [**CCSeva**](https://github.com/Iamshankhadeep/ccseva) - (796 ⭐) - A beautiful macOS menu bar app for tracking your Claude Code usage in real-time.
 - [**claude-task-viewer**](https://github.com/L1AD/claude-task-viewer) - (626 ⭐) - A web-based Kanban board for viewing Claude Code tasks.
