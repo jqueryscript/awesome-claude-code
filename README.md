@@ -419,6 +419,7 @@ June 14, 2026
 - [**harness**](https://github.com/revfactory/harness) - A meta-skill that designs domain-specific agent teams, defines specialized agents, and generates the skills they use.
 - [**arscontexta**](https://github.com/agenticnotetaking/arscontexta) - Claude Code plugin that generates individualized knowledge systems from conversation.
 - [**interface-design**](https://github.com/Dammyjay93/interface-design) - Design engineering for Claude Code. Craft, memory, and enforcement for consistent UI.
+- [**kgai**](https://github.com/kgaidev/kgai) - Shared memory for AI dev teams. An immutable knowledge graph of the decisions behind your code, recorded automatically by your agent and synced across the team without merge conflicts.
 - [**pg-aiguide**](https://github.com/timescale/pg-aiguide) - MCP server and Claude plugin for Postgres skills, documentation, and database guidance.
 - [**claude-workflow-v2**](https://github.com/CloudAI-X/claude-workflow-v2) - Universal Claude Code workflow plugin with agents, skills, hooks, and commands.
 - [**claude-code-safety-net**](https://github.com/kenryu42/claude-code-safety-net) - A Claude Code plugin that acts as a safety net, catching destructive git and filesystem commands before they execute.
