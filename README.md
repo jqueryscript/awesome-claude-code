@@ -557,6 +557,7 @@ June 14, 2026
 - [**cc-monitor-worker**](https://github.com/cometkim/cc-monitor-worker) - (21 ⭐) - Claude Code monitoring with Cloudflare Workers & Workers Analytics Engine.
 - [**shotgun-alpha**](https://github.com/shotgun-sh/shotgun-alpha) - (3 ⭐) - Codebase-aware spec engine for Cursor, Claude Code & Lovable.
 - [**conductor**](https://conductor.build/) - (0 ⭐) - Run a bunch of Claude Codes in parallel.
+- [**WaitPerk**](https://github.com/sammpentz-commits/waitperk-client) - (0 ⭐) - Puts one sponsor line in the Claude Code status bar and pays developers for the time it is on screen; source-available Python client with signed self-updates.
 
 ---
 
