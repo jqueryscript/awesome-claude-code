@@ -440,6 +440,7 @@ June 14, 2026
 ---
 
 ## 🛠️ Tools & Utilities
+n- [**cca-audit**](https://github.com/GiulioDER/cca-audit) - 6-layer parallel code audit pipeline. Runs 6 specialized LLM auditors (code quality, bugs, security, performance, docs, config) with non-overlapping scopes — zero duplicate findings. Three variants: Claude Code, Codex CLI, OpenRouter Python CLI. MIT licensed.
 
 - [**claude-mem**](https://github.com/thedotmack/claude-mem) - (82.2k ⭐) - A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.
 - [**Understand-Anything**](https://github.com/Egonex-AI/Understand-Anything) - (64.2k ⭐) - Codebase understanding tool that turns repositories into searchable, explainable knowledge graphs.
