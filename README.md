@@ -436,6 +436,7 @@ June 14, 2026
 - [**claude-dashboard**](https://github.com/uppinote20/claude-dashboard) - Comprehensive status line plugin for Claude Code with context usage, API rate limits, and cost tracking
 - [**claude-code-plugin**](https://github.com/browserbase/claude-code-plugin) - Browserbase plugin for Claude Code - Use cloud browsers with Claude Code instead of local Chrome.
 - [**homunculus**](https://github.com/humanplane/homunculus) - A Claude Code plugin that watches how you work, learns your patterns, and evolves itself to help you better.
+- [**vibecheck**](https://github.com/dalvgit/vibecheck) - Blocks `git push` until you pass a quick multiple-choice quiz on the diff you're shipping, so AI-written code doesn't land unread.
 
 ---
 
