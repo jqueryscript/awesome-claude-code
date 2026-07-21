@@ -78,6 +78,7 @@ June 14, 2026
 
 ## 🤖 Agents & Orchestration
 
+- [**grokpack**](https://github.com/Rennlabs/grokpack) - (0 ⭐) - Unofficial Grok Build companion suite for Claude Code: observe (orientation card), drive (Grok executes / Claude orchestrates + PreToolUse gate), display (tmux HUD). MIT.
 - [**gstack**](https://github.com/garrytan/gstack) - (116.2k ⭐) - Garry Tan's Claude Code setup with opinionated agent roles for product, design, engineering, release, documentation, and QA work.
 - [**Claude-Flow**](https://github.com/ruvnet/claude-flow) - (59.4k ⭐) - An enterprise-grade AI orchestration platform that revolutionizes how developers build with AI.
 - [**agents**](https://github.com/wshobson/agents) - (36.7k ⭐) - A collection of production-ready subagents for Claude Code.
@@ -412,6 +413,7 @@ June 14, 2026
 
 ## 🔌 Claude Plugins
 
+- [**grokdrive**](https://github.com/Rennlabs/grokdrive) - (0 ⭐) - Claude Code plugin: Grok executes while Claude orchestrates; hard PreToolUse gate on Write/Edit. Part of [grokpack](https://github.com/Rennlabs/grokpack). MIT. Unofficial — not a sandbox.
 - [**claude-forge**](https://github.com/sangrokjung/claude-forge) - (756 ⭐) - Claude Code plugin framework with agents, commands, skills, and security hooks.
 - [**claude-hud**](https://github.com/jarrodwatts/claude-hud) - A Claude Code plugin that shows what's happening - context usage, active tools, running agents, and todo progress.
 - [**ponytail**](https://github.com/DietrichGebert/ponytail) - Makes your AI agent think like the laziest senior dev in the room.
