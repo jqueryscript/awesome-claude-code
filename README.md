@@ -597,6 +597,7 @@ June 14, 2026
 - [**Claude-Code-Web-GUI**](https://github.com/binggg/Claude-Code-Web-GUI) - (72 ⭐) - Browse, view and share your Claude Code sessions - runs entirely in browser, no server required!
 - [**ccmate-release**](https://github.com/djyde/ccmate-release) - (56 ⭐) - A GUI for Claude Code.
 - [**Claude in a Box**](https://github.com/juancgarza/claude-in-a-box) - (51 ⭐) - A ChatGPT Canvas-style interface for Claude Code running in E2B sandboxes.
+- [**Unpeel**](https://unpeel.com) - Native macOS app to run and supervise multiple CLI agent sessions (Claude Code, Codex, Gemini CLI, and more) with persistent terminals, git worktree isolation, attention notifications, and iPhone remote control.
 
 ---
 
