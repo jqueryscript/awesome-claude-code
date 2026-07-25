@@ -557,6 +557,7 @@ June 14, 2026
 - [**cc-monitor-worker**](https://github.com/cometkim/cc-monitor-worker) - (21 ⭐) - Claude Code monitoring with Cloudflare Workers & Workers Analytics Engine.
 - [**shotgun-alpha**](https://github.com/shotgun-sh/shotgun-alpha) - (3 ⭐) - Codebase-aware spec engine for Cursor, Claude Code & Lovable.
 - [**conductor**](https://conductor.build/) - (0 ⭐) - Run a bunch of Claude Codes in parallel.
+- [**SysKnife**](https://github.com/lacs-project/sysknife) - Security-hardened MCP server for Linux system administration. The agent emits 189 typed actions instead of shell strings, with an Ed25519-signed hash-chain audit log, one-time approval receipts, and automatic rollback. Works with Claude Code, Cursor, and Codex.
 
 ---
 
