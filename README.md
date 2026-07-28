@@ -477,6 +477,7 @@ June 14, 2026
 - [**peon-ping**](https://github.com/PeonPing/peon-ping) - (4.8k ⭐) - Warcraft III Peon voice notifications (+ more!) for Claude Code, Codex, IDEs, and any AI agent.
 - [**Continuous-Claude-v2**](https://github.com/parcadei/Continuous-Claude-v2) - (3.8k ⭐) - Context management for Claude Code. Hooks maintain state via ledgers and handoffs. MCP execution without context pollution. Agent orchestration with isolated context windows.
 - [**claude-code-spec-workflow**](https://github.com/Pimzino/claude-code-spec-workflow) - (3.8k ⭐) - Automated Kiro-style Spec workflow for Claude Code. Transform feature ideas into complete implementations through Requirements → Design → Tasks → Implementation.
+- [**Unity-MCP**](https://github.com/IvanMurzak/Unity-MCP) - (3.4k ⭐) - Open-source MCP server connecting AI agents (Claude, Cursor, GitHub Copilot, Gemini, and more) to the Unity Editor and runtime, with 100+ built-in tools.
 - [**crystal**](https://github.com/stravu/crystal) - (3.1k ⭐) - Run multiple Claude Code AI sessions in parallel git worktrees.
 - [**CCPlugins**](https://github.com/brennercruvinel/CCPlugins) - (2.7k ⭐) - Claude Code Plugins that actually save time. Built by a dev tired of typing please act like a senior engineer in every conversation.
 - [**agent-of-empires**](https://github.com/njbrake/agent-of-empires) - (2.6k ⭐) - Claude Code, OpenCode, Mistral Vibe, Codex CLI, Gemini CLI Coding Agent Terminal Session manager via tmux and git Worktrees.
@@ -552,6 +553,7 @@ June 14, 2026
 - [**meridian**](https://github.com/markmdev/meridian) - (177 ⭐) - Zero-config Claude Code setup with enforced task scaffolding, structured memory, persistent context after compaction, plug-in code standards, optional TDD mode, and zero behavior changes for developers.
 - [**claude-thermos**](https://github.com/izeigerman/claude-thermos) - (171 ⭐) - Keeps a Claude session warm between tasks.
 - [**claude-code-boost**](https://github.com/yifanzz/claude-code-boost) - (165 ⭐) - Hook utilities for Claude Code with intelligent auto-approval.
+- [**Godot-MCP**](https://github.com/IvanMurzak/Godot-MCP) - (154 ⭐) - Open-source MCP server connecting AI agents to the Godot Editor and runtime (Godot 4.x, C#).
 - [**claude-code-auto-memory**](https://github.com/severity1/claude-code-auto-memory) - (149 ⭐) - Claude Code plugin that automatically maintains CLAUDE.md files.
 - [**context-forge**](https://github.com/webdevtodayjason/context-forge) - (142 ⭐) - CLI tool that scaffolds context engineering documentation for Claude Code projects.
 - [**claude-code-personal-assistant**](https://github.com/c0dezli/claude-code-personal-assistant) - (133 ⭐) - AI personal assistant setup for Claude Code.
@@ -572,6 +574,7 @@ June 14, 2026
 - [**cc-monitor-rs**](https://github.com/ZhangHanDong/cc-monitor-rs) - (24 ⭐) - Real-time Claude Code usage monitor with native UI built using Rust and Makepad.
 - [**claude-code-test-runner**](https://github.com/firstloophq/claude-code-test-runner) - (22 ⭐) - An automated E2E natural language test runner built on Claude Code.
 - [**cc-monitor-worker**](https://github.com/cometkim/cc-monitor-worker) - (21 ⭐) - Claude Code monitoring with Cloudflare Workers & Workers Analytics Engine.
+- [**Unreal-MCP**](https://github.com/IvanMurzak/Unreal-MCP) - (5 ⭐) - Open-source MCP server connecting AI agents to Unreal Engine 5.7, editor and runtime (C++ plugin + .NET sidecar).
 - [**shotgun-alpha**](https://github.com/shotgun-sh/shotgun-alpha) - (3 ⭐) - Codebase-aware spec engine for Cursor, Claude Code & Lovable.
 - [**conductor**](https://conductor.build/) - (0 ⭐) - Run a bunch of Claude Codes in parallel.
 
