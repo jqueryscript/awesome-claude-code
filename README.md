@@ -589,6 +589,8 @@ June 14, 2026
 - [**Claude-Autopilot**](https://github.com/benbasha/Claude-Autopilot) - (234 ⭐) - VS Code/Cursor extension for automating Claude Code tasks with intelligent queuing, batch processing, and auto-resume.
 - [**n8n-nodes-claudecode**](https://github.com/holt-web-ai/n8n-nodes-claudecode) - (96 ⭐) - Bring the power of Claude Code directly into your n8n automation workflows!
 
+- [**Power Claude**](https://github.com/neural-llm-io/power-claude) - Local VS Code/Cursor extension + CLI for multi-seat Claude Code orchestration, session recovery, Token Saver, and local cost analytics (official CLI transport; independent third-party).
+
 ---
 
 ## 🖥️ Clients & GUIs
