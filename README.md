@@ -593,6 +593,7 @@ June 14, 2026
 
 ## 🖥️ Clients & GUIs
 
+- [**Blume**](https://blume.codes/) - Desktop sidecar for Claude Code and other coding agents that monitors sessions, surfaces the rules, skills, and hooks shaping each run, tracks usage, and keeps chat history local.
 - [**vibe-kanban**](https://github.com/BloopAI/vibe-kanban) - (27.0k ⭐) - Get 10X more out of Claude Code, Gemini CLI, Codex, Amp and other coding agents.
 - [**claudia**](https://github.com/getAsterisk/claudia) - (22.1k ⭐) - A powerful GUI app and Toolkit for Claude Code - Create custom agents, manage interactive Claude Code sessions, run secure background agents, and more.
 - [**happy**](https://github.com/slopus/happy) - (21.9k ⭐) - Mobile and Web client for Claude Code, with realtime voice, encryption and fully featured.
