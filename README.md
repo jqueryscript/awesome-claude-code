@@ -614,6 +614,7 @@ June 14, 2026
 - [**Claude-Code-Web-GUI**](https://github.com/binggg/Claude-Code-Web-GUI) - (72 ⭐) - Browse, view and share your Claude Code sessions - runs entirely in browser, no server required!
 - [**ccmate-release**](https://github.com/djyde/ccmate-release) - (56 ⭐) - A GUI for Claude Code.
 - [**Claude in a Box**](https://github.com/juancgarza/claude-in-a-box) - (51 ⭐) - A ChatGPT Canvas-style interface for Claude Code running in E2B sandboxes.
+- [**Clayrune**](https://github.com/ronle/clayrune) - (7 ⭐) - Mission control for running multiple Claude Code agents across projects: one dashboard, a scheduler, cross-session memory, per-agent worktree isolation, and browser/phone access. Local-first, runs on your own Claude subscription via the CLI.
 
 ---
 
