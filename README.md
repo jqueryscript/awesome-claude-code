@@ -422,6 +422,7 @@ June 14, 2026
 - [**meta_skilld**](https://github.com/Dicklesworthstone/meta_skilld) - Rust CLI for managing Claude Code skills: indexing, building, bundling, and sharing.
 - [**claude-cs**](https://github.com/nbashaw/claude-cs) - A Claude Code skill that helps you build custom customer support automation for your company.
 - [**design-engineer-auditor-package**](https://github.com/kylezantos/design-engineer-auditor-package) - A Claude Code skill for motion design audits, trained on Emil Kowalski, Jakub Krehel, and Jhey Tompkins.
+- [**suede-creator-skills**](https://github.com/JasonColapietro/suede-creator-skills) - (165 ⭐) - 70 open-source Agent Skills for Claude Code and Codex spanning code review and A–F grading, AI evals, CI gates, design, copy, SEO/AEO/GEO, app shipping, and creator rights.
 
 ---
 
