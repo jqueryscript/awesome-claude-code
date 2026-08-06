@@ -466,7 +466,7 @@ A curated list of awesome tools, skills, plugins, integrations, extensions, fram
 - ✨ [**opensync**](https://github.com/LKbaba/Claude-code-ChatInWindows) (237 ⭐) - Dashboards for OpenCode, Claude Code, Codex, Factory Droid and more.
 - ✨ [**claude-code-otel**](https://github.com/ColeMurray/claude-code-otel/) (228 ⭐) - A comprehensive observability solution for monitoring Claude Code usage, performance, and costs.
 - ✨ [**claude-code-leaderboard**](https://github.com/grp06/claude-code-leaderboard) (180 ⭐) - This CLI automatically monitors your token usage and posts your stats to the leaderboard after each Claude Code session.
-- ✨ [**usage**](https://github.com/aqua5230/usage) (147 ⭐) - macOS menu bar app that pins Claude Code and Codex quota, tokens, and cost to your screen. Local-only — reads a statusLine hook (Claude Code) and JSONL session logs (Codex); no API calls. Includes HTML reports and a TUI mode.
+- ✨ [**usage**](https://github.com/aqua5230/usage) (280 ⭐) - macOS menu bar and Windows tray app that pins Claude Code, Codex, and Antigravity quota, tokens, and cost to your screen. Claude Code and Codex are read from a statusLine hook and JSONL session logs with no LLM API calls. Includes HTML reports and a TUI mode.
 - ✨ [**claude-code-ui**](https://github.com/KyleAMathews/claude-code-ui) (108 ⭐) - A real-time dashboard for monitoring Claude Code sessions across multiple projects.
 - [**pyccsl**](https://github.com/wolfdenpublishing/pyccsl) (81 ⭐) - Python Claude Code Status Line (PyCCSL, pronounced "pixel").
 - [**claude-statusline**](https://github.com/luongnv89/claude-statusline) (41 ⭐) - Customize the status line in Claude Code.
