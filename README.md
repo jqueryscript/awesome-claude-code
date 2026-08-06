@@ -601,6 +601,7 @@ June 14, 2026
 - [**CodePilot**](https://github.com/op7418/CodePilot) - (6.0k ⭐) - A native desktop GUI for Claude Code — chat, code, and manage projects visually.
 - [**1code**](https://github.com/21st-dev/1code) - (5.6k ⭐) - Best UI for Claude Code with local and remote agent execution.
 - [**companion**](https://github.com/The-Vibe-Company/companion) - (2.4k ⭐) - Open-source Claude Code / Codex Web UI.
+- [**qwen-audio-agent**](https://github.com/QwenAudio/qwen-audio-agent) - (1.9k ⭐) - Realtime full-duplex voice client for Claude Code and other ACP agents — talk hands-free with barge-in, background task results read back, local wake word; macOS desktop orb, TUI, and web UI.
 - [**Sniffly**](https://github.com/chiphuyen/sniffly) - (1.2k ⭐) - Claude Code dashboard with usage stats, error analysis, and sharable feature.
 - [**claude-code-viewer**](https://github.com/d-kimuson/claude-code-viewer) - (1.2k ⭐) - A full-featured web-based Claude Code client that provides complete interactive functionality for managing Claude Code projects.
 - [**clui-cc**](https://github.com/lcoutodemos/clui-cc) - (1.2k ⭐) - A lightweight, transparent desktop overlay for Claude Code on macOS. Clui CC wraps the Claude Code CLI in a floating pill interface with multi-tab sessions, a permission approval UI, voice input, and a skills marketplace.
