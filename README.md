@@ -577,6 +577,9 @@ June 14, 2026
 
 ---
 
+- [**Launchpad**](https://github.com/noambrand/Launchpad-CLI) - (21 ⭐) - A native one-command installer for Claude Code on Windows, macOS, and Linux with a GUI folder picker, per-project profiles (model, flags, env vars, startup commands), a live terminal status bar for context and rate-limit resets, opt-in auto-continue on limit reset, and voice alerts.
+- [**Kivun**](https://github.com/noambrand/kivun-terminal-wsl) - (13 ⭐) - Runs Claude Code on Windows (WSL2 + Konsole) and Linux with correct right-to-left rendering for Hebrew, Arabic, and Persian in the terminal, handling cursor position and mixed RTL/LTR on one line, plus per-project profiles, a status bar, and voice alerts.
+
 ## 💻 IDE & Editor Integrations
 
 - [**claudecode.nvim**](https://github.com/coder/claudecode.nvim) - (2.8k ⭐) - A Claude Code Neovim IDE Extension.
