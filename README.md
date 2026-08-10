@@ -475,6 +475,7 @@ June 14, 2026
 - [**claude-dashboard**](https://github.com/uppinote20/claude-dashboard) - Comprehensive status line plugin for Claude Code with context usage, API rate limits, and cost tracking
 - [**claude-code-plugin**](https://github.com/browserbase/claude-code-plugin) - Browserbase plugin for Claude Code - Use cloud browsers with Claude Code instead of local Chrome.
 - [**homunculus**](https://github.com/humanplane/homunculus) - A Claude Code plugin that watches how you work, learns your patterns, and evolves itself to help you better.
+- [**ccsidekick**](https://github.com/krayong/ccsidekick) - Status line plugin with a reactive ASCII character, 33 widgets and 75+ themes; the repo doubles as its own plugin marketplace.
 
 ---
 
@@ -714,6 +715,7 @@ June 14, 2026
 - [**pyccsl**](https://github.com/wolfdenpublishing/pyccsl) - (83 ⭐) - Python Claude Code Status Line (PyCCSL, pronounced "pixel").
 - [**Claude-Monitor**](https://github.com/RISCfuture/Claude-Monitor) - (43 ⭐) - A menulet that tracks your Claude Code token usage.
 - [**cccost**](https://github.com/badlogic/cccost) - (25 ⭐) - Instrument Claude Code to track actual token usage and cost.
+- [**ccsidekick**](https://github.com/krayong/ccsidekick) - (20 ⭐) - Status line with a reactive ASCII character, 33 widgets, and 75+ themes; cost, git, and usage are read from local transcripts.
 
 ---
 
