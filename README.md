@@ -661,7 +661,7 @@ June 14, 2026
 - [**claude-statusline**](https://github.com/luongnv89/claude-statusline) - (107 ⭐) - Customize the status line in Claude Code.
 - [**pyccsl**](https://github.com/wolfdenpublishing/pyccsl) - (83 ⭐) - Python Claude Code Status Line (PyCCSL, pronounced "pixel").
 - [**Claude-Monitor**](https://github.com/RISCfuture/Claude-Monitor) - (43 ⭐) - A menulet that tracks your Claude Code token usage.
-- [**Agent Island**](https://github.com/tristan666666/agent-island) - (110 ⭐) - Native companion for Claude, Codex, Antigravity, Grok, and Cursor with local session status, your-turn alerts, and provider usage views.
+- [**Agent Island**](https://github.com/tristan666666/agent-island) - (120 ⭐) - Native companion for Claude, Codex, Antigravity, Grok, and Cursor with local session status, your-turn alerts, and provider usage views.
 - [**cccost**](https://github.com/badlogic/cccost) - (25 ⭐) - Instrument Claude Code to track actual token usage and cost.
 
 ---
