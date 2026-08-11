@@ -139,6 +139,7 @@ June 14, 2026
 - [**Severance**](https://github.com/blas0/Severance) - (47 ⭐) - A semantic memory system designed for Claude Code.
 - [**AgentCheck**](https://github.com/devlyai/AgentCheck) - (44 ⭐) - Local AI-powered code review agents for Claude Code.
 - [**claude-agents**](https://github.com/tddworks/claude-agents) - (18 ⭐) - A collection of specialized AI agents for Claude Code that enhance software development workflows with focused expertise in specific domains.
+- [**Vigil**](https://github.com/butterlatte-zhang/vigil) - (1 ⭐) - A native macOS terminal where a manager agent orchestrates a tree of workers (Claude Code, Codex, OpenCode): detail flows down, summaries roll up, and every node keeps its native TUI.
 
 ---
 
