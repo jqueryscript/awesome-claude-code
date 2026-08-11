@@ -59,7 +59,7 @@ June 14, 2026
 - [🧠 Agent Skills](#-agent-skills)
 - [🔌 Claude Plugins](#-claude-plugins)
 - [🛠️ Tools & Utilities](#%EF%B8%8F-tools--utilities)
-- [💻 IDE & Editor Integrations](#-ide--editor-integrations)
+- [💻 ](#-ide--editor-integrations)
 - [🖥️ Clients & GUIs](#%EF%B8%8F-clients--guis)
 - [🏗️ Infrastructure & Proxies](#%EF%B8%8F-infrastructure--proxies)
 - [📊 Usage & Observability](#-usage--observability)
@@ -602,7 +602,7 @@ June 14, 2026
 - [**cc-monitor-worker**](https://github.com/cometkim/cc-monitor-worker) - (21 ⭐) - Claude Code monitoring with Cloudflare Workers & Workers Analytics Engine.
 - [**shotgun-alpha**](https://github.com/shotgun-sh/shotgun-alpha) - (3 ⭐) - Codebase-aware spec engine for Cursor, Claude Code & Lovable.
 - [**conductor**](https://conductor.build/) - (0 ⭐) - Run a bunch of Claude Codes in parallel.
-- [**companion-tts**](https://github.com/kleenpulse/companion-tts) - (0 ⭐) - A floating Windows companion that reads Claude Code's output aloud and speaks up when a session is waiting on you. Four TTS providers with automatic fallback, including offline Piper neural voices.
+- [**companion-tts**](https://github.com/kleenpulse/companion-tts) - (0 ⭐) - A floating Windows companion that reads Claude Code's output aloud and speaks up when a session is waiting on you or when claude needs your approval. Four TTS providers with automatic fallback, including offline Piper neural voices.
 
 
 ---
