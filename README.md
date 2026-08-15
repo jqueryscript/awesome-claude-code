@@ -679,6 +679,7 @@ June 14, 2026
 - [**castari-proxy**](https://github.com/castar-ventures/castari-proxy) - (90 ⭐) - Use Claude Agent SDK and Claude Code with other providers/models.
 - [**claude-code-open**](https://github.com/Davincible/claude-code-open) - (68 ⭐) - Claude Code with any LLM provider (OpenRouter, Gemini, Kimi K2).
 - [**Claudify**](https://github.com/neno-is-ooo/claudify) - (32 ⭐) - Use Claude Code as an LLM provider with your subscription flat fee instead of pay-per-token API keys.
+- [**SandBase CLI**](https://github.com/sandbaseai/cli) - (0 ⭐) - Auto-configures Claude Code with a secure MCP bridge to 2,000+ AI tools and 200+ models using one API key, including web search, multimodal generation, and cloud sandboxes.
 
 ---
 
