@@ -528,6 +528,7 @@ June 14, 2026
 - [**claude-memory-compiler**](https://github.com/coleam00/claude-memory-compiler) - (1.2k ⭐) - Give Claude Code a memory that evolves with your codebase.
 - [**ccmanager**](https://github.com/kbwo/ccmanager) - (1.1k ⭐) - Claude Code / Gemini CLI / Codex CLI Session Manager.
 - [**claude-powerline**](https://github.com/Owloops/claude-powerline) - (1.1k ⭐) - Beautiful vim-style powerline statusline for Claude Code.
+- [**claude-code-account-switcher**](https://github.com/Nemo-Illusionist/claude-code-account-switcher) - (13 ⭐) - Binds Claude Code accounts to directories: `cd` activates the matching account via `CLAUDE_CONFIG_DIR`, with inheritance down the directory tree, per-account settings and agents, an IDE wrapper, per-account rate-limit usage, a status line, and a doctor command that audits which identity each config dir resolves to.
 - [**claudebox**](https://github.com/RchGrav/claudebox) - (1.1k ⭐) - A Claude Code Docker Development Environment for running Claude AI's coding assistant in a fully containerized, reproducible environment.
 - [**claude-code-log**](https://github.com/daaain/claude-code-log) - (1.1k ⭐) - A Python CLI tool that converts Claude Code transcript JSONL files into readable HTML format.
 - [**vibecode-pro-max-kit**](https://github.com/withkynam/vibecode-pro-max-kit) - (951 ⭐) - Spec-driven coding harness that keeps project memory and implementation context organized for AI agents.
