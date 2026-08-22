@@ -710,6 +710,7 @@ June 14, 2026
 - [**Claude / Codex Usage Dashboard**](https://github.com/frankchiu-dev/claude-codex-usage-dashboard) - (165 ⭐) - Local dashboard for viewing Claude Code and Codex usage limits on a phone, tablet, or small display.
 - [**tokentab**](https://github.com/sequilade/tokentab) - (122 ⭐) - CLI for calculating Claude Code, Codex, and Gemini CLI session costs by model, project, and day.
 - [**claude-pulse**](https://github.com/nikitadoudikov/claude-pulse) - (116 ⭐) - Live Claude Code dashboard for token use, context health, tool calls, session recovery, and mobile approvals.
+- [**viberank**](https://github.com/sculptdotfun/viberank) - (114 ⭐) - Public leaderboard and open dataset for AI coding usage. Reads local ccusage data across Claude Code, Codex, Gemini CLI, Copilot, OpenCode and more, ranking developers by measured token spend, with per-tool boards, README badges and a free JSON API.
 - [**claude-statusline**](https://github.com/luongnv89/claude-statusline) - (107 ⭐) - Customize the status line in Claude Code.
 - [**pyccsl**](https://github.com/wolfdenpublishing/pyccsl) - (83 ⭐) - Python Claude Code Status Line (PyCCSL, pronounced "pixel").
 - [**Claude-Monitor**](https://github.com/RISCfuture/Claude-Monitor) - (43 ⭐) - A menulet that tracks your Claude Code token usage.
