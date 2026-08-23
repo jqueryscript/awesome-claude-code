@@ -147,6 +147,7 @@ June 14, 2026
 - [**Severance**](https://github.com/blas0/Severance) - (47 ⭐) - A semantic memory system designed for Claude Code.
 - [**AgentCheck**](https://github.com/devlyai/AgentCheck) - (44 ⭐) - Local AI-powered code review agents for Claude Code.
 - [**claude-agents**](https://github.com/tddworks/claude-agents) - (18 ⭐) - A collection of specialized AI agents for Claude Code that enhance software development workflows with focused expertise in specific domains.
+- [**Podiom**](https://github.com/Podiom/Podiom) - (2 ⭐) - Local-first control plane for Claude Code and Codex CLI agents: durable named agents, sessions that survive provider/profile switches, a shared project ledger, and built-in scheduling, in a single Go binary with an embedded web UI.
 
 ---
 
