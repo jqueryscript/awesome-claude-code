@@ -147,6 +147,7 @@ June 14, 2026
 - [**Severance**](https://github.com/blas0/Severance) - (47 ⭐) - A semantic memory system designed for Claude Code.
 - [**AgentCheck**](https://github.com/devlyai/AgentCheck) - (44 ⭐) - Local AI-powered code review agents for Claude Code.
 - [**claude-agents**](https://github.com/tddworks/claude-agents) - (18 ⭐) - A collection of specialized AI agents for Claude Code that enhance software development workflows with focused expertise in specific domains.
+- [**DevPilot**](https://github.com/geastham/devpilot) - (0 ⭐) - A planning cockpit that dispatches Linear issues to Claude Code sessions on machines you own, with a parallelisation-aware wave planner and a "runway" metric for how long until the ready-to-dispatch queue empties.
 
 ---
 
