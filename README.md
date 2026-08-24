@@ -503,6 +503,7 @@ June 14, 2026
 
 ## 🛠️ Tools & Utilities
 
+- [**dotagents**](https://github.com/yourconscience/dotagents) - (3 ⭐) - One `~/.agents` repository that syncs skills, MCP servers, hooks, agent roles, root instructions, and memory tooling natively into Claude Code, Codex, OMP/Pi, OpenCode, Droid, and Hermes, with commit-pinned and audited external skills.
 - [**claude-mem**](https://github.com/thedotmack/claude-mem) - (82.2k ⭐) - A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.
 - [**Understand-Anything**](https://github.com/Egonex-AI/Understand-Anything) - (64.2k ⭐) - Codebase understanding tool that turns repositories into searchable, explainable knowledge graphs.
 - [**headroom**](https://github.com/headroomlabs-ai/headroom) - (62.8k ⭐) - Compresses tool outputs, logs, files, and retrieval chunks before they reach the language model.
