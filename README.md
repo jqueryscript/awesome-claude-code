@@ -465,6 +465,7 @@ June 14, 2026
 - [**meta_skilld**](https://github.com/Dicklesworthstone/meta_skilld) - Rust CLI for managing Claude Code skills: indexing, building, bundling, and sharing.
 - [**claude-cs**](https://github.com/nbashaw/claude-cs) - A Claude Code skill that helps you build custom customer support automation for your company.
 - [**design-engineer-auditor-package**](https://github.com/kylezantos/design-engineer-auditor-package) - A Claude Code skill for motion design audits, trained on Emil Kowalski, Jakub Krehel, and Jhey Tompkins.
+- [**sol-simplify**](https://github.com/MongLong0214/sol-simplify) - One-markdown-file skill for Claude Code and Codex that stops agents from inventing bureaucracy (approval gates, governance docs) around their own work. Measured on gpt-5.6-sol: ceremony scored 0 in 10 of 11 benchmark runs vs 4-6 for baselines.
 
 ---
 
