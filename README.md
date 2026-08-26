@@ -744,6 +744,7 @@ June 14, 2026
 - [**pyccsl**](https://github.com/wolfdenpublishing/pyccsl) - (83 ⭐) - Python Claude Code Status Line (PyCCSL, pronounced "pixel").
 - [**Claude-Monitor**](https://github.com/RISCfuture/Claude-Monitor) - (43 ⭐) - A menulet that tracks your Claude Code token usage.
 - [**cccost**](https://github.com/badlogic/cccost) - (25 ⭐) - Instrument Claude Code to track actual token usage and cost.
+- [**roundtable**](https://github.com/Kostakurta8/roundtable) - (16 ⭐) - Read-only local observer for Claude Code sessions that shows every subagent in one view with per-agent token and cost accounting, and replays a finished session to any second.
 
 ---
 
