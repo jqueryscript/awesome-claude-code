@@ -628,6 +628,7 @@ June 14, 2026
 - [**cc-monitor-worker**](https://github.com/cometkim/cc-monitor-worker) - (21 ⭐) - Claude Code monitoring with Cloudflare Workers & Workers Analytics Engine.
 - [**shotgun-alpha**](https://github.com/shotgun-sh/shotgun-alpha) - (3 ⭐) - Codebase-aware spec engine for Cursor, Claude Code & Lovable.
 - [**conductor**](https://conductor.build/) - (0 ⭐) - Run a bunch of Claude Codes in parallel.
+- [**termagitchi**](https://github.com/TevvvB/termagitchi) - (2 ⭐) - Gives every Claude Code session its own creature in the status line, keyed on the session id, so parallel agents working in separate git worktrees are tellable apart at a glance. One command shows every worktree, who is working in each, and which needs attention first.
 
 ---
 
