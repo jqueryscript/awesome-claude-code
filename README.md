@@ -481,6 +481,7 @@ June 14, 2026
 - [**harness**](https://github.com/revfactory/harness) - A meta-skill that designs domain-specific agent teams, defines specialized agents, and generates the skills they use.
 - [**arscontexta**](https://github.com/agenticnotetaking/arscontexta) - Claude Code plugin that generates individualized knowledge systems from conversation.
 - [**interface-design**](https://github.com/Dammyjay93/interface-design) - Design engineering for Claude Code. Craft, memory, and enforcement for consistent UI.
+- [**freehire**](https://github.com/strelov1/freehire-cli) - Job hunting from Claude Code over [freehire.me](https://freehire.me): 3.3M+ IT roles crawled straight from 294K company career boards. Five skills plus `/job-search`, `/market-fit`, `/tailor-cv`, `/track-applications` and `/triage-inbox`.
 - [**pg-aiguide**](https://github.com/timescale/pg-aiguide) - MCP server and Claude plugin for Postgres skills, documentation, and database guidance.
 - [**claude-workflow-v2**](https://github.com/CloudAI-X/claude-workflow-v2) - Universal Claude Code workflow plugin with agents, skills, hooks, and commands.
 - [**claude-code-safety-net**](https://github.com/kenryu42/claude-code-safety-net) - A Claude Code plugin that acts as a safety net, catching destructive git and filesystem commands before they execute.
