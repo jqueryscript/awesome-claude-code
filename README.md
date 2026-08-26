@@ -630,6 +630,7 @@ June 14, 2026
 - [**conductor**](https://conductor.build/) - (0 ⭐) - Run a bunch of Claude Codes in parallel.
 
 ---
+- [**computer-use**](https://github.com/ridelink0/claude-computer-use) - (0 ⭐) - Codex-style computer use for Windows and macOS: drives desktop apps through the accessibility tree instead of screenshots, so targeting is exact and about 20x cheaper in tokens, and it can work on the same desktop while you keep working.
 
 ## 💻 IDE & Editor Integrations
 
