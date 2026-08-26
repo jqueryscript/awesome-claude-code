@@ -149,6 +149,7 @@ June 14, 2026
 - [**claude-agents**](https://github.com/tddworks/claude-agents) - (18 ⭐) - A collection of specialized AI agents for Claude Code that enhance software development workflows with focused expertise in specific domains.
 
 ---
+- [**agentops**](https://github.com/baramgay/agentops) - Production-ready multi-agent orchestration framework for Claude Code. 33 specialized agents, vertical command chain (Orchestrator→Lead→Specialist), live WebSocket dashboard, native issue tracker, Obsidian-compatible wiki with auto-indexing, and Claude Code hooks for session capture and token efficiency.
 
 ## 🧠 Agent Skills
 
