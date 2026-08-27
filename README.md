@@ -743,6 +743,7 @@ June 14, 2026
 - [**claude-statusline**](https://github.com/luongnv89/claude-statusline) - (107 ⭐) - Customize the status line in Claude Code.
 - [**pyccsl**](https://github.com/wolfdenpublishing/pyccsl) - (83 ⭐) - Python Claude Code Status Line (PyCCSL, pronounced "pixel").
 - [**Claude-Monitor**](https://github.com/RISCfuture/Claude-Monitor) - (43 ⭐) - A menulet that tracks your Claude Code token usage.
+- [**Terse**](https://github.com/Terse-AI/terseai) - (29 ⭐) - On-device monitor for Claude Code and 7 other agents, with a budget circuit breaker that pauses or kills a runaway agent before its next API call, MCP risk scoring, and 40-70% prompt compression.
 - [**cccost**](https://github.com/badlogic/cccost) - (25 ⭐) - Instrument Claude Code to track actual token usage and cost.
 
 ---
