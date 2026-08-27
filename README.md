@@ -495,6 +495,7 @@ June 14, 2026
 - [**ensue-skill**](https://github.com/mutable-state-inc/ensue-skill) - A persistent knowledge tree that grows with you - what you learn today enriches tomorrow's reasoning.
 - [**fablize**](https://github.com/fivetaku/fablize) - Claude Code plugin that changes Opus behavior with a Fable-inspired response style.
 - [**claude-review-loop**](https://github.com/hamelsmu/claude-review-loop) - Claude Code plugin: automated code review loop with Codex.
+- [**multi**](https://github.com/szarkans/multi) - A Claude Code plugin that asks Claude, Codex, Gemini, and OpenCode to review the same work independently, then shows their answers side by side.
 - [**claude-dashboard**](https://github.com/uppinote20/claude-dashboard) - Comprehensive status line plugin for Claude Code with context usage, API rate limits, and cost tracking
 - [**claude-code-plugin**](https://github.com/browserbase/claude-code-plugin) - Browserbase plugin for Claude Code - Use cloud browsers with Claude Code instead of local Chrome.
 - [**homunculus**](https://github.com/humanplane/homunculus) - A Claude Code plugin that watches how you work, learns your patterns, and evolves itself to help you better.
