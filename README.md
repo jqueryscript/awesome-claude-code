@@ -744,6 +744,7 @@ June 14, 2026
 - [**pyccsl**](https://github.com/wolfdenpublishing/pyccsl) - (83 ⭐) - Python Claude Code Status Line (PyCCSL, pronounced "pixel").
 - [**Claude-Monitor**](https://github.com/RISCfuture/Claude-Monitor) - (43 ⭐) - A menulet that tracks your Claude Code token usage.
 - [**cccost**](https://github.com/badlogic/cccost) - (25 ⭐) - Instrument Claude Code to track actual token usage and cost.
+- [**clawd-line**](https://github.com/virvick/clawd-line) - A Claude Code statusline with Clawd, an animated pixel-art crab mascot that reacts to thinking/executing/idle states, plus gradient context and rate-limit usage bars, git branch, and cost tracking. Ships a native PowerShell port with no extra dependencies for Windows.
 
 ---
 
