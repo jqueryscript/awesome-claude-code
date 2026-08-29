@@ -323,7 +323,7 @@ June 14, 2026
 - [**ai-legal-claude**](https://github.com/zubair-trabzada/ai-legal-claude) - (1.5k ⭐) - AI legal assistant skill for contract review, legal research, and compliance workflows.
 - [**investorskills**](https://github.com/questflowai/investorskills) - (1.5k ⭐) - A library of structured investing frameworks drawn from durable investor decision patterns, built for study and use by AI finance agents.
 - [**modern-web-guidance**](https://github.com/GoogleChrome/modern-web-guidance) - (1.4k ⭐) - Google Chrome guidance for modern web development, with a companion site for current web platform recommendations.
-- [**claude-real-video**](https://github.com/HUANGCHIHHUNGLeo/claude-real-video) - (1.4k ⭐) - Claude Code skill for real-video generation workflows, including planning, prompts, and production steps.
+- [**claude-real-video**](https://github.com/HUANGCHIHHUNGLeo/claude-real-video) - (1.4k ⭐) - Local CLI + Claude Code skill that lets Claude actually watch a video: scene-aware, deduplicated keyframes plus a timestamped transcript from a URL or local file.
 - [**callstackincubator**](https://github.com/callstackincubator/agent-skills) - (1.4k ⭐) - A collection of agent-optimized React Native skills for AI coding assistants.
 - [**chops**](https://github.com/Shpigford/chops) - (1.4k ⭐) - macOS app for browsing, organizing, and using AI agent skills.
 - [**paper2code**](https://github.com/PrathamLearnsToCode/paper2code) - (1.4k ⭐) - Agent skill for turning arXiv papers into working code implementations.
