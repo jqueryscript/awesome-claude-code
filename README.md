@@ -151,6 +151,7 @@ June 14, 2026
 ---
 
 ## 🧠 Agent Skills
+- [AuraKit](https://github.com/smorky850612/Aurakit) - All-in-one Claude Code skill: 46 modes, 23 sub-agents, 6-layer OWASP security, 10 lifecycle hooks, ~55% token savings. Cross-platform. `npx @smorky85/aurakit`
 
 - [**Superpowers**](https://github.com/obra/superpowers) - (227.6k ⭐) - Give Claude Code superpowers with a comprehensive skills library of proven techniques, patterns, and tools.
 - [**ECC**](https://github.com/affaan-m/ECC) - (222.0k ⭐) - Agent harness optimization system with skills, memory, security practices, and research-first workflows for Claude Code, Codex, OpenCode, Cursor, and related tools.
