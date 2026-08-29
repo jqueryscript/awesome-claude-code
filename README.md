@@ -94,6 +94,8 @@ June 14, 2026
 
 ## 🤖 Agents & Orchestration
 
+- [Clickyy](https://github.com/jayamitkatariya/clickyyy) - Shake your cursor to summon an AI agent that sees your screen and clicks, types, drags, and acts for you on macOS. Open-source, MIT.
+
 - [**gstack**](https://github.com/garrytan/gstack) - (116.2k ⭐) - Garry Tan's Claude Code setup with opinionated agent roles for product, design, engineering, release, documentation, and QA work.
 - [**Claude-Flow**](https://github.com/ruvnet/claude-flow) - (59.4k ⭐) - An enterprise-grade AI orchestration platform that revolutionizes how developers build with AI.
 - [**agents**](https://github.com/wshobson/agents) - (36.7k ⭐) - A collection of production-ready subagents for Claude Code.
