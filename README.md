@@ -571,6 +571,7 @@ June 14, 2026
 - [**memmy-agent**](https://github.com/MemTensor/memmy-agent) - (614 ⭐) - A personal AI agent and shared memory hub that gives Claude Code, Codex, OpenClaw, and other agents persistent context under user control.
 - [**OpenContext**](https://github.com/0xranx/OpenContext) - (592 ⭐) - Personal context store for Codex, Claude, OpenCode, and other agents, with skills, tools, search, and a desktop GUI.
 - [**skillhub-desktop**](https://github.com/skillhub-club/skillhub-desktop) - (590 ⭐) - Desktop app for managing agent skills in one place.
+- [**vestige**](https://github.com/samvallad33/vestige) - (565 ⭐) - Local-first cognitive memory MCP server for AI coding agents. Stores memory in local SQLite with FSRS-6 retention, prediction-error gating, active forgetting, spreading activation, hybrid retrieval, and a 3D dashboard. Works with Claude Code, Cursor, VS Code, Codex, Windsurf, and JetBrains.
 - [**claude-simone**](https://github.com/Helmi/claude-simone) - (555 ⭐) - A project management framework for AI-assisted development with Claude Code.
 - [**ai-data-extractor**](https://github.com/bawadou/ai-data-extractor) - (541 ⭐) - Local extractor that exports chat histories from Claude Code, Codex, Cursor, Windsurf, Aider, Cline, and other coding assistants to normalized JSONL.
 - [**async-code**](https://github.com/ObservedObserver/async-code) - (534 ⭐) - Use Claude Code or CodeX CLI to perform multiple tasks in parallel with a Codex-style UI, functioning as a personal codex or cursor-background agent.
