@@ -628,6 +628,7 @@ June 14, 2026
 - [**cc-monitor-worker**](https://github.com/cometkim/cc-monitor-worker) - (21 ⭐) - Claude Code monitoring with Cloudflare Workers & Workers Analytics Engine.
 - [**shotgun-alpha**](https://github.com/shotgun-sh/shotgun-alpha) - (3 ⭐) - Codebase-aware spec engine for Cursor, Claude Code & Lovable.
 - [**conductor**](https://conductor.build/) - (0 ⭐) - Run a bunch of Claude Codes in parallel.
+- [**agentic-sdlc-scaffold**](https://github.com/Koshux/agentic-sdlc-scaffold) - (0 ⭐) - Copyable Claude Code + GitHub Copilot configuration: AGENTS.md operating manual, layered rules, stage-gate skills for spec review, self code review, and PR-bot triage, enforcement hooks with tests, and an /adopt skill that adapts the scaffold to your repo.
 
 ---
 
