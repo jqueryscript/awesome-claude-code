@@ -623,6 +623,7 @@ June 14, 2026
 - [**claude-code-voice**](https://github.com/mckaywrigley/claude-code-voice) - (41 ⭐) - Hands-free voice control for Claude Code on macOS.
 - [**claudecode-macmenu**](https://github.com/PiXeL16/claudecode-macmenu) - (36 ⭐) - A Mac Menu for Claude Code that notifies when Claude is done and shows insights.
 - [**ccheckpoints**](https://github.com/p32929/ccheckpoints) - (32 ⭐) - A checkpoint system for Claude Code CLI that automatically tracks your coding sessions.
+- [**LWC**](https://github.com/JanYork/llm-wiki-cli) - (31 ⭐) - Proactive, source-grounded project memory for Claude Code and other coding agents, with SQLite/FTS5 recall, optional document and code graphs, lifecycle hooks, and a bounded one-tool MCP interface.
 - [**cc-monitor-rs**](https://github.com/ZhangHanDong/cc-monitor-rs) - (24 ⭐) - Real-time Claude Code usage monitor with native UI built using Rust and Makepad.
 - [**claude-code-test-runner**](https://github.com/firstloophq/claude-code-test-runner) - (22 ⭐) - An automated E2E natural language test runner built on Claude Code.
 - [**cc-monitor-worker**](https://github.com/cometkim/cc-monitor-worker) - (21 ⭐) - Claude Code monitoring with Cloudflare Workers & Workers Analytics Engine.
