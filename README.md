@@ -466,6 +466,8 @@ June 14, 2026
 - [**claude-cs**](https://github.com/nbashaw/claude-cs) - A Claude Code skill that helps you build custom customer support automation for your company.
 - [**design-engineer-auditor-package**](https://github.com/kylezantos/design-engineer-auditor-package) - A Claude Code skill for motion design audits, trained on Emil Kowalski, Jakub Krehel, and Jhey Tompkins.
 
+- [**MUSE**](https://github.com/myths-labs/muse) (MIT): Pure-Markdown operating system for AI pair programming with cross-conversation memory, 48 reusable skills, 8 specialized roles, and workflow commands (`/resume`, `/bye`). Works with Claude Code, Cursor, Windsurf, OpenClaw, Gemini CLI, Codex CLI. Zero dependencies.
+
 ---
 
 ## 🔌 Claude Plugins
