@@ -465,6 +465,7 @@ June 14, 2026
 - [**meta_skilld**](https://github.com/Dicklesworthstone/meta_skilld) - Rust CLI for managing Claude Code skills: indexing, building, bundling, and sharing.
 - [**claude-cs**](https://github.com/nbashaw/claude-cs) - A Claude Code skill that helps you build custom customer support automation for your company.
 - [**design-engineer-auditor-package**](https://github.com/kylezantos/design-engineer-auditor-package) - A Claude Code skill for motion design audits, trained on Emil Kowalski, Jakub Krehel, and Jhey Tompkins.
+- [**airtight**](https://github.com/Zyoffsec/airtight-secure-coding) - Secure-coding gates for AI-written code. Applies 67 numbered checks mapped to OWASP Top 10 and CWE while the assistant writes, catching the safeguards it silently omits such as rate limits, lockout and audit logging. Works with Claude Code, Cursor and Codex.
 
 ---
 
