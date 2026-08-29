@@ -147,6 +147,7 @@ June 14, 2026
 - [**Severance**](https://github.com/blas0/Severance) - (47 ⭐) - A semantic memory system designed for Claude Code.
 - [**AgentCheck**](https://github.com/devlyai/AgentCheck) - (44 ⭐) - Local AI-powered code review agents for Claude Code.
 - [**claude-agents**](https://github.com/tddworks/claude-agents) - (18 ⭐) - A collection of specialized AI agents for Claude Code that enhance software development workflows with focused expertise in specific domains.
+- [**aigent-OS**](https://github.com/wrg32786/aigent-os) - (0 ⭐) - An open-source operating system for Claude Code — persistent memory in an Obsidian vault, an /open + /close session rhythm, and a Pantheon of subagents, hooks, and daemons that maintain priorities, decisions, and delegation across sessions. MIT.
 
 ---
 
