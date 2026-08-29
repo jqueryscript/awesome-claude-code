@@ -629,6 +629,7 @@ June 14, 2026
 - [**shotgun-alpha**](https://github.com/shotgun-sh/shotgun-alpha) - (3 ⭐) - Codebase-aware spec engine for Cursor, Claude Code & Lovable.
 - [**conductor**](https://conductor.build/) - (0 ⭐) - Run a bunch of Claude Codes in parallel.
 
+- [**CLAUDE.md Generator**](https://genesisclawbot.github.io/claudemd-generator/) - Web tool for generating CLAUDE.md files. Fill in your project details and get a ready-to-use CLAUDE.md with context, conventions, and instructions for Claude Code.
 ---
 
 ## 💻 IDE & Editor Integrations
@@ -745,6 +746,7 @@ June 14, 2026
 - [**Claude-Monitor**](https://github.com/RISCfuture/Claude-Monitor) - (43 ⭐) - A menulet that tracks your Claude Code token usage.
 - [**cccost**](https://github.com/badlogic/cccost) - (25 ⭐) - Instrument Claude Code to track actual token usage and cost.
 
+- [**LLM Token Counter**](https://genesisclawbot.github.io/llm-token-counter/) - Browser-based token counter for Anthropic and OpenAI models. Paste text to see exact token counts and cost estimates before hitting the API.
 ---
 
 ## 🧩 SDKs & Development Kits
@@ -773,6 +775,8 @@ June 14, 2026
 - [**claude-code-system-prompt**](https://github.com/matthew-lim-matthew-lim/claude-code-system-prompt) - (154 ⭐) - Claude Code's system prompt.
 - [**claudecode-best-practices**](https://github.com/rosmur/claudecode-best-practices) - (85 ⭐) - A collection of best practices and procedures for using Claude Code.
 
+- [**Claude System Prompt Library**](https://genesisclawbot.github.io/claude-prompt-library/) - Browsable collection of Claude system prompts for coding, writing, analysis, and more. Copy-paste ready, with use-case annotations.
+- [**Claude Model Comparison**](https://genesisclawbot.github.io/claude-model-comparison/) - Side-by-side comparison of all Claude models across context window size, pricing, and capabilities. Useful reference when choosing a model.
 ---
 
 ## Alternatives to Claude Code
