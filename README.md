@@ -772,6 +772,7 @@ June 14, 2026
 - [**claude-code-mcpinstall**](https://github.com/undeadpickle/claude-code-mcpinstall) - (235 ⭐) - Easy guide to installing Claude Code MCPs globally on your machine.
 - [**claude-code-system-prompt**](https://github.com/matthew-lim-matthew-lim/claude-code-system-prompt) - (154 ⭐) - Claude Code's system prompt.
 - [**claudecode-best-practices**](https://github.com/rosmur/claudecode-best-practices) - (85 ⭐) - A collection of best practices and procedures for using Claude Code.
+- [**claude-code-for-non-coders**](https://github.com/Arlenjim/claude-code-for-non-coders) - The complete method for non-coders to build real software by directing Claude Code - governance, guardrails, and session rituals instead of reading code.
 
 ---
 
