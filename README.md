@@ -500,6 +500,8 @@ June 14, 2026
 - [**homunculus**](https://github.com/humanplane/homunculus) - A Claude Code plugin that watches how you work, learns your patterns, and evolves itself to help you better.
 
 ---
+- ✨ [**compass**](https://github.com/dshakes/compass): Eval-gated guardrail and red-team plugin for Claude Code — blocks catastrophic commands, secret writes, and prompt injection (precision/recall scored in CI on a published corpus), with a cost-tier model router and SLSA-signed releases.
+
 
 ## 🛠️ Tools & Utilities
 
