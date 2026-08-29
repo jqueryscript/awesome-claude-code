@@ -642,6 +642,7 @@ June 14, 2026
 - [**claude-code.el**](https://github.com/stevemolitor/claude-code.el) - (714 ⭐) - Claude Code Emacs integration.
 - [**Claude-Autopilot**](https://github.com/benbasha/Claude-Autopilot) - (234 ⭐) - VS Code/Cursor extension for automating Claude Code tasks with intelligent queuing, batch processing, and auto-resume.
 - [**n8n-nodes-claudecode**](https://github.com/holt-web-ai/n8n-nodes-claudecode) - (96 ⭐) - Bring the power of Claude Code directly into your n8n automation workflows!
+- [**claude-todos**](https://github.com/carlosdealmeida/claude-todos-vscode) - (3 ⭐) - VS Code panel showing a live view of Claude Code's TodoWrite — main agent and sub-agents side by side, scoped to the current workspace. Fully local.
 
 ---
 
