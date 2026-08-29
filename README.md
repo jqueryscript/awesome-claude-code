@@ -468,6 +468,8 @@ June 14, 2026
 
 ---
 
+- [**delta-engage**](https://github.com/newan2001/delta-engage): Finds high-fit Reddit & LinkedIn posts to engage with (buyers voicing the pain you solve, not competitors) and drafts a comment for each in your voice. Cookieless, BYOK, you post manually.
+
 ## 🔌 Claude Plugins
 
 - [**notfair-plugin**](https://github.com/nowork-studio/notfair-plugin) - (3.4k ⭐) - Open-source SEO, GEO, and marketing skills for AI agents.
