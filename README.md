@@ -603,6 +603,7 @@ June 14, 2026
 - [**cctrace**](https://github.com/jimmc414/cctrace) - (193 ⭐) - Export Claude Code chat sessions into markdown and XML.
 - [**claude-agent-server**](https://github.com/forayconsulting/gemini_cli_skill) - (187 ⭐) - A Claude Code skill enabling Claude to use Gemini 3 Pro via Gemini CLI.
 - [**recall**](https://github.com/zippoxer/recall) - (187 ⭐) - Full-text search and resume for Claude/Codex conversations.
+- [**claude-auto-retry**](https://github.com/cheapestinference/claude-auto-retry) - (185 ⭐) - Auto-resumes Claude Code sessions: waits out subscription usage/session limits until the printed reset time, applies exponential backoff on sustained API overload (529/5xx), and retries past safeguard false positives. tmux-based, zero runtime dependencies.
 - [**meridian**](https://github.com/markmdev/meridian) - (177 ⭐) - Zero-config Claude Code setup with enforced task scaffolding, structured memory, persistent context after compaction, plug-in code standards, optional TDD mode, and zero behavior changes for developers.
 - [**claude-thermos**](https://github.com/izeigerman/claude-thermos) - (171 ⭐) - Keeps a Claude session warm between tasks.
 - [**claude-code-boost**](https://github.com/yifanzz/claude-code-boost) - (165 ⭐) - Hook utilities for Claude Code with intelligent auto-approval.
