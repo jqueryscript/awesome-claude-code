@@ -501,6 +501,8 @@ June 14, 2026
 
 ---
 
+- [Claude Plugins Official](https://ai-trove.com/en/claude-plugins-official) - A curated overview of Anthropic's managed directory of 250+ Claude Code plugins — LSP servers, MCP integrations, skills and agents — with install and build guides.
+
 ## 🛠️ Tools & Utilities
 
 - [**claude-mem**](https://github.com/thedotmack/claude-mem) - (82.2k ⭐) - A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.
