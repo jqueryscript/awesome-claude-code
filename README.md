@@ -656,6 +656,7 @@ June 14, 2026
 - [**CodePilot**](https://github.com/op7418/CodePilot) - (6.0k ⭐) - A native desktop GUI for Claude Code — chat, code, and manage projects visually.
 - [**1code**](https://github.com/21st-dev/1code) - (5.6k ⭐) - Best UI for Claude Code with local and remote agent execution.
 - [**companion**](https://github.com/The-Vibe-Company/companion) - (2.4k ⭐) - Open-source Claude Code / Codex Web UI.
+- [**CompozyOS**](https://github.com/compozy/compozy) - (2.4k ⭐) - Web shell and local daemon that run Claude Code as a team of agents on loops and schedules, with shared memory and approvals.
 - [**Sniffly**](https://github.com/chiphuyen/sniffly) - (1.2k ⭐) - Claude Code dashboard with usage stats, error analysis, and sharable feature.
 - [**claude-code-viewer**](https://github.com/d-kimuson/claude-code-viewer) - (1.2k ⭐) - A full-featured web-based Claude Code client that provides complete interactive functionality for managing Claude Code projects.
 - [**clui-cc**](https://github.com/lcoutodemos/clui-cc) - (1.2k ⭐) - A lightweight, transparent desktop overlay for Claude Code on macOS. Clui CC wraps the Claude Code CLI in a floating pill interface with multi-tab sessions, a permission approval UI, voice input, and a skills marketplace.
