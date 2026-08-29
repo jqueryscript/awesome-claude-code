@@ -469,6 +469,7 @@ June 14, 2026
 ---
 
 ## 🔌 Claude Plugins
+- [claude-sounds](https://github.com/culminationAI/claude-sounds) - Your Claude Code shouldn't be silent. Sound effects for all hooks — spells, chimes, clicks. Drop mp3s to customize.
 
 - [**notfair-plugin**](https://github.com/nowork-studio/notfair-plugin) - (3.4k ⭐) - Open-source SEO, GEO, and marketing skills for AI agents.
 - [**Claude Code Toolkit**](https://github.com/rohitg00/awesome-claude-code-toolkit) - (2.3k ⭐) - A Claude Code marketplace with plugins, agents, skills, commands, hooks, rules, templates, and MCP configurations.
