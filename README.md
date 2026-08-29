@@ -784,6 +784,7 @@ June 14, 2026
 - [**crush**](https://github.com/charmbracelet/crush) - (25.3k ⭐) - The glamourous AI coding agent for your favourite terminal.
 - [**qwen-code**](https://github.com/QwenLM/qwen-code) - (25.2k ⭐) - A command-line AI workflow tool adapted from Gemini CLI, optimized for Qwen3-Coder models with enhanced parser support & tool support.
 - [**grok-cli**](https://github.com/superagent-ai/grok-cli) - (3.1k ⭐) - An open-source AI agent that brings the power of Grok directly into your terminal.
+- [**memcode**](https://github.com/memcode-ai/memcode) - (11 ⭐) - The coding agent that remembers your repo: persistent per-project memory so sessions do not start from zero. Single Go binary + TUI; your own keys, a hosted gateway, or local Ollama.
 
 ---
 
