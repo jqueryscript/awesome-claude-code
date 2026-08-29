@@ -756,6 +756,7 @@ June 14, 2026
 - [**claude-code-sdk-ts**](https://github.com/instantlyeasy/claude-code-sdk-ts) - (206 ⭐) - Configure models, enable tools, stream events, then fetch text, JSON, run details or token stats in one call via .asText() or .allowTools('Read', 'Write').
 - [**claude-code-typescript-hooks**](https://github.com/bartolli/claude-code-typescript-hooks) - (177 ⭐) - Fast, intelligent quality checks for different project types.
 - [**claude-code-api-rs**](https://github.com/ZhangHanDong/claude-code-api-rs) - (170 ⭐) - A high-performance Rust implementation of an OpenAI-compatible API gateway for Claude Code CLI.
+- [**claude-starter-kit**](https://github.com/CommsConnectgmbh/claude-starter-kit) - (0 ⭐) - German-first starter kit for Claude Code with ready-to-use skills (council, second-opinion, autoplan, spec, canary, scrape, skillify, compliance), German legal and tax agents, CLAUDE.md templates, and auto-memory setup. MIT licensed, English docs included.
 
 ---
 
