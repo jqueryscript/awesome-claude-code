@@ -711,6 +711,7 @@ June 14, 2026
 
 ## 📊 Usage & Observability
 
+- [**BasicallyMythos**](https://github.com/Tea-Resistance/BasicallyMythos) - A 123-line local proxy that logs every Claude Code model reroute and lets you choose the fallback model (e.g. Kimi K3 instead of the default downgrade).
 - [**ccusage**](https://github.com/ryoppippi/ccusage) - (16.1k ⭐) - A CLI tool for analyzing Claude Code usage from local JSONL files.
 - [**CodexBar**](https://github.com/steipete/CodexBar) - (14.8k ⭐) - Show usage stats for OpenAI Codex and Claude Code, without having to login.
 - [**ccstatusline**](https://github.com/sirmalloc/ccstatusline) - (10.7k ⭐) - A customizable status line formatter for Claude Code CLI that displays model info, git branch, token usage, and other metrics in your terminal.
