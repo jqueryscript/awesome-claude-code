@@ -626,6 +626,7 @@ June 14, 2026
 - [**cc-monitor-rs**](https://github.com/ZhangHanDong/cc-monitor-rs) - (24 ⭐) - Real-time Claude Code usage monitor with native UI built using Rust and Makepad.
 - [**claude-code-test-runner**](https://github.com/firstloophq/claude-code-test-runner) - (22 ⭐) - An automated E2E natural language test runner built on Claude Code.
 - [**cc-monitor-worker**](https://github.com/cometkim/cc-monitor-worker) - (21 ⭐) - Claude Code monitoring with Cloudflare Workers & Workers Analytics Engine.
+- [**Pluribus**](https://github.com/caioribeiroclw-pixel/pluribus) - (7 ⭐) - Sync shared project context into Claude Code, Cursor, Copilot, OpenClaw, and other AI coding tools from one repo-local source.
 - [**shotgun-alpha**](https://github.com/shotgun-sh/shotgun-alpha) - (3 ⭐) - Codebase-aware spec engine for Cursor, Claude Code & Lovable.
 - [**conductor**](https://conductor.build/) - (0 ⭐) - Run a bunch of Claude Codes in parallel.
 
