@@ -676,6 +676,8 @@ June 14, 2026
 
 ## 🏗️ Infrastructure & Proxies
 
+- [**cocodot**](https://cocodot.co/claude-code) - Anthropic-compatible relay endpoint for running Claude Code from mainland China: set ANTHROPIC_BASE_URL, top up via Alipay, official-relay through licensed cloud vendors; model names (fable/opus/sonnet/haiku) auto-map. Includes an open-source [no-downgrade verifier](https://probe.cocodot.co).
+
 - [**claude-code-router**](https://github.com/musistudio/claude-code-router) - (35.0k ⭐) - Uses Claude Code as the foundation for coding infrastructure, allowing interaction with the model while enjoying updates.
 - [**9router**](https://github.com/decolua/9router) - (23.7k ⭐) - Routes Claude Code, Codex, Cursor, Cline, and other coding agents to dozens of model providers with automatic fallback.
 - [**zen-mcp-server**](https://github.com/BeehiveInnovations/zen-mcp-server) - (11.6k ⭐) - The power of Claude Code + Gemini / OpenAI / Grok / OpenRouter / Ollama / Custom Model working as one.
