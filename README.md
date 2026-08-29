@@ -643,6 +643,8 @@ June 14, 2026
 - [**Claude-Autopilot**](https://github.com/benbasha/Claude-Autopilot) - (234 ⭐) - VS Code/Cursor extension for automating Claude Code tasks with intelligent queuing, batch processing, and auto-resume.
 - [**n8n-nodes-claudecode**](https://github.com/holt-web-ai/n8n-nodes-claudecode) - (96 ⭐) - Bring the power of Claude Code directly into your n8n automation workflows!
 
+- [**Reado**](https://github.com/WatermelonBros/reado) - (20 ⭐) - A read-first code IDE that hands your annotated code review to Claude Code via a CLI/MCP contract: you read and leave durable comments, the agent resolves each as a task.
+
 ---
 
 ## 🖥️ Clients & GUIs
