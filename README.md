@@ -631,6 +631,8 @@ June 14, 2026
 
 ---
 
+- [**plyo-mcp**](https://github.com/plyo-dev/plyo-mcp) - MCP server for Plyo, a hosting and versioning service for AI-built projects: checkpoints with plain-English notes, one-click restore and publish, drafts with preview links, build-error reports written for agents, and database backups.
+
 ## 💻 IDE & Editor Integrations
 
 - [**claudecode.nvim**](https://github.com/coder/claudecode.nvim) - (2.8k ⭐) - A Claude Code Neovim IDE Extension.
