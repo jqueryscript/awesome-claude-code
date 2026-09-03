@@ -704,6 +704,7 @@ June 14, 2026
 - [**claude-gemini-mcp-slim**](https://github.com/cmdaltctr/claude-gemini-mcp-slim) - (232 ⭐) - A lightweight integration that brings Google's Gemini AI capabilities to Claude Code through MCP (Model Context Protocol).
 - [**claude-historian**](https://github.com/Vvkmnn/claude-historian) - (178 ⭐) - An MCP server for Claude Code conversation history.
 - [**castari-proxy**](https://github.com/castar-ventures/castari-proxy) - (90 ⭐) - Use Claude Agent SDK and Claude Code with other providers/models.
+- [**OrcaReplay**](https://github.com/Continuum-AI-Corp/OrcaReplay) - (69 ⭐) - Records a Claude Code run through a local proxy, then replays it offline byte-for-byte or forks it from any checkpoint onto a different model.
 - [**claude-code-open**](https://github.com/Davincible/claude-code-open) - (68 ⭐) - Claude Code with any LLM provider (OpenRouter, Gemini, Kimi K2).
 - [**Claudify**](https://github.com/neno-is-ooo/claudify) - (32 ⭐) - Use Claude Code as an LLM provider with your subscription flat fee instead of pay-per-token API keys.
 
