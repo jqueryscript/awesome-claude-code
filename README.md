@@ -683,6 +683,7 @@ June 14, 2026
 - [**Claude-Code-Web-GUI**](https://github.com/binggg/Claude-Code-Web-GUI) - (72 ⭐) - Browse, view and share your Claude Code sessions - runs entirely in browser, no server required!
 - [**ccmate-release**](https://github.com/djyde/ccmate-release) - (56 ⭐) - A GUI for Claude Code.
 - [**Claude in a Box**](https://github.com/juancgarza/claude-in-a-box) - (51 ⭐) - A ChatGPT Canvas-style interface for Claude Code running in E2B sandboxes.
+- [**mirafold**](https://github.com/mirafold/mirafold) - Browser UI for Claude Code, Codex, and Gemini CLI with generative UI — the agent renders live charts, diffs, and task lists mid-session — plus mission control across multiple sessions and phone pairing on the paid Pro tier over an E2E-encrypted relay (relay code MIT and self-hostable).
 
 ---
 
