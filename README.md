@@ -799,7 +799,7 @@ June 14, 2026
 - [**crush**](https://github.com/charmbracelet/crush) - (25.3k ⭐) - The glamourous AI coding agent for your favourite terminal.
 - [**qwen-code**](https://github.com/QwenLM/qwen-code) - (25.2k ⭐) - A command-line AI workflow tool adapted from Gemini CLI, optimized for Qwen3-Coder models with enhanced parser support & tool support.
 - [**grok-cli**](https://github.com/superagent-ai/grok-cli) - (3.1k ⭐) - An open-source AI agent that brings the power of Grok directly into your terminal.
-
+- [**dvalincode**](https://github.com/arthurpanhku/dvalincode) - A local-first, provider-neutral AI coding agent with three modes (Chat / Cowork / Code), inline diff approval, and a built-in Web GUI. Brings your own model (DeepSeek, OpenAI, Claude via OpenRouter, Groq, Ollama).
 ---
 
 ## Contribution Guidelines
