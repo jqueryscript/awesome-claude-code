@@ -759,6 +759,7 @@ June 14, 2026
 - [**pyccsl**](https://github.com/wolfdenpublishing/pyccsl) - (83 ⭐) - Python Claude Code Status Line (PyCCSL, pronounced "pixel").
 - [**Claude-Monitor**](https://github.com/RISCfuture/Claude-Monitor) - (43 ⭐) - A menulet that tracks your Claude Code token usage.
 - [**cccost**](https://github.com/badlogic/cccost) - (25 ⭐) - Instrument Claude Code to track actual token usage and cost.
+- [**BurnRate**](https://github.com/burnrate-dev/burnrate) - AI coding cost analytics CLI that tracks usage and spend across Claude Code, Cursor, Copilot, Windsurf, Aider, Cline, and Codex with 46 optimization rules.
 
 ---
 
