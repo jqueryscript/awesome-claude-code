@@ -640,6 +640,7 @@ June 14, 2026
 - [**cc-monitor-worker**](https://github.com/cometkim/cc-monitor-worker) - (21 ⭐) - Claude Code monitoring with Cloudflare Workers & Workers Analytics Engine.
 - [**shotgun-alpha**](https://github.com/shotgun-sh/shotgun-alpha) - (3 ⭐) - Codebase-aware spec engine for Cursor, Claude Code & Lovable.
 - [**conductor**](https://conductor.build/) - (0 ⭐) - Run a bunch of Claude Codes in parallel.
+- [**twoperson**](https://github.com/ahm3dwasim/twoperson) - (0 ⭐) - A two-person rule for AI coding agents: a builder and a reviewer share a file-based review inbox whose schema refuses "pushed without a review ref" and "approved without a commit sha", so an approval is bound to one commit. Claude Code Stop-hook installer, credential scan, worktree-aware.
 
 ---
 
