@@ -730,6 +730,7 @@ June 14, 2026
 - [**agentacct**](https://github.com/mikehasa/agentacct) - (467 ⭐) - Local-first work intelligence for coding agents, based on read-only session logs.
 - [**claude-code-otel**](https://github.com/ColeMurray/claude-code-otel/) - (440 ⭐) - A comprehensive observability solution for monitoring Claude Code usage, performance, and costs.
 - [**claude-code-ui**](https://github.com/KyleAMathews/claude-code-ui) - (413 ⭐) - A real-time dashboard for monitoring Claude Code sessions across multiple projects.
+- [**ClawMetry**](https://github.com/vivekchand/clawmetry) - (403 ⭐) - Self-hosted observability and kill switch for Claude Code and other coding agents. Reads the session logs runtimes already write on disk, so there is no SDK and nothing in the request path.
 - [**claude-code-usage-bar**](https://github.com/leeguooooo/claude-code-usage-bar) - (270 ⭐) - Real-time statusline for Claude Code: token usage, remaining budget, burn rate, and depletion time.
 - [**claude-code-monitor**](https://github.com/onikan27/claude-code-monitor) - (237 ⭐) - Real-time dashboard for monitoring multiple Claude Code sessions from a CLI and mobile web UI on macOS.
 - [**tokentab**](https://github.com/wzchav/tokentab) - (225 ⭐) - A CLI that reads Claude Code, Codex, and Gemini CLI session logs and works out how much they cost, by model, project, and day.
