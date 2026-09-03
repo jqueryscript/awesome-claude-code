@@ -634,6 +634,7 @@ June 14, 2026
 - [**claude-code-specs-generator**](https://github.com/kellemar/claude-code-specs-generator) - (42 ⭐) - A documentation and context management system for AI-assisted development, inspired by Amazon's Kiro IDE.
 - [**claude-code-voice**](https://github.com/mckaywrigley/claude-code-voice) - (41 ⭐) - Hands-free voice control for Claude Code on macOS.
 - [**claudecode-macmenu**](https://github.com/PiXeL16/claudecode-macmenu) - (36 ⭐) - A Mac Menu for Claude Code that notifies when Claude is done and shows insights.
+- [**brigade**](https://github.com/escoffier-labs/brigade) - (36 ⭐) - Local-first CLI that keeps one reviewed source of the MCP servers, tools, skills, and memory your AI coding agents share, synced into each tool's native config (Claude Code, Codex, Cursor, VS Code, OpenCode, and more) with a review gate before every write and a rollback receipt.
 - [**ccheckpoints**](https://github.com/p32929/ccheckpoints) - (32 ⭐) - A checkpoint system for Claude Code CLI that automatically tracks your coding sessions.
 - [**cc-monitor-rs**](https://github.com/ZhangHanDong/cc-monitor-rs) - (24 ⭐) - Real-time Claude Code usage monitor with native UI built using Rust and Makepad.
 - [**claude-code-test-runner**](https://github.com/firstloophq/claude-code-test-runner) - (22 ⭐) - An automated E2E natural language test runner built on Claude Code.
