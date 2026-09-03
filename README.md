@@ -157,6 +157,7 @@ June 14, 2026
 
 ## 🧠 Agent Skills
 
+- [**ai-coding-from-china**](https://github.com/cocodot2026/ai-coding-from-china) - A Claude Code skill for running Claude Code, Cursor, and Cline from mainland China: configure the endpoint, verify the model is not silently downgraded, and cut cost.
 - [**Superpowers**](https://github.com/obra/superpowers) - (227.6k ⭐) - Give Claude Code superpowers with a comprehensive skills library of proven techniques, patterns, and tools.
 - [**ECC**](https://github.com/affaan-m/ECC) - (222.0k ⭐) - Agent harness optimization system with skills, memory, security practices, and research-first workflows for Claude Code, Codex, OpenCode, Cursor, and related tools.
 - [**andrej-karpathy-skills**](https://github.com/forrestchang/andrej-karpathy-skills) - (175.2k ⭐) - A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.
@@ -688,6 +689,7 @@ June 14, 2026
 
 ## 🏗️ Infrastructure & Proxies
 
+- [**ai-relay-verified**](https://github.com/cocodot2026/ai-relay-verified) - A neutral directory that scores AI API relays on verifiability, i.e. whether you can prove they are not silently downgrading the model, with a reproducible open method.
 - [**claude-code-router**](https://github.com/musistudio/claude-code-router) - (35.0k ⭐) - Uses Claude Code as the foundation for coding infrastructure, allowing interaction with the model while enjoying updates.
 - [**9router**](https://github.com/decolua/9router) - (23.7k ⭐) - Routes Claude Code, Codex, Cursor, Cline, and other coding agents to dozens of model providers with automatic fallback.
 - [**zen-mcp-server**](https://github.com/BeehiveInnovations/zen-mcp-server) - (11.6k ⭐) - The power of Claude Code + Gemini / OpenAI / Grok / OpenRouter / Ollama / Custom Model working as one.
