@@ -119,6 +119,7 @@ June 14, 2026
 - [**roborev**](https://github.com/kenn-io/roborev) - (1.4k ⭐) - Continuous background code review database for agents, work faster and smarter with accountability for every line of generated code.
 - [**awesome-claude-code-agents**](https://github.com/hesreallyhim/awesome-claude-code-agents) - (1.3k ⭐) - A curated list of awesome Claude Code Sub-Agents.
 - [**Pika-Skills**](https://github.com/Pika-Labs/Pika-Skills) - (1.1k ⭐) - A collection of open-source skills for AI coding agents (Claude Code, OpenClaw, etc.) powered by the Pika Developer API.
+- [**Agentlas OS**](https://github.com/agentlas-ai/Agentlas-OS) - (1.1k ⭐) - Local-first Agent Operation Environment (AOE) for building or borrowing specialist agents, composing teams, and running them across Claude Code, Codex, Gemini CLI, Cursor, and local models with permission and verification gates.
 - [**agent-flow**](https://github.com/patoles/agent-flow) - (974 ⭐) - Real-time visualization of Claude Code agent orchestration — see your agents think, branch, and coordinate as they work.
 - [**claude-delegator**](https://github.com/jarrodwatts/claude-delegator) - (974 ⭐) - Delegate tasks to Codex GPT 5.2 directly from within Claude Code.
 - [**claude-code-subagents**](https://github.com/0xfurai/claude-code-subagents) - (928 ⭐) - A comprehensive collection of 100+ production-ready development subagents for Claude Code.
