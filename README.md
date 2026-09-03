@@ -128,6 +128,7 @@ June 14, 2026
 - [**claude-code-unified-agents**](https://github.com/stretchcloud/claude-code-unified-agents) - (734 ⭐) - A comprehensive collection of specialized Claude Code sub-agents combining the best features from multiple community repositories.
 - [**ClaudeCodeAgents**](https://github.com/darcyegb/ClaudeCodeAgents) - (724 ⭐) - A set of useful QA agents for Claude Code.
 - [**ai-maestro**](https://github.com/23blocks-OS/ai-maestro) - (717 ⭐) - Agent orchestration dashboard with memory search, code graph queries, agent-to-agent messaging, and skills support.
+- [**Aeon**](https://github.com/aeonfun/aeon) - (666 ⭐) - Autonomous agent framework built on Claude Code that runs entirely inside GitHub Actions. Cron-scheduled Markdown skills self-heal, replicate into a fleet, and ship 70+ Agent Skills across six coding-agent harnesses.
 - [**Citadel**](https://github.com/SethGammon/Citadel) - (607 ⭐) - An agent orchestration harness for Claude Code. It coordinates multiple AI agents in parallel, persists memory across sessions, and routes your intent to the cheapest execution path automatically.
 - [**infinite-agentic-loop**](https://github.com/disler/infinite-agentic-loop) - (591 ⭐) - An experimental project demonstrating Infinite Agentic Loop in a two-prompt system using Claude Code.
 - [**claude-sub-agent**](https://github.com/zhsama/claude-sub-agent) - (586 ⭐) - AI-driven development workflow system built on Claude Code Sub-Agents.
