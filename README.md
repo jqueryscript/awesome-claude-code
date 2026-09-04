@@ -138,6 +138,7 @@ June 14, 2026
 - [**bux**](https://github.com/browser-use/bux) - (382 ⭐) - A 24/7 Claude Code agent with Browser Harness, on any box you own.
 - [**ClaudeNightsWatch**](https://github.com/aniketkarne/ClaudeNightsWatch) - (362 ⭐) - Autonomous task execution system for Claude CLI that monitors your usage windows and executes predefined tasks automatically.
 - [**Specialized AI Agents**](https://github.com/Dimillian/Claude) - (359 ⭐) - This directory contains specialized AI agent definitions used by Claude Code to handle complex, domain-specific tasks.
+- [**AgentBridge**](https://github.com/raysonmeng/agent-bridge) - (316 ⭐) - Local MIT CLI that keeps Claude Code and Codex as live peers in one session for mid-turn review, task split, and quota-boundary handoff.
 - [**claude-code-merge-queue**](https://github.com/funador/claude-code-merge-queue) - (295 ⭐) - Local merge queue for coordinating parallel Claude Code agents and landing their work in a controlled order.
 - [**visual-claude**](https://github.com/thetronjohnson/visual-claude) - (258 ⭐) - A browser coding agent interface for selecting elements and sending instructions directly to Claude Code.
 - [**claude-code-subagents**](https://github.com/NicholasSpisak/claude-code-subagents) - (204 ⭐) - A collection of specialized AI agent personas designed to work seamlessly with Claude Code's Task tool, providing expert-level assistance across the full spectrum of software development challenges.
