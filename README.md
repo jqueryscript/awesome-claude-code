@@ -640,6 +640,7 @@ June 14, 2026
 - [**cc-monitor-worker**](https://github.com/cometkim/cc-monitor-worker) - (21 ⭐) - Claude Code monitoring with Cloudflare Workers & Workers Analytics Engine.
 - [**shotgun-alpha**](https://github.com/shotgun-sh/shotgun-alpha) - (3 ⭐) - Codebase-aware spec engine for Cursor, Claude Code & Lovable.
 - [**conductor**](https://conductor.build/) - (0 ⭐) - Run a bunch of Claude Codes in parallel.
+- [**agent-audit**](https://github.com/CrypLed/agent-audit) - (0 ⭐) - Scans Claude Code (and Codex CLI) session transcripts for secrets that leaked in via tool output and risky shell commands the agent executed. Zero dependencies, fully local.
 
 ---
 
