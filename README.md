@@ -576,6 +576,7 @@ June 14, 2026
 - [**medusa**](https://github.com/Pantheon-Security/medusa) - (643 ⭐) - AI-first security scanner for repositories, secrets, hooks, permissions, and agent skills.
 - [**asm**](https://github.com/luongnv89/asm) - (637 ⭐) - Universal skill manager for AI coding agents.
 - [**storybloq**](https://github.com/Storybloq/storybloq) - (627 ⭐) - Cross-session context tool for Claude Code with a CLI, MCP server, and /story skill for tickets, handovers, and roadmaps.
+- [**Compartment**](https://github.com/MaxFreedomPollard/Compartment) - (626 ⭐) - Offline, encrypted vector memory for AI agents. Runs with no network at all and AEAD-encrypts everything at rest including the embedding vectors, with one vault shared by every agent on the machine.
 - [**ccmate**](https://github.com/djyde/ccmate) - (624 ⭐) - Configure your Claude Code without pain.
 - [**claude-code-configs**](https://github.com/Matt-Dionis/claude-code-configs) - (623 ⭐) - A comprehensive collection of production-grade Claude Code configurations, specialized agents, and automation workflows for optimizing AI-assisted development.
 - [**context-infrastructure**](https://github.com/grapeot/context-infrastructure) - (623 ⭐) - Context and memory system for AI coding agents with persistent memory, personal rules, skills, and scheduled observations.
