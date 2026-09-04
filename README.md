@@ -683,6 +683,7 @@ June 14, 2026
 - [**Claude-Code-Web-GUI**](https://github.com/binggg/Claude-Code-Web-GUI) - (72 ⭐) - Browse, view and share your Claude Code sessions - runs entirely in browser, no server required!
 - [**ccmate-release**](https://github.com/djyde/ccmate-release) - (56 ⭐) - A GUI for Claude Code.
 - [**Claude in a Box**](https://github.com/juancgarza/claude-in-a-box) - (51 ⭐) - A ChatGPT Canvas-style interface for Claude Code running in E2B sandboxes.
+- [**Sillage**](https://github.com/MarlBurroW/sillage) - (2 ⭐) - Self-hosted, mobile-first web UI that drives the native Claude Code and Codex CLIs on your own machine. Sessions that outlive the client, full-text search over every conversation, an IDE panel (file explorer, editor, diffs, terminal), and an installable PWA with push. Single Docker container.
 
 ---
 
