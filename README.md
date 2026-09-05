@@ -511,6 +511,7 @@ June 14, 2026
 - [**homunculus**](https://github.com/humanplane/homunculus) - A Claude Code plugin that watches how you work, learns your patterns, and evolves itself to help you better.
 
 ---
+- [**verdict**](https://github.com/ArtJack/verdict) - A skeptical QA agent with memory: baseline → delta runs (NEW/REGRESSED/RESOLVED), every red test classified, flaky tests quarantined with an expiry, and evidence-cited verdicts you can defend. Read-only on your code; ships a read-only MCP server over its state, a CI release gate, and a scored eval suite with the misses published.
 
 ## 🛠️ Tools & Utilities
 
