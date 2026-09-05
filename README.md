@@ -476,6 +476,7 @@ June 14, 2026
 - [**meta_skilld**](https://github.com/Dicklesworthstone/meta_skilld) - Rust CLI for managing Claude Code skills: indexing, building, bundling, and sharing.
 - [**claude-cs**](https://github.com/nbashaw/claude-cs) - A Claude Code skill that helps you build custom customer support automation for your company.
 - [**design-engineer-auditor-package**](https://github.com/kylezantos/design-engineer-auditor-package) - A Claude Code skill for motion design audits, trained on Emil Kowalski, Jakub Krehel, and Jhey Tompkins.
+- [**geo-check**](https://github.com/vasco-branco06/geo-check) - Audits whether AI crawlers can reach and read a website. Scores Access and Readability separately and never averages them, with every point traceable to the robots.txt line or the markup that earned it and no LLM in the scoring path. Distinguishes training crawlers from citation crawlers, and emits the exact robots.txt lines to paste. Also a CLI and a GitHub Action.
 
 ---
 
