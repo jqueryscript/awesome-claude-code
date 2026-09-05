@@ -759,6 +759,7 @@ June 14, 2026
 - [**pyccsl**](https://github.com/wolfdenpublishing/pyccsl) - (83 ⭐) - Python Claude Code Status Line (PyCCSL, pronounced "pixel").
 - [**Claude-Monitor**](https://github.com/RISCfuture/Claude-Monitor) - (43 ⭐) - A menulet that tracks your Claude Code token usage.
 - [**cccost**](https://github.com/badlogic/cccost) - (25 ⭐) - Instrument Claude Code to track actual token usage and cost.
+- [**claude-code-statusline**](https://github.com/klh/claude-code-statusline) - (0 ⭐) - A rich, model-agnostic status line for Claude Code — live model + reasoning effort, repo/pwd location, git state, session lines changed, context-window usage, time, and cost; Nerd Font + Powerline, narrow-mode compaction; ships a curl installer and a Claude Code plugin.
 
 ---
 
