@@ -786,6 +786,7 @@ June 14, 2026
 - [**claude-code-is-programmable**](https://github.com/disler/claude-code-is-programmable) - (307 ⭐) - Scale your compute with Claude Code as a programmable agentic coding tool.
 - [**claude-code-mcpinstall**](https://github.com/undeadpickle/claude-code-mcpinstall) - (235 ⭐) - Easy guide to installing Claude Code MCPs globally on your machine.
 - [**claude-code-system-prompt**](https://github.com/matthew-lim-matthew-lim/claude-code-system-prompt) - (154 ⭐) - Claude Code's system prompt.
+- [**agent-ops-kit-guide**](https://github.com/joeyycli/agent-ops-kit-guide) - Architecture write-up on running Claude Code as a scheduled, unattended agent: overlap locks, hard timeouts, crash alerts, a Telegram owner bridge, and a free constitution template covering spend limits and prompt-injection defense.
 - [**claudecode-best-practices**](https://github.com/rosmur/claudecode-best-practices) - (85 ⭐) - A collection of best practices and procedures for using Claude Code.
 
 ---
