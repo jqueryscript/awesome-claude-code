@@ -771,6 +771,7 @@ June 14, 2026
 - [**claude-code-sdk-ts**](https://github.com/instantlyeasy/claude-code-sdk-ts) - (206 ⭐) - Configure models, enable tools, stream events, then fetch text, JSON, run details or token stats in one call via .asText() or .allowTools('Read', 'Write').
 - [**claude-code-typescript-hooks**](https://github.com/bartolli/claude-code-typescript-hooks) - (177 ⭐) - Fast, intelligent quality checks for different project types.
 - [**claude-code-api-rs**](https://github.com/ZhangHanDong/claude-code-api-rs) - (170 ⭐) - A high-performance Rust implementation of an OpenAI-compatible API gateway for Claude Code CLI.
+- [**claude-agent-sdk-ruby**](https://github.com/ya-luotao/claude-agent-sdk-ruby) - (47 ⭐) - An unofficial Ruby SDK for the Claude Agent runtime, with in-process MCP tools, hooks, Rails integration, and OpenTelemetry tracing.
 
 ---
 
