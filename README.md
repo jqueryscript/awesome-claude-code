@@ -599,6 +599,7 @@ June 14, 2026
 - [**smart-ralph**](https://github.com/tzachbon/smart-ralph) - (348 ⭐) - Claude Code plugin for spec-driven development with smart compaction and Ralph-style autonomous loops.
 - [**SuperClaude**](https://github.com/gwendall/superclaude) - (325 ⭐) - Supercharge your GitHub workflow with Claude AI.
 - [**claude-code-sandbox**](https://github.com/textcortex/claude-code-sandbox) - (318 ⭐) - Run Claude Code safely in local Docker containers without having to approve every permission.
+- [**vetto**](https://github.com/shleder/vetto) - Kernel-level sandbox for Claude Code without Docker: `vetto enable claude && claude --dangerously-skip-permissions` denies secret reads and off-allowlist network via Landlock/seccomp, blocks destructive git ops.
 - [**claude-cmd**](https://github.com/kiliczsh/claude-cmd) - (305 ⭐) - Claude Code Commands Manager.
 - [**claude-blocker**](https://github.com/T3-Content/claude-blocker) - (294 ⭐) - Block distracting websites unless Claude Code is actively running inference.
 - [**laravel-claude-code-setup**](https://github.com/laraben/laravel-claude-code-setup) - (288 ⭐) - One-command setup for AI-powered Laravel development with Claude Code and MCP servers.
