@@ -509,6 +509,7 @@ June 14, 2026
 - [**claude-dashboard**](https://github.com/uppinote20/claude-dashboard) - Comprehensive status line plugin for Claude Code with context usage, API rate limits, and cost tracking
 - [**claude-code-plugin**](https://github.com/browserbase/claude-code-plugin) - Browserbase plugin for Claude Code - Use cloud browsers with Claude Code instead of local Chrome.
 - [**homunculus**](https://github.com/humanplane/homunculus) - A Claude Code plugin that watches how you work, learns your patterns, and evolves itself to help you better.
+- [**cavet**](https://github.com/ChaosChild/cavet) - Security toolkit for engineers and their coding agents: track, triage and remediate concerns across design, code, dependencies and deployment, before anything is pushed. Every verdict lands in an append-only log; scans run in a network-less container, so code never leaves the machine.
 
 ---
 
