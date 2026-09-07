@@ -105,6 +105,7 @@ June 14, 2026
 - [**claude-squad**](https://github.com/smtg-ai/claude-squad) - (7.8k ⭐) - Manage multiple AI terminal agents, including Claude Code, Aider, Codex, OpenCode, and Amp.
 - [**seomachine**](https://github.com/TheCraigHewitt/seomachine) - (7.1k ⭐) - A specialized Claude Code workspace for creating long-form, SEO-optimized blog content for any business.
 - [**herdr**](https://github.com/ogulcancelik/herdr) - (5.7k ⭐) - Agent multiplexer that lives in your terminal.
+- [**amux**](https://github.com/mixpeek/amux) - Open-source control plane for running parallel Claude Code sessions from a web dashboard or phone. Self-healing watchdog, kanban board with atomic task-claiming, inter-session REST API, and mobile PWA. Single Python file, zero external dependencies.
 - [**awesome-claude-agents**](https://github.com/vijaythecoder/awesome-claude-agents) - (4.3k ⭐) - Supercharge Claude Code with a team of specialized AI agents that work together to build complete features, debug complex issues, and handle any technology stack with expert-level knowledge.
 - [**claude-code-subagents-collection**](https://github.com/davepoon/claude-code-subagents-collection) - (3.1k ⭐) - A comprehensive collection of specialized AI subagents for Claude Code, designed to enhance development workflows with domain-specific expertise.
 - [**raptor**](https://github.com/gadievron/raptor) - (3k ⭐) - Turns Claude Code into a general-purpose AI offensive/defensive security agent.
