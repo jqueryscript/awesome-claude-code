@@ -719,6 +719,7 @@ June 14, 2026
 - [**castari-proxy**](https://github.com/castar-ventures/castari-proxy) - (90 ⭐) - Use Claude Agent SDK and Claude Code with other providers/models.
 - [**claude-code-open**](https://github.com/Davincible/claude-code-open) - (68 ⭐) - Claude Code with any LLM provider (OpenRouter, Gemini, Kimi K2).
 - [**Claudify**](https://github.com/neno-is-ooo/claudify) - (32 ⭐) - Use Claude Code as an LLM provider with your subscription flat fee instead of pay-per-token API keys.
+- [**TeamoRouter**](https://teamorouter.com) - Hosted multi-model gateway for Claude Code and Codex, exposing a native Anthropic Messages endpoint so Claude Code connects by setting `ANTHROPIC_BASE_URL`; serves Claude Fable 5.1 and GPT-6 Astra (setup guides: [Fable 5 migration](https://teamorouter.com/blogs/claude-fable-5-migration-guide), [Astra in Codex/Cursor](https://teamorouter.com/blogs/gpt-6-astra-codex-cursor-setup)).
 
 ---
 
