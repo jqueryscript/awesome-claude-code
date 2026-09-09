@@ -481,6 +481,7 @@ June 14, 2026
 
 ## 🔌 Claude Plugins
 
+- [**handrail**](https://github.com/trimkeep/claude-plugins) - Marketplace plugin for Handrail's fail-closed deny/ask hooks for Claude Code and other agent CLIs.
 - [**notfair-plugin**](https://github.com/nowork-studio/notfair-plugin) - (3.4k ⭐) - Open-source SEO, GEO, and marketing skills for AI agents.
 - [**Claude Code Toolkit**](https://github.com/rohitg00/awesome-claude-code-toolkit) - (2.3k ⭐) - A Claude Code marketplace with plugins, agents, skills, commands, hooks, rules, templates, and MCP configurations.
 - [**CloudBase AI Toolkit**](https://github.com/TencentCloudBase/CloudBase-AI-Toolkit) - (1.1k ⭐) - Claude Code plugin, Agent Skills, and MCP server for using Tencent CloudBase databases, authentication, functions, storage, and deployment from coding agents.
