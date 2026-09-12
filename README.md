@@ -486,6 +486,8 @@ June 14, 2026
 
 ---
 
+- [**i-hate-editing**](https://github.com/ranahaani/i-hate-editing) - (11 ⭐) - Claude Code skill: raw talking-head → finished cut via local whisper.cpp + ffmpeg; the model never watches the video.
+
 ## 🔌 Claude Plugins
 
 - [**notfair-plugin**](https://github.com/nowork-studio/notfair-plugin) - (3.4k ⭐) - Open-source SEO, GEO, and marketing skills for AI agents.
