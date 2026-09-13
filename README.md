@@ -97,6 +97,7 @@ June 14, 2026
 - [**claude-code-sdk-python**](https://github.com/anthropics/claude-code-sdk-python) - (7.3k ⭐) - The official Python SDK for Claude Code.
 - [**defending-code-reference-harness**](https://github.com/anthropics/defending-code-reference-harness) - (5.8k ⭐) - Skills for threat modeling, scanning, triage, patching, plus an autonomous scanning harness you can /customize.
 - [**claude-code-security-review**](https://github.com/anthropics/claude-code-security-review) - (5.2k ⭐) - An AI-powered security review GitHub Action using Claude to analyze code changes for security vulnerabilities.
+- [mblode/agent-skills](https://github.com/mblode/agent-skills) - Nobody ships AI slop on purpose. These skills make sure you don't. UI audits, typography, docs, PR review, and releases. `npx skills add mblode/agent-skills`
 
 ---
 
