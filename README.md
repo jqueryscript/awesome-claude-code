@@ -769,6 +769,7 @@ June 14, 2026
 - [**pyccsl**](https://github.com/wolfdenpublishing/pyccsl) - (83 ⭐) - Python Claude Code Status Line (PyCCSL, pronounced "pixel").
 - [**Claude-Monitor**](https://github.com/RISCfuture/Claude-Monitor) - (43 ⭐) - A menulet that tracks your Claude Code token usage.
 - [**cccost**](https://github.com/badlogic/cccost) - (25 ⭐) - Instrument Claude Code to track actual token usage and cost.
+- [**Claudescope**](https://github.com/vladar107/claudescope) - (16 ⭐) - Local, read-only viewer for AI coding-agent transcripts. Full-text search, session reader with diffs, token/cost analytics and an MCP server, across Claude Code, Codex, opencode, Copilot CLI, Junie, pi, Antigravity and Grok CLI.
 
 ---
 
