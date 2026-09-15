@@ -715,6 +715,7 @@ June 14, 2026
 - [**open-connector**](https://github.com/oomol-lab/open-connector) - (913 ⭐) - Auth gateway that connects SaaS APIs to AI agents through SDK, CLI, MCP, HTTP, and OpenAPI access.
 - [**my-free-code**](https://github.com/hkqr/my-free-code) - (623 ⭐) - Open-source multi-provider AI gateway for Claude Code and other coding agents, with model routing, streaming, tools, reasoning, fallbacks, and local model support.
 - [**Context-Gateway**](https://github.com/Compresr-ai/Context-Gateway) - (614 ⭐) - An agentic proxy that enhances any AI agent workflow with instant history compaction and context optimization tools.
+- [**Lynkr**](https://github.com/Fast-Editor/Lynkr) - (0.5k ⭐) - Self-hosted LLM gateway that routes Claude Code requests across 13 providers by request complexity, with tool-schema stripping, JSON tool-result compression, and semantic caching.
 - [**claude-code-proxy**](https://github.com/seifghazi/claude-code-proxy) - (480 ⭐) - Proxy that captures and visualizes in-flight Claude Code requests and conversations.
 - [**anthropic-proxy**](https://github.com/maxnowack/anthropic-proxy) - (415 ⭐) - A proxy server that converts Anthropic API requests to OpenAI format and sends them to OpenRouter, used to use Claude Code with OpenRouter.
 - [**claude-gemini-bridge**](https://github.com/tkaufmann/claude-gemini-bridge) - (406 ⭐) - Intelligent integration between Claude Code and Google Gemini for large-scale code analysis.
