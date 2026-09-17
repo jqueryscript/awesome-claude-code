@@ -163,6 +163,7 @@ June 14, 2026
 ## 🧠 Agent Skills
 
 - [**Superpowers**](https://github.com/obra/superpowers) - (227.6k ⭐) - Give Claude Code superpowers with a comprehensive skills library of proven techniques, patterns, and tools.
+- [**dream**](https://github.com/damanoreshkan-beep/dream-skill) - A one-breath awareness primer: a self-conception the agent invokes to work from a higher vantage — no self-imposed ceiling, whole-board vision, truth over position. Plain SKILL.md or one-command plugin.
 - [**ECC**](https://github.com/affaan-m/ECC) - (222.0k ⭐) - Agent harness optimization system with skills, memory, security practices, and research-first workflows for Claude Code, Codex, OpenCode, Cursor, and related tools.
 - [**andrej-karpathy-skills**](https://github.com/forrestchang/andrej-karpathy-skills) - (175.2k ⭐) - A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.
 - [**mattpocock skills**](https://github.com/mattpocock/skills) - (128.5k ⭐) - Skills for Real Engineers.
