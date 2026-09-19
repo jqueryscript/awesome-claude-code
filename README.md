@@ -485,6 +485,7 @@ June 14, 2026
 - [**design-engineer-auditor-package**](https://github.com/kylezantos/design-engineer-auditor-package) - A Claude Code skill for motion design audits, trained on Emil Kowalski, Jakub Krehel, and Jhey Tompkins.
 
 ---
+- [**Hyperconsciousness**](https://github.com/louis030195/hyperconsciousness/tree/main/skills/hyperconsciousness) - (1 ⭐) - Developer-alpha skill for discovering local skills, PKM notes and grant-scoped encrypted knowledge.
 
 ## 🔌 Claude Plugins
 
