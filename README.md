@@ -512,6 +512,8 @@ June 14, 2026
 
 ---
 
+- [**delta-engage**](https://github.com/newan2001/delta-engage): Finds high-fit Reddit & LinkedIn posts to engage with (buyers voicing the pain you solve, not competitors) and drafts a comment for each in your voice. Cookieless, BYOK, you post manually.
+
 ## 🔌 Claude Plugins
 
 - [**compound-engineering-plugin**](https://github.com/EveryInc/compound-engineering-plugin) - (25.1k ⭐) - Official Compound Engineering plugin for Claude Code, Codex, Cursor, and other coding agents.
