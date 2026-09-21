@@ -174,6 +174,7 @@ June 14, 2026
 - [**claude-agents**](https://github.com/tddworks/claude-agents) - (18 ⭐) - A collection of specialized AI agents for Claude Code that enhance software development workflows with focused expertise in specific domains.
 
 ---
+- [**the-frame-ai**](https://github.com/andrey-chmerev/the-frame-ai) - (10 ⭐) - Research → Plan → Build → Review → Ship → Reflect workflow for solo developers; `/frame:auto` runs the full cycle, features run in parallel git worktrees, state lives in `.planning/` files.
 
 ## 🧠 Agent Skills
 
