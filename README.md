@@ -697,6 +697,7 @@ June 14, 2026
 - [**claude-code.el**](https://github.com/stevemolitor/claude-code.el) - (714 ⭐) - Claude Code Emacs integration.
 - [**Claude-Autopilot**](https://github.com/benbasha/Claude-Autopilot) - (234 ⭐) - VS Code/Cursor extension for automating Claude Code tasks with intelligent queuing, batch processing, and auto-resume.
 - [**n8n-nodes-claudecode**](https://github.com/holt-web-ai/n8n-nodes-claudecode) - (96 ⭐) - Bring the power of Claude Code directly into your n8n automation workflows!
+- [**OpenFiles**](https://github.com/devgiordane/openfiles) - (1 ⭐) - VS Code extension that opens every file Claude Code edits so ESLint, TypeScript and other linters check it, and feeds the problems back to Claude Code through a PostToolUse hook. Also supports Codex, Copilot, Gemini CLI and Cursor.
 
 ---
 
