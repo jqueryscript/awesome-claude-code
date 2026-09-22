@@ -509,6 +509,12 @@ June 14, 2026
 - [**meta_skilld**](https://github.com/Dicklesworthstone/meta_skilld) - Rust CLI for managing Claude Code skills: indexing, building, bundling, and sharing.
 - [**claude-cs**](https://github.com/nbashaw/claude-cs) - A Claude Code skill that helps you build custom customer support automation for your company.
 - [**design-engineer-auditor-package**](https://github.com/kylezantos/design-engineer-auditor-package) - A Claude Code skill for motion design audits, trained on Emil Kowalski, Jakub Krehel, and Jhey Tompkins.
+- [**chatexport-need-miner**](https://github.com/wwewtech/chatexport-need-miner) - Offline Telegram chat export data miner for JTBD product discovery, customer intent extraction, and willingness-to-pay signal clustering.
+- [**dali-short-address-commissioner**](https://github.com/wwewtech/dali-short-address-commissioner) - IEC 62386 DALI / DALI-2 lighting bus commissioner, 24-bit random collision resolver, and gear addressing auditor.
+- [**eol-resistor-calculator**](https://github.com/wwewtech/eol-resistor-calculator) - Security hardware End-of-Line (EOL/DEOL/TEOL) alarm panel loop resistor calculator, loop voltage divider analyzer, and tamper circuit solver.
+- [**esl-price-sync**](https://github.com/wwewtech/esl-price-sync) - Electronic Shelf Labels (ESL) retail pricing synchronizer, transmission queue auditor, and checksum integrity verifier.
+- [**marlin-bed-leveling**](https://github.com/wwewtech/marlin-bed-leveling) - Marlin 2.x 3D printer bed leveling assistant, mesh topology analyzer, probe repeatability verifier, and G-code calibration auditor.
+- [**oneroster-csv-validator**](https://github.com/wwewtech/oneroster-csv-validator) - 1EdTech / IMS Global OneRoster 1.1/1.2 CSV relational validator, cross-table foreign key integrity checker, and roster audit engine.
 
 ---
 
