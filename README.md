@@ -172,6 +172,7 @@ June 14, 2026
 - [**Severance**](https://github.com/blas0/Severance) - (47 ⭐) - A semantic memory system designed for Claude Code.
 - [**AgentCheck**](https://github.com/devlyai/AgentCheck) - (44 ⭐) - Local AI-powered code review agents for Claude Code.
 - [**claude-agents**](https://github.com/tddworks/claude-agents) - (18 ⭐) - A collection of specialized AI agents for Claude Code that enhance software development workflows with focused expertise in specific domains.
+- [**viber-harness**](https://github.com/dangnhh92/viber-harness) - (new) - Claude Code harness: one orchestrator writes acceptance criteria before dispatch, routes work to agents pinned to models, gates every feat/fix/refactor commit on a reviewer, and keeps memory checked against the code.
 
 ---
 
