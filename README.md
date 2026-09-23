@@ -767,6 +767,7 @@ June 14, 2026
 - [**castari-proxy**](https://github.com/castar-ventures/castari-proxy) - (90 ⭐) - Use Claude Agent SDK and Claude Code with other providers/models.
 - [**claude-code-open**](https://github.com/Davincible/claude-code-open) - (68 ⭐) - Claude Code with any LLM provider (OpenRouter, Gemini, Kimi K2).
 - [**Claudify**](https://github.com/neno-is-ooo/claudify) - (32 ⭐) - Use Claude Code as an LLM provider with your subscription flat fee instead of pay-per-token API keys.
+- [**tokenhush**](https://github.com/fregie/tokenhush) - (4 ⭐) - Local loopback gateway that swaps secrets and PII in Claude Code request bodies for reversible session placeholders before forwarding to the provider, and restores the originals in the response. No MITM, no root certificate.
 
 ---
 
