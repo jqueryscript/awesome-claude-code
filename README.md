@@ -811,6 +811,7 @@ June 14, 2026
 - [**pyccsl**](https://github.com/wolfdenpublishing/pyccsl) - (83 ⭐) - Python Claude Code Status Line (PyCCSL, pronounced "pixel").
 - [**Claude-Monitor**](https://github.com/RISCfuture/Claude-Monitor) - (43 ⭐) - A menulet that tracks your Claude Code token usage.
 - [**cccost**](https://github.com/badlogic/cccost) - (25 ⭐) - Instrument Claude Code to track actual token usage and cost.
+- [**sessionscope**](https://github.com/devilking7x/sessionscope) - (0 ⭐) - Local-first explorer for Claude-style .jsonl session transcripts: searchable transcript viewer, per-session token & cost stats with editable model pricing, full-text search across sessions, 2-session compare, and Markdown export. No backend.
 
 ---
 
