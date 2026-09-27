@@ -810,6 +810,7 @@ June 14, 2026
 - [**claude-statusline**](https://github.com/luongnv89/claude-statusline) - (107 ⭐) - Customize the status line in Claude Code.
 - [**pyccsl**](https://github.com/wolfdenpublishing/pyccsl) - (83 ⭐) - Python Claude Code Status Line (PyCCSL, pronounced "pixel").
 - [**Claude-Monitor**](https://github.com/RISCfuture/Claude-Monitor) - (43 ⭐) - A menulet that tracks your Claude Code token usage.
+- [**AIQuotaBar**](https://github.com/yagcioglutoprak/AIQuotaBar) - (32 ⭐) - A macOS menu bar app that shows Claude, ChatGPT, Cursor and GitHub Copilot usage limits with reset countdowns and pace warnings.
 - [**cccost**](https://github.com/badlogic/cccost) - (25 ⭐) - Instrument Claude Code to track actual token usage and cost.
 
 ---
