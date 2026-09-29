@@ -767,6 +767,7 @@ June 14, 2026
 - [**castari-proxy**](https://github.com/castar-ventures/castari-proxy) - (90 ⭐) - Use Claude Agent SDK and Claude Code with other providers/models.
 - [**claude-code-open**](https://github.com/Davincible/claude-code-open) - (68 ⭐) - Claude Code with any LLM provider (OpenRouter, Gemini, Kimi K2).
 - [**Claudify**](https://github.com/neno-is-ooo/claudify) - (32 ⭐) - Use Claude Code as an LLM provider with your subscription flat fee instead of pay-per-token API keys.
+- [**agenthop**](https://github.com/sdyuyouth/agenthop) - (1 ⭐) - MCP server that lets your agent talk directly to someone else's agent over a one-time pairing code: end-to-end encrypted, no public IP needed, self-hostable relay.
 
 ---
 
