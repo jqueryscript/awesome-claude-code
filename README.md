@@ -172,6 +172,7 @@ June 14, 2026
 - [**Severance**](https://github.com/blas0/Severance) - (47 ⭐) - A semantic memory system designed for Claude Code.
 - [**AgentCheck**](https://github.com/devlyai/AgentCheck) - (44 ⭐) - Local AI-powered code review agents for Claude Code.
 - [**claude-agents**](https://github.com/tddworks/claude-agents) - (18 ⭐) - A collection of specialized AI agents for Claude Code that enhance software development workflows with focused expertise in specific domains.
+- [**awesome-subagents**](https://github.com/bilaldemirerr/awesome-subagents) - 33 copy-paste subagent templates (reviewers, debugging, testing, docs, framework-specific), each in both Claude Code and Cursor format.
 
 ---
 
