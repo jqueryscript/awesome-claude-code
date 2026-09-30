@@ -697,6 +697,7 @@ June 14, 2026
 - [**claude-code.el**](https://github.com/stevemolitor/claude-code.el) - (714 ⭐) - Claude Code Emacs integration.
 - [**Claude-Autopilot**](https://github.com/benbasha/Claude-Autopilot) - (234 ⭐) - VS Code/Cursor extension for automating Claude Code tasks with intelligent queuing, batch processing, and auto-resume.
 - [**n8n-nodes-claudecode**](https://github.com/holt-web-ai/n8n-nodes-claudecode) - (96 ⭐) - Bring the power of Claude Code directly into your n8n automation workflows!
+- [**Backseat**](https://github.com/darek225/backseat) - (0 ⭐) - VS Code extension and open git/JSON protocol that lets Claude Code, Grok, or any agent with shell and git queue coding tasks from your phone to Cline on your PC, with results pushed back via a private GitHub bridge repo. No relay server, no open ports.
 
 ---
 
