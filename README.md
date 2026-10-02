@@ -545,6 +545,7 @@ June 14, 2026
 - [**claude-dashboard**](https://github.com/uppinote20/claude-dashboard) - Comprehensive status line plugin for Claude Code with context usage, API rate limits, and cost tracking
 - [**claude-code-plugin**](https://github.com/browserbase/claude-code-plugin) - Browserbase plugin for Claude Code - Use cloud browsers with Claude Code instead of local Chrome.
 - [**homunculus**](https://github.com/humanplane/homunculus) - A Claude Code plugin that watches how you work, learns your patterns, and evolves itself to help you better.
+- [**kodwai plugin**](https://github.com/kodwai/plugin) - Plugin for Claude Code, Codex and Cursor that brings kodwai into your agent: browse real coding challenges, check leaderboards and read your scored runs. kodwai scores how well you direct the agent across three axes: Direction, Outcome, and Lift.
 
 ---
 
