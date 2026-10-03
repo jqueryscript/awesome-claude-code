@@ -697,6 +697,7 @@ June 14, 2026
 - [**claude-code.el**](https://github.com/stevemolitor/claude-code.el) - (714 ⭐) - Claude Code Emacs integration.
 - [**Claude-Autopilot**](https://github.com/benbasha/Claude-Autopilot) - (234 ⭐) - VS Code/Cursor extension for automating Claude Code tasks with intelligent queuing, batch processing, and auto-resume.
 - [**n8n-nodes-claudecode**](https://github.com/holt-web-ai/n8n-nodes-claudecode) - (96 ⭐) - Bring the power of Claude Code directly into your n8n automation workflows!
+- [**iolys**](https://getiolys.com/providers/claude) - Visual Studio 2026 extension that runs Claude Code with solution and editor context for C# and .NET development.
 
 ---
 
