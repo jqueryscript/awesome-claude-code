@@ -509,6 +509,7 @@ June 14, 2026
 - [**meta_skilld**](https://github.com/Dicklesworthstone/meta_skilld) - Rust CLI for managing Claude Code skills: indexing, building, bundling, and sharing.
 - [**claude-cs**](https://github.com/nbashaw/claude-cs) - A Claude Code skill that helps you build custom customer support automation for your company.
 - [**design-engineer-auditor-package**](https://github.com/kylezantos/design-engineer-auditor-package) - A Claude Code skill for motion design audits, trained on Emil Kowalski, Jakub Krehel, and Jhey Tompkins.
+- [**mermaidiff**](https://github.com/osmangoninahid/mermaidiff) - (2 ⭐) - Skill that turns a commit, staged change, GitHub PR or GitLab MR into a short brief: a sequence diagram of only the new, changed and removed steps, the payload diff, and file:line proof for each step.
 
 ---
 
