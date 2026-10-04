@@ -522,6 +522,7 @@ June 14, 2026
 - [**CloudBase AI Toolkit**](https://github.com/TencentCloudBase/CloudBase-AI-Toolkit) - (1.1k ⭐) - Claude Code plugin, Agent Skills, and MCP server for using Tencent CloudBase databases, authentication, functions, storage, and deployment from coding agents.
 - [**claude-forge**](https://github.com/sangrokjung/claude-forge) - (756 ⭐) - Claude Code plugin framework with agents, commands, skills, and security hooks.
 - [**compact-plus**](https://github.com/u-ichi/compact-plus) - (151 ⭐) - Claude Code plugin that preserves and restores working state around `/compact`.
+- [**AIGUI**](https://github.com/liliang-cn/aigui) - (0 ⭐) - Claude Code plugin and MCP server that lets Claude draw instead of answering in text: charts, mermaid, maths, 3D scenes, molecules and infrastructure topologies, as PNGs or a live browser page, with every drawing checked for overlapping or clipped labels.
 - [**claude-hud**](https://github.com/jarrodwatts/claude-hud) - A Claude Code plugin that shows what's happening - context usage, active tools, running agents, and todo progress.
 - [**ponytail**](https://github.com/DietrichGebert/ponytail) - Makes your AI agent think like the laziest senior dev in the room.
 - [**call-me**](https://github.com/ZeframLou/call-me) - Minimal plugin that lets Claude Code call you on the phone.
