@@ -550,6 +550,7 @@ June 14, 2026
 
 ## 🛠️ Tools & Utilities
 
+- [**RepoGuard**](https://github.com/taylormatematica-beep/repoguard) - (3 ⭐) - Architecture guardian for AI codebases. Generates strict `CLAUDE.md`, audits Clean Architecture in ~12ms, and prevents AI code rot across TypeScript, Python, and Go.
 - [**claude-mem**](https://github.com/thedotmack/claude-mem) - (82.2k ⭐) - A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.
 - [**Understand-Anything**](https://github.com/Egonex-AI/Understand-Anything) - (64.2k ⭐) - Codebase understanding tool that turns repositories into searchable, explainable knowledge graphs.
 - [**headroom**](https://github.com/headroomlabs-ai/headroom) - (62.8k ⭐) - Compresses tool outputs, logs, files, and retrieval chunks before they reach the language model.
