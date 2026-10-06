@@ -528,6 +528,7 @@ June 14, 2026
 - [**harness**](https://github.com/revfactory/harness) - A meta-skill that designs domain-specific agent teams, defines specialized agents, and generates the skills they use.
 - [**arscontexta**](https://github.com/agenticnotetaking/arscontexta) - Claude Code plugin that generates individualized knowledge systems from conversation.
 - [**interface-design**](https://github.com/Dammyjay93/interface-design) - Design engineering for Claude Code. Craft, memory, and enforcement for consistent UI.
+- [**nocomment**](https://github.com/swarm-t3/nocomment) - Deterministic PostToolUse hook that makes Claude delete comments it just added when they narrate the chat ("as requested", "changed from") or exceed a per-edit budget; includes a transcript stats command and a CI check.
 - [**pg-aiguide**](https://github.com/timescale/pg-aiguide) - MCP server and Claude plugin for Postgres skills, documentation, and database guidance.
 - [**claude-workflow-v2**](https://github.com/CloudAI-X/claude-workflow-v2) - Universal Claude Code workflow plugin with agents, skills, hooks, and commands.
 - [**claude-code-safety-net**](https://github.com/kenryu42/claude-code-safety-net) - A Claude Code plugin that acts as a safety net, catching destructive git and filesystem commands before they execute.
