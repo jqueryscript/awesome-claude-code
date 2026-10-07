@@ -10,80 +10,6 @@ A curated list of awesome tools, skills, plugins, integrations, extensions, fram
 
 > **Note: Star counts are static and represent the numbers at the time the resource was recorded in this list.**
 
-## Changelog
-
-October 7, 2026
-
-- Added 24 Agent Skills and related Claude Code resources.
-
-September 28, 2026
-
-- Added 13 resources across Agent Skills and related Claude Code categories, and refreshed Hallmark and app-store-preflight-skills star counts.
-
-September 21, 2026
-
-- Added 18 resources across Agent Skills and related Claude Code categories, and refreshed BrowserSkill's GitHub star count.
-
-September 15, 2026
-
-- Added 16 Agent Skills and related Claude Code resources.
-
-September 10, 2026
-
-- Added 9 Agent Skills and related Claude Code resources.
-
-August 30, 2026
-
-- Added 7 Agent Skills and related Claude Code resources.
-
-August 23, 2026
-
-- Added 13 Agent Skills and related Claude Code resources.
-
-August 20, 2026
-
-- Added 9 Agent Skills and related Claude Code resources.
-
-August 9, 2026
-
-- Added 13 Agent Skills and related Claude Code resources.
-
-July 28, 2026
-
-- Added 16 Agent Skills and related Claude Code resources.
-
-July 8, 2026
-
-- Added more Agent Skills and related Claude Code resources.
-
-June 29, 2026
-
-- Added more Agent Skills and related Claude Code resources.
-
-June 26, 2026
-
-- Added more Agent Skills and related Claude Code resources.
-
-June 24, 2026
-
-- Added more Agent Skills and related Claude Code resources.
-
-June 23, 2026
-
-- Added more Agent Skills.
-
-June 17, 2026
-
-- Added more plugins & agent skills.
-
-June 16, 2026
-
-- Added more plugins & agent skills.
-
-June 14, 2026
-
-- Updated GitHub star counts.
-
 ## Table of Contents
 
 - [Official Resources](#official-resources)
@@ -99,6 +25,7 @@ June 14, 2026
 - [📚 Guides & Learning](#-guides--learning)
 - [Alternatives to Claude Code](#alternatives-to-claude-code)
 - [Contribution Guidelines](#contribution-guidelines)
+- [Changelog](#changelog)
 
 ---
 
@@ -905,3 +832,79 @@ June 14, 2026
 ## Contribution Guidelines
 
 **Under Construction**
+
+---
+
+## Changelog
+
+October 7, 2026
+
+- Added 24 Agent Skills and related Claude Code resources.
+
+September 28, 2026
+
+- Added 13 resources across Agent Skills and related Claude Code categories, and refreshed Hallmark and app-store-preflight-skills star counts.
+
+September 21, 2026
+
+- Added 18 resources across Agent Skills and related Claude Code categories, and refreshed BrowserSkill's GitHub star count.
+
+September 15, 2026
+
+- Added 16 Agent Skills and related Claude Code resources.
+
+September 10, 2026
+
+- Added 9 Agent Skills and related Claude Code resources.
+
+August 30, 2026
+
+- Added 7 Agent Skills and related Claude Code resources.
+
+August 23, 2026
+
+- Added 13 Agent Skills and related Claude Code resources.
+
+August 20, 2026
+
+- Added 9 Agent Skills and related Claude Code resources.
+
+August 9, 2026
+
+- Added 13 Agent Skills and related Claude Code resources.
+
+July 28, 2026
+
+- Added 16 Agent Skills and related Claude Code resources.
+
+July 8, 2026
+
+- Added more Agent Skills and related Claude Code resources.
+
+June 29, 2026
+
+- Added more Agent Skills and related Claude Code resources.
+
+June 26, 2026
+
+- Added more Agent Skills and related Claude Code resources.
+
+June 24, 2026
+
+- Added more Agent Skills and related Claude Code resources.
+
+June 23, 2026
+
+- Added more Agent Skills.
+
+June 17, 2026
+
+- Added more plugins & agent skills.
+
+June 16, 2026
+
+- Added more plugins & agent skills.
+
+June 14, 2026
+
+- Updated GitHub star counts.
