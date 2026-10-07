@@ -647,6 +647,7 @@ A curated list of awesome tools, skills, plugins, integrations, extensions, fram
 - [**conductor**](https://conductor.build/) - (0 ⭐) - Run a bunch of Claude Codes in parallel.
 
 ---
+- [**statsnet-mcp**](https://github.com/usenetstate/statsnet-mcp) - Background check any company in the world: registration, executives, courts and finances. Remote MCP: `https://statsnet.co/mcp` · Registry: `io.github.usenetstate/statsnet`.
 
 ## 💻 IDE & Editor Integrations
 
