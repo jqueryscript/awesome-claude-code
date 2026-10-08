@@ -783,6 +783,7 @@ A curated list of awesome tools, skills, plugins, integrations, extensions, fram
 - [**pyccsl**](https://github.com/wolfdenpublishing/pyccsl) - (83 ⭐) - Python Claude Code Status Line (PyCCSL, pronounced "pixel").
 - [**Claude-Monitor**](https://github.com/RISCfuture/Claude-Monitor) - (43 ⭐) - A menulet that tracks your Claude Code token usage.
 - [**cccost**](https://github.com/badlogic/cccost) - (25 ⭐) - Instrument Claude Code to track actual token usage and cost.
+- [**token-hamster**](https://github.com/valeryia-piatrova/token-hamster) - Claude Code mod that shows token usage, 5-hour and weekly limits, reset countdown and cost per turn as an animated hamster above the prompt.
 
 ---
 
