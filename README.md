@@ -473,6 +473,7 @@ A curated list of awesome tools, skills, plugins, integrations, extensions, fram
 
 ## 🔌 Claude Plugins
 
+- [**Eigenwise Toolshed**](https://github.com/Eigenwise/eigenwise-toolshed) - Free MIT plugins for maintained codebase maps, atomic project rules, ticket orchestration, capability discovery, model routing, and local observability in Claude Code.
 - [**compound-engineering-plugin**](https://github.com/EveryInc/compound-engineering-plugin) - (25.1k ⭐) - Official Compound Engineering plugin for Claude Code, Codex, Cursor, and other coding agents.
 - [**fast-jev-compaction**](https://github.com/tamaratran/fast-jev-compaction) - (4.8k ⭐) - Claude Code plugin that replaces compaction summaries with fast Jev decisions while keeping retained tool results verbatim.
 - [**claude-octopus**](https://github.com/nyldn/claude-octopus) - (4.1k ⭐) - Run multiple AI models against the same research, design, or coding task and surface disagreements before you ship.
