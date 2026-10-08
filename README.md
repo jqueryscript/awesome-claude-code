@@ -627,6 +627,7 @@ A curated list of awesome tools, skills, plugins, integrations, extensions, fram
 - [**context-forge**](https://github.com/webdevtodayjason/context-forge) - (142 ⭐) - CLI tool that scaffolds context engineering documentation for Claude Code projects.
 - [**claude-code-personal-assistant**](https://github.com/c0dezli/claude-code-personal-assistant) - (133 ⭐) - AI personal assistant setup for Claude Code.
 - [**spec-based-claude-code**](https://github.com/papaoloba/spec-based-claude-code) - (130 ⭐) - Implementation of a Spec-Driven Development workflow in Claude Code using custom slash commands.
+- [**aisw**](https://github.com/burakdede/aisw) - (124 ⭐) - Switch Claude Code, Codex CLI, Gemini CLI and Antigravity CLI accounts with named profiles in one command; docs at [aiswitcher.dev](https://aiswitcher.dev).
 - [**rins_hooks**](https://github.com/rinadelph/rins_hooks) - (107 ⭐) - Universal Claude Code hooks collection with cross-platform installer.
 - [**claude-select**](https://github.com/aeitroc/claude-select) - (100 ⭐) - A unified launcher for Claude Code that lets you interactively choose which LLM backend to use.
 - [**claude-code-container**](https://github.com/tintinweb/claude-code-container) - (92 ⭐) - A Docker container for running Claude Code in "dangerously skip permissions" mode.
