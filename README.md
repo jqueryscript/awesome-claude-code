@@ -508,6 +508,7 @@ A curated list of awesome tools, skills, plugins, integrations, extensions, fram
 - [**homunculus**](https://github.com/humanplane/homunculus) - A Claude Code plugin that watches how you work, learns your patterns, and evolves itself to help you better.
 
 ---
+- [**Omen**](https://github.com/panbanda/omen) - (18 ⭐) - Code analysis plugins and MCP server: complexity, tech debt, dead code, hotspots, clones and HTML health reports.
 
 ## 🛠️ Tools & Utilities
 
