@@ -645,6 +645,7 @@ A curated list of awesome tools, skills, plugins, integrations, extensions, fram
 - [**cc-monitor-worker**](https://github.com/cometkim/cc-monitor-worker) - (21 ⭐) - Claude Code monitoring with Cloudflare Workers & Workers Analytics Engine.
 - [**shotgun-alpha**](https://github.com/shotgun-sh/shotgun-alpha) - (3 ⭐) - Codebase-aware spec engine for Cursor, Claude Code & Lovable.
 - [**conductor**](https://conductor.build/) - (0 ⭐) - Run a bunch of Claude Codes in parallel.
+- [**voicehook-agent**](https://github.com/voicehook-ai/voicehook-agent) - Zero-install CLI that lets Claude Code, Codex, or opencode join a voice call over HTTPS, so you can talk to running sessions and get spoken status instead of reading terminal output.
 
 ---
 
