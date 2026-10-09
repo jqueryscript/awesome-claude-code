@@ -128,6 +128,7 @@ A curated list of awesome tools, skills, plugins, integrations, extensions, fram
 - [**taste-skill**](https://github.com/Leonxlnx/taste-skill) - (43.5k ⭐) - A collection of skills that improve how AI tools write frontend code.
 - [**last30days-skill**](https://github.com/mvanhorn/last30days-skill) - (41.8k ⭐) - Claude Code skill that researches any topic across Reddit + X from the last 30 days, then writes copy-paste-ready prompts.
 - [**sickn33**](https://github.com/sickn33/antigravity-awesome-skills) - (40.7k ⭐) - The Ultimate Collection of 130+ Agentic Skills for Claude Code/Antigravity/Cursor.
+- [**REA**](https://github.com/morluto/rea) - (38.1k ⭐) - Includes the reverse-engineer-anything skill for Claude Code and Codex to inspect binaries and JavaScript/Electron apps through local CLI/MCP tools with evidence provenance; deep native analysis needs Hopper, Ghidra, or IDA.
 - [**obsidian-skills**](https://github.com/kepano/obsidian-skills) - (35.6k ⭐) - Claude Skills for use with Obsidian.
 - [**marketingskills**](https://github.com/coreyhaines31/marketingskills) - (33.3k ⭐) - Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.
 - [**academic-research-skills**](https://github.com/Imbad0202/academic-research-skills) - (31.3k ⭐) - Academic Research Skills for Claude Code: research → write → review → revise → finalize.
