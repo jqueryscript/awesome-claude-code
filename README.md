@@ -645,6 +645,7 @@ A curated list of awesome tools, skills, plugins, integrations, extensions, fram
 - [**cc-monitor-worker**](https://github.com/cometkim/cc-monitor-worker) - (21 ⭐) - Claude Code monitoring with Cloudflare Workers & Workers Analytics Engine.
 - [**shotgun-alpha**](https://github.com/shotgun-sh/shotgun-alpha) - (3 ⭐) - Codebase-aware spec engine for Cursor, Claude Code & Lovable.
 - [**conductor**](https://conductor.build/) - (0 ⭐) - Run a bunch of Claude Codes in parallel.
+- [**AI Coding Workspace Audit**](https://github.com/OssaBellator/claude-code-mcp-hardening) - (0 ⭐) - Read-only local inventory for Claude Code, MCP, Codex, Cursor, and other AI coding workspaces; enumerates common configuration surfaces without reading file contents or using the network.
 
 ---
 
