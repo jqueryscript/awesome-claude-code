@@ -645,6 +645,7 @@ A curated list of awesome tools, skills, plugins, integrations, extensions, fram
 - [**cc-monitor-worker**](https://github.com/cometkim/cc-monitor-worker) - (21 ⭐) - Claude Code monitoring with Cloudflare Workers & Workers Analytics Engine.
 - [**shotgun-alpha**](https://github.com/shotgun-sh/shotgun-alpha) - (3 ⭐) - Codebase-aware spec engine for Cursor, Claude Code & Lovable.
 - [**conductor**](https://conductor.build/) - (0 ⭐) - Run a bunch of Claude Codes in parallel.
+- [**prompt-shelf**](https://github.com/sourabhshegane/prompt-shelf) - (0 ⭐) - Park a half-written prompt with Ctrl+F and bring it back with Ctrl+Q, plus named lists for ideas and prompts you reuse. Works in Claude Code and Codex CLI.
 
 ---
 
