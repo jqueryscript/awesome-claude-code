@@ -110,6 +110,7 @@ A curated list of awesome tools, skills, plugins, integrations, extensions, fram
 - [**Severance**](https://github.com/blas0/Severance) - (47 ⭐) - A semantic memory system designed for Claude Code.
 - [**AgentCheck**](https://github.com/devlyai/AgentCheck) - (44 ⭐) - Local AI-powered code review agents for Claude Code.
 - [**claude-agents**](https://github.com/tddworks/claude-agents) - (18 ⭐) - A collection of specialized AI agents for Claude Code that enhance software development workflows with focused expertise in specific domains.
+- [**twinlane**](https://github.com/mmelqadi/twinlane) - (0 ⭐) - Run Claude Code and Codex together on included subscriptions: one usage meter, failover before a limit hits, background workers in git worktrees with receipts.
 
 ---
 
@@ -645,6 +646,7 @@ A curated list of awesome tools, skills, plugins, integrations, extensions, fram
 - [**cc-monitor-worker**](https://github.com/cometkim/cc-monitor-worker) - (21 ⭐) - Claude Code monitoring with Cloudflare Workers & Workers Analytics Engine.
 - [**shotgun-alpha**](https://github.com/shotgun-sh/shotgun-alpha) - (3 ⭐) - Codebase-aware spec engine for Cursor, Claude Code & Lovable.
 - [**conductor**](https://conductor.build/) - (0 ⭐) - Run a bunch of Claude Codes in parallel.
+- [**crashdummy**](https://github.com/mmelqadi/crashdummy) - (0 ⭐) - Crash-test a Claude Code PreToolUse guard hook with evasive destructive commands and harmless twins; reports caught, missed and false alarms, never executes a case.
 
 ---
 
