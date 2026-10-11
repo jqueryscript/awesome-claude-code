@@ -508,6 +508,7 @@ A curated list of awesome tools, skills, plugins, integrations, extensions, fram
 - [**homunculus**](https://github.com/humanplane/homunculus) - A Claude Code plugin that watches how you work, learns your patterns, and evolves itself to help you better.
 
 ---
+- [**Dory**](https://github.com/tjqscott/dory) - Claude Code plugin that keeps project decisions, findings, and tasks in a linked Markdown wiki, with session-start loading and structural lint hooks.
 
 ## 🛠️ Tools & Utilities
 
