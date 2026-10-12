@@ -645,6 +645,7 @@ A curated list of awesome tools, skills, plugins, integrations, extensions, fram
 - [**cc-monitor-worker**](https://github.com/cometkim/cc-monitor-worker) - (21 ⭐) - Claude Code monitoring with Cloudflare Workers & Workers Analytics Engine.
 - [**shotgun-alpha**](https://github.com/shotgun-sh/shotgun-alpha) - (3 ⭐) - Codebase-aware spec engine for Cursor, Claude Code & Lovable.
 - [**conductor**](https://conductor.build/) - (0 ⭐) - Run a bunch of Claude Codes in parallel.
+- [**token-heroes**](https://github.com/ostapondo/token-heroes) - (1 ⭐) - Idle RPG in the system tray that turns the tokens burned by Claude Code, Codex and other agents into coins for leveling pixel heroes.
 
 ---
 
