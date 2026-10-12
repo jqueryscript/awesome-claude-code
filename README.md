@@ -89,6 +89,7 @@ A curated list of awesome tools, skills, plugins, integrations, extensions, fram
 - [**Citadel**](https://github.com/SethGammon/Citadel) - (607 ⭐) - An agent orchestration harness for Claude Code. It coordinates multiple AI agents in parallel, persists memory across sessions, and routes your intent to the cheapest execution path automatically.
 - [**infinite-agentic-loop**](https://github.com/disler/infinite-agentic-loop) - (591 ⭐) - An experimental project demonstrating Infinite Agentic Loop in a two-prompt system using Claude Code.
 - [**claude-sub-agent**](https://github.com/zhsama/claude-sub-agent) - (586 ⭐) - AI-driven development workflow system built on Claude Code Sub-Agents.
+- [**hcom**](https://github.com/aannoo/hcom) - (566 ⭐) - CLI for messaging, observing, and spawning Claude Code, Codex, Gemini CLI, OpenCode, and other coding agents across terminals.
 - [**dotclaude**](https://github.com/FradSer/dotclaude) - (557 ⭐) - A comprehensive development environment with specialized AI agents for code review, security analysis, and technical leadership.
 - [**pilotfish**](https://github.com/Nanako0129/pilotfish) - (425 ⭐) - Multi-model orchestration for Claude Code: a frontier model plans, lower-cost models execute, and verification checks the result.
 - [**OpenAgents**](https://github.com/OpenAgentsInc/openagents) - (424 ⭐) - Seamlessly integrate Claude Code's AI development capabilities across desktop and mobile with real-time synchronization.
