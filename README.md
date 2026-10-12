@@ -484,6 +484,7 @@ A curated list of awesome tools, skills, plugins, integrations, extensions, fram
 - [**compact-plus**](https://github.com/u-ichi/compact-plus) - (151 ⭐) - Claude Code plugin that preserves and restores working state around `/compact`.
 - [**claude-toons**](https://github.com/achimala/claude-toons) - (29 ⭐) - Claude Code plugin that shows animated task-themed cartoons beneath the status spinner.
 - [**claude-hud**](https://github.com/jarrodwatts/claude-hud) - A Claude Code plugin that shows what's happening - context usage, active tools, running agents, and todo progress.
+- [**subagent-tuner**](https://github.com/Kruhlikau/subagent-tuner) - Claude Code mod that picks the model and effort of every subagent: a Manual/Auto band, a pick pane, and a saved default that overrides what the agent asked for.
 - [**ponytail**](https://github.com/DietrichGebert/ponytail) - Makes your AI agent think like the laziest senior dev in the room.
 - [**call-me**](https://github.com/ZeframLou/call-me) - Minimal plugin that lets Claude Code call you on the phone.
 - [**harness**](https://github.com/revfactory/harness) - A meta-skill that designs domain-specific agent teams, defines specialized agents, and generates the skills they use.
