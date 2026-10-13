@@ -471,6 +471,7 @@ A curated list of awesome tools, skills, plugins, integrations, extensions, fram
 
 ---
 
+- [**linkedin-growth**](https://github.com/Linked-API/linkedin-skills/tree/main/linkedin-growth) - Import leads from LinkedIn or Sales Navigator searches, qualify them against an ideal-customer profile, schedule safe connection invites across accounts, track acceptances, and withdraw stale pending requests.
 ## 🔌 Claude Plugins
 
 - [**compound-engineering-plugin**](https://github.com/EveryInc/compound-engineering-plugin) - (25.1k ⭐) - Official Compound Engineering plugin for Claude Code, Codex, Cursor, and other coding agents.
