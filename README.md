@@ -682,6 +682,7 @@ A curated list of awesome tools, skills, plugins, integrations, extensions, fram
 - [**Codeg**](https://github.com/spacering-net/codeg) - (3.8k ⭐) - Collaborative desktop and self-hosted workspace that brings sessions from multiple coding agents into one interface.
 - [**Monocode**](https://github.com/hardbeat920/monocode) - (2.7k ⭐) - Graphical interface for working with coding agents.
 - [**companion**](https://github.com/The-Vibe-Company/companion) - (2.4k ⭐) - Open-source Claude Code / Codex Web UI.
+- [**nimbalyst**](https://github.com/nimbalyst/nimbalyst) - (1.5k ⭐) - Open-source visual workspace for Claude Code and Codex with parallel worktree sessions, a session kanban, and red/green diff review inside editable rendered markdown, mockups, diagrams, code.
 - [**Sniffly**](https://github.com/chiphuyen/sniffly) - (1.2k ⭐) - Claude Code dashboard with usage stats, error analysis, and sharable feature.
 - [**claude-code-viewer**](https://github.com/d-kimuson/claude-code-viewer) - (1.2k ⭐) - A full-featured web-based Claude Code client that provides complete interactive functionality for managing Claude Code projects.
 - [**clui-cc**](https://github.com/lcoutodemos/clui-cc) - (1.2k ⭐) - A lightweight, transparent desktop overlay for Claude Code on macOS. Clui CC wraps the Claude Code CLI in a floating pill interface with multi-tab sessions, a permission approval UI, voice input, and a skills marketplace.
