@@ -784,6 +784,7 @@ A curated list of awesome tools, skills, plugins, integrations, extensions, fram
 - [**Claude-Monitor**](https://github.com/RISCfuture/Claude-Monitor) - (43 ⭐) - A menulet that tracks your Claude Code token usage.
 - [**cccost**](https://github.com/badlogic/cccost) - (25 ⭐) - Instrument Claude Code to track actual token usage and cost.
 
+- [**iris**](https://github.com/itzenata/iris-tui) - (2 ⭐) - Live TUI supervisor for every active Claude Code session — status, tokens, estimated cost, and one-pane approval of pending tool calls.
 ---
 
 ## 🧩 SDKs & Development Kits
