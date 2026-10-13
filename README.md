@@ -644,6 +644,8 @@ A curated list of awesome tools, skills, plugins, integrations, extensions, fram
 - [**claude-code-test-runner**](https://github.com/firstloophq/claude-code-test-runner) - (22 ⭐) - An automated E2E natural language test runner built on Claude Code.
 - [**cc-monitor-worker**](https://github.com/cometkim/cc-monitor-worker) - (21 ⭐) - Claude Code monitoring with Cloudflare Workers & Workers Analytics Engine.
 - [**shotgun-alpha**](https://github.com/shotgun-sh/shotgun-alpha) - (3 ⭐) - Codebase-aware spec engine for Cursor, Claude Code & Lovable.
+- [**ccpod**](https://github.com/yorch/ccpod) - (1 ⭐) - Runs Claude Code inside Docker containers with portable, composable configuration.
+- [**ccshelf**](https://github.com/yorch/ccshelf) - (0 ⭐) - Starts Claude Code with a named profile of plugins, skills and MCP servers, one set per terminal, and lints and publishes an organization's plugin catalog.
 - [**conductor**](https://conductor.build/) - (0 ⭐) - Run a bunch of Claude Codes in parallel.
 
 ---
@@ -783,6 +785,7 @@ A curated list of awesome tools, skills, plugins, integrations, extensions, fram
 - [**pyccsl**](https://github.com/wolfdenpublishing/pyccsl) - (83 ⭐) - Python Claude Code Status Line (PyCCSL, pronounced "pixel").
 - [**Claude-Monitor**](https://github.com/RISCfuture/Claude-Monitor) - (43 ⭐) - A menulet that tracks your Claude Code token usage.
 - [**cccost**](https://github.com/badlogic/cccost) - (25 ⭐) - Instrument Claude Code to track actual token usage and cost.
+- [**cc-analyzer**](https://github.com/yorch/cc-analyzer) - (1 ⭐) - Read-only CLI with a TUI and a local web app to browse and analyze Claude Code sessions: tokens, cost, tools, skills, models and per-turn breakdown.
 
 ---
 
