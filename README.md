@@ -647,6 +647,7 @@ A curated list of awesome tools, skills, plugins, integrations, extensions, fram
 - [**conductor**](https://conductor.build/) - (0 ⭐) - Run a bunch of Claude Codes in parallel.
 
 ---
+- [Pixel Pet](https://letmethink.cc/app/pixel-pet/) - Turn a personality description into a deterministic ASCII pixel companion in the browser.
 
 ## 💻 IDE & Editor Integrations
 
