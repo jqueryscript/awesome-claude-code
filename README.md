@@ -453,6 +453,7 @@ A curated list of awesome tools, skills, plugins, integrations, extensions, fram
 - [**claude-motion-design**](https://github.com/howseen-ai/claude-motion-design) - (283 ⭐) - Claude Code skill for producing motion design videos with HTML, Playwright, and ffmpeg.
 - [**motion-graphics**](https://github.com/Barty-Bart/motion-graphics) - (249 ⭐) - Motion graphics skills for Claude Code and Codex.
 - [**claude-code-skills**](https://github.com/whawkinsiv/claude-code-skills) - (222 ⭐) - Complete software development lifecycle skills optimized for non-technical founders building SaaS applications with AI tools (Lovable, Replit, Claude Code).
+- [**Honey (I Shrunk the AI)**](https://github.com/Green-PT/honey-for-devs) - (205 ⭐) - Open-source GreenPT skill that cuts coding-agent output 29% across mixed tasks and up to 70% in focused review workflows, with reproducible benchmarks and safety carve-outs.
 - [**claude-code-voice-skill**](https://github.com/abracadabra50/claude-code-voice-skill) - (167 ⭐) - Skill to talk to Claude about your projects over the phone.
 - [**academic-humanizer**](https://github.com/AIScientists-Dev/academic-humanizer) - (155 ⭐) - Academic writing skill for revising research text into clearer, more natural prose while preserving technical meaning.
 - [**nano-image-generator-skill**](https://github.com/lxfater/nano-image-generator-skill) - (126 ⭐) - A Claude Code skill for generating images using Gemini 3 Pro Preview (Nano Banana Pro).
