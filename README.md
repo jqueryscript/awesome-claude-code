@@ -689,6 +689,7 @@ A curated list of awesome tools, skills, plugins, integrations, extensions, fram
 - [**mindwalk**](https://github.com/cosmtrek/mindwalk) - (871 ⭐) - A visualization tool that replays coding-agent sessions on a 3D map of your codebase.
 - [**codexia**](https://github.com/milisp/codexia) - (737 ⭐) - Lightweight agent workstation for Codex CLI and Claude Code with scheduling, worktree control, remote control, and skills management.
 - [**claude-run**](https://github.com/kamranahmedse/claude-run) - (604 ⭐) - A beautiful web UI for browsing Claude Code conversation history.
+- [**mcp-linker**](https://github.com/milisp/mcp-linker) - (341 ⭐) - Desktop app to manage MCP servers for Claude Code (Local, Project and User scopes), Codex, Cursor and more, and copy them between clients and projects.
 - [**Claude-code-ChatInWindows**](https://github.com/LKbaba/Claude-code-ChatInWindows) - (217 ⭐) - A Native UI for Windows That Makes Claude Code Instantly Better!
 - [**claude-code-costs**](https://github.com/philipp-spiess/claude-code-costs) - (193 ⭐) - Analyze your Claude Code conversation costs with interactive visualizations.
 - [**claude-quest**](https://github.com/Michaelliv/claude-quest) - (187 ⭐) - An RPG-style viewer that shows Claude Code sessions with pixel-art reactions to tool use.
