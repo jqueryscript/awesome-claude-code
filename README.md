@@ -591,6 +591,7 @@ A curated list of awesome tools, skills, plugins, integrations, extensions, fram
 - [**ctx**](https://github.com/ctxrs/ctx) - (729 ⭐) - Local search for coding-agent history across Claude Code, Codex, Cursor, and related tools.
 - [**claude-replay**](https://github.com/es617/claude-replay) - (720 ⭐) - Convert AI coding agent sessions (Claude Code, Cursor, Codex, Gemini, OpenCode) into self-contained, embeddable HTML replays.
 - [**medusa**](https://github.com/Pantheon-Security/medusa) - (643 ⭐) - AI-first security scanner for repositories, secrets, hooks, permissions, and agent skills.
+- [**phantom-secrets**](https://github.com/ashlrai/phantom-secrets) - Local proxy and MCP server that swaps real API keys for placeholder tokens so coding agents can use a key without ever seeing it. Works with Claude Code, Cursor, Windsurf and Codex.
 - [**asm**](https://github.com/luongnv89/asm) - (637 ⭐) - Universal skill manager for AI coding agents.
 - [**storybloq**](https://github.com/Storybloq/storybloq) - (627 ⭐) - Cross-session context tool for Claude Code with a CLI, MCP server, and /story skill for tickets, handovers, and roadmaps.
 - [**ccmate**](https://github.com/djyde/ccmate) - (624 ⭐) - Configure your Claude Code without pain.
