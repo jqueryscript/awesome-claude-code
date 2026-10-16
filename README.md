@@ -519,6 +519,7 @@ A curated list of awesome tools, skills, plugins, integrations, extensions, fram
 - [**homunculus**](https://github.com/humanplane/homunculus) - A Claude Code plugin that watches how you work, learns your patterns, and evolves itself to help you better.
 
 ---
+- [**claude-code-minis**](https://github.com/ethbak/claude-code-minis) - Claude Code plugins for the Claude app through Remote Control: resume any session with `/rresume`, run interactive shell commands with `!`, and switch to any permission mode with `/mode`.
 
 ## 🛠️ Tools & Utilities
 
