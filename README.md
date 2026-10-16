@@ -706,6 +706,7 @@ A curated list of awesome tools, skills, plugins, integrations, extensions, fram
 - [**claude-code-costs**](https://github.com/philipp-spiess/claude-code-costs) - (193 ⭐) - Analyze your Claude Code conversation costs with interactive visualizations.
 - [**claude-quest**](https://github.com/Michaelliv/claude-quest) - (187 ⭐) - An RPG-style viewer that shows Claude Code sessions with pixel-art reactions to tool use.
 - [**Claudiatron**](https://github.com/Haleclipse/Claudiatron) - (160 ⭐) - A Powerful Claude Code GUI Desktop Application.
+- [**pairfob**](https://github.com/arronKler/pairfob) - (151 ⭐) - Herdr plugin for controlling Claude Code, Codex, and Grok CLI sessions from any phone browser with QR pairing and end-to-end encryption.
 - [**claude-code-webui**](https://github.com/DevAgentForge/claude-code-webui) - (149 ⭐) - A web-based Claude Code that runs on desktop, mobile phones, and iPads.
 - [**Claude-Code-Web-GUI**](https://github.com/binggg/Claude-Code-Web-GUI) - (72 ⭐) - Browse, view and share your Claude Code sessions - runs entirely in browser, no server required!
 - [**ccmate-release**](https://github.com/djyde/ccmate-release) - (56 ⭐) - A GUI for Claude Code.
