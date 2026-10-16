@@ -478,6 +478,7 @@ A curated list of awesome tools, skills, plugins, integrations, extensions, fram
 - [**meta_skilld**](https://github.com/Dicklesworthstone/meta_skilld) - Rust CLI for managing Claude Code skills: indexing, building, bundling, and sharing.
 - [**claude-cs**](https://github.com/nbashaw/claude-cs) - A Claude Code skill that helps you build custom customer support automation for your company.
 - [**design-engineer-auditor-package**](https://github.com/kylezantos/design-engineer-auditor-package) - A Claude Code skill for motion design audits, trained on Emil Kowalski, Jakub Krehel, and Jhey Tompkins.
+- [**ship-ready-ai-rules-free-sample**](https://github.com/edtrackai/ship-ready-ai-rules-free-sample) - AGENTS.md (usable as CLAUDE.md) with security golden rules for Next.js + Supabase + Stripe: RLS in every migration, server-side getUser(), verified and idempotent Stripe webhooks.
 
 ---
 
