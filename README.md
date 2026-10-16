@@ -769,6 +769,7 @@ A curated list of awesome tools, skills, plugins, integrations, extensions, fram
 - [**abtop**](https://github.com/graykode/abtop) - (3.7k ⭐) - Terminal monitor for coding-agent sessions, token use, context windows, rate limits, and ports.
 - [**CCometixLine**](https://github.com/Haleclipse/CCometixLine) - (3.2k ⭐) - A high-performance Claude Code statusline tool written in Rust with Git integration and real-time usage tracking.
 - [**claude-usage**](https://github.com/phuryn/claude-usage) - (1.8k ⭐) - A local dashboard for tracking your Claude Code token usage, costs, and session history.
+- [**ctxwise**](https://github.com/FramY2/ctxwise) - Local-first context firewall, MCP schema tree-shaker, and token budget profiler for Claude Code (`CLAUDE.md`, `.mcp.json`), OpenAI Codex, and Cursor.
 - [**tokentab**](https://github.com/crwdla/tokentab) - (1.1k ⭐) - Local CLI that reads Claude Code, Codex, and Gemini CLI session logs to calculate token usage and cost by model, project, and day.
 - [**tokentap**](https://github.com/jmuncor/tokentap) - (798 ⭐) - Intercept LLM API traffic and visualize token usage in a real-time terminal dashboard.
 - [**CCSeva**](https://github.com/Iamshankhadeep/ccseva) - (796 ⭐) - A beautiful macOS menu bar app for tracking your Claude Code usage in real-time.
