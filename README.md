@@ -491,6 +491,7 @@ A curated list of awesome tools, skills, plugins, integrations, extensions, fram
 - [**Claude Code Toolkit**](https://github.com/rohitg00/awesome-claude-code-toolkit) - (2.3k ⭐) - A Claude Code marketplace with plugins, agents, skills, commands, hooks, rules, templates, and MCP configurations.
 - [**CloudBase AI Toolkit**](https://github.com/TencentCloudBase/CloudBase-AI-Toolkit) - (1.1k ⭐) - Claude Code plugin, Agent Skills, and MCP server for using Tencent CloudBase databases, authentication, functions, storage, and deployment from coding agents.
 - [**claude-forge**](https://github.com/sangrokjung/claude-forge) - (756 ⭐) - Claude Code plugin framework with agents, commands, skills, and security hooks.
+- [**CortexDB**](https://github.com/liliang-cn/cortexdb) - (400 ⭐) - Claude Code and Codex plugin and MCP server that gives agents memory across sessions: AI memory and a knowledge graph in one SQLite file, recalled automatically on each prompt. Pure Go, one binary with no Python or Node to set up, and it works without an embedding model.
 - [**compact-plus**](https://github.com/u-ichi/compact-plus) - (151 ⭐) - Claude Code plugin that preserves and restores working state around `/compact`.
 - [**auto-handoff**](https://github.com/obie/auto-handoff) - (103 ⭐) - Claude Code plugin that saves a handoff document after an idle period so a fresh session can resume the work.
 - [**claude-toons**](https://github.com/achimala/claude-toons) - (29 ⭐) - Claude Code plugin that shows animated task-themed cartoons beneath the status spinner.
