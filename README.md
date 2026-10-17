@@ -517,6 +517,7 @@ A curated list of awesome tools, skills, plugins, integrations, extensions, fram
 - [**claude-dashboard**](https://github.com/uppinote20/claude-dashboard) - Comprehensive status line plugin for Claude Code with context usage, API rate limits, and cost tracking
 - [**claude-code-plugin**](https://github.com/browserbase/claude-code-plugin) - Browserbase plugin for Claude Code - Use cloud browsers with Claude Code instead of local Chrome.
 - [**homunculus**](https://github.com/humanplane/homunculus) - A Claude Code plugin that watches how you work, learns your patterns, and evolves itself to help you better.
+- [**memorysync-plugins**](https://github.com/memorysyncio/memorysync-plugins) - Claude Code plugin for long-term memory backed by MemorySync's hosted MCP server (https://memorysync.io/mcp): recalls relevant memories at session start and on substantial prompts, scopes facts per git repository, and adds /memorysync:remember and /memorysync:recall.
 
 ---
 
