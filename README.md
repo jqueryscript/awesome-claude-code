@@ -750,6 +750,7 @@ A curated list of awesome tools, skills, plugins, integrations, extensions, fram
 - [**castari-proxy**](https://github.com/castar-ventures/castari-proxy) - (90 ⭐) - Use Claude Agent SDK and Claude Code with other providers/models.
 - [**claude-code-open**](https://github.com/Davincible/claude-code-open) - (68 ⭐) - Claude Code with any LLM provider (OpenRouter, Gemini, Kimi K2).
 - [**Claudify**](https://github.com/neno-is-ooo/claudify) - (32 ⭐) - Use Claude Code as an LLM provider with your subscription flat fee instead of pay-per-token API keys.
+- [**openrouter-cloud-cli**](https://github.com/willwill85/openrouter-cloud-cli) - CLI and one-line installer to connect Claude Code, Codex CLI, and Cursor to unified Anthropic (`/v1/messages`) and OpenAI (`/v1/responses`) compatible gateway ([api.openrouter.cloud](https://api.openrouter.cloud)).
 
 ---
 
