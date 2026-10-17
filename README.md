@@ -673,6 +673,7 @@ A curated list of awesome tools, skills, plugins, integrations, extensions, fram
 - [**claude-code.el**](https://github.com/stevemolitor/claude-code.el) - (714 ⭐) - Claude Code Emacs integration.
 - [**Claude-Autopilot**](https://github.com/benbasha/Claude-Autopilot) - (234 ⭐) - VS Code/Cursor extension for automating Claude Code tasks with intelligent queuing, batch processing, and auto-resume.
 - [**n8n-nodes-claudecode**](https://github.com/holt-web-ai/n8n-nodes-claudecode) - (96 ⭐) - Bring the power of Claude Code directly into your n8n automation workflows!
+- [**TrailMark**](https://github.com/EdelmarSchneider/trailmark) - When AI writes the code, engineering moves to Markdown: TrailMark is the desktop IDE where you mature ideas in self-saving notes, formalize rich specs (Mermaid, KaTeX, tables, ~190 languages), watch live block changes as agents write, and steer them back via inline comments and a local MCP connection.
 
 ---
 
