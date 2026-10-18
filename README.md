@@ -661,6 +661,8 @@ A curated list of awesome tools, skills, plugins, integrations, extensions, fram
 
 ---
 
+- [**plyo-mcp**](https://github.com/plyo-dev/plyo-mcp) - MCP server for Plyo, a hosting and versioning service for AI-built projects: checkpoints with plain-English notes, one-click restore and publish, drafts with preview links, build-error reports written for agents, and database backups.
+
 ## 💻 IDE & Editor Integrations
 
 - [**CC GUI**](https://github.com/zhukunpenglinyutong/jetbrains-cc-gui) - (6.2k ⭐) - IntelliJ IDEA plugin with a visual interface for Claude Code, OpenAI Codex, and other AI coding CLIs.
