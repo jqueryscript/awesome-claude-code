@@ -750,6 +750,7 @@ A curated list of awesome tools, skills, plugins, integrations, extensions, fram
 - [**castari-proxy**](https://github.com/castar-ventures/castari-proxy) - (90 ⭐) - Use Claude Agent SDK and Claude Code with other providers/models.
 - [**claude-code-open**](https://github.com/Davincible/claude-code-open) - (68 ⭐) - Claude Code with any LLM provider (OpenRouter, Gemini, Kimi K2).
 - [**Claudify**](https://github.com/neno-is-ooo/claudify) - (32 ⭐) - Use Claude Code as an LLM provider with your subscription flat fee instead of pay-per-token API keys.
+- [**terraphim-llm-proxy**](https://github.com/terraphim/terraphim-llm-proxy) - (0 ⭐) - Production-ready LLM proxy for Claude Code with three-phase routing (keyword, scenario, cost class), TTFT-ranked providers, fallback chains, and per-route cost telemetry. Donation-supported.
 
 ---
 
