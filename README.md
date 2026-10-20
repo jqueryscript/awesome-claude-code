@@ -673,6 +673,7 @@ A curated list of awesome tools, skills, plugins, integrations, extensions, fram
 - [**claude-code.el**](https://github.com/stevemolitor/claude-code.el) - (714 ⭐) - Claude Code Emacs integration.
 - [**Claude-Autopilot**](https://github.com/benbasha/Claude-Autopilot) - (234 ⭐) - VS Code/Cursor extension for automating Claude Code tasks with intelligent queuing, batch processing, and auto-resume.
 - [**n8n-nodes-claudecode**](https://github.com/holt-web-ai/n8n-nodes-claudecode) - (96 ⭐) - Bring the power of Claude Code directly into your n8n automation workflows!
+- [**Paneherd**](https://github.com/erenxcolakx/paneherd) - VS Code and Cursor extension that runs several Claude Code, Codex, Copilot, Gemini and Cursor CLI sessions side by side in an editor grid, with one inbox for Claude's permission prompts, usage limits and a phone remote.
 
 ---
 
