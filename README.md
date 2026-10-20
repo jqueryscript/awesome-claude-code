@@ -498,6 +498,7 @@ A curated list of awesome tools, skills, plugins, integrations, extensions, fram
 - [**ponytail**](https://github.com/DietrichGebert/ponytail) - Makes your AI agent think like the laziest senior dev in the room.
 - [**call-me**](https://github.com/ZeframLou/call-me) - Minimal plugin that lets Claude Code call you on the phone.
 - [**harness**](https://github.com/revfactory/harness) - A meta-skill that designs domain-specific agent teams, defines specialized agents, and generates the skills they use.
+- [**AgentAwake**](https://github.com/SyncEdge/agentawake-releases/tree/main/claude-code/agentawake) - Claude Code plugin for the AgentAwake Mac menu bar app, which keeps a MacBook running with the lid closed while Claude Code works and lets it sleep when it stops.
 - [**arscontexta**](https://github.com/agenticnotetaking/arscontexta) - Claude Code plugin that generates individualized knowledge systems from conversation.
 - [**interface-design**](https://github.com/Dammyjay93/interface-design) - Design engineering for Claude Code. Craft, memory, and enforcement for consistent UI.
 - [**pg-aiguide**](https://github.com/timescale/pg-aiguide) - MCP server and Claude plugin for Postgres skills, documentation, and database guidance.
