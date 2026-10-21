@@ -517,6 +517,7 @@ A curated list of awesome tools, skills, plugins, integrations, extensions, fram
 - [**claude-dashboard**](https://github.com/uppinote20/claude-dashboard) - Comprehensive status line plugin for Claude Code with context usage, API rate limits, and cost tracking
 - [**claude-code-plugin**](https://github.com/browserbase/claude-code-plugin) - Browserbase plugin for Claude Code - Use cloud browsers with Claude Code instead of local Chrome.
 - [**homunculus**](https://github.com/humanplane/homunculus) - A Claude Code plugin that watches how you work, learns your patterns, and evolves itself to help you better.
+- [**claude-vocab**](https://github.com/gabrielantonyxaviour/claude-vocab) - Claude Code plugin that weaves a few richer words into Claude's replies; click one for its meaning and review them with a short quiz.
 
 ---
 
