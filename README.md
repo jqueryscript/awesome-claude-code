@@ -712,6 +712,7 @@ A curated list of awesome tools, skills, plugins, integrations, extensions, fram
 - [**Claude in a Box**](https://github.com/juancgarza/claude-in-a-box) - (51 ⭐) - A ChatGPT Canvas-style interface for Claude Code running in E2B sandboxes.
 
 ---
+- [**Gander**](https://github.com/weellio/gander) - (10 ⭐) - Local control room for Claude Code agents: every session on an animated office floor, a needs-you rail with phone/Telegram/Slack alerts and Allow/Deny from anywhere, cost per session and project, a danger guard that holds destructive commands, and a read-only MCP server so claude.ai can query it.
 
 ## 🏗️ Infrastructure & Proxies
 
