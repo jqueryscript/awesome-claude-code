@@ -749,6 +749,7 @@ A curated list of awesome tools, skills, plugins, integrations, extensions, fram
 - [**claude-historian**](https://github.com/Vvkmnn/claude-historian) - (178 ⭐) - An MCP server for Claude Code conversation history.
 - [**castari-proxy**](https://github.com/castar-ventures/castari-proxy) - (90 ⭐) - Use Claude Agent SDK and Claude Code with other providers/models.
 - [**claude-code-open**](https://github.com/Davincible/claude-code-open) - (68 ⭐) - Claude Code with any LLM provider (OpenRouter, Gemini, Kimi K2).
+- [**ClaudeRipple**](https://github.com/PBJ-2/clauderipple) - (64 ⭐) - Local router that lets Claude Code and the Claude desktop app's Code tab use GPT (via a ChatGPT subscription), DeepSeek, Gemini, GLM, Kimi and other OpenAI-compatible models from the app's model picker and for subagents, while Claude requests stay on the user's own Claude subscription.
 - [**Claudify**](https://github.com/neno-is-ooo/claudify) - (32 ⭐) - Use Claude Code as an LLM provider with your subscription flat fee instead of pay-per-token API keys.
 
 ---
