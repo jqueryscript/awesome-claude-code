@@ -710,6 +710,7 @@ A curated list of awesome tools, skills, plugins, integrations, extensions, fram
 - [**Claude-Code-Web-GUI**](https://github.com/binggg/Claude-Code-Web-GUI) - (72 ⭐) - Browse, view and share your Claude Code sessions - runs entirely in browser, no server required!
 - [**ccmate-release**](https://github.com/djyde/ccmate-release) - (56 ⭐) - A GUI for Claude Code.
 - [**Claude in a Box**](https://github.com/juancgarza/claude-in-a-box) - (51 ⭐) - A ChatGPT Canvas-style interface for Claude Code running in E2B sandboxes.
+- [**Orchia**](https://github.com/MPoulhazan/orchia) - (1 ⭐) - Local dashboard for all your Claude Code sessions: see which ones work, need you or are done, and answer permission requests from one grid.
 
 ---
 
