@@ -518,6 +518,8 @@ A curated list of awesome tools, skills, plugins, integrations, extensions, fram
 - [**claude-code-plugin**](https://github.com/browserbase/claude-code-plugin) - Browserbase plugin for Claude Code - Use cloud browsers with Claude Code instead of local Chrome.
 - [**homunculus**](https://github.com/humanplane/homunculus) - A Claude Code plugin that watches how you work, learns your patterns, and evolves itself to help you better.
 - [**run-suggested**](https://github.com/hematteo/run-suggested) - Claude Code mod that turns the shell commands Claude suggests into numbered shortcuts above the prompt: a key runs one with live output and stops it, and the user's Bash permission rules decide what needs a second press.
+- [**run-watcher**](https://github.com/hematteo/run-watcher) - Claude Code mod that watches training logs, local or over ssh, in a pane with a loss sparkline, and alerts when the loss goes NaN or spikes, a run crashes, or its output stalls; reads Slurm job states.
+- [**anki-band**](https://github.com/hematteo/anki-band) - Claude Code mod that shows your next due Anki card above the prompt while Claude works; one key shows the answer and one grades it, straight into your collection through AnkiConnect.
 
 ---
 
