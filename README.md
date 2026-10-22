@@ -829,6 +829,7 @@ A curated list of awesome tools, skills, plugins, integrations, extensions, fram
 - [**claude-code-mcpinstall**](https://github.com/undeadpickle/claude-code-mcpinstall) - (235 ⭐) - Easy guide to installing Claude Code MCPs globally on your machine.
 - [**claude-code-system-prompt**](https://github.com/matthew-lim-matthew-lim/claude-code-system-prompt) - (154 ⭐) - Claude Code's system prompt.
 - [**claudecode-best-practices**](https://github.com/rosmur/claudecode-best-practices) - (85 ⭐) - A collection of best practices and procedures for using Claude Code.
+- [**Loadout**](https://loadout-blush.vercel.app/?utm_source=github&utm_medium=awesome-list&utm_campaign=jqueryscript-awesome-claude-code) - Free copy-paste CLAUDE.md, AGENTS.md, and Cursor rule packs for common stacks, plus fix guides for rules that agents ignore. Made by Anthony Pan.
 
 ---
 
