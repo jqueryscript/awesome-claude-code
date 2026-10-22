@@ -318,6 +318,7 @@ A curated list of awesome tools, skills, plugins, integrations, extensions, fram
 - [**wondelai/skills**](https://github.com/wondelai/skills) - (1.4k ⭐) - Agent skills for Claude Code and agentskills.io-compatible coding agents.
 - [**internet-court-skill**](https://github.com/internet-court/internet-court-skill) - (1.4k ⭐) - Agent Skill for natural-language mandates, delegated permissions, payments, escrow, and dispute resolution.
 - [**asd-ste100-skill**](https://github.com/danyuchn/asd-ste100-skill) - (1.4k ⭐) - Claude Code skill that applies ASD-STE100 Simplified Technical English rules to ambiguous instructions for agents.
+- [**asd-ste100-hebrew-skill**](https://github.com/g4lb/asd-ste100-hebrew-skill) - (2 ⭐) - Hebrew port of asd-ste100-skill that rewrites ambiguous Hebrew agent text into Simplified Technical Hebrew, with a Hebrew linter.
 - [**ux-ui-agent-skills**](https://github.com/plugin87/ux-ui-agent-skills) - (1.4k ⭐) - Design workflow with DTCG tokens, 50 components, WCAG 2.2, 138 design systems, framework-agnostic code, and objective quality gates.
 - [**ELI5**](https://github.com/DreambigOu/ELI5) - (1.4k ⭐) - Claude Code skill that explains anything to different audiences with the right tone, vocabulary, and analogies.
 - [**app-store-preflight-skills**](https://github.com/truongduy2611/app-store-preflight-skills) - (1.4k ⭐) - AI agent skill that scans iOS and macOS projects for common App Store rejection risks before submission.
