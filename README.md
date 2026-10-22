@@ -829,6 +829,7 @@ A curated list of awesome tools, skills, plugins, integrations, extensions, fram
 - [**claude-code-mcpinstall**](https://github.com/undeadpickle/claude-code-mcpinstall) - (235 ⭐) - Easy guide to installing Claude Code MCPs globally on your machine.
 - [**claude-code-system-prompt**](https://github.com/matthew-lim-matthew-lim/claude-code-system-prompt) - (154 ⭐) - Claude Code's system prompt.
 - [**claudecode-best-practices**](https://github.com/rosmur/claudecode-best-practices) - (85 ⭐) - A collection of best practices and procedures for using Claude Code.
+- [**wallet-game**](https://github.com/Frestina/wallet-game) - (0 ⭐) - Example of Claude Code running a month-long project from a skill: a crypto wallet game on Base with a session routine, a logbook as memory, a pre-commit secret check and a live dashboard.
 
 ---
 
