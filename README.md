@@ -517,6 +517,7 @@ A curated list of awesome tools, skills, plugins, integrations, extensions, fram
 - [**claude-dashboard**](https://github.com/uppinote20/claude-dashboard) - Comprehensive status line plugin for Claude Code with context usage, API rate limits, and cost tracking
 - [**claude-code-plugin**](https://github.com/browserbase/claude-code-plugin) - Browserbase plugin for Claude Code - Use cloud browsers with Claude Code instead of local Chrome.
 - [**homunculus**](https://github.com/humanplane/homunculus) - A Claude Code plugin that watches how you work, learns your patterns, and evolves itself to help you better.
+- [**PerMark**](https://github.com/EdelmarSchneider/permark) - A Markdown app to read and review what your AI agents write, and steer the work through its documents.
 
 ---
 
@@ -673,7 +674,6 @@ A curated list of awesome tools, skills, plugins, integrations, extensions, fram
 - [**claude-code.el**](https://github.com/stevemolitor/claude-code.el) - (714 ⭐) - Claude Code Emacs integration.
 - [**Claude-Autopilot**](https://github.com/benbasha/Claude-Autopilot) - (234 ⭐) - VS Code/Cursor extension for automating Claude Code tasks with intelligent queuing, batch processing, and auto-resume.
 - [**n8n-nodes-claudecode**](https://github.com/holt-web-ai/n8n-nodes-claudecode) - (96 ⭐) - Bring the power of Claude Code directly into your n8n automation workflows!
-- [**PerMark**](https://github.com/EdelmarSchneider/permark) - When AI writes the code, engineering moves to Markdown: PerMark is the desktop IDE where you mature ideas in self-saving notes, formalize rich specs (Mermaid, KaTeX, tables, ~190 languages), watch live block changes as agents write, and steer them back via inline comments and a local MCP connection.
 
 ---
 
