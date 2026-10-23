@@ -646,6 +646,7 @@ A curated list of awesome tools, skills, plugins, integrations, extensions, fram
 - [**claude-prune**](https://github.com/DannyAziz/claude-prune) - (85 ⭐) - A fast CLI tool for pruning Claude Code sessions.
 - [**run-claude-docker**](https://github.com/icanhasjonas/run-claude-docker) - (84 ⭐) - Run claude code in somewhat safe and isolated yolo mode.
 - [**claude-code-thinking-patch**](https://github.com/aleks-apostle/claude-code-thinking-patch) - (64 ⭐) - Make Claude Code's thinking blocks visible by default without pressing ctrl+o.
+- [**showagent**](https://github.com/aytzey/showagent) - (63 ⭐) - Terminal picker for local Claude Code, Codex, Gemini CLI and other coding-agent sessions: search and resume them, or continue a conversation in another agent as its own native session.
 - [**flashbacker**](https://github.com/agentsea/flashbacker) - (57 ⭐) - Claude Code state management with session continuity and AI personas, subagents and agent discussion.
 - [**ccguard**](https://github.com/pomterre/ccguard) - (47 ⭐) - Automated enforcement of net-negative LOC, complexity constraints, and quality standards for Claude code.
 - [**Severance**](https://github.com/blas0/Severance) - (47 ⭐) - A semantic memory system designed for Claude Code.
