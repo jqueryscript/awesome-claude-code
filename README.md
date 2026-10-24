@@ -111,6 +111,8 @@ A curated list of awesome tools, skills, plugins, integrations, extensions, fram
 - [**AgentCheck**](https://github.com/devlyai/AgentCheck) - (44 ⭐) - Local AI-powered code review agents for Claude Code.
 - [**claude-agents**](https://github.com/tddworks/claude-agents) - (18 ⭐) - A collection of specialized AI agents for Claude Code that enhance software development workflows with focused expertise in specific domains.
 
+- [**MultiCC**](https://github.com/lsjwzh/MultiCC) - (15 ⭐) - Self-hosted workspace for Claude Code, Codex, and other coding CLIs, with task-scoped Git worktrees, mobile access, and visible-context handoffs.
+
 ---
 
 ## 🧠 Agent Skills
