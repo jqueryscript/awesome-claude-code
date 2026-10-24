@@ -698,6 +698,7 @@ A curated list of awesome tools, skills, plugins, integrations, extensions, fram
 - [**Sniffly**](https://github.com/chiphuyen/sniffly) - (1.2k ⭐) - Claude Code dashboard with usage stats, error analysis, and sharable feature.
 - [**claude-code-viewer**](https://github.com/d-kimuson/claude-code-viewer) - (1.2k ⭐) - A full-featured web-based Claude Code client that provides complete interactive functionality for managing Claude Code projects.
 - [**clui-cc**](https://github.com/lcoutodemos/clui-cc) - (1.2k ⭐) - A lightweight, transparent desktop overlay for Claude Code on macOS. Clui CC wraps the Claude Code CLI in a floating pill interface with multi-tab sessions, a permission approval UI, voice input, and a skills marketplace.
+- [**wisp**](https://github.com/M0xoo/wisp) - Run Claude Code, Codex and other coding agents in parallel, in the background, and read a one-screen report instead of the transcript.
 - [**cui**](https://github.com/BMPixel/cui) - (1.2k ⭐) - A web UI for Claude Code agents.
 - [**mindwalk**](https://github.com/cosmtrek/mindwalk) - (871 ⭐) - A visualization tool that replays coding-agent sessions on a 3D map of your codebase.
 - [**codexia**](https://github.com/milisp/codexia) - (737 ⭐) - Lightweight agent workstation for Codex CLI and Claude Code with scheduling, worktree control, remote control, and skills management.
