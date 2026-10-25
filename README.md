@@ -70,6 +70,7 @@ A curated list of awesome tools, skills, plugins, integrations, extensions, fram
 - [**seo-geo-claude-skills**](https://github.com/aaron-he-zhu/seo-geo-claude-skills) - (2.1k ⭐) - 20 SEO & GEO skills for Claude Code, Cursor, Codex, and 35+ AI agents. Keyword research, content writing, technical audits, rank tracking.
 - [**deepclaude**](https://github.com/aattaran/deepclaude) - (2.1k ⭐) - A Claude Code skill for generating UI in the Nothing design language. Monochrome, typographic, industrial.
 - [**claude-agents**](https://github.com/iannuttall/claude-agents) - (2.1k ⭐) - Custom subagents to use with Claude Code.
+- [**QualityLayer**](https://github.com/maxritter/qualitylayer) - (2.1k ⭐) - Puts the engineer back in the loop of Claude Code and other coding agents: you approve the plan, an agent that did not write the code checks the result, and you approve the change before the PR.
 - [**openakita**](https://github.com/openakita/openakita) - (1.8k ⭐) - Open-source AI assistant framework with skills and agent workflows.
 - [**claude-code-sub-agents**](https://github.com/lst97/claude-code-sub-agents) - (1.6k ⭐) - Collection of specialized AI subagents for Claude Code for personal use.
 - [**omnigent**](https://github.com/omnigent-ai/omnigent) - (1.4k ⭐) - A meta-harness for all your AI agents.
