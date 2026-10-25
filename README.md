@@ -772,6 +772,7 @@ A curated list of awesome tools, skills, plugins, integrations, extensions, fram
 - [**tokentab**](https://github.com/crwdla/tokentab) - (1.1k ⭐) - Local CLI that reads Claude Code, Codex, and Gemini CLI session logs to calculate token usage and cost by model, project, and day.
 - [**tokentap**](https://github.com/jmuncor/tokentap) - (798 ⭐) - Intercept LLM API traffic and visualize token usage in a real-time terminal dashboard.
 - [**CCSeva**](https://github.com/Iamshankhadeep/ccseva) - (796 ⭐) - A beautiful macOS menu bar app for tracking your Claude Code usage in real-time.
+- [**Usage HUD**](https://github.com/Thalia-Bloom/usage-hud) - A macOS menu bar meter for Claude Code, Codex, Gemini, Grok and Ollama windows, with a confidence label on every number and a doctor command. Free.
 - [**claude-task-viewer**](https://github.com/L1AD/claude-task-viewer) - (626 ⭐) - A web-based Kanban board for viewing Claude Code tasks.
 - [**cc-statusline**](https://github.com/chongdashu/cc-statusline) - (617 ⭐) - Transform your Claude Code experience with a beautiful, informative statusline.
 - [**Agent Console**](https://github.com/LockedinLabs-AI/agent-console) - (612 ⭐) - Local-first dashboard for Claude Code and Codex sessions, including token use, cache activity, models, and cost.
