@@ -798,6 +798,7 @@ A curated list of awesome tools, skills, plugins, integrations, extensions, fram
 - [**pyccsl**](https://github.com/wolfdenpublishing/pyccsl) - (83 ⭐) - Python Claude Code Status Line (PyCCSL, pronounced "pixel").
 - [**Claude-Monitor**](https://github.com/RISCfuture/Claude-Monitor) - (43 ⭐) - A menulet that tracks your Claude Code token usage.
 - [**cccost**](https://github.com/badlogic/cccost) - (25 ⭐) - Instrument Claude Code to track actual token usage and cost.
+- [**switchboard**](https://github.com/itssarthak/claudecode-switchboard) - (4 ⭐) - Local dashboard for every Claude Code session on your Mac: live status, token use, plan limits and messages between sessions. No dependencies.
 
 ---
 
