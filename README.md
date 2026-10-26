@@ -467,6 +467,7 @@ A curated list of awesome tools, skills, plugins, integrations, extensions, fram
 - [**brand-identity-skill**](https://github.com/fatihaydost/brand-identity-skill) - (147 ⭐) - Claude Code skill for designing coordinated logos, typography, and color palettes, with comparison cards and a brand guidelines kit.
 - [**nano-image-generator-skill**](https://github.com/lxfater/nano-image-generator-skill) - (126 ⭐) - A Claude Code skill for generating images using Gemini 3 Pro Preview (Nano Banana Pro).
 - [**solid-skills**](https://github.com/lxfater/nano-image-generator-skill) - (126 ⭐) - AI agent skill for writing senior-engineer quality code through SOLID principles, TDD, and clean architecture.
+- [**awesome-seedance-2.5-prompts-skills**](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills) - (115 ⭐) - Seedance 2.5 video prompt library with an installable skill that refines prompts, plans storyboards, and generates video.
 - [**remotion-dev/skills**](https://www.remotion.dev/docs/ai/skills) - Create videos programmatically.
 - [**BFL Agent Skills**](https://docs.bfl.ai/api_integration/skills_integration) - Reusable capabilities that teach AI agents how to work with FLUX models.
 - [**Manus Skills**](https://manus.im/blog/manus-skills) - Manus' official agent skills.
