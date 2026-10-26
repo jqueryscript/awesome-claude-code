@@ -736,6 +736,7 @@ A curated list of awesome tools, skills, plugins, integrations, extensions, fram
 - [**open-connector**](https://github.com/oomol-lab/open-connector) - (913 ⭐) - Auth gateway that connects SaaS APIs to AI agents through SDK, CLI, MCP, HTTP, and OpenAPI access.
 - [**my-free-code**](https://github.com/hkqr/my-free-code) - (623 ⭐) - Open-source multi-provider AI gateway for Claude Code and other coding agents, with model routing, streaming, tools, reasoning, fallbacks, and local model support.
 - [**Context-Gateway**](https://github.com/Compresr-ai/Context-Gateway) - (614 ⭐) - An agentic proxy that enhances any AI agent workflow with instant history compaction and context optimization tools.
+- [**dario**](https://github.com/askalf/dario) - (576 ⭐) - Local endpoint that runs Claude Code, Cursor, Aider, Cline, Codex CLI and the Agent SDK on a Claude subscription and a ChatGPT plan, with opt-in failover between the plans and a ledger of what each plan absorbed.
 - [**claude-code-proxy**](https://github.com/seifghazi/claude-code-proxy) - (480 ⭐) - Proxy that captures and visualizes in-flight Claude Code requests and conversations.
 - [**anthropic-proxy**](https://github.com/maxnowack/anthropic-proxy) - (415 ⭐) - A proxy server that converts Anthropic API requests to OpenAI format and sends them to OpenRouter, used to use Claude Code with OpenRouter.
 - [**claude-gemini-bridge**](https://github.com/tkaufmann/claude-gemini-bridge) - (406 ⭐) - Intelligent integration between Claude Code and Google Gemini for large-scale code analysis.
