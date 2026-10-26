@@ -710,6 +710,7 @@ A curated list of awesome tools, skills, plugins, integrations, extensions, fram
 - [**Claude-Code-Web-GUI**](https://github.com/binggg/Claude-Code-Web-GUI) - (72 ⭐) - Browse, view and share your Claude Code sessions - runs entirely in browser, no server required!
 - [**ccmate-release**](https://github.com/djyde/ccmate-release) - (56 ⭐) - A GUI for Claude Code.
 - [**Claude in a Box**](https://github.com/juancgarza/claude-in-a-box) - (51 ⭐) - A ChatGPT Canvas-style interface for Claude Code running in E2B sandboxes.
+- [**AgentsRoom**](https://agentsroom.dev) - (0 ⭐) - Desktop app for running Claude Code, Codex and other coding agent CLIs side by side, with a shared backlog, agent-to-agent messaging and an encrypted iOS/Android companion.
 
 ---
 
