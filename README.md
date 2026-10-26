@@ -791,6 +791,7 @@ A curated list of awesome tools, skills, plugins, integrations, extensions, fram
 - [**claude-code-leaderboard**](https://github.com/grp06/claude-code-leaderboard) - (189 ⭐) - This CLI automatically monitors your token usage and posts your stats to the leaderboard after each Claude Code session.
 - [**zoetrope**](https://github.com/furkankly/zoetrope) - (173 ⭐) - A read-only terminal and browser flow graph for following live Claude Code sessions or replaying saved transcripts.
 - [**Claude / Codex Usage Dashboard**](https://github.com/frankchiu-dev/claude-codex-usage-dashboard) - (165 ⭐) - Local dashboard for viewing Claude Code and Codex usage limits on a phone, tablet, or small display.
+- [**AEGIS**](https://github.com/antropos17/Aegis) - (158 ⭐) - Windows-first desktop monitor for Claude Code and other local AI agents, with process trees, file and TCP observations, and Claude Code usage subtotals and cost estimates.
 - [**inferock-bench**](https://github.com/inferock/inferock-bench) - (140 ⭐) - Local LLM cost-tracking proxy for OpenAI, Anthropic, Gemini, and pinned OpenRouter calls, with token usage, failure, and billing-integrity receipts.
 - [**tokentab**](https://github.com/sequilade/tokentab) - (122 ⭐) - CLI for calculating Claude Code, Codex, and Gemini CLI session costs by model, project, and day.
 - [**claude-pulse**](https://github.com/nikitadoudikov/claude-pulse) - (116 ⭐) - Live Claude Code dashboard for token use, context health, tool calls, session recovery, and mobile approvals.
