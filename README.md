@@ -784,6 +784,7 @@ A curated list of awesome tools, skills, plugins, integrations, extensions, fram
 - [**claude-code-otel**](https://github.com/ColeMurray/claude-code-otel/) - (440 ⭐) - A comprehensive observability solution for monitoring Claude Code usage, performance, and costs.
 - [**claude-code-ui**](https://github.com/KyleAMathews/claude-code-ui) - (413 ⭐) - A real-time dashboard for monitoring Claude Code sessions across multiple projects.
 - [**tokentab**](https://github.com/damejan80/tokentab) - (288 ⭐) - A local CLI that reads Claude Code, Codex, Cursor, and Gemini CLI session logs and calculates token usage and cost by model, project, and day.
+- [**Agent Standup**](https://github.com/Atoll92/agent-standup) - (323 ⭐) - Live, animated team call of your Claude Code, Codex and Mistral Vibe sessions and sub-agents: who is working, stuck, waiting on another agent or waiting for you, with tokens per agent; VS Code extension, CLI and macOS app reading local session files.
 - [**claude-code-usage-bar**](https://github.com/leeguooooo/claude-code-usage-bar) - (270 ⭐) - Real-time statusline for Claude Code: token usage, remaining budget, burn rate, and depletion time.
 - [**claude-code-monitor**](https://github.com/onikan27/claude-code-monitor) - (237 ⭐) - Real-time dashboard for monitoring multiple Claude Code sessions from a CLI and mobile web UI on macOS.
 - [**tokentab**](https://github.com/wzchav/tokentab) - (225 ⭐) - A CLI that reads Claude Code, Codex, and Gemini CLI session logs and works out how much they cost, by model, project, and day.
