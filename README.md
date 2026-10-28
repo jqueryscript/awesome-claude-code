@@ -519,6 +519,7 @@ A curated list of awesome tools, skills, plugins, integrations, extensions, fram
 - [**homunculus**](https://github.com/humanplane/homunculus) - A Claude Code plugin that watches how you work, learns your patterns, and evolves itself to help you better.
 
 ---
+- [**phrasebook**](https://github.com/minus1ms-dev/phrasebook) - Claude Code plugin that bans phrases Claude overuses ("load-bearing", "you're absolutely right", "delve") and makes it reword them in replies and written files.
 
 ## 🛠️ Tools & Utilities
 
