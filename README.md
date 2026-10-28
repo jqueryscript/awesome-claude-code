@@ -658,6 +658,7 @@ A curated list of awesome tools, skills, plugins, integrations, extensions, fram
 - [**cc-monitor-worker**](https://github.com/cometkim/cc-monitor-worker) - (21 ⭐) - Claude Code monitoring with Cloudflare Workers & Workers Analytics Engine.
 - [**shotgun-alpha**](https://github.com/shotgun-sh/shotgun-alpha) - (3 ⭐) - Codebase-aware spec engine for Cursor, Claude Code & Lovable.
 - [**conductor**](https://conductor.build/) - (0 ⭐) - Run a bunch of Claude Codes in parallel.
+- [**Scarwise**](https://github.com/DomitorAI/scarwise) - (0 ⭐) - Claude Code hooks that learn from failed tool calls by themselves and stop a known mistake before it runs, in Claude Code and your other agents (Codex, Gemini CLI, Cursor, OpenCode and more).
 
 ---
 
