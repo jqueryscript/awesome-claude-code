@@ -490,6 +490,7 @@ A curated list of awesome tools, skills, plugins, integrations, extensions, fram
 - [**VibeWise**](https://github.com/nykooi1/vibe-wise) - (2.9k ⭐) - Claude Code plugin that asks for your approach, discusses tradeoffs, and explains code changes as you build.
 - [**Claude Code Toolkit**](https://github.com/rohitg00/awesome-claude-code-toolkit) - (2.3k ⭐) - A Claude Code marketplace with plugins, agents, skills, commands, hooks, rules, templates, and MCP configurations.
 - [**CloudBase AI Toolkit**](https://github.com/TencentCloudBase/CloudBase-AI-Toolkit) - (1.1k ⭐) - Claude Code plugin, Agent Skills, and MCP server for using Tencent CloudBase databases, authentication, functions, storage, and deployment from coding agents.
+- [**agent-notifications**](https://github.com/777genius/agent-notifications) - (819 ⭐) - Desktop and webhook notifications for Claude Code and other coding agents, with sounds and click-to-focus for Claude/Codex.
 - [**claude-forge**](https://github.com/sangrokjung/claude-forge) - (756 ⭐) - Claude Code plugin framework with agents, commands, skills, and security hooks.
 - [**compact-plus**](https://github.com/u-ichi/compact-plus) - (151 ⭐) - Claude Code plugin that preserves and restores working state around `/compact`.
 - [**auto-handoff**](https://github.com/obie/auto-handoff) - (103 ⭐) - Claude Code plugin that saves a handoff document after an idle period so a fresh session can resume the work.
