@@ -803,6 +803,7 @@ A curated list of awesome tools, skills, plugins, integrations, extensions, fram
 - [**agentsview**](https://github.com/kenn-io/agentsview) - (5.9k ⭐) - Local-first session search, analytics, insights, and token-use statistics for Claude Code, Codex, and more than 20 coding agents.
 - [**tokscale**](https://github.com/junhoyeo/tokscale) - (5.4k ⭐) - Terminal token-usage tracker for AI coding agents with interactive reports, model and project breakdowns, and a global leaderboard.
 - [**failproofai**](https://github.com/FailproofAI/failproofai) - (4.4k ⭐) - Observability and policy enforcement for AI agent harnesses, with run capture and runtime reliability checks.
+- [**AgentWarden**](https://agentwarden.praesi-technologies.com/) - Local security monitor for Claude Code, Codex, Cursor and other coding agents that checks each action against the user's request and flags prompt injection, credential theft and malicious skills or MCP servers (Mac and Windows, free tier).
 - [**openusage**](https://github.com/robinebers/openusage) - (4.4k ⭐) - macOS menu bar app for tracking Claude, Codex, and other AI coding subscriptions, with usage limits, reset times, credits, and spend.
 - [**cost-xray**](https://github.com/tigerless-labs/cost-xray) - (3.8k ⭐) - Local API traffic viewer that attributes Claude Code and Codex token costs to prompts, tools, cache activity, and other request parts.
 - [**abtop**](https://github.com/graykode/abtop) - (3.7k ⭐) - Terminal monitor for coding-agent sessions, token use, context windows, rate limits, and ports.
