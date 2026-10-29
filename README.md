@@ -749,6 +749,7 @@ A curated list of awesome tools, skills, plugins, integrations, extensions, fram
 - [**Claude-Code-Web-GUI**](https://github.com/binggg/Claude-Code-Web-GUI) - (72 ⭐) - Browse, view and share your Claude Code sessions - runs entirely in browser, no server required!
 - [**ccmate-release**](https://github.com/djyde/ccmate-release) - (56 ⭐) - A GUI for Claude Code.
 - [**Claude in a Box**](https://github.com/juancgarza/claude-in-a-box) - (51 ⭐) - A ChatGPT Canvas-style interface for Claude Code running in E2B sandboxes.
+- [**NotchHub**](https://github.com/bounjee/NotchHub) - (0 ⭐) - macOS notch app that shows Claude Code session status from hooks, answers permission requests from the notch, and tracks plan usage, with a file shelf and clipboard history.
 
 ---
 
