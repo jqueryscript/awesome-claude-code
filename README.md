@@ -488,6 +488,7 @@ A curated list of awesome tools, skills, plugins, integrations, extensions, fram
 - [**console-skill**](https://github.com/Jakeschincariol/console-skill) - (182 ⭐) - Skills for reverse-engineering and porting personally owned PlayStation 2 games through PS2Recomp, with graphics, audio, controller, and modding workflows.
 - [**dashboard-design-skill**](https://github.com/abdiraimov-otabek/dashboard-design-skill) - (177 ⭐) - Dashboard design skill for web and SwiftUI interfaces, with guidance for KPI cards, charts, filters, responsive layouts, and screenshot QA.
 - [**claude-code-voice-skill**](https://github.com/abracadabra50/claude-code-voice-skill) - (167 ⭐) - Skill to talk to Claude about your projects over the phone.
+- [**ditto**](https://github.com/ohad6k/ditto) - (161 ⭐) - Mines your local Claude Code/Codex/OpenCode session logs into a personal working profile your agent loads before every task.
 - [**academic-humanizer**](https://github.com/AIScientists-Dev/academic-humanizer) - (155 ⭐) - Academic writing skill for revising research text into clearer, more natural prose while preserving technical meaning.
 - [**brand-identity-skill**](https://github.com/fatihaydost/brand-identity-skill) - (147 ⭐) - Claude Code skill for designing coordinated logos, typography, and color palettes, with comparison cards and a brand guidelines kit.
 - [**skill-diet**](https://github.com/nicobailon/skill-diet) - (134 ⭐) - Skill for reducing instruction bloat, checking tool accuracy, and comparing task results before and after a skill rewrite.
