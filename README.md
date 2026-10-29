@@ -110,6 +110,7 @@ A curated list of awesome tools, skills, plugins, integrations, extensions, fram
 - [**Severance**](https://github.com/blas0/Severance) - (47 ⭐) - A semantic memory system designed for Claude Code.
 - [**AgentCheck**](https://github.com/devlyai/AgentCheck) - (44 ⭐) - Local AI-powered code review agents for Claude Code.
 - [**claude-agents**](https://github.com/tddworks/claude-agents) - (18 ⭐) - A collection of specialized AI agents for Claude Code that enhance software development workflows with focused expertise in specific domains.
+- [**SpurCode**](https://github.com/getspur/SpurCode) - ( ⭐) - Rust TUI control tower that turns a task into a DAG plan and orchestrates Claude Code, Codex, Gemini, Kimi, OpenCode, and ACP agents in isolated git worktrees with topological merge.
 
 ---
 
