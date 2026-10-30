@@ -749,6 +749,7 @@ A curated list of awesome tools, skills, plugins, integrations, extensions, fram
 - [**Claude-Code-Web-GUI**](https://github.com/binggg/Claude-Code-Web-GUI) - (72 ⭐) - Browse, view and share your Claude Code sessions - runs entirely in browser, no server required!
 - [**ccmate-release**](https://github.com/djyde/ccmate-release) - (56 ⭐) - A GUI for Claude Code.
 - [**Claude in a Box**](https://github.com/juancgarza/claude-in-a-box) - (51 ⭐) - A ChatGPT Canvas-style interface for Claude Code running in E2B sandboxes.
+- [**Dunea Code**](https://github.com/dunea-ai/dunea-code) - (0 ⭐) - Desktop app for running Claude Code and Codex on many tasks at once, each in its own git worktree with its own dev server, plus in-app diffs, approvals and pull requests.
 
 ---
 
