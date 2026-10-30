@@ -508,6 +508,8 @@ A curated list of awesome tools, skills, plugins, integrations, extensions, fram
 
 ## 🔌 Claude Plugins
 
+- [Off the Wall](https://github.com/toranalytics/off-the-wall) - Saves the corrections you give Claude Code and Codex and quotes them back before the agent answers. Local storage, no separate API key, pre-release.
+
 - [**compound-engineering-plugin**](https://github.com/EveryInc/compound-engineering-plugin) - (25.1k ⭐) - Official Compound Engineering plugin for Claude Code, Codex, Cursor, and other coding agents.
 - [**elephant-goldfish-model**](https://github.com/google/elephant-goldfish-model) - (5,538 ⭐) - Google plugin for drafting software specifications with project context and reviewing them with fresh subagents before implementation.
 - [**fast-jev-compaction**](https://github.com/tamaratran/fast-jev-compaction) - (4.8k ⭐) - Claude Code plugin that replaces compaction summaries with fast Jev decisions while keeping retained tool results verbatim.
