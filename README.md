@@ -503,6 +503,7 @@ A curated list of awesome tools, skills, plugins, integrations, extensions, fram
 - [**meta_skilld**](https://github.com/Dicklesworthstone/meta_skilld) - Rust CLI for managing Claude Code skills: indexing, building, bundling, and sharing.
 - [**claude-cs**](https://github.com/nbashaw/claude-cs) - A Claude Code skill that helps you build custom customer support automation for your company.
 - [**design-engineer-auditor-package**](https://github.com/kylezantos/design-engineer-auditor-package) - A Claude Code skill for motion design audits, trained on Emil Kowalski, Jakub Krehel, and Jhey Tompkins.
+- [**ponder**](https://github.com/Quinnod345/ponder) - A Claude Code skill and zero-dependency CLI that reviews a codebase or UI in repeated passes until the findings stop changing, and refuses to stop while any file or screen is ungraded.
 
 ---
 
