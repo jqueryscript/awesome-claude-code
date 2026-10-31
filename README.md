@@ -548,6 +548,7 @@ A curated list of awesome tools, skills, plugins, integrations, extensions, fram
 - [**claude-dashboard**](https://github.com/uppinote20/claude-dashboard) - Comprehensive status line plugin for Claude Code with context usage, API rate limits, and cost tracking
 - [**claude-code-plugin**](https://github.com/browserbase/claude-code-plugin) - Browserbase plugin for Claude Code - Use cloud browsers with Claude Code instead of local Chrome.
 - [**homunculus**](https://github.com/humanplane/homunculus) - A Claude Code plugin that watches how you work, learns your patterns, and evolves itself to help you better.
+- [**zambo**](https://github.com/zambodotdev/zambo-mcp) - Claude Code plugin + MCP server for the verifiable work layer for AI: 153 tools behind one keyless endpoint, HANDOVER continuity across AIs, and a verifiable AER-1 receipt for every call. Free tier: 20 calls + 1 wrap-up free every day; picking up in another AI is always free.
 
 ---
 
