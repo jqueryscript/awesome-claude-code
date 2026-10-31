@@ -525,6 +525,7 @@ A curated list of awesome tools, skills, plugins, integrations, extensions, fram
 - [**compact-plus**](https://github.com/u-ichi/compact-plus) - (151 ⭐) - Claude Code plugin that preserves and restores working state around <code>/compact</code>.
 - [**auto-handoff**](https://github.com/obie/auto-handoff) - (103 ⭐) - Claude Code plugin that saves a handoff document after an idle period so a fresh session can resume the work.
 - [**claude-toons**](https://github.com/achimala/claude-toons) - (29 ⭐) - Claude Code plugin that shows animated task-themed cartoons beneath the status spinner.
+- [**nopekit**](https://github.com/neuman/nopekit) - (15 ⭐) - Claude Code plugin for designing physical things (CAD, 3D printing, thermal, structures) where every check must prove it can fail.
 - [**claude-hud**](https://github.com/jarrodwatts/claude-hud) - A Claude Code plugin that shows what's happening - context usage, active tools, running agents, and todo progress.
 - [**ponytail**](https://github.com/DietrichGebert/ponytail) - Makes your AI agent think like the laziest senior dev in the room.
 - [**call-me**](https://github.com/ZeframLou/call-me) - Minimal plugin that lets Claude Code call you on the phone.
