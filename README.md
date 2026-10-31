@@ -694,6 +694,7 @@ A curated list of awesome tools, skills, plugins, integrations, extensions, fram
 - [**cc-monitor-worker**](https://github.com/cometkim/cc-monitor-worker) - (21 ⭐) - Claude Code monitoring with Cloudflare Workers & Workers Analytics Engine.
 - [**shotgun-alpha**](https://github.com/shotgun-sh/shotgun-alpha) - (3 ⭐) - Codebase-aware spec engine for Cursor, Claude Code & Lovable.
 - [**conductor**](https://conductor.build/) - (0 ⭐) - Run a bunch of Claude Codes in parallel.
+- [**Wirepane**](https://github.com/legostin/wirepane) - HTTPS debugging proxy that runs inside Claude Code as a mod, with the traffic pane next to the chat and 16 tools for Claude to search, diff, replay and rewrite browser, iOS and Android requests.
 
 ---
 
