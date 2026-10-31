@@ -690,6 +690,7 @@ A curated list of awesome tools, skills, plugins, integrations, extensions, fram
 - [**claudecode-macmenu**](https://github.com/PiXeL16/claudecode-macmenu) - (36 ⭐) - A Mac Menu for Claude Code that notifies when Claude is done and shows insights.
 - [**ccheckpoints**](https://github.com/p32929/ccheckpoints) - (32 ⭐) - A checkpoint system for Claude Code CLI that automatically tracks your coding sessions.
 - [**cc-monitor-rs**](https://github.com/ZhangHanDong/cc-monitor-rs) - (24 ⭐) - Real-time Claude Code usage monitor with native UI built using Rust and Makepad.
+- [**sigillion**](https://github.com/Sigillion-AI/sigillion) - (24 ⭐) - Local, tamper-evident memory for Claude Code that keeps every session word for word after compaction and transcript cleanup, and lets Claude search and reopen past sessions over MCP.
 - [**claude-code-test-runner**](https://github.com/firstloophq/claude-code-test-runner) - (22 ⭐) - An automated E2E natural language test runner built on Claude Code.
 - [**cc-monitor-worker**](https://github.com/cometkim/cc-monitor-worker) - (21 ⭐) - Claude Code monitoring with Cloudflare Workers & Workers Analytics Engine.
 - [**shotgun-alpha**](https://github.com/shotgun-sh/shotgun-alpha) - (3 ⭐) - Codebase-aware spec engine for Cursor, Claude Code & Lovable.
