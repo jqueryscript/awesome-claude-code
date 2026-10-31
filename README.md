@@ -709,6 +709,7 @@ A curated list of awesome tools, skills, plugins, integrations, extensions, fram
 - [**claude-code.el**](https://github.com/stevemolitor/claude-code.el) - (714 ⭐) - Claude Code Emacs integration.
 - [**Claude-Autopilot**](https://github.com/benbasha/Claude-Autopilot) - (234 ⭐) - VS Code/Cursor extension for automating Claude Code tasks with intelligent queuing, batch processing, and auto-resume.
 - [**n8n-nodes-claudecode**](https://github.com/holt-web-ai/n8n-nodes-claudecode) - (96 ⭐) - Bring the power of Claude Code directly into your n8n automation workflows!
+- [**Singularity**](https://singularity.meteorfactory.dev/) - (0 ⭐) - Agentic Development Environment (ADE) that runs Claude Code and Codex agents in parallel from a Kanban board of atomic tickets, with built-in terminal, code editor, and Git integration.
 
 ---
 
