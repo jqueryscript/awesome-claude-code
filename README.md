@@ -695,6 +695,7 @@ A curated list of awesome tools, skills, plugins, integrations, extensions, fram
 - [**shotgun-alpha**](https://github.com/shotgun-sh/shotgun-alpha) - (3 ⭐) - Codebase-aware spec engine for Cursor, Claude Code & Lovable.
 - [**conductor**](https://conductor.build/) - (0 ⭐) - Run a bunch of Claude Codes in parallel.
 
+- [**buywhere-mcp**](https://github.com/BuyWhere/buywhere-mcp) - (16 ⭐) - Hosted MCP server for real-time product search and price comparison across 150K+ merchants / 300M+ products. Free, no API key, Streamable HTTP endpoint. Install: `npx -y @buywhere/mcp-server` or remote `https://api.buywhere.ai/mcp`.
 ---
 
 ## 💻 IDE & Editor Integrations
