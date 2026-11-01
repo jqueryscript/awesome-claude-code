@@ -754,6 +754,7 @@ A curated list of awesome tools, skills, plugins, integrations, extensions, fram
 
 ## 🏗️ Infrastructure & Proxies
 
+- [**AgentBridge**](https://github.com/DewellNaa/agentbridge) - Ultra-lightweight local AI coding agent gateway & protocol bridge connecting Claude Code, Cursor, and Aider to DeepSeek-R1/V3, GLM-5.3, and local Ollama with zero-config launcher, prompt cache sanitization, and 429 failover.
 - [**CLIProxyAPI**](https://github.com/router-for-me/CLIProxyAPI) - (51.2k ⭐) - API service that wraps Antigravity, Codex, Claude Code, and Grok Build behind OpenAI-, Gemini-, Claude-, and Codex-compatible endpoints.
 - [**claude-code-router**](https://github.com/musistudio/claude-code-router) - (35.0k ⭐) - Uses Claude Code as the foundation for coding infrastructure, allowing interaction with the model while enjoying updates.
 - [**9router**](https://github.com/decolua/9router) - (23.7k ⭐) - Routes Claude Code, Codex, Cursor, Cline, and other coding agents to dozens of model providers with automatic fallback.
