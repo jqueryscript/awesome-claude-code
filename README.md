@@ -535,6 +535,7 @@ A curated list of awesome tools, skills, plugins, integrations, extensions, fram
 - [**claude-workflow-v2**](https://github.com/CloudAI-X/claude-workflow-v2) - Universal Claude Code workflow plugin with agents, skills, hooks, and commands.
 - [**claude-code-safety-net**](https://github.com/kenryu42/claude-code-safety-net) - A Claude Code plugin that acts as a safety net, catching destructive git and filesystem commands before they execute.
 - [**ralph-wiggum-marketer**](https://github.com/muratcankoylan/ralph-wiggum-marketer) - A Claude Code Plugin that provides an autonomous AI copywriter.
+- [**mach-gtm-mcp**](https://github.com/verma6uc/mach-gtm-mcp) - Open-source MCP server for B2B outbound sales: build ICPs, research prospects with verified buying signals, score leads (0-100), draft personalised cold emails and LinkedIn messages using the 1-3-1 framework, and generate multi-touch sequences. Install: `npx mach-gtm-mcp`.
 - [**hackingtool-plugin**](https://github.com/AKCodez/hackingtool-plugin) - 183+ pentesting & OSINT tools from Z4nzu/hackingtool.
 - [**hello2cc**](https://github.com/hellowind777/hello2cc) - Native-first Claude Code plugin for third-party models with silent Agent model injection and output styles.
 - [**adversarial-spec**](https://github.com/zscole/adversarial-spec) - A Claude Code plugin that iteratively refines product specifications by debating between multiple LLMs until all models reach consensus.
