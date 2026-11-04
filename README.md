@@ -519,6 +519,7 @@ A curated list of awesome tools, skills, plugins, integrations, extensions, fram
 ---
 
 ## 🔌 Claude Plugins
+- [claude-sounds](https://github.com/culminationAI/claude-sounds) - Your Claude Code shouldn't be silent. Sound effects for all hooks — spells, chimes, clicks. Drop mp3s to customize.
 
 - [**compound-engineering-plugin**](https://github.com/EveryInc/compound-engineering-plugin) - (25.1k ⭐) - Official Compound Engineering plugin for Claude Code, Codex, Cursor, and other coding agents.
 - [**elephant-goldfish-model**](https://github.com/google/elephant-goldfish-model) - (5,538 ⭐) - Google plugin for drafting software specifications with project context and reviewing them with fresh subagents before implementation.
