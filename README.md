@@ -857,6 +857,7 @@ A curated list of awesome tools, skills, plugins, integrations, extensions, fram
 - [**pyccsl**](https://github.com/wolfdenpublishing/pyccsl) - (83 ⭐) - Python Claude Code Status Line (PyCCSL, pronounced "pixel").
 - [**Claude-Monitor**](https://github.com/RISCfuture/Claude-Monitor) - (43 ⭐) - A menulet that tracks your Claude Code token usage.
 - [**cccost**](https://github.com/badlogic/cccost) - (25 ⭐) - Instrument Claude Code to track actual token usage and cost.
+- [**tallyhook**](https://github.com/tallyhook/tallyhook-collector) - Reads the Claude Code and Codex session logs already on your machine and prices them per repo, per model, and per client you bill with a markup. Runs locally with no account; also ships an MCP server.
 
 ---
 
