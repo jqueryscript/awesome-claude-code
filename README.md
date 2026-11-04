@@ -708,6 +708,7 @@ A curated list of awesome tools, skills, plugins, integrations, extensions, fram
 - [**cc-monitor-worker**](https://github.com/cometkim/cc-monitor-worker) - (21 ⭐) - Claude Code monitoring with Cloudflare Workers & Workers Analytics Engine.
 - [**shotgun-alpha**](https://github.com/shotgun-sh/shotgun-alpha) - (3 ⭐) - Codebase-aware spec engine for Cursor, Claude Code & Lovable.
 - [**conductor**](https://conductor.build/) - (0 ⭐) - Run a bunch of Claude Codes in parallel.
+- [**agent-workspace-starter**](https://github.com/kavatana/agent-workspace-starter) - (0 ⭐) - Repository files that make a coding agent's work checkable by a person: an agent contract, a reviewer subagent with no edit tool and no shell, a mutation check that proves each new test can fail, lessons that each either name an enforcing check or are marked as notes, and a session-start hook that reports abandoned worktrees.
 
 ---
 
