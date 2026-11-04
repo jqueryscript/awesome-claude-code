@@ -828,6 +828,7 @@ A curated list of awesome tools, skills, plugins, integrations, extensions, fram
 - [**claude-usage**](https://github.com/phuryn/claude-usage) - (1.8k ⭐) - A local dashboard for tracking your Claude Code token usage, costs, and session history.
 - [**Tracely-ai**](https://github.com/jwuthri-cloud/Tracely-ai) - (1,144 ⭐) - Self-hostable agent observability and regression-testing platform that grades traces, groups failures, and replays recorded cases in CI to detect regressions.
 - [**tokentab**](https://github.com/crwdla/tokentab) - (1.1k ⭐) - Local CLI that reads Claude Code, Codex, and Gemini CLI session logs to calculate token usage and cost by model, project, and day.
+- [**token-diet**](https://github.com/congptvinadic-debug/token-diet) - Reads Claude Code session logs and says what to cut: instruction files, MCP tools loaded but never called, huge outputs re-sent hundreds of times, cheaper models per task. Plugin hooks add a /compact reminder, clip huge outputs and keep a handoff file on /clear.
 - [**tokentap**](https://github.com/jmuncor/tokentap) - (798 ⭐) - Intercept LLM API traffic and visualize token usage in a real-time terminal dashboard.
 - [**CCSeva**](https://github.com/Iamshankhadeep/ccseva) - (796 ⭐) - A beautiful macOS menu bar app for tracking your Claude Code usage in real-time.
 - [**claude-task-viewer**](https://github.com/L1AD/claude-task-viewer) - (626 ⭐) - A web-based Kanban board for viewing Claude Code tasks.
