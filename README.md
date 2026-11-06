@@ -621,6 +621,7 @@ A curated list of awesome tools, skills, plugins, integrations, extensions, fram
 - [**clawgod**](https://github.com/0Chencc/clawgod) - (1.4k ⭐) - Claude Code companion tool for agent sessions, workflows, and local control.
 - [**ccundo**](https://github.com/RonitSachdev/ccundo) - (1.4k ⭐) - Integrates seamlessly with Claude Code to provide granular undo functionality by reading directly from Claude Code's session files.
 - [**Continuous Claude**](https://github.com/AnandChowdhary/continuous-claude) - (1.4k ⭐) - Run Claude Code in a continuous loop, autonomously creating PRs, waiting for checks, and merging.
+- [**deja-vu**](https://github.com/vshulcz/deja-vu) - (1.4k ⭐) - Local session memory that indexes existing transcripts across Claude Code, Codex, Cursor, and 40 other coding agents with MCP recall, hooks, and line-level session blame.
 - [**Claude-Command-Suite**](https://github.com/qdhenry/Claude-Command-Suite) - (1.3k ⭐) - Professional slash commands for Claude Code that provide structured workflows for software development tasks, including code review and feature implementation.
 - [**Claude-Code-Remote**](https://github.com/JessyTsui/Claude-Code-Remote) - (1.3k ⭐) - Control Claude Code remotely via email. Start tasks locally, receive notifications when Claude completes them, and send new commands by simply replying to emails.
 - [**claude-sessions**](https://github.com/iannuttall/claude-sessions) - (1.2k ⭐) - Custom slash commands for Claude Code that provide comprehensive development session tracking and documentation.
