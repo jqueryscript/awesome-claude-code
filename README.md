@@ -765,6 +765,8 @@ A curated list of awesome tools, skills, plugins, integrations, extensions, fram
 - [**ccmate-release**](https://github.com/djyde/ccmate-release) - (56 ⭐) - A GUI for Claude Code.
 - [**Claude in a Box**](https://github.com/juancgarza/claude-in-a-box) - (51 ⭐) - A ChatGPT Canvas-style interface for Claude Code running in E2B sandboxes.
 
+- [**Valo**](https://getvalo.dev) - (0 ⭐) - The workspace for AI. Runs Claude Code, Codex, Gemini CLI and other AI agents side by side in real terminals, with all your projects in one window. Valo MemoryCode, Valo Search, the Map, Nerve Map, Pressure Points, context control, Cross-Chat and multi-agent orchestration. Free plan. Windows, macOS, Linux.
+
 ---
 
 ## 🏗️ Infrastructure & Proxies
