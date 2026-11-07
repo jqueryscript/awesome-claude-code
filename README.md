@@ -563,6 +563,7 @@ A curated list of awesome tools, skills, plugins, integrations, extensions, fram
 - [**homunculus**](https://github.com/humanplane/homunculus) - A Claude Code plugin that watches how you work, learns your patterns, and evolves itself to help you better.
 
 ---
+- [**imagera**](https://github.com/alexadams6ix/imagera-skills) - (new) - Claude Code plugin that adds the Imagera MCP server (image, video, voice and music generation) plus 37 media skills; costs are quoted before each run.
 
 ## 🛠️ Tools & Utilities
 
