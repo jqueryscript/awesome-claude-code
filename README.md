@@ -857,6 +857,7 @@ A curated list of awesome tools, skills, plugins, integrations, extensions, fram
 - [**pyccsl**](https://github.com/wolfdenpublishing/pyccsl) - (83 ⭐) - Python Claude Code Status Line (PyCCSL, pronounced "pixel").
 - [**Claude-Monitor**](https://github.com/RISCfuture/Claude-Monitor) - (43 ⭐) - A menulet that tracks your Claude Code token usage.
 - [**cccost**](https://github.com/badlogic/cccost) - (25 ⭐) - Instrument Claude Code to track actual token usage and cost.
+- [**Agent4D**](https://github.com/burn001/agent4d) - (3 ⭐) - A local, read-only browser viewer that draws a live Claude Code session — main agent, subagents, workflow agents, nested `claude -p` runs and background shells — as a 3D tree with each agent's current tool, plus replay of past sessions.
 
 ---
 
