@@ -708,6 +708,7 @@ A curated list of awesome tools, skills, plugins, integrations, extensions, fram
 - [**cc-monitor-worker**](https://github.com/cometkim/cc-monitor-worker) - (21 ⭐) - Claude Code monitoring with Cloudflare Workers & Workers Analytics Engine.
 - [**shotgun-alpha**](https://github.com/shotgun-sh/shotgun-alpha) - (3 ⭐) - Codebase-aware spec engine for Cursor, Claude Code & Lovable.
 - [**conductor**](https://conductor.build/) - (0 ⭐) - Run a bunch of Claude Codes in parallel.
+- [**Spacepal**](https://getspacepal.com/use-cases/ai-coding/) - (0 ⭐) - macOS menu bar app for one-desktop-per-project setups: after a restart it reopens each terminal on its Space in the same folder and resumes Claude Code with `claude --continue`; names and previews Spaces, and its MCP server ([spacepal-mcp](https://github.com/TanKucukhas/spacepal-mcp)) lets Claude switch and rename Spaces. Paid app with a free trial; the MCP server is MIT.
 
 ---
 
