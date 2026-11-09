@@ -561,6 +561,7 @@ A curated list of awesome tools, skills, plugins, integrations, extensions, fram
 - [**claude-dashboard**](https://github.com/uppinote20/claude-dashboard) - Comprehensive status line plugin for Claude Code with context usage, API rate limits, and cost tracking
 - [**claude-code-plugin**](https://github.com/browserbase/claude-code-plugin) - Browserbase plugin for Claude Code - Use cloud browsers with Claude Code instead of local Chrome.
 - [**homunculus**](https://github.com/humanplane/homunculus) - A Claude Code plugin that watches how you work, learns your patterns, and evolves itself to help you better.
+- [**pixel-buddy**](https://github.com/SimakovIgor/pixel-buddy) - A pixel pet that lives in the Claude Code footer and right above the prompt in VS Code and Cursor. It eats what your work drops, levels up, grows up over three weeks and earns trophies. No network, no tokens.
 
 ---
 
