@@ -901,6 +901,7 @@ A curated list of awesome tools, skills, plugins, integrations, extensions, fram
 - [**crush**](https://github.com/charmbracelet/crush) - (25.3k ⭐) - The glamourous AI coding agent for your favourite terminal.
 - [**qwen-code**](https://github.com/QwenLM/qwen-code) - (25.2k ⭐) - A command-line AI workflow tool adapted from Gemini CLI, optimized for Qwen3-Coder models with enhanced parser support & tool support.
 - [**grok-cli**](https://github.com/superagent-ai/grok-cli) - (3.1k ⭐) - An open-source AI agent that brings the power of Grok directly into your terminal.
+- [**killi**](https://github.com/timwuhaotian/killi) - (45 ⭐) - Rust terminal AI coding agent, 7 MB binary, ~18 MB RAM, prompt-cache friendly, MIT.
 
 ---
 
