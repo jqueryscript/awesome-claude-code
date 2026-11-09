@@ -856,6 +856,7 @@ A curated list of awesome tools, skills, plugins, integrations, extensions, fram
 - [**claude-statusline**](https://github.com/luongnv89/claude-statusline) - (107 ⭐) - Customize the status line in Claude Code.
 - [**pyccsl**](https://github.com/wolfdenpublishing/pyccsl) - (83 ⭐) - Python Claude Code Status Line (PyCCSL, pronounced "pixel").
 - [**Claude-Monitor**](https://github.com/RISCfuture/Claude-Monitor) - (43 ⭐) - A menulet that tracks your Claude Code token usage.
+- [**CCT (claude-codex-taskbar)**](https://github.com/chiarorosa/claude-codex-taskbar) - (38 ⭐) - Windows 10/11 taskbar widget showing Claude Code and Codex 5-hour and weekly usage limits next to CPU, RAM, GPU and disk activity, in a single native Rust executable under 1 MB.
 - [**cccost**](https://github.com/badlogic/cccost) - (25 ⭐) - Instrument Claude Code to track actual token usage and cost.
 
 ---
