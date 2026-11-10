@@ -678,6 +678,7 @@ A curated list of awesome tools, skills, plugins, integrations, extensions, fram
 - [**engram**](https://github.com/nagisanzenin/engram) - (400 ⭐) - Learning engine for Claude Code and Codex that records patterns from previous sessions and turns them into reusable guidance.
 - [**ClaudeForge**](https://github.com/alirezarezvani/ClaudeForge) - (388 ⭐) - A CLAUDE.md Generator and Maintenance tool for for Claude Code to create high-quality CLAUDE.md instruction files — aligned with Anthropic’s best practices for Claude Code.
 - [**smart-ralph**](https://github.com/tzachbon/smart-ralph) - (348 ⭐) - Claude Code plugin for spec-driven development with smart compaction and Ralph-style autonomous loops.
+- [**eda-agent**](https://github.com/salitronic/eda-agent) - (339 ⭐) - MCP server that lets Claude Code drive a live Altium Designer session, with KiCad and EasyEDA Pro backends: schematic, PCB, library and project tools, design review and audits.
 - [**SuperClaude**](https://github.com/gwendall/superclaude) - (325 ⭐) - Supercharge your GitHub workflow with Claude AI.
 - [**Cheap Agent**](https://github.com/muaaz9329/cheap-ag) - (324 ⭐) - MCP server that delegates code edits to a lower-cost model while Claude Code or Codex handles planning and review.
 - [**claude-code-sandbox**](https://github.com/textcortex/claude-code-sandbox) - (318 ⭐) - Run Claude Code safely in local Docker containers without having to approve every permission.
