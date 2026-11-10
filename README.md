@@ -571,6 +571,8 @@ A curated list of awesome tools, skills, plugins, integrations, extensions, fram
 - [**claude-dashboard**](https://github.com/uppinote20/claude-dashboard) - Comprehensive status line plugin for Claude Code with context usage, API rate limits, and cost tracking
 - [**claude-code-plugin**](https://github.com/browserbase/claude-code-plugin) - Browserbase plugin for Claude Code - Use cloud browsers with Claude Code instead of local Chrome.
 - [**homunculus**](https://github.com/humanplane/homunculus) - A Claude Code plugin that watches how you work, learns your patterns, and evolves itself to help you better.
+- [**option-desk**](https://github.com/Iman/agent-driven-options-desk-and-skills) - Claude Code plugin with eight skills, six commands and two agents for option research. A local MCP server computes Greeks, dealer positioning, strategy payoffs, simulation and backtests from a supplied option chain.
+- [**risk-desk**](https://github.com/Iman/agent-driven-risk-desk-and-skills) - Claude Code plugin with 14 skills for portfolio risk. A local MCP server computes VaR, Expected Shortfall, backtests, stress tests and counterparty, credit and FRTB figures from supplied data.
 
 ---
 
