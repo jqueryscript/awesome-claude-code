@@ -722,6 +722,7 @@ A curated list of awesome tools, skills, plugins, integrations, extensions, fram
 - [**cc-monitor-worker**](https://github.com/cometkim/cc-monitor-worker) - (21 ⭐) - Claude Code monitoring with Cloudflare Workers & Workers Analytics Engine.
 - [**shotgun-alpha**](https://github.com/shotgun-sh/shotgun-alpha) - (3 ⭐) - Codebase-aware spec engine for Cursor, Claude Code & Lovable.
 - [**conductor**](https://conductor.build/) - (0 ⭐) - Run a bunch of Claude Codes in parallel.
+- [**Ormas Outcomes**](https://ormas.ai/docs/first-task) - Delegate bounded GitHub coding tasks from Claude Code through local stdio MCP, with agreed acceptance checks and an authorized spending limit. US-only early alpha; an account and credit are required for paid work.
 
 ---
 
