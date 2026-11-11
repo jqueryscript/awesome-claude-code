@@ -526,6 +526,8 @@ A curated list of awesome tools, skills, plugins, integrations, extensions, fram
 - [**claude-cs**](https://github.com/nbashaw/claude-cs) - A Claude Code skill that helps you build custom customer support automation for your company.
 - [**design-engineer-auditor-package**](https://github.com/kylezantos/design-engineer-auditor-package) - A Claude Code skill for motion design audits, trained on Emil Kowalski, Jakub Krehel, and Jhey Tompkins.
 
+- [**FlashData research skills**](https://github.com/rocosen/flashdata-mcp/tree/main/skills) - (0 ⭐) - Fifteen MIT task Skills for Google and YouTube search, metadata, existing transcripts and downloads through MCP/CLI; API key and paid credits required. [Docs](https://flashdata.dev/mcp).
+
 ---
 
 ## 🔌 Claude Plugins
