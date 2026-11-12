@@ -515,6 +515,7 @@ A curated list of awesome tools, skills, plugins, integrations, extensions, fram
 - [**skill-diet**](https://github.com/nicobailon/skill-diet) - (134 ⭐) - Skill for reducing instruction bloat, checking tool accuracy, and comparing task results before and after a skill rewrite.
 - [**nano-image-generator-skill**](https://github.com/lxfater/nano-image-generator-skill) - (126 ⭐) - A Claude Code skill for generating images using Gemini 3 Pro Preview (Nano Banana Pro).
 - [**solid-skills**](https://github.com/lxfater/nano-image-generator-skill) - (126 ⭐) - AI agent skill for writing senior-engineer quality code through SOLID principles, TDD, and clean architecture.
+- [**blitzhash-senior-engineer-skills**](https://github.com/blitzhash360-web/blitzhash-senior-engineer-skills) - (0 ⭐) - Seven pre-launch production skills (launch-readiness audit, security review, scaling, cloud cost, Cloudflare hardening, self-hosting, backup restore drill), two reviewer agents and a read-only scanner that scores a project out of 100, with a dry-run installer for Claude Code, Cursor, Codex and AGENTS.md tools. Built on ECC.
 - [**BFL Agent Skills**](https://docs.bfl.ai/api_integration/skills_integration) - Reusable capabilities that teach AI agents how to work with FLUX models.
 - [**Manus Skills**](https://manus.im/blog/manus-skills) - Manus' official agent skills.
 - [**Firecrawl Skills**](https://docs.firecrawl.dev/sdks/cli) - An easy way for AI agents such as Claude Code, Antigravity and OpenCode to use Firecrawl through the CLI.
