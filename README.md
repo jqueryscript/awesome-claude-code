@@ -83,6 +83,7 @@ A curated list of awesome tools, skills, plugins, integrations, extensions, fram
 - [**agent-flow**](https://github.com/patoles/agent-flow) - (974 ⭐) - Real-time visualization of Claude Code agent orchestration — see your agents think, branch, and coordinate as they work.
 - [**claude-delegator**](https://github.com/jarrodwatts/claude-delegator) - (974 ⭐) - Delegate tasks to Codex GPT 5.2 directly from within Claude Code.
 - [**roast-room**](https://github.com/nateherkai/roast-room) - (946 ⭐) - Claude Code workspace where AI advisors debate business decisions, with a local visual discussion room, scored verdicts, and PDF reports.
+- [**baithak**](https://github.com/cipher-cmd/Baithak) - Open-source AI founder council for India with a 24-file Indian legal gate, five simulated founder advisors, and a 7-day test under ₹5,000.
 - [**claude-code-subagents**](https://github.com/0xfurai/claude-code-subagents) - (928 ⭐) - A comprehensive collection of 100+ production-ready development subagents for Claude Code.
 - [**agentsys**](https://github.com/agent-sh/agentsys) - (878 ⭐) - Automation toolkit with plugins, agents, skills, and slash commands for Claude Code, OpenCode, Codex, Cursor, and Kiro.
 - [**claude_code_agent_farm**](https://github.com/Dicklesworthstone/claude_code_agent_farm) - (841 ⭐) - A powerful orchestration framework that runs multiple Claude Code (cc) sessions in parallel to systematically improve your codebase.
