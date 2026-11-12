@@ -114,6 +114,7 @@ A curated list of awesome tools, skills, plugins, integrations, extensions, fram
 - [**Severance**](https://github.com/blas0/Severance) - (47 ⭐) - A semantic memory system designed for Claude Code.
 - [**AgentCheck**](https://github.com/devlyai/AgentCheck) - (44 ⭐) - Local AI-powered code review agents for Claude Code.
 - [**claude-agents**](https://github.com/tddworks/claude-agents) - (18 ⭐) - A collection of specialized AI agents for Claude Code that enhance software development workflows with focused expertise in specific domains.
+- [**agent-guild**](https://github.com/oddessentials/agent-guild) - (4 ⭐) - Run Claude Code, Codex CLI, Antigravity CLI, Grok Build and Docker Agent side by side in real terminals, and pick the same live sessions up from a phone, VS Code or any browser; an MCP server lets Claude Code see and steer them.
 
 ---
 
