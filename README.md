@@ -721,6 +721,7 @@ A curated list of awesome tools, skills, plugins, integrations, extensions, fram
 - [**claude-code-test-runner**](https://github.com/firstloophq/claude-code-test-runner) - (22 ⭐) - An automated E2E natural language test runner built on Claude Code.
 - [**cc-monitor-worker**](https://github.com/cometkim/cc-monitor-worker) - (21 ⭐) - Claude Code monitoring with Cloudflare Workers & Workers Analytics Engine.
 - [**shotgun-alpha**](https://github.com/shotgun-sh/shotgun-alpha) - (3 ⭐) - Codebase-aware spec engine for Cursor, Claude Code & Lovable.
+- [**thisdamnthing**](https://github.com/CharlGottschalk/thisdamnthing) - (2 ⭐) - Local workspace for Claude Code and Codex: reviewed knowledge, project context, agent rules and reusable workflows in plain Markdown files.
 - [**conductor**](https://conductor.build/) - (0 ⭐) - Run a bunch of Claude Codes in parallel.
 
 ---
@@ -778,6 +779,7 @@ A curated list of awesome tools, skills, plugins, integrations, extensions, fram
 - [**Claude-Code-Web-GUI**](https://github.com/binggg/Claude-Code-Web-GUI) - (72 ⭐) - Browse, view and share your Claude Code sessions - runs entirely in browser, no server required!
 - [**ccmate-release**](https://github.com/djyde/ccmate-release) - (56 ⭐) - A GUI for Claude Code.
 - [**Claude in a Box**](https://github.com/juancgarza/claude-in-a-box) - (51 ⭐) - A ChatGPT Canvas-style interface for Claude Code running in E2B sandboxes.
+- [**helm**](https://github.com/CharlGottschalk/helm) - (0 ⭐) - Local Command Deck for ThisDamnThing workspaces: widgets, brain graph, knowledge editor, Claude Code and Codex sessions, and a terminal.
 
 ---
 
