@@ -782,6 +782,7 @@ A curated list of awesome tools, skills, plugins, integrations, extensions, fram
 ---
 
 ## 🏗️ Infrastructure & Proxies
+- [**MeetJSON**](https://github.com/ouzbhdr/meetjson) - Drop-in Claude Code BaseURL proxy (`ANTHROPIC_BASE_URL="https://api.meetjson.com"`) and Edge MCP server (~0.04ms) that cuts context token costs by 60-99% via AST code skeletons, JSON pruning, and broken tool-call stream healing.
 
 - [**CLIProxyAPI**](https://github.com/router-for-me/CLIProxyAPI) - (51.2k ⭐) - API service that wraps Antigravity, Codex, Claude Code, and Grok Build behind OpenAI-, Gemini-, Claude-, and Codex-compatible endpoints.
 - [**claude-code-router**](https://github.com/musistudio/claude-code-router) - (35.0k ⭐) - Uses Claude Code as the foundation for coding infrastructure, allowing interaction with the model while enjoying updates.
