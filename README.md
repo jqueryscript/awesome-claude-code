@@ -780,6 +780,7 @@ A curated list of awesome tools, skills, plugins, integrations, extensions, fram
 - [**Claude in a Box**](https://github.com/juancgarza/claude-in-a-box) - (51 ⭐) - A ChatGPT Canvas-style interface for Claude Code running in E2B sandboxes.
 
 ---
+- [**Claude Code Inspector**](https://github.com/frazz1234/claude-code-inspector) - (0 ⭐) - Local web app that shows and manages a Claude Code setup (plugins, skills, MCP servers, hooks, permissions), with health checks, confirm-first actions through the claude CLI, and a read-only Ask Claude chat.
 
 ## 🏗️ Infrastructure & Proxies
 
