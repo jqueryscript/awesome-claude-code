@@ -602,6 +602,7 @@ A curated list of awesome tools, skills, plugins, integrations, extensions, fram
 - [**cipher**](https://github.com/campfirein/cipher) - (4.9k ⭐) - An opensource memory layer specifically designed for coding agents.
 - [**vibe-tools**](https://github.com/eastlondoner/vibe-tools) - (4.8k ⭐) - Command-line toolkit that adds web search, browser automation, and repository analysis to coding agents.
 - [**obsidian-mind**](https://github.com/breferrari/obsidian-mind) - (4.6k ⭐) - Self-organizing Obsidian vault that gives Claude Code, Codex CLI, and Gemini CLI persistent memory.
+- [**Unity-MCP**](https://github.com/IvanMurzak/Unity-MCP) - (4.6k ⭐) - Open-source MCP server connecting AI agents (Claude, Cursor, GitHub Copilot, Gemini, and more) to the Unity Editor and runtime.
 - [**Agentic Resource Registry**](https://github.com/AgenticResourceRegistry/AgenticResourceRegistry) - (4,534 ⭐) - Self-hosted registry for sharing and discovering skills, agent files, and MCP resources across teams, with usage insights. Formerly Observal.
 - [**LongMemory**](https://github.com/CaviraOSS/LongMemory) - (4.5k ⭐) - Local persistent memory store for LLM applications, including Claude Desktop, GitHub Copilot, Codex, and Antigravity.
 - [**agent-memory**](https://github.com/tigerless-labs/agent-memory) - (4,456 ⭐) - Local memory runtime for Claude Code and Codex with a shared Markdown store, ranked retrieval, and scheduled memory consolidation.
@@ -678,6 +679,7 @@ A curated list of awesome tools, skills, plugins, integrations, extensions, fram
 - [**engram**](https://github.com/nagisanzenin/engram) - (400 ⭐) - Learning engine for Claude Code and Codex that records patterns from previous sessions and turns them into reusable guidance.
 - [**ClaudeForge**](https://github.com/alirezarezvani/ClaudeForge) - (388 ⭐) - A CLAUDE.md Generator and Maintenance tool for for Claude Code to create high-quality CLAUDE.md instruction files — aligned with Anthropic’s best practices for Claude Code.
 - [**smart-ralph**](https://github.com/tzachbon/smart-ralph) - (348 ⭐) - Claude Code plugin for spec-driven development with smart compaction and Ralph-style autonomous loops.
+- [**Godot-MCP**](https://github.com/IvanMurzak/Godot-MCP) - (341 ⭐) - Open-source MCP server connecting AI agents to the Godot Editor and runtime (Godot 4.x, C#).
 - [**SuperClaude**](https://github.com/gwendall/superclaude) - (325 ⭐) - Supercharge your GitHub workflow with Claude AI.
 - [**Cheap Agent**](https://github.com/muaaz9329/cheap-ag) - (324 ⭐) - MCP server that delegates code edits to a lower-cost model while Claude Code or Codex handles planning and review.
 - [**claude-code-sandbox**](https://github.com/textcortex/claude-code-sandbox) - (318 ⭐) - Run Claude Code safely in local Docker containers without having to approve every permission.
@@ -710,6 +712,7 @@ A curated list of awesome tools, skills, plugins, integrations, extensions, fram
 - [**claude-prune**](https://github.com/DannyAziz/claude-prune) - (85 ⭐) - A fast CLI tool for pruning Claude Code sessions.
 - [**run-claude-docker**](https://github.com/icanhasjonas/run-claude-docker) - (84 ⭐) - Run claude code in somewhat safe and isolated yolo mode.
 - [**claude-code-thinking-patch**](https://github.com/aleks-apostle/claude-code-thinking-patch) - (64 ⭐) - Make Claude Code's thinking blocks visible by default without pressing ctrl+o.
+- [**Unreal-MCP**](https://github.com/IvanMurzak/Unreal-MCP) - (60 ⭐) - Open-source MCP server connecting AI agents to Unreal Engine 5.5+, editor and runtime (C++ plugin + .NET sidecar).
 - [**flashbacker**](https://github.com/agentsea/flashbacker) - (57 ⭐) - Claude Code state management with session continuity and AI personas, subagents and agent discussion.
 - [**ccguard**](https://github.com/pomterre/ccguard) - (47 ⭐) - Automated enforcement of net-negative LOC, complexity constraints, and quality standards for Claude code.
 - [**Severance**](https://github.com/blas0/Severance) - (47 ⭐) - A semantic memory system designed for Claude Code.
