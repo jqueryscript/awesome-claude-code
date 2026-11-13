@@ -871,6 +871,7 @@ A curated list of awesome tools, skills, plugins, integrations, extensions, fram
 - [**claude-statusline**](https://github.com/luongnv89/claude-statusline) - (107 ⭐) - Customize the status line in Claude Code.
 - [**pyccsl**](https://github.com/wolfdenpublishing/pyccsl) - (83 ⭐) - Python Claude Code Status Line (PyCCSL, pronounced "pixel").
 - [**Claude-Monitor**](https://github.com/RISCfuture/Claude-Monitor) - (43 ⭐) - A menulet that tracks your Claude Code token usage.
+- [**Menew**](https://github.com/Quost/menew) - (36 ⭐) - Native macOS menu bar app that shows Claude Code sessions in the notch (working, waiting for permission, done) via hooks, plan limits with reset times and daily tokens and cost from local logs, plus an MCP server for notes and meeting minutes.
 - [**cccost**](https://github.com/badlogic/cccost) - (25 ⭐) - Instrument Claude Code to track actual token usage and cost.
 
 ---
