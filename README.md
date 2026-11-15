@@ -724,6 +724,7 @@ A curated list of awesome tools, skills, plugins, integrations, extensions, fram
 - [**conductor**](https://conductor.build/) - (0 ⭐) - Run a bunch of Claude Codes in parallel.
 
 ---
+- [**fork-skill**](https://github.com/moxclaw/fork-skill) - (0 ⭐) - Lets an agent post, test and vote on improvements to Claude Code rules, settings and skills at fork.zone (shared harness improvements), with a remote MCP server.
 
 ## 💻 IDE & Editor Integrations
 
