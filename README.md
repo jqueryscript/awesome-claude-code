@@ -824,6 +824,7 @@ A curated list of awesome tools, skills, plugins, integrations, extensions, fram
 
 ## 📊 Usage & Observability
 
+- [**agentwhy**](https://github.com/karolkozer/agentwhy) - (2 ⭐) - Local CLI that shows why Claude Code agents and subagents reached private files; optional rules block configured reads, and reports redact secret values.
 - [**ccusage**](https://github.com/ryoppippi/ccusage) - (16.1k ⭐) - A CLI tool for analyzing Claude Code usage from local JSONL files.
 - [**CodexBar**](https://github.com/steipete/CodexBar) - (14.8k ⭐) - Show usage stats for OpenAI Codex and Claude Code, without having to login.
 - [**ccstatusline**](https://github.com/sirmalloc/ccstatusline) - (10.7k ⭐) - A customizable status line formatter for Claude Code CLI that displays model info, git branch, token usage, and other metrics in your terminal.
