@@ -756,6 +756,7 @@ A curated list of awesome tools, skills, plugins, integrations, extensions, fram
 - [**hapi**](https://github.com/tiann/hapi) - (5.1k ⭐) - Mobile app for Codex, Claude Code, Pi, OpenCode, Kimi Code, and other coding agents.
 - [**tuios**](https://github.com/Gaurav-Gosain/tuios) - (5.0k ⭐) - Terminal window manager with tiling panes, persistent workspaces, and a shared inbox for coding agents.
 - [**Coucou**](https://github.com/Louis-CFM/coucou) - (3.9k ⭐) - Mac notch and iPhone companion for watching coding-agent activity and approving requests.
+- [**Folkbench Switch**](https://github.com/Folkbench/folkbench) - (3.9k ⭐) - Open-source Tauri desktop app that saves provider profiles, previews the config diff, and writes the selected base URL and key into Claude Code, Codex, Gemini CLI and other coding agents.
 - [**Codeg**](https://github.com/spacering-net/codeg) - (3.8k ⭐) - Collaborative desktop and self-hosted workspace that brings sessions from multiple coding agents into one interface.
 - [**EchoBird**](https://github.com/edison7009/EchoBird) - (3,416 ⭐) - Desktop app for switching ChatGPT, Codex CLI, and Claude Code accounts, tracking quotas, and routing model requests with automatic failover.
 - [**zeron**](https://github.com/zeronsh/zeron) - (3,327 ⭐) - Native desktop control plane for coding agents, with local sessions, a headless Linux mode, and optional multi-device synchronization.
