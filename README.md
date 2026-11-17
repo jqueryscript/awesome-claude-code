@@ -755,6 +755,7 @@ A curated list of awesome tools, skills, plugins, integrations, extensions, fram
 - [**1code**](https://github.com/21st-dev/1code) - (5.6k ⭐) - Best UI for Claude Code with local and remote agent execution.
 - [**hapi**](https://github.com/tiann/hapi) - (5.1k ⭐) - Mobile app for Codex, Claude Code, Pi, OpenCode, Kimi Code, and other coding agents.
 - [**tuios**](https://github.com/Gaurav-Gosain/tuios) - (5.0k ⭐) - Terminal window manager with tiling panes, persistent workspaces, and a shared inbox for coding agents.
+- [**Wake**](https://wakebrain.github.io/) - Mac app. Writes a Markdown note after each Claude Code or Codex session and gives the next session that repo's open to-dos. Paid ($59), closed source.
 - [**Coucou**](https://github.com/Louis-CFM/coucou) - (3.9k ⭐) - Mac notch and iPhone companion for watching coding-agent activity and approving requests.
 - [**Codeg**](https://github.com/spacering-net/codeg) - (3.8k ⭐) - Collaborative desktop and self-hosted workspace that brings sessions from multiple coding agents into one interface.
 - [**EchoBird**](https://github.com/edison7009/EchoBird) - (3,416 ⭐) - Desktop app for switching ChatGPT, Codex CLI, and Claude Code accounts, tracking quotas, and routing model requests with automatic failover.
