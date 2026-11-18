@@ -500,6 +500,7 @@ A curated list of awesome tools, skills, plugins, integrations, extensions, fram
 - [**logo-design-skill**](https://github.com/kaankiziltug/logo-design-skill) - (295 ⭐) - Logo design skill with guidance on visual principles, SVG production, testing, and a reference library.
 - [**claude-motion-design**](https://github.com/howseen-ai/claude-motion-design) - (283 ⭐) - Claude Code skill for producing motion design videos with HTML, Playwright, and ffmpeg.
 - [**RES**](https://github.com/alextnetto/res) - (283 ⭐) - Agent Skill that documents the screens, workflows, and design tokens of web apps you have permission to study.
+- [**lgpd-skills**](https://github.com/goul4rt/lgpd-skills) - (275 ⭐) - Agent Skills for auditing and implementing LGPD (Brazil data protection law) and ECA Digital compliance in codebases, for Claude Code, Codex, Gemini CLI, Cursor, and OpenCode.
 - [**content-principles**](https://github.com/aiwithremy/content-principles) - (253 ⭐) - Short-form content skill for drafting and reviewing video scripts and hooks through curiosity, specificity, and audience attention principles.
 - [**pixel-path**](https://github.com/jonwheatley/pixel-path) - (250 ⭐) - Claude Code skill for building interactive pixel-art road journeys from real routes, OpenStreetMap data, elevation data, and generated scenery.
 - [**motion-graphics**](https://github.com/Barty-Bart/motion-graphics) - (249 ⭐) - Motion graphics skills for Claude Code and Codex.
