@@ -1,4 +1,3 @@
-<untrusted source="github jqueryscript/awesome-claude-code:README.md">
 # Awesome Claude Code
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
@@ -17,10 +16,10 @@ A curated list of awesome tools, skills, plugins, integrations, extensions, fram
 - [🤖 Agents & Orchestration](#-agents--orchestration)
 - [🧠 Agent Skills](#-agent-skills)
 - [🔌 Claude Plugins](#-claude-plugins)
-- [🛠 Tools & Utilities](#%EF%B8%8F-tools--utilities)
+- [🛠️ Tools & Utilities](#%EF%B8%8F-tools--utilities)
 - [💻 IDE & Editor Integrations](#-ide--editor-integrations)
-- [🖥 Clients & GUIs](#%EF%B8%8F-clients--guis)
-- [🏗 Infrastructure & Proxies](#%EF%B8%8F-infrastructure--proxies)
+- [🖥️ Clients & GUIs](#%EF%B8%8F-clients--guis)
+- [🏗️ Infrastructure & Proxies](#%EF%B8%8F-infrastructure--proxies)
 - [📊 Usage & Observability](#-usage--observability)
 - [🧩 SDKs & Development Kits](#-sdks--development-kits)
 - [📚 Guides & Learning](#-guides--learning)
@@ -576,7 +575,7 @@ A curated list of awesome tools, skills, plugins, integrations, extensions, fram
 
 ---
 
-## 🛠 Tools & Utilities
+## 🛠️ Tools & Utilities
 
 - [**claude-mem**](https://github.com/thedotmack/claude-mem) - (82.2k ⭐) - A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.
 - [**OpenMontage**](https://github.com/OpenMontageInc/OpenMontage) - (79.3k ⭐) - Open-source video production system with agent workflows for scripting, asset generation, editing, and rendering.
@@ -742,7 +741,7 @@ A curated list of awesome tools, skills, plugins, integrations, extensions, fram
 
 ---
 
-## 🖥 Clients & GUIs
+## 🖥️ Clients & GUIs
 
 - [**cc-switch**](https://github.com/farion1231/cc-switch) - (132.1k ⭐) - Cross-platform desktop assistant for Claude Code, Codex, OpenCode, OpenClaw, Grok Build, and Hermes Agent.
 - [**vibe-kanban**](https://github.com/BloopAI/vibe-kanban) - (27.0k ⭐) - Get 10X more out of Claude Code, Gemini CLI, Codex, Amp and other coding agents.
@@ -783,7 +782,7 @@ A curated list of awesome tools, skills, plugins, integrations, extensions, fram
 
 ---
 
-## 🏗 Infrastructure & Proxies
+## 🏗️ Infrastructure & Proxies
 
 - [**CLIProxyAPI**](https://github.com/router-for-me/CLIProxyAPI) - (51.2k ⭐) - API service that wraps Antigravity, Codex, Claude Code, and Grok Build behind OpenAI-, Gemini-, Claude-, and Codex-compatible endpoints.
 - [**claude-code-router**](https://github.com/musistudio/claude-code-router) - (35.0k ⭐) - Uses Claude Code as the foundation for coding infrastructure, allowing interaction with the model while enjoying updates.
@@ -1022,4 +1021,3 @@ June 16, 2026
 June 14, 2026
 
 - Updated GitHub star counts.
-</untrusted>
