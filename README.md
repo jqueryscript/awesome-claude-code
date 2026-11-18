@@ -28,6 +28,7 @@ A curated list of awesome tools, skills, plugins, integrations, extensions, fram
 - [Changelog](#changelog)
 
 ---
+- [**zephex-claude-plugin**](https://github.com/zephexMCP/zephex-claude-plugin) - Claude Code plugin for [Zephex](https://zephex.dev) hosted MCP (project context, find_code, package safety, Test Pulse). Complements Context7 + GitHub MCP.
 
 ## Official Resources
 
