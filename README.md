@@ -51,9 +51,8 @@ A curated list of awesome tools, skills, plugins, integrations, extensions, fram
 - [**herdr**](https://github.com/herdrdev/herdr) - (38.6k ⭐) - Terminal and desktop runtime for keeping coding-agent sessions running across local and remote machines.
 - [**agents**](https://github.com/wshobson/agents) - (36.7k ⭐) - A collection of production-ready subagents for Claude Code.
 - [**paseo**](https://github.com/getpaseo/paseo) - (17.4k ⭐) - Self-hosted interface for running Claude Code, Codex, Copilot, OpenCode, and Pi agents from desktop or mobile.
-- [**agent-orchestrator**](https://github.com/OrchestratorInc/agent-orchestrator) - (12.9k ⭐) - Workspace for planning, running, and supervising coding-agent teams across desktop, web, mobile, and cloud.
+- [**agent-orchestrator**](https://github.com/OrchestratorInc/agent-orchestrator) - (13.7k ⭐) - Desktop app and CLI for running Claude Code, Codex, and other coding agents in parallel, each in its own git worktree, with CI failures and review comments routed back to the agent that owns the branch.
 - [**agents**](https://github.com/contains-studio/agents) - (12.4k ⭐) - A comprehensive collection of specialized AI agents designed to accelerate and enhance every aspect of rapid development.
-- [**agent-orchestrator**](https://github.com/Untrivial-ai/agent-orchestrator) - (12.1k ⭐) - Plan, run, and supervise coding agents with separate workspaces, live Kanban tracking, pull requests, CI runs, and reviews.
 - [**claude-squad**](https://github.com/smtg-ai/claude-squad) - (7.8k ⭐) - Manage multiple AI terminal agents, including Claude Code, Aider, Codex, OpenCode, and Amp.
 - [**munder-difflin**](https://github.com/chaitanyagiri/munder-difflin) - (7.7k ⭐) - Local multi-agent harness that works with existing Claude Code and Codex subscriptions to run an office of agents.
 - [**seomachine**](https://github.com/TheCraigHewitt/seomachine) - (7.1k ⭐) - A specialized Claude Code workspace for creating long-form, SEO-optimized blog content for any business.
