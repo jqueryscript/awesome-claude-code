@@ -722,6 +722,7 @@ A curated list of awesome tools, skills, plugins, integrations, extensions, fram
 - [**cc-monitor-worker**](https://github.com/cometkim/cc-monitor-worker) - (21 ⭐) - Claude Code monitoring with Cloudflare Workers & Workers Analytics Engine.
 - [**shotgun-alpha**](https://github.com/shotgun-sh/shotgun-alpha) - (3 ⭐) - Codebase-aware spec engine for Cursor, Claude Code & Lovable.
 - [**conductor**](https://conductor.build/) - (0 ⭐) - Run a bunch of Claude Codes in parallel.
+- [**Pako**](https://github.com/AnxovatomicaES/pako-personal-assistant) - (0 ⭐) - Local personal assistant built on Claude Code that tracks commitments from Slack, mail and meetings, closes open loops, writes a cited morning brief and drafts replies.
 
 ---
 
