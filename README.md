@@ -873,6 +873,8 @@ A curated list of awesome tools, skills, plugins, integrations, extensions, fram
 - [**pyccsl**](https://github.com/wolfdenpublishing/pyccsl) - (83 ⭐) - Python Claude Code Status Line (PyCCSL, pronounced "pixel").
 - [**Claude-Monitor**](https://github.com/RISCfuture/Claude-Monitor) - (43 ⭐) - A menulet that tracks your Claude Code token usage.
 - [**cccost**](https://github.com/badlogic/cccost) - (26 ⭐) - Instrument Claude Code to track actual token usage and cost.
+- [**L2Cache Token Tax Calculator**](https://l2cache.app/en/tools/claude-code-cache-tax) - Free in-browser calculator that reads your Claude Code session files and shows how much spend and usage limit went to cold prompt-cache resumes.
+- [**L2Cache Session Viewer**](https://l2cache.app/en/tools/claude-session-viewer) - Free in-browser viewer and search for Claude Code, Codex, Copilot CLI and Grok Build session logs, with a cold-resume audit.
 
 ---
 
