@@ -873,6 +873,7 @@ A curated list of awesome tools, skills, plugins, integrations, extensions, fram
 - [**pyccsl**](https://github.com/wolfdenpublishing/pyccsl) - (83 ⭐) - Python Claude Code Status Line (PyCCSL, pronounced "pixel").
 - [**Claude-Monitor**](https://github.com/RISCfuture/Claude-Monitor) - (43 ⭐) - A menulet that tracks your Claude Code token usage.
 - [**cccost**](https://github.com/badlogic/cccost) - (26 ⭐) - Instrument Claude Code to track actual token usage and cost.
+- [**spendbyteam**](https://github.com/spendbyteam/cli) - (0 ⭐) - Open-source installer and hook that send Claude Code's OpenTelemetry cost metrics (never prompts or code) to a hosted dashboard that attributes spend to repositories, projects, teams and clients.
 
 ---
 
