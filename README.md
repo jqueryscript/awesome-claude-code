@@ -637,6 +637,7 @@ A curated list of awesome tools, skills, plugins, integrations, extensions, fram
 - [**claude-code-transcripts**](https://github.com/simonw/claude-code-transcripts) - (1.7k ⭐) - Tools for publishing transcripts for Claude Code sessions.
 - [**claude-code-settings**](https://github.com/feiskyer/claude-code-settings) - (1.7k ⭐) - Claude Code settings and commands for vibe coding.
 - [**claude-code-hooks-multi-agent-observability**](https://github.com/disler/claude-code-hooks-multi-agent-observability) - (1.6k ⭐) - Real-time monitoring for Claude Code agents through simple hook event tracking.
+- [**deja-vu**](https://github.com/vshulcz/deja-vu) - (1.6k ⭐) - Local session memory that indexes existing transcripts across Claude Code, Codex, Cursor, and 46 other coding agents with MCP recall, hooks, and line-level session blame.
 - [**cc-sessions**](https://github.com/GWUDCAP/cc-sessions) - (1.5k ⭐) - An opinionated extension set for Claude Code (hooks, subagents, commands, task/git management infrastructure)
 - [**backpass**](https://github.com/kunchenguid/backpass) - (1.5k ⭐) - Improve AGENTS.md or CLAUDE.md from evidence in local agent session transcripts, with reviewable, evidence-gated edits.
 - [**claude-canvas**](https://github.com/dvdsgl/claude-canvas) - (1.5k ⭐) - A TUI toolkit that gives Claude Code its own display.
