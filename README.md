@@ -726,6 +726,7 @@ A curated list of awesome tools, skills, plugins, integrations, extensions, fram
 - [**cc-monitor-rs**](https://github.com/ZhangHanDong/cc-monitor-rs) - (24 ⭐) - Real-time Claude Code usage monitor with native UI built using Rust and Makepad.
 - [**claude-code-test-runner**](https://github.com/firstloophq/claude-code-test-runner) - (24 ⭐) - An automated E2E natural language test runner built on Claude Code.
 - [**cc-monitor-worker**](https://github.com/cometkim/cc-monitor-worker) - (23 ⭐) - Claude Code monitoring with Cloudflare Workers & Workers Analytics Engine.
+- [**downshift-ai**](https://github.com/tiagovilasboas/downshift-ai) - (6 ⭐) - Compacts command, WebFetch and MCP output before Claude Code reads it, keeps the raw output for `downshift retrieve`, and routes subagents to a model and effort within your policy.
 - [**shotgun-alpha**](https://github.com/shotgun-sh/shotgun-alpha) - (3 ⭐) - Codebase-aware spec engine for Cursor, Claude Code & Lovable.
 - [**conductor**](https://conductor.build/) - Run a bunch of Claude Codes in parallel.
 
