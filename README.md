@@ -576,6 +576,7 @@ A curated list of awesome tools, skills, plugins, integrations, extensions, fram
 - [**claude-super-sidebar**](https://github.com/Zafer-Liu/claude-super-sidebar) - (156 ⭐) - Sidebar plugin for viewing Claude agent relationships, execution status, and conversation task flows, with a separate local session dashboard for Codex.
 - [**auto-handoff**](https://github.com/obie/auto-handoff) - (106 ⭐) - Claude Code plugin that saves a handoff document after an idle period so a fresh session can resume the work.
 - [**claude-code-plugin**](https://github.com/browserbase/claude-code-plugin) - (74 ⭐) - Browserbase plugin for Claude Code - Use cloud browsers with Claude Code instead of local Chrome.
+- [**Quarterdeck**](https://github.com/shannonbay/Quarterdeck) - (41 ⭐) - Claude Code plugin that runs standing goals in background subagents on a schedule or when a watch sees something new, keeps each goal's memory in local SQLite, and asks for approval in a pane or on your phone before it acts.
 - [**claude-toons**](https://github.com/achimala/claude-toons) - (39 ⭐) - Claude Code plugin that shows animated task-themed cartoons beneath the status spinner.
 
 ---
