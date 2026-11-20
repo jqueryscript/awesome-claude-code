@@ -527,6 +527,7 @@ A curated list of awesome tools, skills, plugins, integrations, extensions, fram
 - [**baoyu-design**](https://github.com/JimLiu/baoyu-design) - (67 ⭐) - Run Claude Design locally as an Agent Skill.
 - [**Generative-Media-Skills**](https://github.com/SamurAIGPT/Generative-Media-Skills) - (44 ⭐) - Multi-modal Generative Media Skills for AI Agents (Claude Code, Cursor, Gemini CLI).
 - [**claude-skills-supercharged**](https://github.com/jefflester/claude-skills-supercharged) - (43 ⭐) - A "supercharged" implementation of Claude Code Skills – using Haiku prompt analysis/critical skill scoring and skill auto-injection for friction-free, context-driven workflows.
+- [**researchforge**](https://github.com/forger-labs-hq/researchforge) - (12 ⭐) - Claude Code skills and CLI for autoresearch-style experiment loops on repositories and Kaggle competitions, with frozen baselines, isolated worktrees and human approval gates.
 - [**agentkits-marketing**](https://github.com/aitytech/agentkits-marketing) - (9 ⭐) - Marketing automation skills and agent workflows for Claude Code, Cursor, GitHub Copilot, and compatible AI assistants.
 - [**BFL Agent Skills**](https://docs.bfl.ai/api_integration/skills_integration) - Reusable capabilities that teach AI agents how to work with FLUX models.
 - [**Manus Skills**](https://manus.im/blog/manus-skills) - Manus' official agent skills.
