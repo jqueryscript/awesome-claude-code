@@ -779,6 +779,7 @@ A curated list of awesome tools, skills, plugins, integrations, extensions, fram
 - [**claude-code-costs**](https://github.com/philipp-spiess/claude-code-costs) - (204 ⭐) - Analyze your Claude Code conversation costs with interactive visualizations.
 - [**claude-quest**](https://github.com/Michaelliv/claude-quest) - (202 ⭐) - An RPG-style viewer that shows Claude Code sessions with pixel-art reactions to tool use.
 - [**Claudiatron**](https://github.com/Haleclipse/Claudiatron) - (159 ⭐) - A Powerful Claude Code GUI Desktop Application.
+- [**JoeBro**](https://github.com/joexk1/JoeBro) - (94 ⭐) - Free native Mac workspace for Claude Code, Codex and OpenCode sessions, with an iPhone companion for answering permission prompts and one shared memory over MCP.
 - [**Claude-Code-Web-GUI**](https://github.com/binggg/Claude-Code-Web-GUI) - (71 ⭐) - Browse, view and share your Claude Code sessions - runs entirely in browser, no server required!
 - [**ccmate-release**](https://github.com/djyde/ccmate-release) - (56 ⭐) - A GUI for Claude Code.
 - [**Claude in a Box**](https://github.com/juancgarza/claude-in-a-box) - (51 ⭐) - A ChatGPT Canvas-style interface for Claude Code running in E2B sandboxes.
