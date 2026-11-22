@@ -577,7 +577,7 @@ A curated list of awesome tools, skills, plugins, integrations, extensions, fram
 - [**auto-handoff**](https://github.com/obie/auto-handoff) - (106 ⭐) - Claude Code plugin that saves a handoff document after an idle period so a fresh session can resume the work.
 - [**claude-code-plugin**](https://github.com/browserbase/claude-code-plugin) - (74 ⭐) - Browserbase plugin for Claude Code - Use cloud browsers with Claude Code instead of local Chrome.
 - [**claude-toons**](https://github.com/achimala/claude-toons) - (39 ⭐) - Claude Code plugin that shows animated task-themed cartoons beneath the status spinner.
-- [**sharpen**](https://github.com/melthond/sharpen) - (3 ⭐) - Claude Code plugin that rewrites each prompt into a specific one using the conversation, the codebase and the installed skills, agents and MCP tools, and shows it for approval before any work starts.
+- [**sharpen**](https://github.com/melthond/sharpen) - (3 ⭐) - Claude Code plugin that, when turned on, rewrites each eligible prompt into a specific one using the conversation, the codebase and the installed skills, agents and MCP tools, and shows it for approval before any work starts.
 
 ---
 
