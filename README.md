@@ -577,6 +577,7 @@ A curated list of awesome tools, skills, plugins, integrations, extensions, fram
 - [**auto-handoff**](https://github.com/obie/auto-handoff) - (106 ⭐) - Claude Code plugin that saves a handoff document after an idle period so a fresh session can resume the work.
 - [**claude-code-plugin**](https://github.com/browserbase/claude-code-plugin) - (74 ⭐) - Browserbase plugin for Claude Code - Use cloud browsers with Claude Code instead of local Chrome.
 - [**claude-toons**](https://github.com/achimala/claude-toons) - (39 ⭐) - Claude Code plugin that shows animated task-themed cartoons beneath the status spinner.
+- [**og-images**](https://github.com/abdiraimov-otabek/claude-code-og-image-skill) - (3 ⭐) - Claude Code plugin that makes link previews, a Product Hunt gallery and an X header from your app's real UI, and checks every image before it reports back.
 
 ---
 
