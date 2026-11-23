@@ -822,6 +822,7 @@ A curated list of awesome tools, skills, plugins, integrations, extensions, fram
 - [**castari-proxy**](https://github.com/castar-ventures/castari-proxy) - (90 ⭐) - Use Claude Agent SDK and Claude Code with other providers/models.
 - [**claude-code-open**](https://github.com/Davincible/claude-code-open) - (70 ⭐) - Claude Code with any LLM provider (OpenRouter, Gemini, Kimi K2).
 - [**Claudify**](https://github.com/neno-is-ooo/claudify) - (32 ⭐) - Use Claude Code as an LLM provider with your subscription flat fee instead of pay-per-token API keys.
+- [**virtx**](https://github.com/brekkylab/virtx) - (10 ⭐) - Disposable Linux microVMs for running agent commands off your machine, with a Claude Code plugin that writes the setup code.
 
 ---
 
@@ -887,6 +888,7 @@ A curated list of awesome tools, skills, plugins, integrations, extensions, fram
 - [**claude-code-sdk-ts**](https://github.com/instantlyeasy/claude-code-sdk-ts) - (208 ⭐) - Configure models, enable tools, stream events, then fetch text, JSON, run details or token stats in one call via .asText() or .allowTools('Read', 'Write').
 - [**claude-code-typescript-hooks**](https://github.com/bartolli/claude-code-typescript-hooks) - (180 ⭐) - Fast, intelligent quality checks for different project types.
 - [**claude-code-api-rs**](https://github.com/ZhangHanDong/claude-code-api-rs) - (178 ⭐) - A high-performance Rust implementation of an OpenAI-compatible API gateway for Claude Code CLI.
+- [**Ailoy**](https://github.com/brekkylab/ailoy) - (159 ⭐) - Open-source agent SDK for Python, Node.js and Rust that gives each agent its own Linux microVM and can use Claude Code as the model backend.
 
 ---
 
