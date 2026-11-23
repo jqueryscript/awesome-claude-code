@@ -133,7 +133,7 @@ A curated list of awesome tools, skills, plugins, integrations, extensions, fram
 - [**hyperframes**](https://github.com/heygen-com/hyperframes) - (86.8k ⭐) - Write HTML. Render video. Built for agents.
 - [**security-audit-skill**](https://github.com/cloudflare/security-audit-skill) - (75.6k ⭐) - Cloudflare coding-agent skill for multi-phase security audits with independently verified, machine-readable findings.
 - [**humanizer**](https://github.com/blader/humanizer) - (71.1k ⭐) - A Claude Code skill that removes signs of AI-generated writing from text, making it sound more natural and human.
-- [**last30days-skill**](https://github.com/mvanhorn/last30days-skill) - (70.5k ⭐) - Claude Code skill that researches any topic across Reddit + X from the last 30 days, then writes copy-paste-ready prompts.
+- [**last30days-skill**](https://github.com/mvanhorn/last30days-skill) - (70.5k ⭐) - Agent skill for Claude Code, Codex, and other hosts that researches any topic across Reddit, X, YouTube, TikTok, Hacker News, Polymarket, GitHub, and the web from the last 30 days, ranks results by real engagement, and writes one cited brief.
 - [**i-have-adhd**](https://github.com/ayghri/i-have-adhd) - (61.7k ⭐) - A skill that keeps coding-agent answers direct, concise, and easy to scan.
 - [**marketingskills**](https://github.com/coreyhaines31/marketingskills) - (61.4k ⭐) - Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.
 - [**emilkowalski/skills**](https://github.com/emilkowalski/skills) - (58.1k ⭐) - Design engineering skills for AI coding agents.
