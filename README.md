@@ -780,6 +780,7 @@ A curated list of awesome tools, skills, plugins, integrations, extensions, fram
 - [**claude-quest**](https://github.com/Michaelliv/claude-quest) - (202 ⭐) - An RPG-style viewer that shows Claude Code sessions with pixel-art reactions to tool use.
 - [**Claudiatron**](https://github.com/Haleclipse/Claudiatron) - (159 ⭐) - A Powerful Claude Code GUI Desktop Application.
 - [**Claude-Code-Web-GUI**](https://github.com/binggg/Claude-Code-Web-GUI) - (71 ⭐) - Browse, view and share your Claude Code sessions - runs entirely in browser, no server required!
+- [**Novadeck**](https://github.com/novadeck-org/novadeck) - (59 ⭐) - Desktop terminal for macOS, Windows and Linux that runs Claude Code next to Codex, Antigravity and OpenCode, with every agent's questions and permission asks in one Inbox.
 - [**ccmate-release**](https://github.com/djyde/ccmate-release) - (56 ⭐) - A GUI for Claude Code.
 - [**Claude in a Box**](https://github.com/juancgarza/claude-in-a-box) - (51 ⭐) - A ChatGPT Canvas-style interface for Claude Code running in E2B sandboxes.
 
