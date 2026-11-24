@@ -579,6 +579,7 @@ A curated list of awesome tools, skills, plugins, integrations, extensions, fram
 - [**claude-toons**](https://github.com/achimala/claude-toons) - (39 ⭐) - Claude Code plugin that shows animated task-themed cartoons beneath the status spinner.
 
 ---
+- [**phrasebook**](https://github.com/minus1ms-dev/phrasebook) - Claude Code plugin that bans phrases Claude overuses ("load-bearing", "you're absolutely right", "delve") and makes it reword them in replies and written files.
 
 ## 🛠️ Tools & Utilities
 
