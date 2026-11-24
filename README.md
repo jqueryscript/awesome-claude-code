@@ -535,6 +535,7 @@ A curated list of awesome tools, skills, plugins, integrations, extensions, fram
 ---
 
 ## 🔌 Claude Plugins
+- [**skills-janitor**](https://github.com/khendzel/skills-janitor) - Audit, track usage, and manage your Claude Code skills. 7 slash commands, zero dependencies.
 
 - [**ponytail**](https://github.com/DietrichGebert/ponytail) - (194.6k ⭐) - Makes your AI agent think like the laziest senior dev in the room.
 - [**claude-hud**](https://github.com/jarrodwatts/claude-hud) - (29.3k ⭐) - A Claude Code plugin that shows what's happening - context usage, active tools, running agents, and todo progress.
