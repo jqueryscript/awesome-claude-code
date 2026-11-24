@@ -782,6 +782,7 @@ A curated list of awesome tools, skills, plugins, integrations, extensions, fram
 - [**Claude-Code-Web-GUI**](https://github.com/binggg/Claude-Code-Web-GUI) - (71 ⭐) - Browse, view and share your Claude Code sessions - runs entirely in browser, no server required!
 - [**ccmate-release**](https://github.com/djyde/ccmate-release) - (56 ⭐) - A GUI for Claude Code.
 - [**Claude in a Box**](https://github.com/juancgarza/claude-in-a-box) - (51 ⭐) - A ChatGPT Canvas-style interface for Claude Code running in E2B sandboxes.
+- [**Tesseract**](https://tesseract.dev/agents/claude-code/) - Free, closed-source desktop app for Mac, Windows and Linux (plus an iPhone app) that runs Claude Code next to Codex, Gemini CLI, OpenCode and 10 more coding agents, a different one per conversation, with helper sessions and remote access.
 
 ---
 
