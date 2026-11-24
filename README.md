@@ -532,6 +532,11 @@ A curated list of awesome tools, skills, plugins, integrations, extensions, fram
 - [**Manus Skills**](https://manus.im/blog/manus-skills) - Manus' official agent skills.
 - [**Firecrawl Skills**](https://docs.firecrawl.dev/sdks/cli) - An easy way for AI agents such as Claude Code, Antigravity and OpenCode to use Firecrawl through the CLI.
 
+- [**yield-intelligence**](https://github.com/thebrierfox/yield-intelligence-skill): US Treasury yield MCP server for passive income portfolio analysis — live rate comparisons, TIPS inflation protection, CD/savings benchmarking, and x402 micropayment support.
+- [**moatmri**](https://github.com/thebrierfox/moatmri): Competitive moat analysis skill for AI coding agents — assesses business defensibility, pricing power, and market position from any company description.
+- [**doc2math**](https://github.com/thebrierfox/doc2math): Converts technical documents, specifications, and algorithms into formal LaTeX mathematical notation for verification, publication, and AI-readable precision.
+- [**ai-identity-persistence-contract**](https://github.com/thebrierfox/ai-identity-persistence-contract): Machine-readable contract for AI persona persistence — enables agents to maintain consistent identity, behavioral constraints, and handoff protocols across sessions.
+
 ---
 
 ## 🔌 Claude Plugins
