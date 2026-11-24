@@ -782,6 +782,7 @@ A curated list of awesome tools, skills, plugins, integrations, extensions, fram
 - [**Claude-Code-Web-GUI**](https://github.com/binggg/Claude-Code-Web-GUI) - (71 ⭐) - Browse, view and share your Claude Code sessions - runs entirely in browser, no server required!
 - [**ccmate-release**](https://github.com/djyde/ccmate-release) - (56 ⭐) - A GUI for Claude Code.
 - [**Claude in a Box**](https://github.com/juancgarza/claude-in-a-box) - (51 ⭐) - A ChatGPT Canvas-style interface for Claude Code running in E2B sandboxes.
+- [**TernaryCode**](https://github.com/ilhamnadhif/ternarycode) - (14 ⭐) - Native Rust workspace (macOS, Windows, Linux) for running multiple Claude Code, Codex, OpenCode, and Antigravity CLI sessions with hook-backed waiting alerts, multi-account 5h/weekly usage tracking and failover, git worktrees, and an embedded MCP browser.
 
 ---
 
