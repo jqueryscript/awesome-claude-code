@@ -524,6 +524,7 @@ A curated list of awesome tools, skills, plugins, integrations, extensions, fram
 - [**google-ai-mode-skill**](https://github.com/PleasePrompto/google-ai-mode-skill) - (294 ⭐) - Claude Code skill for free Google AI Mode search with citations.
 - [**claude-code-skills**](https://github.com/whawkinsiv/claude-code-skills) - (265 ⭐) - Complete software development lifecycle skills optimized for non-technical founders building SaaS applications with AI tools (Lovable, Replit, Claude Code).
 - [**skill-diet**](https://github.com/nicobailon/skill-diet) - (260 ⭐) - Skill for reducing instruction bloat, checking tool accuracy, and comparing task results before and after a skill rewrite.
+- [**awesome-seedance-2.5-prompts-skills**](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills) - (254 ⭐) - Seedance 2.5 video prompt library with an installable skill that refines prompts, plans storyboards, and generates video.
 - [**Apple-Hig-Designer**](https://github.com/axiaoge2/Apple-Hig-Designer) - (233 ⭐) - A Claude Code Skill for designing professional interfaces following Apple Human Interface Guidelines.
 - [**claude-code-voice-skill**](https://github.com/abracadabra50/claude-code-voice-skill) - (173 ⭐) - Skill to talk to Claude about your projects over the phone.
 - [**nano-image-generator-skill**](https://github.com/lxfater/nano-image-generator-skill) - (129 ⭐) - A Claude Code skill for generating images using Gemini 3 Pro Preview (Nano Banana Pro).
