@@ -579,6 +579,8 @@ A curated list of awesome tools, skills, plugins, integrations, extensions, fram
 - [**claude-toons**](https://github.com/achimala/claude-toons) - (39 ⭐) - Claude Code plugin that shows animated task-themed cartoons beneath the status spinner.
 
 ---
+- ✨ [**compass**](https://github.com/dshakes/compass): Eval-gated guardrail and red-team plugin for Claude Code — blocks catastrophic commands, secret writes, and prompt injection (precision/recall scored in CI on a published corpus), with a cost-tier model router and SLSA-signed releases.
+
 
 ## 🛠️ Tools & Utilities
 
