@@ -727,6 +727,7 @@ A curated list of awesome tools, skills, plugins, integrations, extensions, fram
 - [**claude-code-test-runner**](https://github.com/firstloophq/claude-code-test-runner) - (24 ⭐) - An automated E2E natural language test runner built on Claude Code.
 - [**cc-monitor-worker**](https://github.com/cometkim/cc-monitor-worker) - (23 ⭐) - Claude Code monitoring with Cloudflare Workers & Workers Analytics Engine.
 - [**shotgun-alpha**](https://github.com/shotgun-sh/shotgun-alpha) - (3 ⭐) - Codebase-aware spec engine for Cursor, Claude Code & Lovable.
+- [**Assaystone**](https://github.com/yellowsand1/assaystone) - (2 ⭐) - Audits recorded Claude Code and Codex traces for silent failures such as a deleted failing test, then turns findings into acceptance contracts for CI and runtime.
 - [**conductor**](https://conductor.build/) - Run a bunch of Claude Codes in parallel.
 
 ---
