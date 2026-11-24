@@ -535,6 +535,7 @@ A curated list of awesome tools, skills, plugins, integrations, extensions, fram
 ---
 
 ## 🔌 Claude Plugins
+- [claude-sounds](https://github.com/culminationAI/claude-sounds) - Your Claude Code shouldn't be silent. Sound effects for all hooks — spells, chimes, clicks. Drop mp3s to customize.
 
 - [**ponytail**](https://github.com/DietrichGebert/ponytail) - (194.6k ⭐) - Makes your AI agent think like the laziest senior dev in the room.
 - [**claude-hud**](https://github.com/jarrodwatts/claude-hud) - (29.3k ⭐) - A Claude Code plugin that shows what's happening - context usage, active tools, running agents, and todo progress.
