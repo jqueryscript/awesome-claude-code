@@ -582,6 +582,7 @@ A curated list of awesome tools, skills, plugins, integrations, extensions, fram
 - [**auto-handoff**](https://github.com/obie/auto-handoff) - (106 ⭐) - Claude Code plugin that saves a handoff document after an idle period so a fresh session can resume the work.
 - [**claude-code-plugin**](https://github.com/browserbase/claude-code-plugin) - (74 ⭐) - Browserbase plugin for Claude Code - Use cloud browsers with Claude Code instead of local Chrome.
 - [**claude-toons**](https://github.com/achimala/claude-toons) - (39 ⭐) - Claude Code plugin that shows animated task-themed cartoons beneath the status spinner.
+- [**claude-company-research**](https://github.com/buketmat/claude-company-research) - (0 ⭐) - Claude Code plugin: type a company name, get a sourced one-page brief in about 20 seconds: key figures, competitors, recent news and red flags, with PDF and Word downloads. Four parallel agents, no API keys.
 
 ---
 
