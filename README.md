@@ -732,6 +732,7 @@ A curated list of awesome tools, skills, plugins, integrations, extensions, fram
 - [**claude-code-test-runner**](https://github.com/firstloophq/claude-code-test-runner) - (24 ⭐) - An automated E2E natural language test runner built on Claude Code.
 - [**cc-monitor-worker**](https://github.com/cometkim/cc-monitor-worker) - (23 ⭐) - Claude Code monitoring with Cloudflare Workers & Workers Analytics Engine.
 - [**shotgun-alpha**](https://github.com/shotgun-sh/shotgun-alpha) - (3 ⭐) - Codebase-aware spec engine for Cursor, Claude Code & Lovable.
+- [**NJ-Whip**](https://github.com/NJ-Burrito/NJ-Whip) - (1 ⭐) - On-screen whip for Claude Code on Windows: a crack plays a sound and effect and types one short steering instruction (faster, harder, careful, happier or focus) into the last window. One small exe, no installer, MIT.
 - [**conductor**](https://conductor.build/) - Run a bunch of Claude Codes in parallel.
 
 ---
