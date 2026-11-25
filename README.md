@@ -115,6 +115,7 @@ A curated list of awesome tools, skills, plugins, integrations, extensions, fram
 - [**Severance**](https://github.com/blas0/Severance) - (49 ⭐) - A semantic memory system designed for Claude Code.
 - [**AgentCheck**](https://github.com/devlyai/AgentCheck) - (48 ⭐) - Local AI-powered code review agents for Claude Code.
 - [**claude-agents**](https://github.com/tddworks/claude-agents) - (20 ⭐) - A collection of specialized AI agents for Claude Code that enhance software development workflows with focused expertise in specific domains.
+- [**Cowork MCP**](https://github.com/slashman413/cowork) - (6 ⭐) - Self-hosted multi-agent task queue and MCP control plane for Claude Code, Codex, Gemini CLI, and local LLMs with plain filesystem state and deterministic rate-limit fallback chains.
 
 ---
 
