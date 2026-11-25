@@ -564,6 +564,7 @@ A curated list of awesome tools, skills, plugins, integrations, extensions, fram
 - [**CloudBase AI Toolkit**](https://github.com/TencentCloudBase/CloudBase-AI-Toolkit) - (1.2k ⭐) - Claude Code plugin, Agent Skills, and MCP server for using Tencent CloudBase databases, authentication, functions, storage, and deployment from coding agents.
 - [**fablize**](https://github.com/fivetaku/fablize) - (891 ⭐) - Claude Code plugin that changes Opus behavior with a Fable-inspired response style.
 - [**claude-forge**](https://github.com/sangrokjung/claude-forge) - (881 ⭐) - Claude Code plugin framework with agents, commands, skills, and security hooks.
+- [**Levea AI Video Editor**](https://github.com/brajendrak00068/agentic-ai-video-production) - Claude Code plugin, 12 modular skills, and 37-tool MCP server for autonomous video editing (280+ animated caption templates, 9:16 active-speaker reframe, silence removal, B-roll, motion graphics, chroma key, and cloud MP4 export).
 - [**cartographer**](https://github.com/kingbootoshi/cartographer) - (855 ⭐) - Claude Code plugin that maps and documents codebases of any size using parallel AI subagents.
 - [**plugins-for-claude-natives**](https://github.com/team-attention/plugins-for-claude-natives) - (832 ⭐) - A collection of Claude Code plugins for power users who want to extend Claude Code's capabilities beyond the defaults.
 - [**design-plugin**](https://github.com/0xdesign/design-plugin) - (785 ⭐) - A Claude Code plugin that helps you make confident UI design decisions through rapid iteration.
