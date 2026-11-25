@@ -879,6 +879,7 @@ A curated list of awesome tools, skills, plugins, integrations, extensions, fram
 - [**pyccsl**](https://github.com/wolfdenpublishing/pyccsl) - (83 ⭐) - Python Claude Code Status Line (PyCCSL, pronounced "pixel").
 - [**Claude-Monitor**](https://github.com/RISCfuture/Claude-Monitor) - (43 ⭐) - A menulet that tracks your Claude Code token usage.
 - [**cccost**](https://github.com/badlogic/cccost) - (26 ⭐) - Instrument Claude Code to track actual token usage and cost.
+- [**comic-desk-local**](https://github.com/Onlyaguest/comic-desk-local) - (1 ⭐) - Local-first desk that indexes Claude Code and Codex sessions into one SQLite index, turns each day's sessions into a check-off list that reopens on new dialogue, and flags agents waiting for input or erroring via optional hooks. Offline sample mode, no AI calls.
 
 ---
 
