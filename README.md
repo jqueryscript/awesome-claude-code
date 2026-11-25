@@ -879,6 +879,7 @@ A curated list of awesome tools, skills, plugins, integrations, extensions, fram
 - [**pyccsl**](https://github.com/wolfdenpublishing/pyccsl) - (83 ⭐) - Python Claude Code Status Line (PyCCSL, pronounced "pixel").
 - [**Claude-Monitor**](https://github.com/RISCfuture/Claude-Monitor) - (43 ⭐) - A menulet that tracks your Claude Code token usage.
 - [**cccost**](https://github.com/badlogic/cccost) - (26 ⭐) - Instrument Claude Code to track actual token usage and cost.
+- [**Agent Dock**](https://github.com/kjw0716/agent-dock) - (2 ⭐) - Always-on-top Windows dock that shows whether each of your 27 coding agents (Claude Code, Codex, OpenCode, Gemini CLI, Cursor, Copilot, and more) is working, waiting, or done, with in-dock question answering for Claude, unread alerts, and a built-in statistics view (tokens, cost, timeline).
 
 ---
 
