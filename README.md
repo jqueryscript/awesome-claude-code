@@ -108,6 +108,7 @@ A curated list of awesome tools, skills, plugins, integrations, extensions, fram
 - [**claude-code-agents**](https://github.com/vizra-ai/claude-code-agents) - (162 ⭐) - Meet 59 specialized AI agents that supercharge your development workflow.
 - [**sub-agents.directory**](https://github.com/ayush-that/sub-agents.directory) - (150 ⭐) - A curated collection of 100+ sub-agent prompts and MCP servers for Claude Code.
 - [**claude-code-merge-queue**](https://github.com/funador/claude-code-merge-queue) - (131 ⭐) - Local merge queue for coordinating parallel Claude Code agents and landing their work in a controlled order.
+- [**Friday**](https://github.com/splashxmoon/friday-code) - (105 ⭐) - Desktop app that runs Claude Code, Codex, Cursor, and 15 more coding agents side by side or as a team that splits a job on a shared task board, reviews each other's work, and hands off when one hits its usage limit.
 - [**multi-agent-squad**](https://github.com/bijutharakan/multi-agent-squad) - (88 ⭐) - Production-ready multi-agent orchestration framework for Claude Code.
 - [**claude-code-heavy**](https://github.com/gtrusler/claude-code-heavy) - (78 ⭐) - Multi-agent research orchestration using Claude Code.
 - [**claude-code-semantic-memory**](https://github.com/gtrusler/claude-code-heavy) - (78 ⭐) - Persistent semantic memory system for Claude Code.
