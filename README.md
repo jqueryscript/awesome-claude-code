@@ -772,6 +772,7 @@ A curated list of awesome tools, skills, plugins, integrations, extensions, fram
 - [**zeron**](https://github.com/zeronsh/zeron) - (3.7k ⭐) - Native desktop control plane for coding agents, with local sessions, a headless Linux mode, and optional multi-device synchronization.
 - [**EchoBird**](https://github.com/edison7009/EchoBird) - (3.6k ⭐) - Desktop app for switching ChatGPT, Codex CLI, and Claude Code accounts, tracking quotas, and routing model requests with automatic failover.
 - [**companion**](https://github.com/The-Vibe-Company/companion) - (2.4k ⭐) - Open-source Claude Code / Codex Web UI.
+- [**Alook**](https://github.com/alookai/alook) - (1.5k ⭐) - Local-first group chat for people and coding agents, including Claude Code, working in shared rooms.
 - [**mindwalk**](https://github.com/cosmtrek/mindwalk) - (1.4k ⭐) - A visualization tool that replays coding-agent sessions on a 3D map of your codebase.
 - [**claude-code-viewer**](https://github.com/d-kimuson/claude-code-viewer) - (1.3k ⭐) - A full-featured web-based Claude Code client that provides complete interactive functionality for managing Claude Code projects.
 - [**Sniffly**](https://github.com/chiphuyen/sniffly) - (1.3k ⭐) - Claude Code dashboard with usage stats, error analysis, and sharable feature.
