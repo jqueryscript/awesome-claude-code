@@ -787,6 +787,7 @@ A curated list of awesome tools, skills, plugins, integrations, extensions, fram
 - [**Claude-Code-Web-GUI**](https://github.com/binggg/Claude-Code-Web-GUI) - (71 ⭐) - Browse, view and share your Claude Code sessions - runs entirely in browser, no server required!
 - [**ccmate-release**](https://github.com/djyde/ccmate-release) - (56 ⭐) - A GUI for Claude Code.
 - [**Claude in a Box**](https://github.com/juancgarza/claude-in-a-box) - (51 ⭐) - A ChatGPT Canvas-style interface for Claude Code running in E2B sandboxes.
+- [**Calyban**](https://github.com/nemesisLLC/calyban-releases) - (1 ⭐) - Free Windows and Linux desktop app that installs skills, MCP servers, subagents and plugins into Claude Code, Codex, Cursor, Copilot and Gemini CLI in one click, with a safety scan before install and undo.
 
 ---
 
