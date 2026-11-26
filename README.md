@@ -499,6 +499,7 @@ A curated list of awesome tools, skills, plugins, integrations, extensions, fram
 - [**claude-code-skills**](https://github.com/levnikolaevich/claude-code-skills) - (598 ⭐) - Plugin suite and bundled MCP servers for delivery workflows, codebase audits, documentation, performance optimization, and remote SSH work.
 - [**solana-dev-skill**](https://github.com/solana-foundation/solana-dev-skill) - (592 ⭐) - Claude Code skill for modern Solana development.
 - [**agent-skills-standard**](https://github.com/HoangNguyen0403/agent-skills-standard) - (585 ⭐) - Agent Skills standards and best-practice packs for programming languages, frameworks, and common development workflows.
+- [**alphasift**](https://github.com/ZhuLinsen/alphasift) - (580 ⭐) - Multi-market quantitative equity screener and purged walk-forward validator with portable `SKILL.md` and zero-dependency read-only STDIO MCP server (14 tools, 4 resources).
 - [**elevenlabs skills**](https://github.com/elevenlabs/skills) - (578 ⭐) - ElevenLabs skill collection for building agents that work with speech, sound effects, music, transcription, and text-to-speech workflows.
 - [**xss-audit**](https://github.com/songjianyang/xss-audit) - (568 ⭐) - Static XSS audit skill for React, TypeScript, and JavaScript projects, with source-to-sink analysis and reports that separate findings from manual-review cases.
 - [**viserys-agent**](https://github.com/rizqinrr/viserys-agent) - (565 ⭐) - Self-contained pack of 28 Markdown workflow skills covering DEFINE, PLAN, BUILD, VERIFY, REVIEW, and SHIP.
