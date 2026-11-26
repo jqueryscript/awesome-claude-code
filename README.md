@@ -647,6 +647,7 @@ A curated list of awesome tools, skills, plugins, integrations, extensions, fram
 - [**claude-canvas**](https://github.com/dvdsgl/claude-canvas) - (1.5k ⭐) - A TUI toolkit that gives Claude Code its own display.
 - [**engram**](https://github.com/nagisanzenin/engram) - (1.5k ⭐) - Learning engine for Claude Code and Codex that records patterns from previous sessions and turns them into reusable guidance.
 - [**pireel**](https://github.com/pireel/pireel) - (1.5k ⭐) - A browser-based, backend-free video editor for talking-head footage, with captions, graphics, themes, timeline editing, export, and MCP control.
+- [**explainroo**](https://github.com/vincentsch/explainroo) - (1.5k ⭐) - Lets Claude Code make narrated explainer videos and product demos, rendered locally with a free voice and no API key.
 - [**ccundo**](https://github.com/RonitSachdev/ccundo) - (1.4k ⭐) - Integrates seamlessly with Claude Code to provide granular undo functionality by reading directly from Claude Code's session files.
 - [**Continuous Claude**](https://github.com/AnandChowdhary/continuous-claude) - (1.4k ⭐) - Run Claude Code in a continuous loop, autonomously creating PRs, waiting for checks, and merging.
 - [**Claude-Command-Suite**](https://github.com/qdhenry/Claude-Command-Suite) - (1.4k ⭐) - Professional slash commands for Claude Code that provide structured workflows for software development tasks, including code review and feature implementation.
