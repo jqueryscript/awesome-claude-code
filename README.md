@@ -533,6 +533,7 @@ A curated list of awesome tools, skills, plugins, integrations, extensions, fram
 - [**Generative-Media-Skills**](https://github.com/SamurAIGPT/Generative-Media-Skills) - (44 ⭐) - Multi-modal Generative Media Skills for AI Agents (Claude Code, Cursor, Gemini CLI).
 - [**claude-skills-supercharged**](https://github.com/jefflester/claude-skills-supercharged) - (43 ⭐) - A "supercharged" implementation of Claude Code Skills – using Haiku prompt analysis/critical skill scoring and skill auto-injection for friction-free, context-driven workflows.
 - [**agentkits-marketing**](https://github.com/aitytech/agentkits-marketing) - (9 ⭐) - Marketing automation skills and agent workflows for Claude Code, Cursor, GitHub Copilot, and compatible AI assistants.
+- [**reelstyles-free**](https://github.com/reelstyles/reelstyles-free) - (4 ⭐) - Film-style kits a coding agent reads, then animates a video in code and renders an MP4 on your computer with HyperFrames.
 - [**BFL Agent Skills**](https://docs.bfl.ai/api_integration/skills_integration) - Reusable capabilities that teach AI agents how to work with FLUX models.
 - [**Manus Skills**](https://manus.im/blog/manus-skills) - Manus' official agent skills.
 - [**Firecrawl Skills**](https://docs.firecrawl.dev/sdks/cli) - An easy way for AI agents such as Claude Code, Antigravity and OpenCode to use Firecrawl through the CLI.
