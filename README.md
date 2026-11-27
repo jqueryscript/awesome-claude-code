@@ -732,6 +732,7 @@ A curated list of awesome tools, skills, plugins, integrations, extensions, fram
 - [**claude-code-test-runner**](https://github.com/firstloophq/claude-code-test-runner) - (24 ⭐) - An automated E2E natural language test runner built on Claude Code.
 - [**cc-monitor-worker**](https://github.com/cometkim/cc-monitor-worker) - (23 ⭐) - Claude Code monitoring with Cloudflare Workers & Workers Analytics Engine.
 - [**shotgun-alpha**](https://github.com/shotgun-sh/shotgun-alpha) - (3 ⭐) - Codebase-aware spec engine for Cursor, Claude Code & Lovable.
+- [**awesome-claude-code-remote**](https://github.com/0xMetalee/awesome-claude-code-remote) - (1 ⭐) - macOS scripts for persistent remote Claude Code sessions using tmux and caffeinate, with IP/ASN checks and crash-loop protection.
 - [**conductor**](https://conductor.build/) - Run a bunch of Claude Codes in parallel.
 
 ---
