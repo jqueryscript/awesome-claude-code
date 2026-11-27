@@ -582,6 +582,7 @@ A curated list of awesome tools, skills, plugins, integrations, extensions, fram
 - [**auto-handoff**](https://github.com/obie/auto-handoff) - (106 ⭐) - Claude Code plugin that saves a handoff document after an idle period so a fresh session can resume the work.
 - [**claude-code-plugin**](https://github.com/browserbase/claude-code-plugin) - (74 ⭐) - Browserbase plugin for Claude Code - Use cloud browsers with Claude Code instead of local Chrome.
 - [**claude-toons**](https://github.com/achimala/claude-toons) - (39 ⭐) - Claude Code plugin that shows animated task-themed cartoons beneath the status spinner.
+- [**passlet**](https://github.com/ParetoSecurity/passlet) - (22 ⭐) - A Claude Code plugin that gets agents short-lived GitHub tokens, scoped to the repositories and permissions they ask for and approved with Touch ID on a Mac.
 
 ---
 
