@@ -582,6 +582,7 @@ A curated list of awesome tools, skills, plugins, integrations, extensions, fram
 - [**auto-handoff**](https://github.com/obie/auto-handoff) - (106 ⭐) - Claude Code plugin that saves a handoff document after an idle period so a fresh session can resume the work.
 - [**claude-code-plugin**](https://github.com/browserbase/claude-code-plugin) - (74 ⭐) - Browserbase plugin for Claude Code - Use cloud browsers with Claude Code instead of local Chrome.
 - [**claude-toons**](https://github.com/achimala/claude-toons) - (39 ⭐) - Claude Code plugin that shows animated task-themed cartoons beneath the status spinner.
+- [**runheed**](https://github.com/getrunheed/runheed-plugin) - Claude Code plugin and hosted MCP server that lets Claude Code read your app's production errors, fix them and mark them resolved. Paid, 7-day trial. [runheed.com](https://runheed.com/)
 
 ---
 
