@@ -582,6 +582,8 @@ A curated list of awesome tools, skills, plugins, integrations, extensions, fram
 - [**auto-handoff**](https://github.com/obie/auto-handoff) - (106 ⭐) - Claude Code plugin that saves a handoff document after an idle period so a fresh session can resume the work.
 - [**claude-code-plugin**](https://github.com/browserbase/claude-code-plugin) - (74 ⭐) - Browserbase plugin for Claude Code - Use cloud browsers with Claude Code instead of local Chrome.
 - [**claude-toons**](https://github.com/achimala/claude-toons) - (39 ⭐) - Claude Code plugin that shows animated task-themed cartoons beneath the status spinner.
+- [**option-desk**](https://github.com/Iman/agent-driven-options-desk-and-skills) - (12 ⭐) - Claude Code plugin with eight skills, six commands and two agents for option research. A local MCP server computes Greeks, dealer positioning, strategy payoffs, simulation and backtests from a supplied option chain.
+- [**risk-desk**](https://github.com/Iman/agent-driven-risk-desk-and-skills) - (6 ⭐) - Claude Code plugin with 14 skills for portfolio risk. A local MCP server computes VaR, Expected Shortfall, backtests, stress tests and counterparty, credit and FRTB figures from supplied data.
 
 ---
 
