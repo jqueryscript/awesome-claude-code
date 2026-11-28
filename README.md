@@ -879,6 +879,7 @@ A curated list of awesome tools, skills, plugins, integrations, extensions, fram
 - [**pyccsl**](https://github.com/wolfdenpublishing/pyccsl) - (83 ⭐) - Python Claude Code Status Line (PyCCSL, pronounced "pixel").
 - [**Claude-Monitor**](https://github.com/RISCfuture/Claude-Monitor) - (43 ⭐) - A menulet that tracks your Claude Code token usage.
 - [**cccost**](https://github.com/badlogic/cccost) - (26 ⭐) - Instrument Claude Code to track actual token usage and cost.
+- [**Lidnight**](https://github.com/whereisdw/lidnight-mac) - (0 ⭐) - macOS menu bar app that monitors Claude Code, Codex and other coding agents: session status, usage limits, stalled-run alerts and approvals from the menu bar or your phone, and keeps a MacBook awake with the lid closed only while an agent is working.
 
 ---
 
