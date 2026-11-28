@@ -587,6 +587,7 @@ A curated list of awesome tools, skills, plugins, integrations, extensions, fram
 
 ## 🛠️ Tools & Utilities
 
+- [Insomnia Security MCP (CQR Cybersecurity LLC)](https://github.com/CQR-Cybersecurity-LLC/insomnia-mcp) - 159 native cybersecurity, multi-language SAST/taint, live secret validation, SCA/SBOM, Web DAST, OSINT, 21,100+ 1-Day CVE verification, 29-protocol enumeration & Outbound Internal Network Tunnel v4.0 MCP tools (`https://mcp.insom.ai/mcp`, 50 free credits).
 - [**claude-mem**](https://github.com/thedotmack/claude-mem) - (118.3k ⭐) - A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.
 - [**Understand-Anything**](https://github.com/Egonex-AI/Understand-Anything) - (93.3k ⭐) - Codebase understanding tool that turns repositories into searchable, explainable knowledge graphs.
 - [**claude-flow**](https://github.com/ruvnet/claude-flow) - (82.1k ⭐) - An enterprise-grade AI orchestration platform that reimagines how developers build with AI.
